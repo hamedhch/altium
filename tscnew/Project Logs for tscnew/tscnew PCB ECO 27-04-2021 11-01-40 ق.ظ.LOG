@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Member From Class: ClassName=tscnew Member=C2
+Removed Member From Class: ClassName=tscnew Member=C3
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Change Component Designator: OldDesignator=P3 NewDesignator=P1
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R4
+Change Component Designator: OldDesignator=R3 NewDesignator=R5
+Added Component: Designator=R1(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U1-7
+Added Pin To Net: NetName=NetR1_2 Pin=Y1-2
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=U1-8
+Added Pin To Net: NetName=NetR3_2 Pin=Y1-1
+Added Net: Name=NetR3_2
+Added Member To Class: ClassName=tscnew Member=Component R4 10K
+Added Member To Class: ClassName=tscnew Member=Component R5 10K

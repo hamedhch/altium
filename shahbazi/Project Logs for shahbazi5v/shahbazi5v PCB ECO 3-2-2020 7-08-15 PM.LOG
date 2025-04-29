@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=o10 Pin=U5-17
+Added Component: Designator=JP3(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=vcc Pin=JP3-1
+Added Pin To Net: NetName=vcc Pin=JP3-2
+Added Pin To Net: NetName=o10 Pin=U5-24
+Added Member To Class: ClassName=shahbazi5v Member=Component JP3 Jumper

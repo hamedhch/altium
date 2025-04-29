@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=nol Pin=JP1-1
+Removed Pin From Net: NetName=of1 Pin=JP1-2
+Removed Pin From Net: NetName=o21 Pin=P4-1
+Removed Pin From Net: NetName=o22 Pin=P4-2
+Removed Pin From Net: NetName=o23 Pin=P4-3
+Removed Pin From Net: NetName=VCC Pin=P4-4
+Change Component Designator: OldDesignator=C7 NewDesignator=C9
+Added Component: Designator=C7(ELEC-CAP-RAD15-30)
+Added Component: Designator=C8(ELEC-CAP-RAD15-30)
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=+12v Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=VCC Pin=C8-2
+Added Pin To Net: NetName=VCC Pin=P4-1
+Added Pin To Net: NetName=o21 Pin=P4-2
+Added Pin To Net: NetName=o22 Pin=P4-3
+Added Pin To Net: NetName=o23 Pin=P4-4
+Added Member To Class: ClassName=tach key h Member=Component C7 =Value
+Added Member To Class: ClassName=tach key h Member=Component C8 =Value
+Added Member To Class: ClassName=tach key h Member=Component C9 =Value

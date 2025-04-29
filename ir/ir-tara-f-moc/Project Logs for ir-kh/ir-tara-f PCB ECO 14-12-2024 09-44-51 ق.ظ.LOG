@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=vcc Pin=J3-1
+Added Component: Designator=R4(RES 2010 (5026X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES 2010 (5026X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=vdd Pin=R4-1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=R5-1
+Added Pin To Net: NetName=vcc Pin=R5-2
+Added Pin To Net: NetName=vcc Pin=R10-2
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=R10-1
+Added Net: Name=NetJ3_1
+Added Member To Class: ClassName=ir-kh Member=Component R3 10K
+Added Member To Class: ClassName=ir-kh Member=Component R4 10K
+Added Member To Class: ClassName=ir-kh Member=Component R5 10K
+Added Member To Class: ClassName=ir-kh Member=Component R10 10K

@@ -1,0 +1,12 @@
+Change Footprint: Footprint Not Found minimelf
+Add Component: Footprint Not Found MP04A_N
+Added Pin To Net: NetName=NetD31_NEG Pin=D30-NEG
+Added Pin To Net: NetName=NetD31_NEG Pin=D39-NEG
+Add Pin To Net: Unknown Pin: Pin LS2-1
+Add Pin To Net: Unknown Pin: Pin LS2-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Change Net Name : Old Net Name=NetD31_NEG New Net Name=NetD30_NEG
+Add Class Member: Failed to add class member : Component U1 LM1117MP-3.3

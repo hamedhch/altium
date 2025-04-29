@@ -1,0 +1,39 @@
+Change Component Designator: OldDesignator=D9 NewDesignator=D8
+Change Component Designator: OldDesignator=D10 NewDesignator=D9
+Change Component Designator: OldDesignator=D11 NewDesignator=D10
+Change Component Designator: OldDesignator=D12 NewDesignator=D11
+Change Component Designator: OldDesignator=D13 NewDesignator=D12
+Change Component Designator: OldDesignator=D14 NewDesignator=D13
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Change Component Designator: OldDesignator=K3 NewDesignator=K2
+Change Component Designator: OldDesignator=K4 NewDesignator=K3
+Change Component Designator: OldDesignator=K5 NewDesignator=K4
+Change Component Designator: OldDesignator=S1 NewDesignator=S2
+Change Component Designator: OldDesignator=S2 NewDesignator=S1
+Added Component: Designator=J2(HEADER 4X1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VDD Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Change Net Name : Old Net Name=NetD9_1 New Net Name=NetD8_1
+Change Net Name : Old Net Name=NetD10_2 New Net Name=NetD9_2
+Change Net Name : Old Net Name=NetD11_1 New Net Name=NetD10_1
+Change Net Name : Old Net Name=NetD12_2 New Net Name=NetD11_2
+Change Net Name : Old Net Name=NetD13_1 New Net Name=NetD12_1
+Change Net Name : Old Net Name=NetD14_1 New Net Name=NetD13_1
+Change Net Name : Old Net Name=NetK3_1 New Net Name=NetK2_1
+Change Net Name : Old Net Name=NetK3_2 New Net Name=NetK2_2
+Change Net Name : Old Net Name=NetK3_3 New Net Name=NetK2_3
+Change Net Name : Old Net Name=NetK4_1 New Net Name=NetK3_1
+Change Net Name : Old Net Name=NetK4_2 New Net Name=NetK3_2
+Change Net Name : Old Net Name=NetK4_3 New Net Name=NetK3_3
+Change Net Name : Old Net Name=NetK5_1 New Net Name=NetK4_1
+Change Net Name : Old Net Name=NetK5_2 New Net Name=NetK4_2
+Change Net Name : Old Net Name=NetK5_3 New Net Name=NetK4_3
+Change Net Name : Old Net Name=NetS2_1 New Net Name=NetS1_1
+Added Pin To Net: NetName=scl Pin=J2-3
+Added Pin To Net: NetName=scl Pin=U3-14
+Added Net: Name=scl
+Added Pin To Net: NetName=sda Pin=J2-4
+Added Pin To Net: NetName=sda Pin=U3-13
+Added Net: Name=sda
+Added Member To Class: ClassName=iotv2 Member=Component J3 Header4X1

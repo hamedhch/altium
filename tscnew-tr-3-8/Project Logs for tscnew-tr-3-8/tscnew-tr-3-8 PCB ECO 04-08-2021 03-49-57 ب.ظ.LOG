@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=o10 Pin=U1-24
+Added Pin To Net: NetName=o11 Pin=U1-25
+Added Pin To Net: NetName=o12 Pin=U1-26
+Added Pin To Net: NetName=adc Pin=U1-27

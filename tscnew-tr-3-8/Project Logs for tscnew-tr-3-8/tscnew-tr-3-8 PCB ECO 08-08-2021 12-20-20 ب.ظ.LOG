@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=o1 Pin=P1-2
+Removed Pin From Net: NetName=o2 Pin=P1-3
+Removed Pin From Net: NetName=o3 Pin=P1-4
+Removed Pin From Net: NetName=o4 Pin=P1-5
+Removed Pin From Net: NetName=o5 Pin=P1-6
+Removed Pin From Net: NetName=o6 Pin=P1-7
+Change Component Designator: OldDesignator=P1 NewDesignator=P3
+Change Component Designator: OldDesignator=P2 NewDesignator=P1
+Change Component Designator: OldDesignator=P3 NewDesignator=P2
+Added Component: Designator=J11(HEADER 4X1)
+Added Pin To Net: NetName=GND Pin=J11-1
+Added Pin To Net: NetName=tro1 Pin=P3-5
+Added Pin To Net: NetName=tro1 Pin=R12-1
+Added Net: Name=tro1
+Added Pin To Net: NetName=tro2 Pin=P3-6
+Added Pin To Net: NetName=tro2 Pin=R8-1
+Added Net: Name=tro2
+Added Pin To Net: NetName=tro3 Pin=P3-7
+Added Pin To Net: NetName=tro3 Pin=R4-1
+Added Net: Name=tro3
+Added Pin To Net: NetName=trs1 Pin=J11-2
+Added Pin To Net: NetName=trs1 Pin=P3-2
+Added Net: Name=trs1
+Added Pin To Net: NetName=trs2 Pin=J11-3
+Added Pin To Net: NetName=trs2 Pin=P3-3
+Added Net: Name=trs2
+Added Pin To Net: NetName=trs3 Pin=J11-4
+Added Pin To Net: NetName=trs3 Pin=P3-4
+Added Net: Name=trs3
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component J11 Header4X1

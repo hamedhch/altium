@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=NetC2_2 Pin=U5-7
+Removed Pin From Net: NetName=NetC2_2 Pin=Y1-2
+Removed Member From Class: ClassName=iotv4 Member=C4
+Change Component Footprint: Designator=C2 Old Footprint=CAPR5-4X5 New Footprint=ELEC-CAP-RAD10-20
+Change Component Comment : Designator=C2 Old Comment=Cap2 New Comment=Value
+Change Component Designator: OldDesignator=C4 NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change component parameters: Designator = "C2"; Footprint = "ELEC-CAP-RAD10-20"; UniqueID = "\JNMOEKQL"
+Change component parameters. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=NetC2_2 Pin=U5-8
+Added Pin To Net: NetName=NetC2_2 Pin=Y1-1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=U5-7
+Added Pin To Net: NetName=NetC1_2 Pin=Y1-2
+Added Net: Name=NetC1_2

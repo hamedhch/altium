@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetQ?_2 Pin=R?-2
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-1
+Added Net: Name=NetQ?_2
+Added Member To Class: ClassName=park-contor-12i Member=Component R? 10K

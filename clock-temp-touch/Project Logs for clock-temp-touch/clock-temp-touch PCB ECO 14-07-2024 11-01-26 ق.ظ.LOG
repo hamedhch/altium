@@ -1,0 +1,53 @@
+Change Footprint: Cannot match pads with new footprint in component :D4 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D5 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D6 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D7 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D8 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D9 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D10 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D11 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D12 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D13 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D14 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D15 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D16 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D17 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D18 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D19 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D20 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D21 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D22 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D23 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D24 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D27 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D28 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D29 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D30 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D31 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D32 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D33 Footprint:LEDC3216X120N
+Added Component: Designator=R3(RES 2010 (5026X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES 2010 (5026X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=vdd Pin=R3-1
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R4-1
+Added Pin To Net: NetName=vcc Pin=R4-2
+Added Member To Class: ClassName=clock-temp-touch Member=Component D15 LED2
+Added Member To Class: ClassName=clock-temp-touch Member=Component D23 LED2
+Added Member To Class: ClassName=clock-temp-touch Member=Component D24 LED2
+Added Member To Class: ClassName=clock-temp-touch Member=Component D32 LED2
+Added Member To Class: ClassName=clock-temp-touch Member=Component D33 LED2
+Added Member To Class: ClassName=clock-temp-touch Member=Component D34 LED2
+Added Member To Class: ClassName=clock-temp-touch Member=Component J3 Header3X1
+Added Member To Class: ClassName=clock-temp-touch Member=Component R3 10K
+Added Member To Class: ClassName=clock-temp-touch Member=Component R4 10K
+Added Member To Class: ClassName=clock-temp-touch Member=Component R5 10K
+Added Member To Class: ClassName=clock-temp-touch Member=Component R7 10K
+Added Member To Class: ClassName=clock-temp-touch Member=Component U1 ATtiny15L-1SC
+Added Member To Class: ClassName=clock-temp-touch Member=Component U2 K3021P

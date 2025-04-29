@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=Q1 Old Footprint=SOT-23B_N New Footprint=SOT-23B_L
+Added Member To Class: ClassName=park-contor-12i Member=Component J4 ACS712
+Added Member To Class: ClassName=park-contor-12i Member=Component J15 ACS712
+Added Member To Class: ClassName=park-contor-12i Member=Component J16 ACS712
+Added Member To Class: ClassName=park-contor-12i Member=Component P2 Header 4
+Added Member To Class: ClassName=park-contor-12i Member=Component P4 Header 9
+Added Member To Class: ClassName=park-contor-12i Member=Component R2 10K
+Added Member To Class: ClassName=park-contor-12i Member=Component R3 10K
+Added Member To Class: ClassName=park-contor-12i Member=Component U5 CD4051BCM

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetMOC1_6 Pin=R3-1
+Removed Pin From Net: NetName=NetQ1_1 Pin=R3-2
+Removed Member From Class: ClassName=smart home Member=R3
+Change Component Comment : Designator=C1 Old Comment=Value New Comment==Value
+Change Class Name : Old Net Name=smart home New Net Name=smart home2
+Change Room Name: Old Name=smart home New Name=smart home2
+Change Room Scope: Old Scope=InComponentClass('smart home') New Scope=InComponentClass('smart home2')

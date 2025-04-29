@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=rxsim Pin=J7-4
+Removed Pin From Net: NetName=txsim Pin=J7-5
+Added Pin To Net: NetName=rx Pin=J7-4
+Added Pin To Net: NetName=rx2 Pin=J7-5

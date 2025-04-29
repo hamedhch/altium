@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=i9 Pin=U9-4
+Removed Pin From Net: NetName=i10 Pin=U9-5
+Change Component Designator: OldDesignator=C2 NewDesignator=C1
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=J5 NewDesignator=J2
+Change Component Designator: OldDesignator=J8 NewDesignator=J3
+Change Component Designator: OldDesignator=JP2 NewDesignator=JP1
+Change Component Designator: OldDesignator=JP4 NewDesignator=JP2
+Change Component Designator: OldDesignator=JP5 NewDesignator=JP3
+Change Component Designator: OldDesignator=JP6 NewDesignator=JP4
+Change Component Designator: OldDesignator=JP7 NewDesignator=JP5
+Change Component Designator: OldDesignator=JP9 NewDesignator=JP6
+Change Component Designator: OldDesignator=JP12 NewDesignator=JP7
+Change Component Designator: OldDesignator=U6 NewDesignator=U5
+Change Component Designator: OldDesignator=U7 NewDesignator=U6
+Change Component Designator: OldDesignator=U8 NewDesignator=U7
+Change Component Designator: OldDesignator=U9 NewDesignator=U8
+Change Component Designator: OldDesignator=U11 NewDesignator=U9
+Change Component Designator: OldDesignator=U12 NewDesignator=U10
+Change Component Designator: OldDesignator=U13 NewDesignator=U11
+Change Component Designator: OldDesignator=U14 NewDesignator=U12
+Added Component: Designator=T15(phoenix terminal R 2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=i9 Pin=U8-6
+Added Pin To Net: NetName=i10 Pin=U8-7
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC1_2
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetC2_2
+Added Pin To Net: NetName=i11 Pin=T15-2
+Added Pin To Net: NetName=i11 Pin=U8-5
+Added Net: Name=i11
+Added Pin To Net: NetName=i12 Pin=T15-1
+Added Pin To Net: NetName=i12 Pin=U8-4
+Added Net: Name=i12
+Added Member To Class: ClassName=shahbazi Member=Component T15 Terminal

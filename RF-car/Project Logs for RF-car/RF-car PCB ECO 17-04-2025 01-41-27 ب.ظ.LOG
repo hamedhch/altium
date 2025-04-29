@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=GND Pin=S1-4
+Removed Member From Class: ClassName=usb-cuter Member=S1
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Added Component: Designator=C1(CAP 1206)
+Add Component: Footprint Not Found HDR_F_1X4
+Add Component: Footprint Not Found HDR_F_1X3
+Added Component: Designator=U1(8S2_N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.atmel.com/dyn/resources/prod_documents/doc1187.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Atmel.com Home"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.atmel.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1187E-AVR-06/02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "16-Oct-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Lead, 0.208" Body, Plastic Small Outline Package (EIAJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "8S2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revF, Apr-2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Sep-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ATTINY15L-1SC-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "556-ATTINY15L1SC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=vcc Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Add Pin To Net: Unknown Pin: Pin RF_IN1-1
+Add Pin To Net: Unknown Pin: Pin RF_IN1-4
+Add Pin To Net: Unknown Pin: Pin RF_OUT1-1
+Add Pin To Net: Unknown Pin: Pin RF_OUT1-3
+Added Pin To Net: NetName=GND Pin=U1-7
+Added Pin To Net: NetName=vcc Pin=U1-8
+Added Net: Name=DATA_IN
+Added Net: Name=DATA_OUT
+Added Pin To Net: NetName=data Pin=U2-4
+Added Net: Name=data
+Added Pin To Net: NetName=o1 Pin=U1-4
+Added Net: Name=o1
+Added Pin To Net: NetName=o2 Pin=U1-5
+Added Net: Name=o2
+Added Pin To Net: NetName=o3 Pin=U1-6
+Added Net: Name=o3
+Change Class Name : Old Net Name=usb-cuter New Net Name=RF-car
+Added Member To Class: ClassName=RF-car Member=Component C3 =Value
+Add Class Member: Failed to add class member : Component RF_IN1 Female Header Single 4
+Add Class Member: Failed to add class member : Component RF_OUT1 Female Header Single 3
+Added Member To Class: ClassName=RF-car Member=Component U3 LM1117MP-3.3

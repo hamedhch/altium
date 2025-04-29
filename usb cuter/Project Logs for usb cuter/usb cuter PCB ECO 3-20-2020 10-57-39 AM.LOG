@@ -1,0 +1,37 @@
+Removed Member From Class: ClassName=shahbazi5v Member=E1
+Added Component: Designator=J1(353576)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.tycoelectronics.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Packaging Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://ecommas.tycoelectronics.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F353576%7FD%7Ftif%7FJapanese%7FJPN_CD_353576_D.tif"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ContactMaterial"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ContactPlating"; Value = "Gold over Palladium Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "11-Apr-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DrillSize"; Value = "Corresponds to nominal value."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HousingMaterial"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "11-Apr-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "353576"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PanelGround"; Value = "Without"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Layout"; Value = "Complies with manufacturer's recommendation."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "15-Jul-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J2(353576)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.tycoelectronics.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Packaging Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://ecommas.tycoelectronics.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F353576%7FD%7Ftif%7FJapanese%7FJPN_CD_353576_D.tif"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ContactMaterial"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ContactPlating"; Value = "Gold over Palladium Nickel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetDocument"; Value = "11-Apr-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DrillSize"; Value = "Corresponds to nominal value."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HousingMaterial"; Value = "Thermoplastic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDocument"; Value = "11-Apr-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "353576"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PanelGround"; Value = "Without"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Layout"; Value = "Complies with manufacturer's recommendation."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "15-Jul-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=shahbazi5v Member=Component J1 1-353576-1
+Added Member To Class: ClassName=shahbazi5v Member=Component J2 1-353576-1

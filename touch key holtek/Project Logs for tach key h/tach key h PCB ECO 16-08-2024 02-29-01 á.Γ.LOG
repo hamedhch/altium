@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=o23 Pin=P3-4
+Removed Pin From Net: NetName=VCC Pin=P3-6
+Removed Pin From Net: NetName=GND Pin=R9-2
+Removed Member From Class: ClassName=tach key h Member=R15
+Change Component Footprint: Designator=P3 Old Footprint=MHDR2X3 New Footprint=HDR1X5
+Change Component Comment : Designator=P3 Old Comment=Header 3X2 New Comment=Header 5
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=R13 NewDesignator=R12
+Change Component Designator: OldDesignator=R14 NewDesignator=R13
+Change Component Designator: OldDesignator=R15 NewDesignator=R14
+Added Pin To Net: NetName=o23 Pin=P3-3
+Added Pin To Net: NetName=GND Pin=P3-4
+Added Pin To Net: NetName=VCC Pin=P3-5

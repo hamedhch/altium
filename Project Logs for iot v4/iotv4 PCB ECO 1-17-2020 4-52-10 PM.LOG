@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=T9 Old Footprint=phoenix terminal R 3 New Footprint=phoenix terminal 4
+Change Component Comment : Designator=T9 Old Comment=Terminal New Comment=Phoenix terminal
+Change Component Designator: OldDesignator=JP2 NewDesignator=JP1
+Change Component Designator: OldDesignator=JP3 NewDesignator=JP2
+Change Component Designator: OldDesignator=JP4 NewDesignator=JP3
+Change Component Designator: OldDesignator=JP5 NewDesignator=JP4
+Change Component Designator: OldDesignator=JP6 NewDesignator=JP5
+Added Pin To Net: NetName=i6 Pin=T9-4
+Added Pin To Net: NetName=i6 Pin=U5-23

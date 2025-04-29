@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Added Component: Designator=R5(Res-(1/4))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-4
+Added Net: Name=NetR5_1
+Added Member To Class: ClassName=tach key Member=Component R7 10K

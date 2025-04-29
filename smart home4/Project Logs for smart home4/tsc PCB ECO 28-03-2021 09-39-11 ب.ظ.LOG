@@ -1,0 +1,10 @@
+Added Component: Designator=PS1(HLKPM01)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Hi-link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "hlk-pm01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/hlk-pm01/Hi-link/view-part/2875605/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=tsc Member=Component K1 HJR-4102-L-05V
+Added Member To Class: ClassName=tsc Member=Component PS1 HLK-PM01

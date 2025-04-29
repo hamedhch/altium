@@ -1,0 +1,6 @@
+Change Component DesignItemId : Designator=P4 Old DesignItemId=Header 9 New DesignItemId=Header 10
+Change Component Footprint: Designator=P4 Old Footprint=HDR1X9 New Footprint=HDR1X10
+Change Component Comment : Designator=P4 Old Comment=Header 9 New Comment=Header 10
+Change Component Description : Designator=P4 Old Description=Header, 9-Pin New Description=Header, 10-Pin
+Added Pin To Net: NetName=GND Pin=P4-10
+Added Member To Class: ClassName=park-contor-12i Member=Component R? 10K

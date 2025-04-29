@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=vesp Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Change Component Footprint: Designator=J1 Old Footprint=KF300-4 PIN New Footprint=KF300-3 PIN
+Change Component Comment : Designator=J1 Old Comment=TBlock-4 New Comment=TBlock-3
+Change Component Designator: OldDesignator=J1 NewDesignator=J4
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Change Component Designator: OldDesignator=J3 NewDesignator=J4
+Added Component: Designator=C1(ELEC-CAP-RAD10-20)
+Added Component: Designator=J2(KF300-4 PIN)
+Added Pin To Net: NetName=vesp Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=s2 Pin=J2-2
+Added Pin To Net: NetName=s1 Pin=J2-3
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=s2 Pin=J4-1
+Added Member To Class: ClassName=tsc2r Member=Component J2 TBlock-4
+Added Member To Class: ClassName=tsc2r Member=Component J4 TBlock-3
+Added Member To Class: ClassName=tsc2r Member=Component J4 TBlock-3

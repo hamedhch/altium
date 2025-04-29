@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=A Pin=D2-2
+Removed Pin From Net: NetName=B Pin=D4-2
+Removed Pin From Net: NetName=C Pin=D6-2
+Removed Pin From Net: NetName=D Pin=D8-2
+Removed Pin From Net: NetName=E Pin=D10-2
+Removed Pin From Net: NetName=F Pin=D12-2
+Removed Pin From Net: NetName=G Pin=D14-2
+Removed Pin From Net: NetName=1 Pin=D18-2
+Removed Pin From Net: NetName=- Pin=D20-2
+Removed Pin From Net: NetName=VCC Pin=R1-2
+Removed Pin From Net: NetName=VCC Pin=R2-2
+Removed Pin From Net: NetName=VCC Pin=R3-2
+Removed Pin From Net: NetName=VCC Pin=R4-2
+Removed Pin From Net: NetName=VCC Pin=R5-2
+Removed Pin From Net: NetName=VCC Pin=R6-2
+Removed Pin From Net: NetName=VCC Pin=R7-2
+Removed Pin From Net: NetName=VCC Pin=R8-2
+Removed Pin From Net: NetName=VCC Pin=R9-2
+Added Pin To Net: NetName=VCC Pin=D1-1
+Added Pin To Net: NetName=VCC Pin=D3-1
+Added Pin To Net: NetName=VCC Pin=D5-1
+Added Pin To Net: NetName=VCC Pin=D7-1
+Added Pin To Net: NetName=VCC Pin=D9-1
+Added Pin To Net: NetName=VCC Pin=D11-1
+Added Pin To Net: NetName=VCC Pin=D13-1
+Added Pin To Net: NetName=VCC Pin=D15-1
+Added Pin To Net: NetName=VCC Pin=D19-1
+Added Pin To Net: NetName=A Pin=R1-1
+Added Pin To Net: NetName=B Pin=R2-1
+Added Pin To Net: NetName=C Pin=R3-1
+Added Pin To Net: NetName=D Pin=R4-1
+Added Pin To Net: NetName=E Pin=R5-1
+Added Pin To Net: NetName=F Pin=R6-1
+Added Pin To Net: NetName=G Pin=R7-1
+Added Pin To Net: NetName=1 Pin=R8-1
+Added Pin To Net: NetName=- Pin=R9-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R1-2
+Added Net: Name=NetD2_2
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=R2-2
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=R3-2
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=R4-2
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=R5-2
+Added Net: Name=NetD10_2
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
+Added Pin To Net: NetName=NetD12_2 Pin=R6-2
+Added Net: Name=NetD12_2
+Added Pin To Net: NetName=NetD14_2 Pin=D14-2
+Added Pin To Net: NetName=NetD14_2 Pin=R7-2
+Added Net: Name=NetD14_2
+Added Pin To Net: NetName=NetD18_2 Pin=D18-2
+Added Pin To Net: NetName=NetD18_2 Pin=R8-2
+Added Net: Name=NetD18_2
+Added Pin To Net: NetName=NetD20_2 Pin=D20-2
+Added Pin To Net: NetName=NetD20_2 Pin=R9-2
+Added Net: Name=NetD20_2

@@ -1,0 +1,4 @@
+Added Component: Designator=JP7(Header 2X1)
+Added Pin To Net: NetName=GND Pin=JP7-1
+Added Pin To Net: NetName=GND Pin=JP7-2
+Added Member To Class: ClassName=tach key1-3 Member=Component JP7 Jumper

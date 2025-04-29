@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=rst Pin=J5-4
+Added Member To Class: ClassName=park-contor Member=Component J5 Header4X1
+Added Member To Class: ClassName=park-contor Member=Component J7 Header2X1
+Added Member To Class: ClassName=park-contor Member=Component J8 Header2X1

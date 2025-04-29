@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=vdd Pin=JP7-1
+Removed Pin From Net: NetName=vdd Pin=JP7-2
+Removed Member From Class: ClassName=shahbazi5v Member=JP7

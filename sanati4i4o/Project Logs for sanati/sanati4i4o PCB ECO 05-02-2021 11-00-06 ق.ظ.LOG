@@ -1,0 +1,16 @@
+Added Component: Designator=R7(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ4_1 Pin=R7-2
+Added Member To Class: ClassName=sanati4i4o Member=Component C1 =Value
+Added Member To Class: ClassName=sanati4i4o Member=Component C2 =Value
+Added Member To Class: ClassName=sanati4i4o Member=Component J1 Header4X1
+Added Member To Class: ClassName=sanati4i4o Member=Component J2 PWR2.5
+Added Member To Class: ClassName=sanati4i4o Member=Component R1 10K
+Added Member To Class: ClassName=sanati4i4o Member=Component R3 10K
+Added Member To Class: ClassName=sanati4i4o Member=Component R4 Res2
+Added Member To Class: ClassName=sanati4i4o Member=Component R6 Res2
+Added Member To Class: ClassName=sanati4i4o Member=Component R7 10K
+Added Member To Class: ClassName=sanati4i4o Member=Component R8 Res2
+Added Member To Class: ClassName=sanati4i4o Member=Component T5 Phoenix terminal

@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=data Pin=U1-6
+Added Member To Class: ClassName=RF-car Member=Component C2 =Value
+Added Member To Class: ClassName=RF-car Member=Component C3 =Value
+Added Member To Class: ClassName=RF-car Member=Component J1 Header2X1
+Added Member To Class: ClassName=RF-car Member=Component J3 Header3X1
+Added Member To Class: ClassName=RF-car Member=Component Q1 QNPN
+Added Member To Class: ClassName=RF-car Member=Component R1 10K

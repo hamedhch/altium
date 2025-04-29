@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=vDD Pin=R13-2
+Removed Pin From Net: NetName=vDD Pin=U8-3
+Removed Pin From Net: NetName=vDD Pin=U8-8
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=U5 NewDesignator=U6
+Change Component Designator: OldDesignator=U6 NewDesignator=U7
+Change Component Designator: OldDesignator=U7 NewDesignator=U8
+Change Component Designator: OldDesignator=U8 NewDesignator=U9
+Change Component Designator: OldDesignator=U9 NewDesignator=U10
+Change Component Designator: OldDesignator=U10 NewDesignator=U11
+Change Component Designator: OldDesignator=U11 NewDesignator=U12
+Change Component Designator: OldDesignator=U12 NewDesignator=U13
+Added Component: Designator=C1(ELEC-CAP-RAD10-20)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U5(MP04A_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOT223-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "TO-261-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LM1117 Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.national.com/ds/LM/LM1117.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "LM1117 Web Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.national.com/pf/LM/LM1117.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "MP04A Package Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.national.com/packaging/folders/mp04a.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "LDO IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Apr-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKeyPartNumber"; Value = "LM1117MP-3.3CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "National Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Molded SOT-223, 6.50 x 3.56 x 1.6mm Body, 4 Lead, 2.3mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "MP04A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageTopMarking"; Value = "XYTT*N05A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revB, Apr-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LM1117MP-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerWise"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "4-Dec-2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "O"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=U5-1
+Added Pin To Net: NetName=vDD Pin=U5-3
+Change Net Name : Old Net Name=NetC1_2 New Net Name=NetC2_2
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC3_2
+Added Pin To Net: NetName=vesp Pin=C1-1
+Added Pin To Net: NetName=vesp Pin=R13-2
+Added Pin To Net: NetName=vesp Pin=U5-2
+Added Pin To Net: NetName=vesp Pin=U5-4
+Added Pin To Net: NetName=vesp Pin=U9-3
+Added Pin To Net: NetName=vesp Pin=U9-8
+Added Net: Name=vesp
+Added Member To Class: ClassName=shahbazi Member=Component C3 Value
+Added Member To Class: ClassName=shahbazi Member=Component JP3 Jumper
+Added Member To Class: ClassName=shahbazi Member=Component JP5 Jumper
+Added Member To Class: ClassName=shahbazi Member=Component U13 L4931CV30

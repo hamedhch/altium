@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=faz Pin=T1-1
+Added Pin To Net: NetName=faz Pin=T1-2
+Added Member To Class: ClassName=smart home2 Member=Component T3 Phoenix terminal

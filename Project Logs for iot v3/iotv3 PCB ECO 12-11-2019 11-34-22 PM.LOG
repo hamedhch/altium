@@ -1,0 +1,127 @@
+Removed Pin From Net: NetName=O3 Pin=D5-2
+Removed Pin From Net: NetName=O1 Pin=D12-2
+Removed Pin From Net: NetName=O2 Pin=D18-2
+Removed Pin From Net: NetName=VDD Pin=U9-1
+Change Component Footprint: Designator=U9 Old Footprint=DIP4 New Footprint=ESP_12_E
+Change Component Comment : Designator=U9 Old Comment=PC817 New Comment=ESP_12_E
+Change Component Designator: OldDesignator=D1 NewDesignator=D7
+Change Component Designator: OldDesignator=D2 NewDesignator=D8
+Change Component Designator: OldDesignator=D5 NewDesignator=D11
+Change Component Designator: OldDesignator=D7 NewDesignator=D20
+Change Component Designator: OldDesignator=D8 NewDesignator=D22
+Change Component Designator: OldDesignator=D11 NewDesignator=D12
+Change Component Designator: OldDesignator=D12 NewDesignator=D25
+Change Component Designator: OldDesignator=D20 NewDesignator=D1
+Change Component Designator: OldDesignator=D22 NewDesignator=D2
+Change Component Designator: OldDesignator=D24 NewDesignator=D5
+Change Component Designator: OldDesignator=D25 NewDesignator=D24
+Change Component Designator: OldDesignator=K1 NewDesignator=K3
+Change Component Designator: OldDesignator=K3 NewDesignator=K7
+Change Component Designator: OldDesignator=K7 NewDesignator=K1
+Change Component Designator: OldDesignator=P1 NewDesignator=P4
+Change Component Designator: OldDesignator=P2 NewDesignator=P5
+Change Component Designator: OldDesignator=R1 NewDesignator=R7
+Change Component Designator: OldDesignator=R3 NewDesignator=R9
+Change Component Designator: OldDesignator=R5 NewDesignator=R11
+Change Component Designator: OldDesignator=R7 NewDesignator=R19
+Change Component Designator: OldDesignator=R9 NewDesignator=R21
+Change Component Designator: OldDesignator=R11 NewDesignator=R23
+Change Component Designator: OldDesignator=R19 NewDesignator=R1
+Change Component Designator: OldDesignator=R21 NewDesignator=R3
+Change Component Designator: OldDesignator=R23 NewDesignator=R5
+Change Component Designator: OldDesignator=T1 NewDesignator=T3
+Change Component Designator: OldDesignator=T3 NewDesignator=T7
+Change Component Designator: OldDesignator=T7 NewDesignator=T1
+Change Component Designator: OldDesignator=U1 NewDesignator=U5
+Change Component Designator: OldDesignator=U2 NewDesignator=U6
+Change Component Designator: OldDesignator=U5 NewDesignator=U14
+Change Component Designator: OldDesignator=U6 NewDesignator=U15
+Change Component Designator: OldDesignator=U14 NewDesignator=U1
+Change Component Designator: OldDesignator=U15 NewDesignator=U16
+Change Component Designator: OldDesignator=U16 NewDesignator=U2
+Added Component: Designator=P1(HDR1X5)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3(HDR1X8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=O1 Pin=D5-2
+Added Pin To Net: NetName=O2 Pin=D11-2
+Added Pin To Net: NetName=O3 Pin=D18-2
+Added Pin To Net: NetName=O1 Pin=P2-1
+Added Pin To Net: NetName=O2 Pin=P2-2
+Added Pin To Net: NetName=O3 Pin=P2-3
+Added Pin To Net: NetName=rst Pin=U9-1
+Added Pin To Net: NetName=ADC Pin=U9-2
+Added Pin To Net: NetName=VDD Pin=U9-3
+Added Pin To Net: NetName=VDD Pin=U9-8
+Added Pin To Net: NetName=GND Pin=U9-15
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetD7_1
+Change Net Name : Old Net Name=NetD2_2 New Net Name=NetD8_2
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetD11_1
+Change Net Name : Old Net Name=NetD7_1 New Net Name=NetD20_1
+Change Net Name : Old Net Name=NetD8_2 New Net Name=NetD22_2
+Change Net Name : Old Net Name=NetD11_1 New Net Name=NetD12_1
+Change Net Name : Old Net Name=NetD12_1 New Net Name=NetD25_1
+Change Net Name : Old Net Name=NetD20_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetD22_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetD24_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetD25_1 New Net Name=NetD24_1
+Change Net Name : Old Net Name=NetK1_1 New Net Name=NetK3_1
+Change Net Name : Old Net Name=NetK1_2 New Net Name=NetK3_2
+Change Net Name : Old Net Name=NetK1_3 New Net Name=NetK3_3
+Change Net Name : Old Net Name=NetK3_1 New Net Name=NetK7_1
+Change Net Name : Old Net Name=NetK3_2 New Net Name=NetK7_2
+Change Net Name : Old Net Name=NetK3_3 New Net Name=NetK7_3
+Change Net Name : Old Net Name=NetK7_1 New Net Name=NetK1_1
+Change Net Name : Old Net Name=NetK7_2 New Net Name=NetK1_2
+Change Net Name : Old Net Name=NetK7_3 New Net Name=NetK1_3
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR9_1
+Change Net Name : Old Net Name=NetR3_2 New Net Name=NetR9_2
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR21_1
+Change Net Name : Old Net Name=NetR9_2 New Net Name=NetR21_2
+Change Net Name : Old Net Name=NetR21_1 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetR21_2 New Net Name=NetR3_2
+Added Pin To Net: NetName=i1 Pin=P3-1
+Added Net: Name=i1
+Added Pin To Net: NetName=i2 Pin=P3-2
+Added Net: Name=i2
+Added Pin To Net: NetName=i3 Pin=P3-3
+Added Net: Name=i3
+Added Pin To Net: NetName=i4 Pin=P3-4
+Added Net: Name=i4
+Added Pin To Net: NetName=i5 Pin=P3-5
+Added Net: Name=i5
+Added Pin To Net: NetName=i6 Pin=P3-6
+Added Net: Name=i6
+Added Pin To Net: NetName=i7 Pin=P3-7
+Added Net: Name=i7
+Added Pin To Net: NetName=i8 Pin=P3-8
+Added Net: Name=i8
+Added Pin To Net: NetName=o4 Pin=D25-2
+Added Pin To Net: NetName=o4 Pin=P2-4
+Added Net: Name=o4
+Added Pin To Net: NetName=o5 Pin=D6-2
+Added Pin To Net: NetName=o5 Pin=P2-5
+Added Net: Name=o5
+Added Pin To Net: NetName=o6 Pin=D12-2
+Added Pin To Net: NetName=o6 Pin=P2-6
+Added Net: Name=o6
+Added Pin To Net: NetName=o7 Pin=D19-2
+Added Pin To Net: NetName=o7 Pin=P2-7
+Added Net: Name=o7
+Added Pin To Net: NetName=o8 Pin=D24-2
+Added Pin To Net: NetName=o8 Pin=P2-8
+Added Net: Name=o8
+Added Member To Class: ClassName=iotv3 Member=Component P3 Header 8
+Added Member To Class: ClassName=iotv3 Member=Component P4 Header 2
+Added Member To Class: ClassName=iotv3 Member=Component P5 Header 3

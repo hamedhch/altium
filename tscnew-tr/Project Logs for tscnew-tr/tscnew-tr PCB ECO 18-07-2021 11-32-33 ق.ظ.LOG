@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=tscnew-tr Member=E4
+Added Pin To Net: NetName=nol Pin=J2-1
+Added Pin To Net: NetName=faz Pin=J2-2
+Added Pin To Net: NetName=faz Pin=U3-1
+Added Pin To Net: NetName=nol Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=vesp Pin=U3-4
+Added Member To Class: ClassName=tscnew-tr Member=Component U3 PC817
+Added Member To Class: ClassName=tscnew-tr Member=Component U4 K3021P
+Added Member To Class: ClassName=tscnew-tr Member=Component U5 K3021P

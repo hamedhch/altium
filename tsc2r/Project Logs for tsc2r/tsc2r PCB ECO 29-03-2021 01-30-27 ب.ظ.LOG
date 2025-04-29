@@ -1,0 +1,5 @@
+Added Component: Designator=J1(KF300-3 PIN)
+Added Pin To Net: NetName=s2 Pin=J1-1
+Added Pin To Net: NetName=s1 Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Member To Class: ClassName=tsc2r Member=Component J1 TBlock-3

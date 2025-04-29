@@ -1,0 +1,174 @@
+Removed Pin From Net: NetName=NetD7_1 Pin=-2
+Change Component Designator: OldDesignator= NewDesignator=D1
+Change Component Designator: OldDesignator= NewDesignator=D2
+Change Component Designator: OldDesignator= NewDesignator=D3
+Change Component Designator: OldDesignator= NewDesignator=D4
+Change Component Designator: OldDesignator= NewDesignator=D7
+Change Component Designator: OldDesignator= NewDesignator=D9
+Change Component Designator: OldDesignator= NewDesignator=D10
+Change Component Designator: OldDesignator= NewDesignator=D11
+Change Component Designator: OldDesignator= NewDesignator=D14
+Change Component Designator: OldDesignator= NewDesignator=D15
+Change Component Designator: OldDesignator= NewDesignator=D17
+Change Component Designator: OldDesignator= NewDesignator=D18
+Change Component Designator: OldDesignator= NewDesignator=D21
+Change Component Designator: OldDesignator= NewDesignator=D22
+Change Component Designator: OldDesignator= NewDesignator=D25
+Change Component Designator: OldDesignator= NewDesignator=D26
+Change Component Designator: OldDesignator= NewDesignator=D31
+Change Component Designator: OldDesignator= NewDesignator=D33
+Change Component Designator: OldDesignator= NewDesignator=D34
+Change Component Designator: OldDesignator= NewDesignator=D35
+Change Component Designator: OldDesignator= NewDesignator=D38
+Change Component Designator: OldDesignator= NewDesignator=D40
+Change Component Designator: OldDesignator= NewDesignator=D41
+Change Component Designator: OldDesignator= NewDesignator=P1
+Change Component Designator: OldDesignator= NewDesignator=R1
+Change Component Designator: OldDesignator= NewDesignator=R3
+Change Component Designator: OldDesignator= NewDesignator=R5
+Change Component Designator: OldDesignator= NewDesignator=R7
+Change Component Designator: OldDesignator= NewDesignator=R9
+Change Component Designator: OldDesignator= NewDesignator=R12
+Change Component Designator: OldDesignator= NewDesignator=S1
+Change Component Designator: OldDesignator=D11 NewDesignator=D12
+Change Component Designator: OldDesignator=D12 NewDesignator=D13
+Change Component Designator: OldDesignator=D17 NewDesignator=D19
+Change Component Designator: OldDesignator=D18 NewDesignator=D20
+Change Component Designator: OldDesignator=D23 NewDesignator=D27
+Change Component Designator: OldDesignator=D24 NewDesignator=D28
+Change Component Designator: OldDesignator=D25 NewDesignator=D29
+Change Component Designator: OldDesignator=D26 NewDesignator=D30
+Change Component Designator: OldDesignator=D31 NewDesignator=D36
+Change Component Designator: OldDesignator=D32 NewDesignator=D37
+Change Component Designator: OldDesignator=D36 NewDesignator=D42
+Change Component Designator: OldDesignator=D37 NewDesignator=D43
+Change Component Designator: OldDesignator=D38 NewDesignator=D44
+Change Component Designator: OldDesignator=D39 NewDesignator=D45
+Change Component Designator: OldDesignator=D40 NewDesignator=D46
+Change Component Designator: OldDesignator=D41 NewDesignator=D47
+Change Component Designator: OldDesignator=D42 NewDesignator=D48
+Change Component Designator: OldDesignator=D43 NewDesignator=D49
+Added Component: Designator=D8(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D16(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D23(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D24(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D32(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D39(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD7_1 Pin=D8-2
+Change Net Name : Old Net Name=NetD8_1 New Net Name=NetD9_1
+Change Net Name : Old Net Name=NetD11_2 New Net Name=NetD12_2
+Change Net Name : Old Net Name=NetD12_2 New Net Name=NetD13_2
+Change Net Name : Old Net Name=NetD13_1 New Net Name=NetD14_1
+Change Net Name : Old Net Name=NetD14_2 New Net Name=NetD15_2
+Change Net Name : Old Net Name=NetD15_1 New Net Name=NetD17_1
+Change Net Name : Old Net Name=NetD17_2 New Net Name=NetD19_2
+Change Net Name : Old Net Name=NetD18_2 New Net Name=NetD20_2
+Change Net Name : Old Net Name=NetD19_1 New Net Name=NetD21_1
+Change Net Name : Old Net Name=NetD19_2 New Net Name=NetD21_2
+Change Net Name : Old Net Name=NetD21_1 New Net Name=NetD25_1
+Change Net Name : Old Net Name=NetD23_2 New Net Name=NetD27_2
+Change Net Name : Old Net Name=NetD24_2 New Net Name=NetD28_2
+Change Net Name : Old Net Name=NetD25_2 New Net Name=NetD29_2
+Change Net Name : Old Net Name=NetD26_2 New Net Name=NetD30_2
+Change Net Name : Old Net Name=NetD27_2 New Net Name=NetD31_2
+Change Net Name : Old Net Name=NetD28_1 New Net Name=NetD33_1
+Change Net Name : Old Net Name=NetD31_2 New Net Name=NetD36_2
+Change Net Name : Old Net Name=NetD32_2 New Net Name=NetD37_2
+Change Net Name : Old Net Name=NetD33_2 New Net Name=NetD38_2
+Change Net Name : Old Net Name=NetD34_1 New Net Name=NetD40_1
+Change Net Name : Old Net Name=NetD36_2 New Net Name=NetD42_2
+Change Net Name : Old Net Name=NetD37_2 New Net Name=NetD43_2
+Change Net Name : Old Net Name=NetD38_2 New Net Name=NetD44_2
+Change Net Name : Old Net Name=NetD39_2 New Net Name=NetD45_2
+Change Net Name : Old Net Name=NetD40_2 New Net Name=NetD46_2
+Change Net Name : Old Net Name=NetD41_2 New Net Name=NetD47_2
+Change Net Name : Old Net Name=NetD42_2 New Net Name=NetD48_2
+Change Net Name : Old Net Name=NetD43_2 New Net Name=NetD49_2
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_1 Pin=D9-2
+Added Net: Name=NetD8_1
+Added Pin To Net: NetName=NetD15_1 Pin=D15-1
+Added Pin To Net: NetName=NetD15_1 Pin=D16-2
+Added Net: Name=NetD15_1
+Added Pin To Net: NetName=NetD16_1 Pin=D16-1
+Added Pin To Net: NetName=NetD16_1 Pin=D17-2
+Added Net: Name=NetD16_1
+Added Pin To Net: NetName=NetD22_1 Pin=D22-1
+Added Pin To Net: NetName=NetD22_1 Pin=D23-2
+Added Net: Name=NetD22_1
+Added Pin To Net: NetName=NetD23_1 Pin=D23-1
+Added Pin To Net: NetName=NetD23_1 Pin=D24-2
+Added Net: Name=NetD23_1
+Added Pin To Net: NetName=NetD24_1 Pin=D24-1
+Added Pin To Net: NetName=NetD24_1 Pin=D25-2
+Added Net: Name=NetD24_1
+Added Pin To Net: NetName=NetD31_1 Pin=D31-1
+Added Pin To Net: NetName=NetD31_1 Pin=D32-2
+Added Net: Name=NetD31_1
+Added Pin To Net: NetName=NetD32_1 Pin=D32-1
+Added Pin To Net: NetName=NetD32_1 Pin=D33-2
+Added Net: Name=NetD32_1
+Added Pin To Net: NetName=NetD38_1 Pin=D38-1
+Added Pin To Net: NetName=NetD38_1 Pin=D39-2
+Added Net: Name=NetD38_1
+Added Pin To Net: NetName=NetD39_1 Pin=D39-1
+Added Pin To Net: NetName=NetD39_1 Pin=D40-2
+Added Net: Name=NetD39_1
+Added Member To Class: ClassName=segment1 Member=Component D1 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D2 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D3 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D4 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D6 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D7 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D8 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D9 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D10 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D12 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D13 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D14 D Tunnel1
+Added Member To Class: ClassName=segment1 Member=Component D15 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D16 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D18 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D19 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D20 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D21 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D22 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D23 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D24 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D25 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D27 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D28 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D29 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D30 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D31 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D33 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D34 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D35 D Tunnel1
+Added Member To Class: ClassName=segment1 Member=Component D36 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D37 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D38 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D39 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D44 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D45 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D46 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D47 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D48 MODEL
+Added Member To Class: ClassName=segment1 Member=Component D49 MODEL
+Added Member To Class: ClassName=segment1 Member=Component P1 Header 4
+Added Member To Class: ClassName=segment1 Member=Component R1 10K
+Added Member To Class: ClassName=segment1 Member=Component R3 10K
+Added Member To Class: ClassName=segment1 Member=Component R4 10K
+Added Member To Class: ClassName=segment1 Member=Component R5 10K
+Added Member To Class: ClassName=segment1 Member=Component R7 10K
+Added Member To Class: ClassName=segment1 Member=Component R8 10K
+Added Member To Class: ClassName=segment1 Member=Component R9 10K
+Added Member To Class: ClassName=segment1 Member=Component R11 10K
+Added Member To Class: ClassName=segment1 Member=Component R12 10K
+Added Member To Class: ClassName=segment1 Member=Component R14 10K
+Added Member To Class: ClassName=segment1 Member=Component S1 PUSH BUTTON DOUBLE

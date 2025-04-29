@@ -1,0 +1,131 @@
+Removed Pin From Net: NetName=GND Pin=D7-2
+Removed Pin From Net: NetName=GND Pin=D8-2
+Removed Pin From Net: NetName=vdd Pin=J1-2
+Removed Pin From Net: NetName=key Pin=J1-3
+Removed Pin From Net: NetName=GND Pin=J1-6
+Removed Pin From Net: NetName=GND Pin=J2-4
+Removed Pin From Net: NetName=vdd Pin=J3-1
+Removed Pin From Net: NetName=vdd Pin=J4-1
+Removed Pin From Net: NetName=vcc Pin=Q2-2
+Removed Pin From Net: NetName=NetQ4_1 Pin=Q4-1
+Removed Pin From Net: NetName=GND Pin=Q4-3
+Removed Pin From Net: NetName=GND Pin=Q6-2
+Removed Pin From Net: NetName=NetQ4_1 Pin=Q6-3
+Removed Pin From Net: NetName=GND Pin=Q10-2
+Removed Pin From Net: NetName=out Pin=R2-1
+Removed Pin From Net: NetName=vdd Pin=R5-2
+Removed Pin From Net: NetName=vdd Pin=R6-1
+Removed Pin From Net: NetName=NetQ4_1 Pin=R6-2
+Removed Pin From Net: NetName=vdd Pin=R10-2
+Removed Pin From Net: NetName=vdd Pin=R11-2
+Removed Pin From Net: NetName=GND Pin=R13-1
+Removed Pin From Net: NetName=GND Pin=R14-1
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=U4-3
+Removed Member From Class: ClassName=touch-24-v4 Member=D5
+Removed Member From Class: ClassName=touch-24-v4 Member=D6
+Removed Member From Class: ClassName=touch-24-v4 Member=D7
+Removed Member From Class: ClassName=touch-24-v4 Member=D8
+Removed Member From Class: ClassName=touch-24-v4 Member=J3
+Removed Member From Class: ClassName=touch-24-v4 Member=J4
+Removed Member From Class: ClassName=touch-24-v4 Member=JP2
+Removed Member From Class: ClassName=touch-24-v4 Member=JP3
+Removed Member From Class: ClassName=touch-24-v4 Member=Q5
+Removed Member From Class: ClassName=touch-24-v4 Member=Q6
+Removed Member From Class: ClassName=touch-24-v4 Member=Q7
+Removed Member From Class: ClassName=touch-24-v4 Member=Q8
+Removed Member From Class: ClassName=touch-24-v4 Member=Q9
+Removed Member From Class: ClassName=touch-24-v4 Member=Q10
+Removed Member From Class: ClassName=touch-24-v4 Member=R7
+Removed Member From Class: ClassName=touch-24-v4 Member=R8
+Removed Member From Class: ClassName=touch-24-v4 Member=R9
+Removed Member From Class: ClassName=touch-24-v4 Member=R10
+Removed Member From Class: ClassName=touch-24-v4 Member=R11
+Removed Member From Class: ClassName=touch-24-v4 Member=R12
+Removed Member From Class: ClassName=touch-24-v4 Member=R13
+Removed Member From Class: ClassName=touch-24-v4 Member=R14
+Removed Member From Class: ClassName=touch-24-v4 Member=U3
+Removed Member From Class: ClassName=touch-24-v4 Member=U4
+Change Component Footprint: Designator=J1 Old Footprint=HEADER 3X2 New Footprint=HEADER 3X1
+Change Component Footprint: Designator=J2 Old Footprint=HEADER 5X1 New Footprint=HEADER 3X1
+Change Component Footprint: Designator=Q4 Old Footprint=SOT223_N New Footprint=SOT-23B_L
+Change Component Comment : Designator=J1 Old Comment=Header3X2 New Comment=Header3X1
+Change Component Comment : Designator=J2 Old Comment=Header5X1 New Comment=Header3X1
+Change Component Comment : Designator=Q4 Old Comment=MOSFET-P4 New Comment=QNPN
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Change Component Designator: OldDesignator=D4 NewDesignator=D3
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q2
+Change Component Designator: OldDesignator=Q7 NewDesignator=Q3
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R8 NewDesignator=R3
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Change component parameters: Designator = "Q4" ("Q4"); Footprint = "SOT223_N"; UniqueID = "\CIHUCFJJ" ("\CIHUCFJJ")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin SOT-23 Package 0.95 mm Pitch, 2.4 mm Lead Span"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SOT-23B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D4(3.2X1.6X1.1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SM LED; 2 Flat Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3.2X1.6X1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U1(8S2_N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.atmel.com/dyn/resources/prod_documents/doc1187.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Atmel.com Home"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.atmel.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1187E-AVR-06/02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "16-Oct-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Lead, 0.208" Body, Plastic Small Outline Package (EIAJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "8S2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revF, Apr-2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Sep-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ATTINY15L-1SC-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "556-ATTINY15L1SC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=key Pin=Q1-4
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-3
+Added Pin To Net: NetName=out Pin=R2-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R4-1
+Added Pin To Net: NetName=vcc Pin=R4-2
+Added Pin To Net: NetName=vcc Pin=R5-2
+Added Pin To Net: NetName=vcc Pin=U1-1
+Added Pin To Net: NetName=out Pin=U1-2
+Added Pin To Net: NetName=bizer Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Change Net Name : Old Net Name=NetD2_2 New Net Name=NetD1_2
+Change Net Name : Old Net Name=NetD4_1 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetQ3_1 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetQ3_2 New Net Name=NetQ2_2
+Change Net Name : Old Net Name=NetQ7_2 New Net Name=NetQ3_2
+Added Pin To Net: NetName=ir-r Pin=J1-3
+Added Pin To Net: NetName=ir-r Pin=U1-4
+Added Net: Name=ir-r
+Added Pin To Net: NetName=ir-t Pin=R6-1
+Added Pin To Net: NetName=ir-t Pin=U1-5
+Added Net: Name=ir-t
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=Q4-2
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=R5-1
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetQ4_2 Pin=R6-2
+Added Pin To Net: NetName=NetQ4_2 Pin=Q4-1
+Added Net: Name=NetQ4_2
+Change Class Name : Old Net Name=touch-24-v4 New Net Name=ir-24v
+Added Member To Class: ClassName=ir-24v Member=Component U1 ATtiny15L-1SC

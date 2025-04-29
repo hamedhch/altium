@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=K1-4
+Removed Pin From Net: NetName=VCC Pin=K1-5
+Removed Pin From Net: NetName=VCC Pin=K2-4
+Removed Pin From Net: NetName=NetD2_1 Pin=K2-5
+Added Pin To Net: NetName=VCC Pin=K1-4
+Added Pin To Net: NetName=NetD1_1 Pin=K1-5
+Added Pin To Net: NetName=NetD2_1 Pin=K2-4
+Added Pin To Net: NetName=VCC Pin=K2-5
+Added Member To Class: ClassName=tsc2r Member=Component J4 TBlock-3

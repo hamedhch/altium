@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=key+ Pin=J1-1
+Removed Pin From Net: NetName=key- Pin=J1-5
+Added Pin To Net: NetName=key- Pin=J1-1
+Added Pin To Net: NetName=key+ Pin=J1-5
+Added Member To Class: ClassName=touch-24 Member=Component D5 LED2
+Added Member To Class: ClassName=touch-24 Member=Component D6 LED2
+Added Member To Class: ClassName=touch-24 Member=Component D11 D Tunnel1
+Added Member To Class: ClassName=touch-24 Member=Component D13 D Tunnel1
+Added Member To Class: ClassName=touch-24 Member=Component D14 D Tunnel1

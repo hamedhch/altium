@@ -1,0 +1,24 @@
+Remove Pin=D15-2 From Net=O4
+Remove Pin=U6-1 From Net=VDD
+Change Component Designator: OldDesignator=D10 NewDesignator=D8
+Change Component Designator: OldDesignator=D11 NewDesignator=D9
+Change Component Designator: OldDesignator=D12 NewDesignator=D10
+Change Component Designator: OldDesignator=D14 NewDesignator=D11
+Change Component Designator: OldDesignator=D16 NewDesignator=D13
+Change Component Designator: OldDesignator=K4 NewDesignator=K3
+Change Component Designator: OldDesignator=K5 NewDesignator=K4
+Change Component Designator: OldDesignator=P3 NewDesignator=P1
+Change Component Designator: OldDesignator=P4 NewDesignator=P2
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R10 NewDesignator=R8
+Change Component Designator: OldDesignator=R12 NewDesignator=R9
+Change Component Designator: OldDesignator=R13 NewDesignator=R10
+Change Component Designator: OldDesignator=R14 NewDesignator=R11
+Change Component Designator: OldDesignator=R15 NewDesignator=R12
+Change Component Designator: OldDesignator=T5 NewDesignator=T3
+Change Component Designator: OldDesignator=T10 NewDesignator=T5
+Change Component Designator: OldDesignator=T11 NewDesignator=T6
+Change Component Designator: OldDesignator=U8 NewDesignator=U6
+Change Component Designator: OldDesignator=U9 NewDesignator=U7
+Change Component Designator: OldDesignator=U10 NewDesignator=U8
+Change Component Designator: OldDesignator=U11 NewDesignator=U9

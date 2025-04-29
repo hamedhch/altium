@@ -1,0 +1,81 @@
+Removed Pin From Net: NetName=o1 Pin=U11-2
+Removed Pin From Net: NetName=o3 Pin=U11-3
+Removed Pin From Net: NetName=o2 Pin=U11-4
+Removed Pin From Net: NetName=o5 Pin=U11-5
+Removed Pin From Net: NetName=o4 Pin=U11-6
+Change Component Designator: OldDesignator=P4 NewDesignator=P3
+Added Component: Designator=D14(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D15(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D16(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D17(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D18(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D19(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R21(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=o4 Pin=R22-2
+Added Pin To Net: NetName=o3 Pin=R23-2
+Added Pin To Net: NetName=o5 Pin=R24-2
+Added Pin To Net: NetName=GND Pin=U11-7
+Added Pin To Net: NetName=NetD14_1 Pin=D14-1
+Added Pin To Net: NetName=NetD14_1 Pin=R19-1
+Added Net: Name=NetD14_1
+Added Pin To Net: NetName=NetD14_2 Pin=D14-2
+Added Pin To Net: NetName=NetD14_2 Pin=D17-1
+Added Pin To Net: NetName=NetD14_2 Pin=R22-1
+Added Net: Name=NetD14_2
+Added Pin To Net: NetName=NetD15_1 Pin=D15-1
+Added Pin To Net: NetName=NetD15_1 Pin=R20-1
+Added Net: Name=NetD15_1
+Added Pin To Net: NetName=NetD15_2 Pin=D15-2
+Added Pin To Net: NetName=NetD15_2 Pin=D18-1
+Added Pin To Net: NetName=NetD15_2 Pin=R23-1
+Added Net: Name=NetD15_2
+Added Pin To Net: NetName=NetD16_1 Pin=D16-1
+Added Pin To Net: NetName=NetD16_1 Pin=R21-1
+Added Net: Name=NetD16_1
+Added Pin To Net: NetName=NetD16_2 Pin=D16-2
+Added Pin To Net: NetName=NetD16_2 Pin=D19-1
+Added Pin To Net: NetName=NetD16_2 Pin=R24-1
+Added Net: Name=NetD16_2
+Added Member To Class: ClassName=tach key h Member=Component D14 MODEL
+Added Member To Class: ClassName=tach key h Member=Component D15 MODEL
+Added Member To Class: ClassName=tach key h Member=Component D16 MODEL
+Added Member To Class: ClassName=tach key h Member=Component D17 MODEL
+Added Member To Class: ClassName=tach key h Member=Component D18 MODEL
+Added Member To Class: ClassName=tach key h Member=Component D19 MODEL
+Added Member To Class: ClassName=tach key h Member=Component R19 10K
+Added Member To Class: ClassName=tach key h Member=Component R20 10K
+Added Member To Class: ClassName=tach key h Member=Component R21 10K
+Added Member To Class: ClassName=tach key h Member=Component R22 10K
+Added Member To Class: ClassName=tach key h Member=Component R23 10K
+Added Member To Class: ClassName=tach key h Member=Component R24 10K

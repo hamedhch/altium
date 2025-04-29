@@ -1,0 +1,58 @@
+Change Component Designator: OldDesignator=D25 NewDesignator=D27
+Change Component Designator: OldDesignator=D26 NewDesignator=D28
+Change Component Designator: OldDesignator=D27 NewDesignator=D29
+Change Component Designator: OldDesignator=D28 NewDesignator=D30
+Change Component Designator: OldDesignator=D29 NewDesignator=D31
+Change Component Designator: OldDesignator=D30 NewDesignator=D32
+Change Component Designator: OldDesignator=D31 NewDesignator=D33
+Change Component Designator: OldDesignator=D32 NewDesignator=D34
+Change Component Designator: OldDesignator=D33 NewDesignator=D35
+Change Component Designator: OldDesignator=D34 NewDesignator=D36
+Added Component: Designator=D25(LEDC3216X120N)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/7899607/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Osram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LHN974 RED LED 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/7899607/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D26(LEDC3216X120N)
+Add component (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/7899607/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Osram"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "LHN974 RED LED 1206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/7899607/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=R2 Pin=D25-NEG
+Added Pin To Net: NetName=R2 Pin=D26-NEG
+Added Pin To Net: NetName=R4 Pin=P2-1
+Added Pin To Net: NetName=R3 Pin=P2-2
+Added Pin To Net: NetName=R2 Pin=P2-3
+Added Pin To Net: NetName=R1 Pin=P2-4
+Added Pin To Net: NetName=GND Pin=R5-2
+Change Net Name : Old Net Name=NetD34_1 New Net Name=NetD36_1
+Added Pin To Net: NetName=dot Pin=D25-POS
+Added Pin To Net: NetName=dot Pin=D26-POS
+Added Net: Name=dot
+Added Pin To Net: NetName=NetD27_2 Pin=D27-2
+Added Pin To Net: NetName=NetD27_2 Pin=D28-2
+Added Pin To Net: NetName=NetD27_2 Pin=R5-1
+Added Net: Name=NetD27_2
+Added Member To Class: ClassName=clock-temp-touch Member=Component D35 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D36 LED2
+Added Member To Class: ClassName=clock-temp-touch Member=Component P2 Header 4
+Added Member To Class: ClassName=clock-temp-touch Member=Component R5 10K
+Added Member To Class: ClassName=clock-temp-touch Member=Component R6 10K
+Added Member To Class: ClassName=clock-temp-touch Member=Component R8 10K
+Added Member To Class: ClassName=clock-temp-touch Member=Component R9 10K

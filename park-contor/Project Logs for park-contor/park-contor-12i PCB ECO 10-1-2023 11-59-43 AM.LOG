@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=rst Pin=JP2-1
+Removed Pin From Net: NetName=rst Pin=JP2-2
+Removed Member From Class: ClassName=park-contor-12i Member=JP1
+Removed Member From Class: ClassName=park-contor-12i Member=JP2

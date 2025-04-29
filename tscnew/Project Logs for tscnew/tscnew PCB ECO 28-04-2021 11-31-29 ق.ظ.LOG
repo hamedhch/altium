@@ -1,0 +1,45 @@
+Change Component Designator: OldDesignator=R2 NewDesignator=R8
+Change Component Designator: OldDesignator=R3 NewDesignator=R9
+Change Component Designator: OldDesignator=R4 NewDesignator=R10
+Added Component: Designator=R2(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=vesp Pin=R2-1
+Added Pin To Net: NetName=i18 Pin=R2-2
+Added Pin To Net: NetName=vesp Pin=R3-1
+Added Pin To Net: NetName=i17 Pin=R3-2
+Added Pin To Net: NetName=vesp Pin=R4-1
+Added Pin To Net: NetName=i16 Pin=R4-2
+Added Pin To Net: NetName=vesp Pin=R5-1
+Added Pin To Net: NetName=i15 Pin=R5-2
+Added Pin To Net: NetName=vesp Pin=R6-1
+Added Pin To Net: NetName=i14 Pin=R6-2
+Added Pin To Net: NetName=vesp Pin=R7-1
+Added Pin To Net: NetName=i13 Pin=R7-2
+Added Member To Class: ClassName=tscnew Member=Component R5 10K
+Added Member To Class: ClassName=tscnew Member=Component R6 10K
+Added Member To Class: ClassName=tscnew Member=Component R7 10K
+Added Member To Class: ClassName=tscnew Member=Component R8 10K
+Added Member To Class: ClassName=tscnew Member=Component R9 10K
+Added Member To Class: ClassName=tscnew Member=Component R10 10K

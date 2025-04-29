@@ -1,0 +1,7 @@
+Added Component: Designator=J?(HEADER 5X1)
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=vDD Pin=J?-2
+Added Member To Class: ClassName=sanati4i4o Member=Component C5 =Value
+Added Member To Class: ClassName=sanati4i4o Member=Component C6 =Value
+Added Member To Class: ClassName=sanati4i4o Member=Component J? Header5X1
+Added Member To Class: ClassName=sanati4i4o Member=Component T5 Phoenix terminal

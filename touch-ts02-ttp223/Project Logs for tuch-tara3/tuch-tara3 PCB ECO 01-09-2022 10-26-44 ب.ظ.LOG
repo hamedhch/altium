@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=o1 Pin=D3-2
+Removed Pin From Net: NetName=o1 Pin=D4-1
+Removed Pin From Net: NetName=o1 Pin=U4-1
+Change Component Footprint: Designator=D2 Old Footprint=RES 0805 (2012X06L) New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=D3 Old Footprint=RES 0805 (2012X06L) New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=D4 Old Footprint=RES 0805 (2012X06L) New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=D5 Old Footprint=RES 0805 (2012X06L) New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=D6 Old Footprint=RES 0805 (2012X06L) New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=D7 Old Footprint=RES 0805 (2012X06L) New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=D8 Old Footprint=RES 0805 (2012X06L) New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=D9 Old Footprint=RES 0805 (2012X06L) New Footprint=RES 1206 (3216X08L)
+Added Pin To Net: NetName=NetD3_2 Pin=D3-2
+Added Pin To Net: NetName=NetD3_2 Pin=D4-1
+Added Net: Name=NetD3_2

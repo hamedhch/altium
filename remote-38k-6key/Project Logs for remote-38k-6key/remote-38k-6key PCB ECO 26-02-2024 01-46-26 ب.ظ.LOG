@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=R1 Old Footprint=RES 2010 (5026X08L) New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=R2 Old Footprint=RES 2010 (5026X08L) New Footprint=RES 1206 (3216X08L)
+Added Member To Class: ClassName=remote-38k-6key Member=Component J2 Header3X1
+Added Member To Class: ClassName=remote-38k-6key Member=Component R3 10K
+Added Member To Class: ClassName=remote-38k-6key Member=Component R4 10K
+Added Member To Class: ClassName=remote-38k-6key Member=Component R5 10K

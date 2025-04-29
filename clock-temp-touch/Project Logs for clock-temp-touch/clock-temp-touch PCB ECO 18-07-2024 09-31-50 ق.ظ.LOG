@@ -1,0 +1,14 @@
+Add Pin To Net: Unknown Pin: Pin LS2-1
+Add Pin To Net: Unknown Pin: Pin LS2-2
+Added Pin To Net: NetName=LB1 Pin=D23-POS
+Added Pin To Net: NetName=LB1 Pin=U1-26
+Added Net: Name=LB1
+Added Pin To Net: NetName=LB2 Pin=D22-POS
+Added Pin To Net: NetName=LB2 Pin=U1-7
+Added Net: Name=LB2
+Added Pin To Net: NetName=LW1 Pin=D32-POS
+Added Pin To Net: NetName=LW1 Pin=U1-2
+Added Net: Name=LW1
+Added Pin To Net: NetName=LW2 Pin=D31-POS
+Added Pin To Net: NetName=LW2 Pin=U1-1
+Added Net: Name=LW2

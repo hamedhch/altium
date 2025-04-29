@@ -1,0 +1,34 @@
+Add Component: Footprint Not Found minimelf
+Added Component: Designator=D9(LEDC3216X120N)
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D10(LEDC3216X120N)
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D11(LEDC3216X120N)
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D12(LEDC3216X120N)
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D13(LEDC3216X120N)
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D14(LEDC3216X120N)
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin D9-1
+Add Pin To Net: Unknown Pin: Pin D9-2
+Add Pin To Net: Unknown Pin: Pin D10-1
+Add Pin To Net: Unknown Pin: Pin D10-2
+Add Pin To Net: Unknown Pin: Pin D11-1
+Add Pin To Net: Unknown Pin: Pin D11-2
+Add Pin To Net: Unknown Pin: Pin D12-1
+Add Pin To Net: Unknown Pin: Pin D12-2
+Add Pin To Net: Unknown Pin: Pin D13-1
+Add Pin To Net: Unknown Pin: Pin D13-2
+Add Pin To Net: Unknown Pin: Pin D14-1
+Add Pin To Net: Unknown Pin: Pin D14-2
+Add Class Member: Failed to add class member : Component D4 18 Zener
+Added Member To Class: ClassName=tach key h Member=Component D9 MODEL
+Added Member To Class: ClassName=tach key h Member=Component D10 MODEL
+Added Member To Class: ClassName=tach key h Member=Component D11 MODEL
+Added Member To Class: ClassName=tach key h Member=Component D12 MODEL
+Added Member To Class: ClassName=tach key h Member=Component D13 MODEL
+Added Member To Class: ClassName=tach key h Member=Component D14 MODEL

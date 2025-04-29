@@ -1,0 +1,49 @@
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Added Component: Designator=P1(HDR1X7)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=U1(SOP65P777X199-28N)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/MAX3241ECAI+T/Analog+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MAX3241ECAI+T"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SSOP-28 Maxim"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MAX3241ECAI+T/Analog+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=L7 Pin=P1-1
+Added Pin To Net: NetName=L6 Pin=P1-2
+Added Pin To Net: NetName=L5 Pin=P1-3
+Added Pin To Net: NetName=L4 Pin=P1-4
+Added Pin To Net: NetName=L3 Pin=P1-5
+Added Pin To Net: NetName=l2 Pin=P1-6
+Added Pin To Net: NetName=l1 Pin=P1-7
+Added Pin To Net: NetName=R4 Pin=P2-1
+Added Pin To Net: NetName=R3 Pin=P2-2
+Added Pin To Net: NetName=R2 Pin=P2-3
+Added Pin To Net: NetName=R1 Pin=P2-4
+Added Pin To Net: NetName=NetD27_2 Pin=R5-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Change Net Name : Old Net Name=NetU2_4 New Net Name=NetU3_4
+Added Member To Class: ClassName=clock-temp-touch Member=Component D18 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D20 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D21 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D23 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D24 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D26 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component P1 Header 7
+Added Member To Class: ClassName=clock-temp-touch Member=Component P2 Header 4
+Added Member To Class: ClassName=clock-temp-touch Member=Component R5 10K
+Added Member To Class: ClassName=clock-temp-touch Member=Component R7 10K
+Added Member To Class: ClassName=clock-temp-touch Member=Component R9 10K
+Added Member To Class: ClassName=clock-temp-touch Member=Component R10 10K
+Added Member To Class: ClassName=clock-temp-touch Member=Component U4 MB6S

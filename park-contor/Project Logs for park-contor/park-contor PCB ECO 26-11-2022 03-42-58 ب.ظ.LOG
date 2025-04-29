@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=GND Pin=J2-4
+Removed Pin From Net: NetName=vdd Pin=T1-1
+Removed Pin From Net: NetName=i1 Pin=T1-2
+Removed Pin From Net: NetName=GND Pin=T1-3
+Removed Pin From Net: NetName=vdd Pin=T2-1
+Removed Pin From Net: NetName=i2 Pin=T2-2
+Removed Pin From Net: NetName=GND Pin=T2-3
+Removed Pin From Net: NetName=vdd Pin=T3-1
+Removed Pin From Net: NetName=i3 Pin=T3-2
+Removed Pin From Net: NetName=GND Pin=T3-3
+Removed Member From Class: ClassName=park-contor Member=T1
+Removed Member From Class: ClassName=park-contor Member=T2
+Removed Member From Class: ClassName=park-contor Member=T3
+Change Component Footprint: Designator=J2 Old Footprint=HEADER 4X1 New Footprint=HEADER 3X1
+Change Component Comment : Designator=J2 Old Comment=Header4X1 New Comment=Header3X1
+Added Component: Designator=J?(HEADER 3X1)
+Added Component: Designator=J?(HEADER 3X1)
+Added Component: Designator=J?(HEADER 3X1)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Pin To Net: NetName=vdd Pin=J?-1
+Added Pin To Net: NetName=vdd Pin=J?-1
+Added Pin To Net: NetName=vdd Pin=J?-1
+Added Pin To Net: NetName=i1 Pin=J?-2
+Added Pin To Net: NetName=i2 Pin=J?-2
+Added Pin To Net: NetName=i3 Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Pin To Net: NetName=GND Pin=J?-3
+Added Member To Class: ClassName=park-contor Member=Component C1 =Value
+Added Member To Class: ClassName=park-contor Member=Component C2 =Value
+Added Member To Class: ClassName=park-contor Member=Component J1 PWR2.5
+Added Member To Class: ClassName=park-contor Member=Component J2 Header3X1
+Added Member To Class: ClassName=park-contor Member=Component J? Header3X1
+Added Member To Class: ClassName=park-contor Member=Component J? Header3X1
+Added Member To Class: ClassName=park-contor Member=Component J? Header3X1
+Added Member To Class: ClassName=park-contor Member=Component JP1 Jumper
+Added Member To Class: ClassName=park-contor Member=Component JP2 Jumper
+Added Member To Class: ClassName=park-contor Member=Component R1 10K
+Added Member To Class: ClassName=park-contor Member=Component T4 Phoenix terminal
+Added Member To Class: ClassName=park-contor Member=Component T5 Terminal
+Added Member To Class: ClassName=park-contor Member=Component U1 ATmega8-16AC
+Added Member To Class: ClassName=park-contor Member=Component U2 ESP_12_E

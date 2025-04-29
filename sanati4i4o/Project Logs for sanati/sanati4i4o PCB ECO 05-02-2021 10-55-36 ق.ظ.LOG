@@ -1,0 +1,155 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=VCC Pin=D5-1
+Removed Pin From Net: NetName=VCC Pin=D6-1
+Removed Pin From Net: NetName=VCC Pin=D7-1
+Removed Pin From Net: NetName=VCC Pin=K5-5
+Removed Pin From Net: NetName=VCC Pin=K6-5
+Removed Pin From Net: NetName=VCC Pin=K7-5
+Removed Pin From Net: NetName=vDD Pin=P2-1
+Removed Pin From Net: NetName=GND Pin=P2-2
+Removed Pin From Net: NetName=vDD Pin=R5-1
+Removed Pin From Net: NetName=rst Pin=R5-2
+Removed Pin From Net: NetName=rst Pin=U1-4
+Removed Pin From Net: NetName=rx Pin=U1-9
+Removed Pin From Net: NetName=tx Pin=U1-10
+Removed Pin From Net: NetName=GND Pin=U1-39
+Removed Pin From Net: NetName=VCC Pin=U2-8
+Removed Pin From Net: NetName=GND Pin=U2-9
+Removed Member From Class: ClassName=buso Member=C3
+Removed Member From Class: ClassName=buso Member=C4
+Removed Member From Class: ClassName=buso Member=D5
+Removed Member From Class: ClassName=buso Member=D6
+Removed Member From Class: ClassName=buso Member=D7
+Removed Member From Class: ClassName=buso Member=K5
+Removed Member From Class: ClassName=buso Member=K6
+Removed Member From Class: ClassName=buso Member=K7
+Removed Member From Class: ClassName=buso Member=P3
+Removed Member From Class: ClassName=buso Member=T6
+Removed Member From Class: ClassName=buso Member=T7
+Removed Member From Class: ClassName=buso Member=T8
+Removed Member From Class: ClassName=buso Member=Y1
+Change Component Footprint: Designator=U1 Old Footprint=44A_N New Footprint=ESP_12_E
+Change Component Footprint: Designator=P2 Old Footprint=HDR1X2 New Footprint=HDR1X4
+Change Component Footprint: Designator=R7 Old Footprint=Res50 New Footprint=RES 1206 (3216X08L)
+Change Component Comment : Designator=U1 Old Comment=ATmega16-16AC New Comment=ESP_12_E
+Change Component Comment : Designator=P2 Old Comment=Header 2 New Comment=Header 4
+Change Component Comment : Designator=R7 Old Comment=Res2 New Comment=10K
+Change Component Comment : Designator=U2 Old Comment=ULN2003ADRG4 New Comment=L7805ABV
+Change Component Designator: OldDesignator=C3 NewDesignator=C1
+Change Component Designator: OldDesignator=C4 NewDesignator=C2
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Change Component Designator: OldDesignator=J3 NewDesignator=J4
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R4
+Change Component Designator: OldDesignator=R3 NewDesignator=R6
+Change Component Designator: OldDesignator=R4 NewDesignator=R8
+Change Component Designator: OldDesignator=T7 NewDesignator=T5
+Change component parameters: Designator = "R7" ("R7"); Footprint = "Res50"; UniqueID = "\IIYPZIBM" ("\IIYPZIBM")
+Change component parameters (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "44A_N"; UniqueID = "\SJGCBBLP" ("\SJGCBBLP")
+Change component parameters (AddParameter): Name = "IC"; Value = "ESP8266-EX"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Vendor"; Value = "Ai-thinker"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U2" ("U2"); Footprint = "SOIC127P600X175-16N"; UniqueID = "\NYUMGKOU" ("\NYUMGKOU")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/stonline/products/literature/ds/2144/l7805ab.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Nov-1999"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "Tab is connected to pin 3 (GND)."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "TO, Thru-Hole, Vertical, Heatsink Mounted; 3 In-Line Leads; Pitch 2.54 mm; Pin sequence 1, 3, 2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TO220ABN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Jun-1998"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "24-Aug-2001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J1(HEADER 4X1)
+Added Component: Designator=Q1(SOT23-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Micro Commercial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT3904-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Micro Commercial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT3904-TP/Micro%20Commercial/view-part/805928/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT23-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Micro Commercial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT3904-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Micro Commercial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT3904-TP/Micro%20Commercial/view-part/805928/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q3(SOT23-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Micro Commercial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT3904-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Micro Commercial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT3904-TP/Micro%20Commercial/view-part/805928/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=Q4(SOT23-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Micro Commercial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT3904-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Micro Commercial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT3904-TP/Micro%20Commercial/view-part/805928/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=vDD Pin=P2-3
+Added Pin To Net: NetName=GND Pin=P2-4
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=Q3-2
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=VCC Pin=U2-1
+Added Pin To Net: NetName=5v Pin=U2-2
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=NetK1_4 Pin=K1-4
+Added Pin To Net: NetName=NetK1_4 Pin=Q1-3
+Added Pin To Net: NetName=NetK1_4 Pin=R2-2
+Added Net: Name=NetK1_4
+Added Pin To Net: NetName=NetK2_4 Pin=K2-4
+Added Pin To Net: NetName=NetK2_4 Pin=Q2-3
+Added Pin To Net: NetName=NetK2_4 Pin=R4-2
+Added Net: Name=NetK2_4
+Added Pin To Net: NetName=NetK3_4 Pin=K3-4
+Added Pin To Net: NetName=NetK3_4 Pin=Q3-3
+Added Pin To Net: NetName=NetK3_4 Pin=R6-2
+Added Net: Name=NetK3_4
+Added Pin To Net: NetName=NetK4_4 Pin=K4-4
+Added Pin To Net: NetName=NetK4_4 Pin=Q4-3
+Added Pin To Net: NetName=NetK4_4 Pin=R8-2
+Added Net: Name=NetK4_4
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-1
+Added Pin To Net: NetName=NetQ1_1 Pin=R1-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R3-2
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R5-2
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R7-2
+Added Net: Name=NetQ4_1
+Change Class Name : Old Net Name=buso New Net Name=sanati4i4o
+Added Member To Class: ClassName=sanati4i4o Member=Component J4 Header4X1
+Added Member To Class: ClassName=sanati4i4o Member=Component Q1 MMBT3904-TP
+Added Member To Class: ClassName=sanati4i4o Member=Component Q2 MMBT3904-TP
+Added Member To Class: ClassName=sanati4i4o Member=Component Q3 MMBT3904-TP
+Added Member To Class: ClassName=sanati4i4o Member=Component Q4 MMBT3904-TP
+Change Room Name: Old Name=buso New Name=sanati4i4o
+Change Room Scope: Old Scope=InComponentClass('buso') New Scope=InComponentClass('sanati4i4o')

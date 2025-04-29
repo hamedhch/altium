@@ -1,0 +1,72 @@
+Removed Pin From Net: NetName=O1 Pin=P1-1
+Removed Pin From Net: NetName=O2 Pin=P1-2
+Removed Pin From Net: NetName=O3 Pin=P1-3
+Removed Pin From Net: NetName=o4 Pin=P1-4
+Removed Pin From Net: NetName=o5 Pin=P1-5
+Removed Pin From Net: NetName=o6 Pin=P1-6
+Removed Pin From Net: NetName=o7 Pin=P1-7
+Removed Pin From Net: NetName=o8 Pin=P1-8
+Removed Pin From Net: NetName=o9 Pin=P1-9
+Removed Pin From Net: NetName=o10 Pin=P1-10
+Removed Member From Class: ClassName=iotv4 Member=P1
+Added Component: Designator=C?(CAP-30)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C?(CAP-30)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R?(Res-(1/4))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=U?(32A_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-026-ABA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.atmel.com/dyn/resources/prod_documents/doc2486.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Atmel.com Home"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.atmel.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "2486H-AVR-09/02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "16-Oct-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "32-Lead, 7x7x1.0 mm Body, 0.8mm Lead Pitch, Thin Profile Plastic Quad Flat Package (TQFP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "32A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revB, Oct-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Sep-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ATMEGA8-16AC-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "556-ATMEGA8-16AC"; VariantName = "[No Variations]"
+Added Component: Designator=Y?(R38)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Crystal, Thru-Hole; 2 Leads; Body 3.1 x 8.2 mm (Dia.xH)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "R38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=VCC Pin=R?-2
+Added Pin To Net: NetName=O2 Pin=U?-1
+Added Pin To Net: NetName=O3 Pin=U?-2
+Added Pin To Net: NetName=GND Pin=U?-3
+Added Pin To Net: NetName=VCC Pin=U?-6
+Added Pin To Net: NetName=o4 Pin=U?-9
+Added Pin To Net: NetName=o5 Pin=U?-10
+Added Pin To Net: NetName=o6 Pin=U?-11
+Added Pin To Net: NetName=rx Pin=U?-30
+Added Pin To Net: NetName=tx Pin=U?-31
+Added Pin To Net: NetName=O1 Pin=U?-32
+Added Pin To Net: NetName=NetC?_2 Pin=C?-2
+Added Pin To Net: NetName=NetC?_2 Pin=U?-8
+Added Pin To Net: NetName=NetC?_2 Pin=Y?-1
+Added Net: Name=NetC?_2
+Added Pin To Net: NetName=NetR?_1 Pin=R?-1
+Added Pin To Net: NetName=NetR?_1 Pin=U?-29
+Added Net: Name=NetR?_1
+Added Member To Class: ClassName=iotv4 Member=Component C? Value
+Added Member To Class: ClassName=iotv4 Member=Component C? Value
+Added Member To Class: ClassName=iotv4 Member=Component R? 10K
+Added Member To Class: ClassName=iotv4 Member=Component U? ATmega8-16AC
+Added Member To Class: ClassName=iotv4 Member=Component Y? XTAL

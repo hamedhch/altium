@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=faz Pin=U2-6
+Added Pin To Net: NetName=NetU2_6 Pin=U2-6
+Added Pin To Net: NetName=NetU2_6 Pin=U3-3
+Added Net: Name=NetU2_6
+Added Member To Class: ClassName=tuch-tara2 Member=Component C2 =Value

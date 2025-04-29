@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=vDD Pin=JP1-2
+Added Pin To Net: NetName=vDD Pin=U8-3
+Change Net Name : Old Net Name=vDD New Net Name=en

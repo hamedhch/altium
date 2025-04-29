@@ -1,0 +1,81 @@
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Change Component Designator: OldDesignator=J3 NewDesignator=J4
+Change Component Designator: OldDesignator=J4 NewDesignator=J5
+Change Component Designator: OldDesignator=T6 NewDesignator=T4
+Added Component: Designator=J2(HEADER 6X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP1(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP2(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP3(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP4(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP5(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP6(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP7(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP8(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP9(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP10(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP11(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP12(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R5(RES 1206 (3216X08L))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=i5 Pin=J2-1
+Added Pin To Net: NetName=i4 Pin=J2-2
+Added Pin To Net: NetName=i3 Pin=J2-3
+Added Pin To Net: NetName=i2 Pin=J2-4
+Added Pin To Net: NetName=i1 Pin=J2-5
+Added Pin To Net: NetName=i6 Pin=J2-6
+Added Pin To Net: NetName=rst Pin=JP1-1
+Added Pin To Net: NetName=rst Pin=JP1-2
+Added Pin To Net: NetName=btn Pin=JP2-1
+Added Pin To Net: NetName=btn Pin=JP2-2
+Added Pin To Net: NetName=VCC Pin=JP3-1
+Added Pin To Net: NetName=VCC Pin=JP3-2
+Added Pin To Net: NetName=vDD Pin=JP4-1
+Added Pin To Net: NetName=vDD Pin=JP4-2
+Added Pin To Net: NetName=GND Pin=JP5-1
+Added Pin To Net: NetName=GND Pin=JP5-2
+Added Pin To Net: NetName=VCC Pin=JP6-1
+Added Pin To Net: NetName=VCC Pin=JP6-2
+Added Pin To Net: NetName=vDD Pin=JP7-1
+Added Pin To Net: NetName=vDD Pin=JP7-2
+Added Pin To Net: NetName=i8 Pin=JP8-1
+Added Pin To Net: NetName=i8 Pin=JP8-2
+Added Pin To Net: NetName=i7 Pin=JP9-1
+Added Pin To Net: NetName=i7 Pin=JP9-2
+Added Pin To Net: NetName=5v Pin=JP10-1
+Added Pin To Net: NetName=5v Pin=JP10-2
+Added Pin To Net: NetName=GND Pin=JP11-1
+Added Pin To Net: NetName=GND Pin=JP11-2
+Added Pin To Net: NetName=i10 Pin=JP12-1
+Added Pin To Net: NetName=i10 Pin=JP12-2
+Added Pin To Net: NetName=rst Pin=R5-1
+Added Pin To Net: NetName=vesp Pin=R5-2
+Added Member To Class: ClassName=shahbazi2 Member=Component J5 TBlock-2
+Added Member To Class: ClassName=shahbazi2 Member=Component JP1 Jumper
+Added Member To Class: ClassName=shahbazi2 Member=Component JP2 Jumper
+Added Member To Class: ClassName=shahbazi2 Member=Component JP3 Jumper
+Added Member To Class: ClassName=shahbazi2 Member=Component JP4 Jumper
+Added Member To Class: ClassName=shahbazi2 Member=Component JP5 Jumper
+Added Member To Class: ClassName=shahbazi2 Member=Component JP6 Jumper
+Added Member To Class: ClassName=shahbazi2 Member=Component JP7 Jumper
+Added Member To Class: ClassName=shahbazi2 Member=Component JP8 Jumper
+Added Member To Class: ClassName=shahbazi2 Member=Component JP9 Jumper
+Added Member To Class: ClassName=shahbazi2 Member=Component JP10 Jumper
+Added Member To Class: ClassName=shahbazi2 Member=Component JP11 Jumper
+Added Member To Class: ClassName=shahbazi2 Member=Component JP12 Jumper
+Added Member To Class: ClassName=shahbazi2 Member=Component R5 10K

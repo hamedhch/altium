@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=T3 NewDesignator=T2
+Change Component Designator: OldDesignator=U5 NewDesignator=U4
+Added Component: Designator=JP1(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=T1(phoenix terminal 2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=bat Pin=JP1-1
+Added Pin To Net: NetName=bat Pin=JP1-2
+Added Pin To Net: NetName=GND Pin=T1-1
+Added Pin To Net: NetName=bat Pin=T1-2
+Added Member To Class: ClassName=tablo tara3 Member=Component JP1 Jumper
+Added Member To Class: ClassName=tablo tara3 Member=Component T1 Phoenix terminal

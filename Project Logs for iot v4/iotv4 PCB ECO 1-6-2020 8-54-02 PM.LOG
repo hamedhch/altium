@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=VDD Pin=T15-1
+Removed Pin From Net: NetName=dht Pin=T15-2
+Removed Pin From Net: NetName=GND Pin=T15-3
+Removed Member From Class: ClassName=iotv4 Member=T15
+Added Component: Designator=T14(phoenix terminal R 2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD Pin=T14-1
+Added Pin To Net: NetName=GND Pin=T14-2
+Added Member To Class: ClassName=iotv4 Member=Component T14 Terminal

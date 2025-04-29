@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=vDD Pin=U8-3
+Removed Pin From Net: NetName=vDD Pin=U8-8
+Added Pin To Net: NetName=GND Pin=U11-1
+Added Pin To Net: NetName=vDD Pin=U11-3
+Added Pin To Net: NetName=vesp Pin=U8-3
+Added Pin To Net: NetName=vesp Pin=U8-8
+Added Pin To Net: NetName=vesp Pin=U11-2
+Added Pin To Net: NetName=vesp Pin=U11-4
+Added Net: Name=vesp
+Added Member To Class: ClassName=iotv4 Member=Component U11 LM1117MP-3.3

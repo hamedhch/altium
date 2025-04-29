@@ -1,0 +1,58 @@
+Change Component Designator: OldDesignator=J2 NewDesignator=J4
+Change Component Designator: OldDesignator=J3 NewDesignator=J5
+Change Component Designator: OldDesignator=J4 NewDesignator=J6
+Change Component Designator: OldDesignator=J5 NewDesignator=J7
+Change Component Designator: OldDesignator=J6 NewDesignator=J8
+Change Component Designator: OldDesignator=U10 NewDesignator=U11
+Change Component Designator: OldDesignator=U11 NewDesignator=U12
+Change Component Designator: OldDesignator=U12 NewDesignator=U13
+Change Component Designator: OldDesignator=U13 NewDesignator=U14
+Added Component: Designator=J2(HEADER 4X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J3(HEADER 4X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U10(8S2_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.atmel.com/dyn/resources/prod_documents/doc1187.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Atmel.com Home"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.atmel.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1187E-AVR-06/02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "16-Oct-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Lead, 0.208" Body, Plastic Small Outline Package (EIAJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "8S2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revF, Apr-2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Sep-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ATTINY15L-1SC-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "556-ATTINY15L1SC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=1 Pin=J2-1
+Added Pin To Net: NetName=1 Pin=U10-1
+Added Net: Name=1
+Added Pin To Net: NetName=2 Pin=J2-2
+Added Pin To Net: NetName=2 Pin=U10-2
+Added Net: Name=2
+Added Pin To Net: NetName=3 Pin=J2-3
+Added Pin To Net: NetName=3 Pin=U10-3
+Added Net: Name=3
+Added Pin To Net: NetName=4 Pin=J2-4
+Added Pin To Net: NetName=4 Pin=U10-4
+Added Net: Name=4
+Added Pin To Net: NetName=5 Pin=J3-1
+Added Pin To Net: NetName=5 Pin=U10-5
+Added Net: Name=5
+Added Pin To Net: NetName=6 Pin=J3-2
+Added Pin To Net: NetName=6 Pin=U10-6
+Added Net: Name=6
+Added Pin To Net: NetName=7 Pin=J3-3
+Added Pin To Net: NetName=7 Pin=U10-7
+Added Net: Name=7
+Added Pin To Net: NetName=8 Pin=J3-4
+Added Pin To Net: NetName=8 Pin=U10-8
+Added Net: Name=8
+Added Member To Class: ClassName=iotv4 Member=Component J7 Header6X1
+Added Member To Class: ClassName=iotv4 Member=Component J8 Header4X1
+Added Member To Class: ClassName=iotv4 Member=Component U14 L4931CV30

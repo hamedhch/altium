@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=o1 Pin=R7-1
+Removed Pin From Net: NetName=o2 Pin=R9-1
+Removed Pin From Net: NetName=o3 Pin=R10-1
+Added Pin To Net: NetName=o1 Pin=P1-1
+Added Pin To Net: NetName=o2 Pin=P1-2
+Added Pin To Net: NetName=o3 Pin=P1-3
+Added Pin To Net: NetName=NetP2_1 Pin=P2-1
+Added Pin To Net: NetName=NetP2_1 Pin=R7-2
+Added Net: Name=NetP2_1
+Added Pin To Net: NetName=NetP2_2 Pin=P2-2
+Added Pin To Net: NetName=NetP2_2 Pin=R9-2
+Added Net: Name=NetP2_2
+Added Pin To Net: NetName=NetP2_3 Pin=P2-3
+Added Pin To Net: NetName=NetP2_3 Pin=R10-2
+Added Net: Name=NetP2_3
+Added Member To Class: ClassName=tach key h Member=Component P2 Header 4
+Added Member To Class: ClassName=tach key h Member=Component R8 10K
+Added Member To Class: ClassName=tach key h Member=Component R10 10K
+Added Member To Class: ClassName=tach key h Member=Component R11 10K
+Added Member To Class: ClassName=tach key h Member=Component R12 10K

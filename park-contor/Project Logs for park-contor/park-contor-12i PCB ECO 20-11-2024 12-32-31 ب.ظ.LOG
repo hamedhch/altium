@@ -1,0 +1,62 @@
+Removed Pin From Net: NetName=vcc Pin=E4-1
+Removed Pin From Net: NetName=vcc Pin=P3-3
+Change Component Designator: OldDesignator=btn NewDesignator=S1
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Change Component Designator: OldDesignator=P3 NewDesignator=P4
+Change Component Designator: OldDesignator=P4 NewDesignator=P5
+Change Component Designator: OldDesignator=P5 NewDesignator=P6
+Change Component Designator: OldDesignator=P6 NewDesignator=P7
+Change Component Designator: OldDesignator=P7 NewDesignator=P8
+Change Component Designator: OldDesignator=RST NewDesignator=S2
+Added Component: Designator=P1(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=vdd Pin=P1-1
+Added Pin To Net: NetName=vcc Pin=P1-2
+Change Net Name : Old Net Name=NetP1_4 New Net Name=NetP2_4
+Change Net Name : Old Net Name=NetP1_5 New Net Name=NetP2_5
+Change Net Name : Old Net Name=NetP1_6 New Net Name=NetP2_6
+Change Net Name : Old Net Name=NetP1_7 New Net Name=NetP2_7
+Change Net Name : Old Net Name=NetP1_8 New Net Name=NetP2_8
+Change Net Name : Old Net Name=NetP1_9 New Net Name=NetP2_9
+Change Net Name : Old Net Name=NetP4_1 New Net Name=NetP5_1
+Change Net Name : Old Net Name=NetP4_2 New Net Name=NetP5_2
+Change Net Name : Old Net Name=NetP5_1 New Net Name=NetP6_1
+Change Net Name : Old Net Name=NetP5_8 New Net Name=NetP6_8
+Added Pin To Net: NetName=NetE4_1 Pin=E4-1
+Added Pin To Net: NetName=NetE4_1 Pin=P1-3
+Added Pin To Net: NetName=NetE4_1 Pin=P4-3
+Added Net: Name=NetE4_1
+Added Member To Class: ClassName=park-contor-12i Member=Component C3 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C5 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C6 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C8 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C10 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C11 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C12 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C14 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C15 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C16 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C18 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C19 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C20 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C22 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C24 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C26 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C28 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C30 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C32 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C34 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C36 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C37 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C39 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C41 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C43 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C45 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C46 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C48 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C50 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component C51 =Value
+Added Member To Class: ClassName=park-contor-12i Member=Component P8 Header 4

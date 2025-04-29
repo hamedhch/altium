@@ -1,0 +1,79 @@
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=D2 NewDesignator=D4
+Change Component Designator: OldDesignator=D3 NewDesignator=D5
+Change Component Designator: OldDesignator=D4 NewDesignator=D6
+Change Component Designator: OldDesignator=D5 NewDesignator=D7
+Change Component Designator: OldDesignator=D6 NewDesignator=D8
+Change Component Designator: OldDesignator=D7 NewDesignator=D9
+Change Component Designator: OldDesignator=D8 NewDesignator=D10
+Change Component Designator: OldDesignator=D9 NewDesignator=D11
+Change Component Designator: OldDesignator=D10 NewDesignator=D12
+Change Component Designator: OldDesignator=D11 NewDesignator=D13
+Change Component Designator: OldDesignator=D12 NewDesignator=D14
+Change Component Designator: OldDesignator=D13 NewDesignator=D15
+Change Component Designator: OldDesignator=D14 NewDesignator=D16
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Added Component: Designator=D2(3.2X1.6X1.1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SM LED; 2 Flat Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3.2X1.6X1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D3(3.2X1.6X1.1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SM LED; 2 Flat Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3.2X1.6X1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOT89L)
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOT223-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "TO-261-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LM1117 Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.national.com/ds/LM/LM1117.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "LM1117 Web Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.national.com/pf/LM/LM1117.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "MP04A Package Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.national.com/packaging/folders/mp04a.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "LDO IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Apr-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKeyPartNumber"; Value = "LM1117MP-3.3CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "National Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Molded SOT-223, 6.50 x 3.56 x 1.6mm Body, 4 Lead, 2.3mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "MP04A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageTopMarking"; Value = "XYTT*N05A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revB, Apr-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LM1117MP-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerWise"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "4-Dec-2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "O"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=vcc Pin=D2-1
+Added Pin To Net: NetName=vdd Pin=D3-2
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=vcc Pin=U3-2
+Added Pin To Net: NetName=vcc Pin=U3-2
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD4_1
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD5_2
+Change Net Name : Old Net Name=NetD4_2 New Net Name=NetD6_2
+Change Net Name : Old Net Name=NetD5_2 New Net Name=NetD7_2
+Change Net Name : Old Net Name=NetD6_2 New Net Name=NetD8_2
+Change Net Name : Old Net Name=NetD7_2 New Net Name=NetD9_2
+Change Net Name : Old Net Name=NetD8_2 New Net Name=NetD10_2
+Change Net Name : Old Net Name=NetD9_2 New Net Name=NetD11_2
+Change Net Name : Old Net Name=NetD10_2 New Net Name=NetD12_2
+Change Net Name : Old Net Name=NetD11_1 New Net Name=NetD13_1
+Change Net Name : Old Net Name=NetD11_2 New Net Name=NetD13_2
+Change Net Name : Old Net Name=NetD12_2 New Net Name=NetD14_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=D3-1
+Added Pin To Net: NetName=NetD2_2 Pin=U3-3
+Added Net: Name=NetD2_2
+Added Member To Class: ClassName=touch-24 Member=Component D15 D Tunnel1
+Added Member To Class: ClassName=touch-24 Member=Component D16 D Tunnel1
+Added Member To Class: ClassName=touch-24 Member=Component U4 PC817

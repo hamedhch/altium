@@ -1,0 +1,91 @@
+Removed Pin From Net: NetName=GND Pin=D5-1
+Removed Pin From Net: NetName=GND Pin=R9-1
+Removed Pin From Net: NetName=GND Pin=R11-1
+Removed Pin From Net: NetName=GND Pin=U4-3
+Removed Pin From Net: NetName=GND Pin=U5-2
+Change Component Designator: OldDesignator=D5 NewDesignator=D12
+Change Component Designator: OldDesignator=D6 NewDesignator=D11
+Change Component Designator: OldDesignator=D7 NewDesignator=D6
+Change Component Designator: OldDesignator=D8 NewDesignator=D5
+Change Component Designator: OldDesignator=D9 NewDesignator=D7
+Change Component Designator: OldDesignator=D10 NewDesignator=D8
+Change Component Designator: OldDesignator=D11 NewDesignator=D9
+Change Component Designator: OldDesignator=D12 NewDesignator=D10
+Added Component: Designator=P1(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=S1(DPST-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Switch; 4 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DPST-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=S2(DPST-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Switch; 4 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "DPST-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD Pin=P1-3
+Added Pin To Net: NetName=VDD Pin=P2-2
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-4
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S2-4
+Change Net Name : Old Net Name=NetD7_1 New Net Name=NetD6_1
+Change Net Name : Old Net Name=NetD8_1 New Net Name=NetD5_1
+Change Net Name : Old Net Name=NetD9_1 New Net Name=NetD7_1
+Change Net Name : Old Net Name=NetD10_2 New Net Name=NetD8_2
+Change Net Name : Old Net Name=NetD11_1 New Net Name=NetD9_1
+Change Net Name : Old Net Name=NetD12_2 New Net Name=NetD10_2
+Added Pin To Net: NetName=ADC Pin=P2-1
+Added Pin To Net: NetName=ADC Pin=U2-2
+Added Net: Name=ADC
+Added Pin To Net: NetName=btn Pin=S2-3
+Added Pin To Net: NetName=btn Pin=U2-18
+Added Net: Name=btn
+Added Pin To Net: NetName=dht Pin=P1-2
+Added Pin To Net: NetName=dht Pin=U2-7
+Added Net: Name=dht
+Added Pin To Net: NetName=NetD12_1 Pin=D12-1
+Added Pin To Net: NetName=NetD12_1 Pin=U5-2
+Added Net: Name=NetD12_1
+Added Pin To Net: NetName=NetR9_1 Pin=R9-1
+Added Pin To Net: NetName=NetR9_1 Pin=R11-1
+Added Pin To Net: NetName=NetR9_1 Pin=U4-3
+Added Net: Name=NetR9_1
+Added Pin To Net: NetName=NetU2_16 Pin=U2-16
+Added Pin To Net: NetName=NetU2_16 Pin=U2-17
+Added Net: Name=NetU2_16
+Added Pin To Net: NetName=O1 Pin=D5-2
+Added Pin To Net: NetName=O1 Pin=U2-6
+Added Net: Name=O1
+Added Pin To Net: NetName=O2 Pin=D6-2
+Added Pin To Net: NetName=O2 Pin=U2-5
+Added Net: Name=O2
+Added Pin To Net: NetName=O3 Pin=D11-2
+Added Pin To Net: NetName=O3 Pin=U2-4
+Added Net: Name=O3
+Added Pin To Net: NetName=O4 Pin=D12-2
+Added Pin To Net: NetName=O4 Pin=U2-20
+Added Net: Name=O4
+Added Pin To Net: NetName=rst Pin=S1-3
+Added Pin To Net: NetName=rst Pin=U2-1
+Added Net: Name=rst
+Added Member To Class: ClassName=iotv2 Member=Component D11 Diode
+Added Member To Class: ClassName=iotv2 Member=Component D12 Diode
+Added Member To Class: ClassName=iotv2 Member=Component P1 Header 3
+Added Member To Class: ClassName=iotv2 Member=Component P2 Header 2
+Added Member To Class: ClassName=iotv2 Member=Component S1 SW-DPST
+Added Member To Class: ClassName=iotv2 Member=Component S2 SW-DPST

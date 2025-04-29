@@ -1,0 +1,10 @@
+Added Component: Designator=R2(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=o3 Pin=R2-1
+Added Pin To Net: NetName=NetR2_2 Pin=R2-2
+Added Member To Class: ClassName=smart home3-2 Member=Component J3 TBlock-3
+Added Member To Class: ClassName=smart home3-2 Member=Component R2 10K
+Added Member To Class: ClassName=smart home3-2 Member=Component R3 10K
+Added Member To Class: ClassName=smart home3-2 Member=Component U3 K3021P

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=vesp Pin=C1-1
+Removed Pin From Net: NetName=vesp Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Member From Class: ClassName=ir-rf Member=C2
+Change Component Footprint: Designator=C1 Old Footprint=CAP 0805 New Footprint=CAP 1206
+Added Pin To Net: NetName=vdD Pin=C1-1
+Added Member To Class: ClassName=ir-rf Member=Component J2 Header2X1

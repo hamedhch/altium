@@ -1,0 +1,7 @@
+Added Component: Designator=C4(CAP 1206)
+Added Pin To Net: NetName=VCC Pin=C4-2
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=R5-2
+Added Pin To Net: NetName=NetC4_1 Pin=U2-2
+Added Net: Name=NetC4_1
+Added Member To Class: ClassName=tuch-tara2 Member=Component C4 =Value

@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=i1 Pin=U3-3
+Added Pin To Net: NetName=ca1 Pin=U2-24
+Added Pin To Net: NetName=ca1 Pin=U3-11
+Added Net: Name=ca1
+Added Pin To Net: NetName=cb1 Pin=U2-25
+Added Pin To Net: NetName=cb1 Pin=U3-10
+Added Net: Name=cb1
+Added Pin To Net: NetName=cc1 Pin=U2-26
+Added Pin To Net: NetName=cc1 Pin=U3-9
+Added Net: Name=cc1

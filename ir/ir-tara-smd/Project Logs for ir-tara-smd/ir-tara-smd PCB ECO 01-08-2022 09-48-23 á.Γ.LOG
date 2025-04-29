@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetD1_1 Pin=D2-2
+Removed Pin From Net: NetName=VCC Pin=R4-1
+Removed Pin From Net: NetName=VCC Pin=R4-2
+Added Pin To Net: NetName=VCC Pin=D2-1
+Added Pin To Net: NetName=GND Pin=R4-2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R4-1
+Added Net: Name=NetD2_2
+Added Member To Class: ClassName=ir-tara-smd Member=Component C2 =Value
+Added Member To Class: ClassName=ir-tara-smd Member=Component D1 MODEL
+Added Member To Class: ClassName=ir-tara-smd Member=Component D2 LED 3mm
+Added Member To Class: ClassName=ir-tara-smd Member=Component P1 Header 3
+Added Member To Class: ClassName=ir-tara-smd Member=Component R1 10K
+Added Member To Class: ClassName=ir-tara-smd Member=Component R3 10K
+Added Member To Class: ClassName=ir-tara-smd Member=Component R4 10K

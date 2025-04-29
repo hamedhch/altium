@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=faz Pin=U3-4
+Added Pin To Net: NetName=nol Pin=P3-1
+Added Pin To Net: NetName=nol Pin=U1-6
+Added Pin To Net: NetName=nol Pin=U2-4
+Added Net: Name=nol

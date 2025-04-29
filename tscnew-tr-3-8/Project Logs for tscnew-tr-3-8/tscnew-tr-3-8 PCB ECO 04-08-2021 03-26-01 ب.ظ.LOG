@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=NetJ1_2 Pin=J3-1
+Removed Pin From Net: NetName=NetJ1_3 Pin=J3-2
+Removed Pin From Net: NetName=adc Pin=R2-2
+Removed Pin From Net: NetName=adc Pin=U3-2
+Removed Pin From Net: NetName=NetJ1_3 Pin=U3-21
+Removed Pin From Net: NetName=NetJ1_2 Pin=U3-22
+Removed Pin From Net: NetName=adc Pin=U4-4
+Added Pin To Net: NetName=NetJ1_3 Pin=J3-1
+Added Pin To Net: NetName=adc Pin=J3-2
+Added Pin To Net: NetName=NetJ1_2 Pin=R2-2
+Added Pin To Net: NetName=NetJ1_2 Pin=U3-2
+Added Pin To Net: NetName=adc Pin=U3-21
+Added Pin To Net: NetName=NetJ1_3 Pin=U3-22
+Added Pin To Net: NetName=NetJ1_2 Pin=U4-4
+Change Net Name : Old Net Name=adc New Net Name=NetJ1_4
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=adc
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component C2 =Value
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component J1 Header5X1
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component J3 Header2X1
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component J4 Header3X1
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component J5 TBlock-2
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component P1 Header 7

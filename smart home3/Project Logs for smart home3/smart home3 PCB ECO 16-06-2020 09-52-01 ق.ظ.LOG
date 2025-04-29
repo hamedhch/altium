@@ -1,0 +1,23 @@
+Removed Member From Class: ClassName=smart home3 Member=T2
+Removed Member From Class: ClassName=smart home3 Member=T3
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=T2 NewDesignator=T1
+Added Component: Designator=J1(KF300-2 PIN)
+Added Component: Designator=J2(KF300-2 PIN)
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=Q1-2
+Added Pin To Net: NetName=NetJ1_1 Pin=R1-2
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=Q1-1
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=Q2-2
+Added Pin To Net: NetName=NetJ2_1 Pin=R3-2
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=Q2-1
+Added Net: Name=NetJ2_2
+Added Member To Class: ClassName=smart home3 Member=Component J1 TBlock-2
+Added Member To Class: ClassName=smart home3 Member=Component J2 TBlock-2

@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=JP9 NewDesignator=JP8
+Change Component Designator: OldDesignator=JP10 NewDesignator=JP9
+Added Component: Designator=JP10(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=data Pin=JP10-1
+Added Pin To Net: NetName=data Pin=JP10-2
+Added Member To Class: ClassName=iotv4 Member=Component JP10 Jumper

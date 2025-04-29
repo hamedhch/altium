@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=C8 Old Footprint=CAP 1206 New Footprint=CAP 0805
+Change Component Footprint: Designator=C9 Old Footprint=CAP 1206 New Footprint=CAP 0805
+Added Member To Class: ClassName=tuch-tara3 Member=Component C6 Cap Semi
+Added Member To Class: ClassName=tuch-tara3 Member=Component R8 10K
+Added Member To Class: ClassName=tuch-tara3 Member=Component R9 10K
+Added Member To Class: ClassName=tuch-tara3 Member=Component U4 TTP223_

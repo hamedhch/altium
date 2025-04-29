@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=GND Pin=D5-2
+Removed Pin From Net: NetName=GND Pin=Q1-1
+Removed Pin From Net: NetName=NetD2_2 Pin=Q1-2
+Removed Pin From Net: NetName=NetD2_2 Pin=Q1-2
+Removed Pin From Net: NetName=o1 Pin=R1-1
+Removed Pin From Net: NetName=VDD Pin=R2-1
+Removed Pin From Net: NetName=VDD Pin=R3-1
+Removed Pin From Net: NetName=vcc Pin=R5-2
+Removed Pin From Net: NetName=VDD Pin=R7-1
+Removed Pin From Net: NetName=vcc Pin=R7-2
+Removed Pin From Net: NetName=VDD Pin=R9-1
+Removed Pin From Net: NetName=VDD Pin=R10-1
+Removed Member From Class: ClassName=touch-tara-h Member=Q4
+Removed Member From Class: ClassName=touch-tara-h Member=R11
+Change Component Designator: OldDesignator=D3 NewDesignator=D5
+Change Component Designator: OldDesignator=D4 NewDesignator=D3
+Change Component Designator: OldDesignator=D5 NewDesignator=D4
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q1
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q2
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q3
+Change Component Designator: OldDesignator=R2 NewDesignator=R8
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R1
+Change Component Designator: OldDesignator=R5 NewDesignator=R3
+Change Component Designator: OldDesignator=R6 NewDesignator=R2
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R5
+Change Component Designator: OldDesignator=R10 NewDesignator=R6
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Added Pin To Net: NetName=NetD2_2 Pin=D3-1
+Added Pin To Net: NetName=vcc Pin=R8-2
+Change Net Name : Old Net Name=NetD4_2 New Net Name=NetD3_2
+Change Net Name : Old Net Name=NetQ2_3 New Net Name=NetQ1_3
+Change Net Name : Old Net Name=NetQ3_3 New Net Name=NetQ2_3
+Change Net Name : Old Net Name=NetQ4_3 New Net Name=NetQ3_3
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=R6-1
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetR3_2 Pin=R3-2
+Added Pin To Net: NetName=NetR3_2 Pin=R4-1
+Added Net: Name=NetR3_2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=R5-1
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR6_2 Pin=R6-2
+Added Pin To Net: NetName=NetR6_2 Pin=R7-1
+Added Net: Name=NetR6_2
+Added Pin To Net: NetName=NetR7_2 Pin=R7-2
+Added Pin To Net: NetName=NetR7_2 Pin=R8-1
+Added Net: Name=NetR7_2

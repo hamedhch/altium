@@ -1,0 +1,91 @@
+Removed Pin From Net: NetName=GND Pin=R5-2
+Removed Pin From Net: NetName=GND Pin=R6-2
+Removed Pin From Net: NetName=GND Pin=R11-2
+Removed Pin From Net: NetName=GND Pin=R12-2
+Removed Pin From Net: NetName=GND Pin=R17-2
+Removed Pin From Net: NetName=GND Pin=R18-2
+Removed Pin From Net: NetName=GND Pin=R23-2
+Removed Pin From Net: NetName=GND Pin=R24-2
+Removed Pin From Net: NetName=VDD Pin=U1-1
+Removed Pin From Net: NetName=O1 Pin=U1-2
+Removed Pin From Net: NetName=VCC Pin=U1-4
+Removed Pin From Net: NetName=VDD Pin=U3-1
+Removed Pin From Net: NetName=o7 Pin=U3-2
+Removed Pin From Net: NetName=VCC Pin=U3-4
+Removed Pin From Net: NetName=VDD Pin=U5-1
+Removed Pin From Net: NetName=O2 Pin=U5-2
+Removed Pin From Net: NetName=VCC Pin=U5-4
+Removed Pin From Net: NetName=VDD Pin=U7-1
+Removed Pin From Net: NetName=o6 Pin=U7-2
+Removed Pin From Net: NetName=VCC Pin=U7-4
+Removed Pin From Net: NetName=VDD Pin=U11-1
+Removed Pin From Net: NetName=O3 Pin=U11-2
+Removed Pin From Net: NetName=VCC Pin=U11-4
+Removed Pin From Net: NetName=VDD Pin=U12-1
+Removed Pin From Net: NetName=o5 Pin=U12-2
+Removed Pin From Net: NetName=VCC Pin=U12-4
+Removed Pin From Net: NetName=VDD Pin=U15-1
+Removed Pin From Net: NetName=o4 Pin=U15-2
+Removed Pin From Net: NetName=VCC Pin=U15-4
+Removed Pin From Net: NetName=VDD Pin=U16-1
+Removed Pin From Net: NetName=o8 Pin=U16-2
+Removed Pin From Net: NetName=VCC Pin=U16-4
+Removed Member From Class: ClassName=iotv3 Member=R5
+Removed Member From Class: ClassName=iotv3 Member=R6
+Removed Member From Class: ClassName=iotv3 Member=R11
+Removed Member From Class: ClassName=iotv3 Member=R12
+Removed Member From Class: ClassName=iotv3 Member=R17
+Removed Member From Class: ClassName=iotv3 Member=R18
+Removed Member From Class: ClassName=iotv3 Member=R23
+Removed Member From Class: ClassName=iotv3 Member=R24
+Removed Member From Class: ClassName=iotv3 Member=U1
+Removed Member From Class: ClassName=iotv3 Member=U3
+Removed Member From Class: ClassName=iotv3 Member=U5
+Removed Member From Class: ClassName=iotv3 Member=U7
+Removed Member From Class: ClassName=iotv3 Member=U11
+Removed Member From Class: ClassName=iotv3 Member=U12
+Removed Member From Class: ClassName=iotv3 Member=U15
+Removed Member From Class: ClassName=iotv3 Member=U16
+Change Component Footprint: Designator=R3 Old Footprint=Res-(1/4) New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R4 Old Footprint=Res-(1/4) New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R9 Old Footprint=Res-(1/4) New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R10 Old Footprint=Res-(1/4) New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R15 Old Footprint=Res-(1/4) New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R16 Old Footprint=Res-(1/4) New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R21 Old Footprint=Res-(1/4) New Footprint=AXIAL-0.4
+Change Component Footprint: Designator=R22 Old Footprint=Res-(1/4) New Footprint=AXIAL-0.4
+Change component parameters: Designator = "R4"; Footprint = "AXIAL-0.4"; UniqueID = "\DYUCEJQH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R10"; Footprint = "AXIAL-0.4"; UniqueID = "\GMLSWVMG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R21"; Footprint = "AXIAL-0.4"; UniqueID = "\OHKAARFY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R22"; Footprint = "AXIAL-0.4"; UniqueID = "\POJHUEBH"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change Class Name : Old Net Name=iotv3 New Net Name=iotv4
+Change Room Name: Old Name=iotv3 New Name=iotv4
+Change Room Scope: Old Scope=InComponentClass('iotv3') New Scope=InComponentClass('iotv4')

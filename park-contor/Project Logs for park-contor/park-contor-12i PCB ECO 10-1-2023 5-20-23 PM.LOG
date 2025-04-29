@@ -1,0 +1,27 @@
+Removed Pin From Net: NetName=vcc Pin=P4-8
+Removed Pin From Net: NetName=GND Pin=P4-9
+Added Pin To Net: NetName=vcc Pin=P4-9
+Added Pin To Net: NetName=bizer Pin=U2-58
+Added Pin To Net: NetName=l1 Pin=P3-4
+Added Pin To Net: NetName=l1 Pin=P4-4
+Added Pin To Net: NetName=l1 Pin=U2-10
+Added Net: Name=l1
+Added Pin To Net: NetName=l2 Pin=P3-3
+Added Pin To Net: NetName=l2 Pin=P4-5
+Added Pin To Net: NetName=l2 Pin=U2-11
+Added Net: Name=l2
+Added Pin To Net: NetName=l3 Pin=P3-2
+Added Pin To Net: NetName=l3 Pin=P4-6
+Added Pin To Net: NetName=l3 Pin=U2-12
+Added Net: Name=l3
+Added Pin To Net: NetName=l4 Pin=P3-1
+Added Pin To Net: NetName=l4 Pin=P4-7
+Added Pin To Net: NetName=l4 Pin=U2-13
+Added Net: Name=l4
+Added Pin To Net: NetName=NetP4_8 Pin=P4-8
+Added Pin To Net: NetName=NetP4_8 Pin=PT1-3
+Added Net: Name=NetP4_8
+Added Member To Class: ClassName=park-contor-12i Member=Component D9 LED2
+Added Member To Class: ClassName=park-contor-12i Member=Component D13 LED2
+Added Member To Class: ClassName=park-contor-12i Member=Component R2 10K
+Added Member To Class: ClassName=park-contor-12i Member=Component R3 10K

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=NetD11_2 Pin=Q7-3
+Removed Pin From Net: NetName=NetD12_2 Pin=Q8-3
+Added Component: Designator=JP1(Jumper Selector)
+Added Component: Designator=JP2(Jumper Selector)
+Added Pin To Net: NetName=NetD11_2 Pin=JP1-1
+Added Pin To Net: NetName=NetD12_2 Pin=JP2-1
+Added Pin To Net: NetName=NetJP1_2 Pin=JP1-2
+Added Pin To Net: NetName=NetJP1_2 Pin=JP2-3
+Added Pin To Net: NetName=NetJP1_2 Pin=Q7-3
+Added Net: Name=NetJP1_2
+Added Pin To Net: NetName=NetJP1_3 Pin=JP1-3
+Added Pin To Net: NetName=NetJP1_3 Pin=JP2-2
+Added Pin To Net: NetName=NetJP1_3 Pin=Q8-3
+Added Net: Name=NetJP1_3
+Added Member To Class: ClassName=touch-24 Member=Component JP1 Jumper Selector
+Added Member To Class: ClassName=touch-24 Member=Component JP2 Jumper Selector

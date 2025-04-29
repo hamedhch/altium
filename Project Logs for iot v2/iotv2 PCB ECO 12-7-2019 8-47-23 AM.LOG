@@ -1,0 +1,20 @@
+Removed Member From Class: ClassName=iotv2 Member=D8
+Added Component: Designator=U3(ESP_12)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "IC"; Value = "ESP8266-EX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Ai-thinker"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=rst Pin=U3-1
+Added Pin To Net: NetName=ADC Pin=U3-2
+Added Pin To Net: NetName=VDD Pin=U3-3
+Added Pin To Net: NetName=O3 Pin=U3-4
+Added Pin To Net: NetName=O2 Pin=U3-5
+Added Pin To Net: NetName=O1 Pin=U3-6
+Added Pin To Net: NetName=dht Pin=U3-7
+Added Pin To Net: NetName=VDD Pin=U3-8
+Added Pin To Net: NetName=GND Pin=U3-9
+Added Pin To Net: NetName=GND Pin=U3-10
+Added Pin To Net: NetName=O4 Pin=U3-11
+Added Pin To Net: NetName=btn Pin=U3-12
+Added Pin To Net: NetName=rx Pin=U3-15
+Added Pin To Net: NetName=tx Pin=U3-16
+Added Member To Class: ClassName=iotv2 Member=Component U3 ESP_12

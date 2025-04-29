@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Change Component Designator: OldDesignator=J3 NewDesignator=J4
+Added Component: Designator=J2(HEADER 3X1)
+Added Pin To Net: NetName=o4 Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=U1-22
+Added Net: Name=NetJ2_1
+Added Member To Class: ClassName=sanati4i4o Member=Component J4 PWR2.5

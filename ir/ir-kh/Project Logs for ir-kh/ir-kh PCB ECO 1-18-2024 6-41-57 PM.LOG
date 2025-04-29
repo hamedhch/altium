@@ -1,0 +1,12 @@
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R2-2
+Added Net: Name=NetD2_1
+Added Member To Class: ClassName=ir-kh Member=Component R1 10K
+Added Member To Class: ClassName=ir-kh Member=Component R2 10K
+Added Member To Class: ClassName=ir-kh Member=Component R4 10K
+Added Member To Class: ClassName=ir-kh Member=Component R5 10K
+Added Member To Class: ClassName=ir-kh Member=Component R6 10K
+Added Member To Class: ClassName=ir-kh Member=Component R8 10K

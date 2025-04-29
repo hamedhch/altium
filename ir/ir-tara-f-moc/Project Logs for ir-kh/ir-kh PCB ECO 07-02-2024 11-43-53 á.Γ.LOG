@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=ir-r Pin=U1-2
+Removed Pin From Net: NetName=ir-t Pin=U1-3
+Removed Pin From Net: NetName=out Pin=U1-4
+Removed Pin From Net: NetName=zero Pin=U1-5
+Added Pin To Net: NetName=out Pin=U1-2
+Added Pin To Net: NetName=zero Pin=U1-3
+Added Pin To Net: NetName=ir-r Pin=U1-4
+Added Pin To Net: NetName=ir-t Pin=U1-5
+Added Member To Class: ClassName=ir-kh Member=Component D6 MODEL
+Added Member To Class: ClassName=ir-kh Member=Component R2 10K
+Added Member To Class: ClassName=ir-kh Member=Component R3 10K
+Added Member To Class: ClassName=ir-kh Member=Component R9 10K

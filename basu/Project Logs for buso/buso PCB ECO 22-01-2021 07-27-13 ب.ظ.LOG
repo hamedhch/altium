@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=rst Pin=U9-1
+Removed Pin From Net: NetName=vDD Pin=U9-3
+Removed Pin From Net: NetName=i12 Pin=U9-4
+Removed Pin From Net: NetName=i11 Pin=U9-5
+Removed Pin From Net: NetName=i13 Pin=U9-6
+Removed Pin From Net: NetName=i9 Pin=U9-7
+Removed Pin From Net: NetName=vDD Pin=U9-8
+Removed Pin From Net: NetName=i10 Pin=U9-12
+Removed Pin From Net: NetName=GND Pin=U9-15
+Removed Pin From Net: NetName=GND Pin=U9-16
+Removed Pin From Net: NetName=led Pin=U9-17
+Removed Pin From Net: NetName=btn Pin=U9-18
+Removed Pin From Net: NetName=sda Pin=U9-19
+Removed Pin From Net: NetName=scl Pin=U9-20
+Removed Pin From Net: NetName=rx Pin=U9-21
+Removed Pin From Net: NetName=rx2 Pin=U9-22
+Change Component Footprint: Designator=U9 Old Footprint=ESP_12_E New Footprint=44A_N
+Change Component Comment : Designator=U9 Old Comment=ESP_12_E New Comment=ATmega16-16AC
+Change Component Comment : Designator=C2 Old Comment=Value New Comment==Value
+Change Component Comment : Designator=C3 Old Comment=Value New Comment==Value
+Change Component Comment : Designator=C4 Old Comment=Value New Comment==Value
+Change Component Comment : Designator=C5 Old Comment=Value New Comment==Value
+Change Component Designator: OldDesignator=U9 NewDesignator=U?
+Change component parameters: Designator = "U9" ("U?"); Footprint = "ESP_12_E"; UniqueID = "\UMUJVUDK" ("\UMUJVUDK")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.atmel.com/dyn/resources/prod_documents/doc2466.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Atmel.com Home"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.atmel.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "2466E-AVR-10/02"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "16-Oct-2006"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "44-Pin Plastic Thin Profile Quad Flat Pack, 10 x 10 x 1.0 mm Body, 0.8 mm Pitch (TQFP)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "44A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "rev.B, Oct-2001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "17-Sep-2003"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "ATMEGA16-16AC-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 2"; Value = "556-ATMEGA16-16AC"; VariantName = "[No Variations]"
+Added Component: Designator=U9(ESP_12_E)
+Add component (AddParameter): Name = "IC"; Value = "ESP8266-EX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Ai-thinker"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=rst Pin=U9-1
+Added Pin To Net: NetName=ADC Pin=U9-2
+Added Pin To Net: NetName=vDD Pin=U9-3
+Added Pin To Net: NetName=i12 Pin=U9-4
+Added Pin To Net: NetName=i11 Pin=U9-5
+Added Pin To Net: NetName=i13 Pin=U9-6
+Added Pin To Net: NetName=i9 Pin=U9-7
+Added Pin To Net: NetName=vDD Pin=U9-8
+Added Pin To Net: NetName=i10 Pin=U9-12
+Added Pin To Net: NetName=GND Pin=U9-15
+Added Pin To Net: NetName=GND Pin=U9-16
+Added Pin To Net: NetName=led Pin=U9-17
+Added Pin To Net: NetName=btn Pin=U9-18
+Added Pin To Net: NetName=sda Pin=U9-19
+Added Pin To Net: NetName=scl Pin=U9-20
+Added Pin To Net: NetName=rx Pin=U9-21
+Added Pin To Net: NetName=rx2 Pin=U9-22
+Change Class Name : Old Net Name=shahbazi New Net Name=buso
+Added Member To Class: ClassName=buso Member=Component U? ATmega16-16AC
+Change Room Name: Old Name=shahbazi New Name=buso
+Change Room Scope: Old Scope=InComponentClass('shahbazi') New Scope=InComponentClass('buso')

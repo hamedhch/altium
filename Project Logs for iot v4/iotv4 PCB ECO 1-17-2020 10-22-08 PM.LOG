@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=rx2 Pin=J3-4
+Removed Pin From Net: NetName=rx Pin=J3-5
+Removed Pin From Net: NetName=rx Pin=JP7-1
+Removed Pin From Net: NetName=rx Pin=JP7-2
+Removed Pin From Net: NetName=rx2 Pin=JP9-1
+Removed Pin From Net: NetName=rx2 Pin=JP9-2
+Removed Pin From Net: NetName=i7 Pin=U8-6
+Removed Pin From Net: NetName=i6 Pin=U8-7
+Added Component: Designator=JP?(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP?(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=rxsim Pin=J3-4
+Added Pin To Net: NetName=rxsim Pin=JP7-1
+Added Pin To Net: NetName=rxsim Pin=JP7-2
+Added Pin To Net: NetName=rxsim Pin=JP?-1
+Added Pin To Net: NetName=rxsim Pin=JP?-2
+Added Pin To Net: NetName=rxsim Pin=U8-7
+Added Net: Name=rxsim
+Added Pin To Net: NetName=txsim Pin=J3-5
+Added Pin To Net: NetName=txsim Pin=JP9-1
+Added Pin To Net: NetName=txsim Pin=JP9-2
+Added Pin To Net: NetName=txsim Pin=JP?-1
+Added Pin To Net: NetName=txsim Pin=JP?-2
+Added Pin To Net: NetName=txsim Pin=U8-6
+Added Net: Name=txsim
+Added Member To Class: ClassName=iotv4 Member=Component JP? Jumper
+Added Member To Class: ClassName=iotv4 Member=Component JP? Jumper

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=vcc Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J3-2
+Removed Pin From Net: NetName=o5 Pin=J3-4
+Removed Pin From Net: NetName=o4 Pin=J3-5
+Removed Member From Class: ClassName=touch-tara-h Member=J3

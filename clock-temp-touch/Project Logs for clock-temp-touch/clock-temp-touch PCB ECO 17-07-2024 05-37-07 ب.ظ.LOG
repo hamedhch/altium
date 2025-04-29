@@ -1,0 +1,48 @@
+Add Pin To Net: Unknown Pin: Pin LS2-1
+Add Pin To Net: Unknown Pin: Pin LS2-2
+Added Pin To Net: NetName=L4 Pin=U1-17
+Added Pin To Net: NetName=dot Pin=U1-18
+Added Pin To Net: NetName=L5 Pin=U1-19
+Added Pin To Net: NetName=R4 Pin=U1-20
+Added Pin To Net: NetName=R3 Pin=U1-21
+Added Pin To Net: NetName=L6 Pin=U1-22
+Added Pin To Net: NetName=l1 Pin=U1-23
+Added Pin To Net: NetName=R2 Pin=U1-24
+Added Pin To Net: NetName=l2 Pin=U1-25
+Added Pin To Net: NetName=R1 Pin=U1-26
+Added Pin To Net: NetName=L7 Pin=U1-27
+Added Pin To Net: NetName=L3 Pin=U1-28
+Added Member To Class: ClassName=clock-temp-touch Member=Component D4 D Tunnel1
+Added Member To Class: ClassName=clock-temp-touch Member=Component D5 D Tunnel1
+Added Member To Class: ClassName=clock-temp-touch Member=Component D6 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D7 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D8 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D9 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D10 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D11 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D12 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D13 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D14 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D15 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D16 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D17 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D18 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D19 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D22 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D23 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D24 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D25 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D26 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D27 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D28 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D29 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D30 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D31 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D33 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component LS2 Buzzer
+Added Member To Class: ClassName=clock-temp-touch Member=Component R4 10K
+Added Member To Class: ClassName=clock-temp-touch Member=Component R5 10K
+Added Member To Class: ClassName=clock-temp-touch Member=Component R6 10K
+Added Member To Class: ClassName=clock-temp-touch Member=Component R8 10K
+Added Member To Class: ClassName=clock-temp-touch Member=Component U2 MB6S
+Added Member To Class: ClassName=clock-temp-touch Member=Component U5 K3021P

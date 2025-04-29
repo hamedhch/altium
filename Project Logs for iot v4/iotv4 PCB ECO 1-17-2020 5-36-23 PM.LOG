@@ -1,0 +1,9 @@
+Added Component: Designator=JP6(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=led2 Pin=D17-2
+Added Pin To Net: NetName=led2 Pin=JP6-1
+Added Net: Name=led2
+Added Pin To Net: NetName=led Pin=JP6-2
+Added Pin To Net: NetName=led Pin=U8-17
+Added Net: Name=led
+Added Member To Class: ClassName=iotv4 Member=Component JP6 Jumper

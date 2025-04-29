@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=O1 Pin=U2-1
+Removed Pin From Net: NetName=O2 Pin=U2-2
+Removed Pin From Net: NetName=O3 Pin=U2-3
+Removed Pin From Net: NetName=o5 Pin=U2-5
+Removed Pin From Net: NetName=o6 Pin=U2-6
+Removed Pin From Net: NetName=o7 Pin=U2-7
+Add Component: Footprint Not Found MP04A_N
+Added Pin To Net: NetName=o7 Pin=U2-1
+Added Pin To Net: NetName=o6 Pin=U2-2
+Added Pin To Net: NetName=o5 Pin=U2-3
+Added Pin To Net: NetName=O3 Pin=U2-5
+Added Pin To Net: NetName=O2 Pin=U2-6
+Added Pin To Net: NetName=O1 Pin=U2-7
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-3
+Add Pin To Net: Unknown Pin: Pin U4-4
+Added Member To Class: ClassName=dast Member=Component U1 74HC595D-Q100,118
+Added Member To Class: ClassName=dast Member=Component U2 ULN2003ADRG4
+Added Member To Class: ClassName=dast Member=Component U3 ATtiny15L-1SC
+Add Class Member: Failed to add class member : Component U4 LM1117MP-3.3

@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=i18 Pin=U1-28
+Change Component Footprint: Designator=P2 Old Footprint=HDR1X3 New Footprint=HDR1X4
+Change Component Comment : Designator=P2 Old Comment=Header 3 New Comment=Header 4
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Added Pin To Net: NetName=i18 Pin=U1-26
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetC2_2
+Added Member To Class: ClassName=tscnew Member=Component P2 Header 4
+Added Member To Class: ClassName=tscnew Member=Component P3 Header 4
+Added Member To Class: ClassName=tscnew Member=Component P4 Header 2
+Added Member To Class: ClassName=tscnew Member=Component P5 Header 2
+Added Member To Class: ClassName=tscnew Member=Component P7 Header 7

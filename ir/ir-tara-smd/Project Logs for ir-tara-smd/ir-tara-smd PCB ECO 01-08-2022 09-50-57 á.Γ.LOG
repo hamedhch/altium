@@ -1,0 +1,5 @@
+Added Component: Designator=D2(LED-5mm)
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Member To Class: ClassName=ir-tara-smd Member=Component D2 MODEL

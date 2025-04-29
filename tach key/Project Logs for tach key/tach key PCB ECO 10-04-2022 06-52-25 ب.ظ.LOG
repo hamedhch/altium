@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=VCC Pin=P2-6
+Change Component Footprint: Designator=P2 Old Footprint=HDR2X3 New Footprint=MHDR2X3
+Change Component Designator: OldDesignator=JP2 NewDesignator=JP1
+Change Component Designator: OldDesignator=R16 NewDesignator=R15
+Change Component Designator: OldDesignator=R17 NewDesignator=R16
+Change Component Designator: OldDesignator=R18 NewDesignator=R17
+Change Component Designator: OldDesignator=R19 NewDesignator=R18
+Change Component Designator: OldDesignator=U8 NewDesignator=U9
+Change Component Designator: OldDesignator=U9 NewDesignator=U10
+Change Net Name : Old Net Name=NetR17_1 New Net Name=NetR16_1
+Added Pin To Net: NetName=NetP2_6 Pin=P2-6
+Added Net: Name=NetP2_6
+Added Member To Class: ClassName=tach key Member=Component U10 TTP223_

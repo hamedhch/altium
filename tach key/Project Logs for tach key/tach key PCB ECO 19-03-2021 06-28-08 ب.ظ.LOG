@@ -1,0 +1,9 @@
+Added Component: Designator=THR2(NTC_20mm)
+Added Member To Class: ClassName=tach key Member=Component C2 =Value
+Added Member To Class: ClassName=tach key Member=Component C3 =Value
+Added Member To Class: ClassName=tach key Member=Component D3 MODEL
+Added Member To Class: ClassName=tach key Member=Component D4 D Tunnel1
+Added Member To Class: ClassName=tach key Member=Component R3 10K
+Added Member To Class: ClassName=tach key Member=Component R4 10K
+Added Member To Class: ClassName=tach key Member=Component THR2 =Value
+Added Member To Class: ClassName=tach key Member=Component U1 MB6S

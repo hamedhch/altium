@@ -1,0 +1,24 @@
+Added Pin To Net: NetName=i1 Pin=P1-1
+Added Pin To Net: NetName=i1 Pin=U1-7
+Added Net: Name=i1
+Added Pin To Net: NetName=i2 Pin=P1-2
+Added Pin To Net: NetName=i2 Pin=U1-6
+Added Net: Name=i2
+Added Pin To Net: NetName=i3 Pin=P1-3
+Added Pin To Net: NetName=i3 Pin=U1-5
+Added Net: Name=i3
+Added Pin To Net: NetName=i4 Pin=P1-4
+Added Pin To Net: NetName=i4 Pin=U1-4
+Added Net: Name=i4
+Added Pin To Net: NetName=i5 Pin=P1-5
+Added Pin To Net: NetName=i5 Pin=U1-3
+Added Net: Name=i5
+Added Pin To Net: NetName=i6 Pin=P1-6
+Added Pin To Net: NetName=i6 Pin=U1-2
+Added Net: Name=i6
+Added Pin To Net: NetName=i7 Pin=P1-7
+Added Pin To Net: NetName=i7 Pin=U1-1
+Added Net: Name=i7
+Added Pin To Net: NetName=i8 Pin=P1-8
+Added Pin To Net: NetName=i8 Pin=U1-15
+Added Net: Name=i8

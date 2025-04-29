@@ -1,0 +1,24 @@
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Added Component: Designator=D1(LED-3mm)
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemian"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "02/04/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Net: Name=NetR1_1
+Added Member To Class: ClassName=smart home3 Member=Component D1 LED 3mm
+Added Member To Class: ClassName=smart home3 Member=Component R7 10K

@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=R6 Old Footprint=RES 0805 (2012X06L) New Footprint=Res-(1/4)
+Added Member To Class: ClassName=tach key1-3 Member=Component D4 D Tunnel1
+Added Member To Class: ClassName=tach key1-3 Member=Component JP1 Jumper
+Added Member To Class: ClassName=tach key1-3 Member=Component JP2 Jumper
+Added Member To Class: ClassName=tach key1-3 Member=Component JP3 Jumper
+Added Member To Class: ClassName=tach key1-3 Member=Component JP4 Jumper
+Added Member To Class: ClassName=tach key1-3 Member=Component K3 Relay-12vDC
+Added Member To Class: ClassName=tach key1-3 Member=Component P3 Header 3
+Added Member To Class: ClassName=tach key1-3 Member=Component Q3 MMBT3904-TP
+Added Member To Class: ClassName=tach key1-3 Member=Component R3 10K
+Added Member To Class: ClassName=tach key1-3 Member=Component R5 10K
+Added Member To Class: ClassName=tach key1-3 Member=Component R6 10K

@@ -1,0 +1,24 @@
+Added Component: Designator=U8(ESP_12_E)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "IC"; Value = "ESP8266-EX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Ai-thinker"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=rst Pin=U8-1
+Added Pin To Net: NetName=ADC Pin=U8-2
+Added Pin To Net: NetName=en Pin=U8-3
+Added Pin To Net: NetName=i9 Pin=U8-4
+Added Pin To Net: NetName=i8 Pin=U8-5
+Added Pin To Net: NetName=txsim Pin=U8-6
+Added Pin To Net: NetName=rxsim Pin=U8-7
+Added Pin To Net: NetName=en Pin=U8-8
+Added Pin To Net: NetName=data Pin=U8-10
+Added Pin To Net: NetName=mosi Pin=U8-13
+Added Pin To Net: NetName=sck Pin=U8-14
+Added Pin To Net: NetName=GND Pin=U8-15
+Added Pin To Net: NetName=GND Pin=U8-16
+Added Pin To Net: NetName=led Pin=U8-17
+Added Pin To Net: NetName=btn Pin=U8-18
+Added Pin To Net: NetName=sda Pin=U8-19
+Added Pin To Net: NetName=scl Pin=U8-20
+Added Pin To Net: NetName=rx Pin=U8-21
+Added Pin To Net: NetName=rx2 Pin=U8-22
+Added Member To Class: ClassName=iotv4 Member=Component U8 ESP_12_E

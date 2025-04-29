@@ -1,0 +1,4 @@
+Added Component: Designator=U1(ESP_12_E)
+Add component (AddParameter): Name = "IC"; Value = "ESP8266-EX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Ai-thinker"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=sanati4i4o Member=Component U1 ESP_12_E

@@ -1,0 +1,9 @@
+Change Component Footprint: Designator=S1 Old Footprint=DPST-4 New Footprint=PUSH BUTTON
+Change Component Footprint: Designator=S2 Old Footprint=DPST-4 New Footprint=PUSH BUTTON
+Change Component Comment : Designator=S1 Old Comment=SW-DPST New Comment=PUSH BUTTON DOUBLE
+Change Component Comment : Designator=S2 Old Comment=SW-DPST New Comment=PUSH BUTTON DOUBLE
+Change component parameters: Designator = "S1"; Footprint = "PUSH BUTTON"; UniqueID = "\OTOJEIEK"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "S2"; Footprint = "PUSH BUTTON"; UniqueID = "\YDHSMKGO"
+Change component parameters. Clean all parameters for all variants
+Added Member To Class: ClassName=iotv2 Member=Component D5 Diode

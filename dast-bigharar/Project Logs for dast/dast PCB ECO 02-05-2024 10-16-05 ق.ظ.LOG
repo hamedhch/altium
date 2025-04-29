@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=vDD Pin=U4-2
+Added Pin To Net: NetName=VCC Pin=U4-3
+Added Pin To Net: NetName=vDD Pin=U4-4

@@ -1,0 +1,55 @@
+Change Component Footprint: Designator=Q1 Old Footprint=SOT32 New Footprint=*TO254P1028X482X1968-3
+Change Component Footprint: Designator=Q2 Old Footprint=SOT32 New Footprint=*TO254P1028X482X1968-3
+Change Component Footprint: Designator=Q3 Old Footprint=SOT32 New Footprint=*TO254P1028X482X1968-3
+Change Component Comment : Designator=Q1 Old Comment=MODEL New Comment=BTA16-600CW3G
+Change Component Comment : Designator=Q2 Old Comment=MODEL New Comment=BTA16-600CW3G
+Change Component Comment : Designator=Q3 Old Comment=MODEL New Comment=BTA16-600CW3G
+Change Component Designator: OldDesignator=E3 NewDesignator=E4
+Change Component Designator: OldDesignator=E4 NewDesignator=E3
+Change Component Designator: OldDesignator=Q1 NewDesignator=D2
+Change Component Designator: OldDesignator=Q2 NewDesignator=D3
+Change Component Designator: OldDesignator=Q3 NewDesignator=D4
+Change component parameters: Designator = "Q1" ("D2"); Footprint = "SOT32"; UniqueID = "\CQEUKPUO" ("\CQEUKPUO")
+Change component parameters (AddParameter): Name = "Arrow_Americas-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Americas&id=390940"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=390940"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Littelfuse Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=390940"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "BTA16-600CW3G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TO-220 ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BTA16-600CW3G/Littelfuse%20Inc./view-part/390940/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2" ("D3"); Footprint = "SOT32"; UniqueID = "\COQQMXQT" ("\COQQMXQT")
+Change component parameters (AddParameter): Name = "Arrow_Americas-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Americas&id=390940"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=390940"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Littelfuse Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=390940"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "BTA16-600CW3G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TO-220 ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BTA16-600CW3G/Littelfuse%20Inc./view-part/390940/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q3" ("D4"); Footprint = "SOT32"; UniqueID = "\DZOYMKIG" ("\DZOYMKIG")
+Change component parameters (AddParameter): Name = "Arrow_Americas-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Americas&id=390940"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=390940"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Littelfuse Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=390940"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "BTA16-600CW3G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TO-220 ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BTA16-600CW3G/Littelfuse%20Inc./view-part/390940/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetE3_1 New Net Name=NetE4_1
+Change Net Name : Old Net Name=NetJ2_1 New Net Name=NetD4_1
+Change Net Name : Old Net Name=NetJ2_2 New Net Name=NetD3_1
+Change Net Name : Old Net Name=NetJ2_3 New Net Name=NetD2_1
+Added Pin To Net: NetName=NetD2_3 Pin=D2-3
+Added Pin To Net: NetName=NetD2_3 Pin=MOC1-4
+Added Net: Name=NetD2_3
+Added Pin To Net: NetName=NetD3_3 Pin=D3-3
+Added Net: Name=NetD3_3
+Added Pin To Net: NetName=NetD4_3 Pin=D4-3
+Added Net: Name=NetD4_3

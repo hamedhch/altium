@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=S1-3
+Removed Pin From Net: NetName=GND Pin=S2-1
+Removed Pin From Net: NetName=btn Pin=S2-3
+Change Component Comment : Designator=S1 Old Comment=PUSH BUTTON DOUBLE New Comment=PUSH BUTTON
+Change Component Comment : Designator=S2 Old Comment=PUSH BUTTON DOUBLE New Comment=PUSH BUTTON
+Added Pin To Net: NetName=btn Pin=S2-1

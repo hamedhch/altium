@@ -1,0 +1,5 @@
+Added Component: Designator=JP2(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VDD Pin=JP2-1
+Added Pin To Net: NetName=VDD Pin=JP2-2
+Added Member To Class: ClassName=iotv3 Member=Component JP2 Jumper

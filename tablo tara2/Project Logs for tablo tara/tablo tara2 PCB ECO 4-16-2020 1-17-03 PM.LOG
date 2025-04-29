@@ -1,0 +1,32 @@
+Removed Pin From Net: NetName=GND Pin=U1-6
+Removed Pin From Net: NetName=ir Pin=U3-1
+Change Component Footprint: Designator=U1 Old Footprint=TS5B_N New Footprint=T05A
+Change Component Comment : Designator=U1 Old Comment=LM2596S-3.3 New Comment=LM2576T-3.3
+Change component parameters: Designator = "U1"; Footprint = "T05A"; UniqueID = "\QCCYPOTM"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "TO-220-AB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LM2576 Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.national.com/ds/LM/LM2576.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "LM2576 Web Page"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.national.com/pf/LM/LM2576.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "T05A Package Page"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.national.com/packaging/folders/t05a.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompType"; Value = "Switcher"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Aug-2004"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKeyPartNumber"; Value = "LM2576T-3.3NS-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FirstPublished"; Value = "4-Dec-2008"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "National Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "TO-220, Molded, 5 Lead, Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "T05A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageTopMarking"; Value = "NSUZXYTT*LM2576T*-3.3 P+"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "revJ, Jan-1992"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "LM2576T-3.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PowerWise"; Value = "N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "Y"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ir Pin=U3-2
+Change Class Name : Old Net Name=tablo tara New Net Name=tablo tara2
+Added Member To Class: ClassName=tablo tara2 Member=Component U2 L4931CV30
+Change Room Name: Old Name=tablo tara New Name=tablo tara2
+Change Room Scope: Old Scope=InComponentClass('tablo tara') New Scope=InComponentClass('tablo tara2')

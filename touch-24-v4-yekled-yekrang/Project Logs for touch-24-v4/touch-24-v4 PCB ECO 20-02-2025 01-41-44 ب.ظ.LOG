@@ -1,0 +1,6 @@
+Added Component: Designator=J3(HEADER 3X1)
+Added Pin To Net: NetName=vdd Pin=J3-1
+Added Pin To Net: NetName=Lw Pin=J3-3
+Added Pin To Net: NetName=L2 Pin=J3-2
+Added Net: Name=L2
+Added Member To Class: ClassName=touch-24-v4 Member=Component J3 Header3X1

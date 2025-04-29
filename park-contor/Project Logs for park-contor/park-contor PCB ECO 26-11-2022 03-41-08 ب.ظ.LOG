@@ -1,0 +1,77 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=i2 Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=vdd Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C6-1
+Removed Pin From Net: NetName=vcc Pin=C6-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=vcc Pin=D1-2
+Removed Pin From Net: NetName=vcc Pin=D2-1
+Removed Pin From Net: NetName=vcc Pin=D3-2
+Removed Pin From Net: NetName=vcc Pin=D4-1
+Removed Pin From Net: NetName=vcc Pin=D5-2
+Removed Pin From Net: NetName=vcc Pin=D6-1
+Removed Pin From Net: NetName=vcc Pin=D7-2
+Removed Pin From Net: NetName=vcc Pin=D8-1
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=vcc Pin=K1-5
+Removed Pin From Net: NetName=vcc Pin=K2-5
+Removed Pin From Net: NetName=vcc Pin=K3-5
+Removed Pin From Net: NetName=vcc Pin=K4-4
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Pin From Net: NetName=GND Pin=Q3-2
+Removed Pin From Net: NetName=GND Pin=Q4-2
+Removed Pin From Net: NetName=O1 Pin=R2-1
+Removed Pin From Net: NetName=O2 Pin=R4-1
+Removed Pin From Net: NetName=i1 Pin=R5-1
+Removed Pin From Net: NetName=vdd Pin=R5-2
+Removed Pin From Net: NetName=O3 Pin=R7-1
+Removed Pin From Net: NetName=NetC2_2 Pin=R8-2
+Removed Pin From Net: NetName=NetC2_2 Pin=R9-2
+Removed Pin From Net: NetName=i2 Pin=R10-1
+Removed Pin From Net: NetName=vdd Pin=R10-2
+Removed Pin From Net: NetName=o4 Pin=R14-1
+Removed Pin From Net: NetName=vdd Pin=U1-3
+Removed Pin From Net: NetName=i1 Pin=U1-5
+Removed Pin From Net: NetName=i2 Pin=U1-6
+Removed Pin From Net: NetName=O1 Pin=U1-7
+Removed Pin From Net: NetName=vdd Pin=U1-8
+Removed Pin From Net: NetName=GND Pin=U1-15
+Removed Pin From Net: NetName=GND Pin=U1-16
+Removed Pin From Net: NetName=O2 Pin=U1-19
+Removed Pin From Net: NetName=O3 Pin=U1-20
+Removed Pin From Net: NetName=o4 Pin=U1-21
+Removed Pin From Net: NetName=NetC2_2 Pin=U2-1
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=i1 Pin=U2-4
+Removed Pin From Net: NetName=GND Pin=U3-3
+Removed Pin From Net: NetName=i2 Pin=U3-4
+Removed Pin From Net: NetName=vcc Pin=U4-1
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Pin From Net: NetName=GND Pin=U5-1
+Removed Pin From Net: NetName=vdd Pin=U5-2
+Change Component Designator: OldDesignator=R13 NewDesignator=R1
+Change Component Designator: OldDesignator=T9 NewDesignator=T4
+Change Component Designator: OldDesignator=T12 NewDesignator=T5
+Change Component Designator: OldDesignator=T13 NewDesignator=T6
+Change Component Designator: OldDesignator=U5 NewDesignator=U1
+Change Component Designator: OldDesignator=U8 NewDesignator=U2
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=vdd Pin=T1-1
+Added Pin To Net: NetName=i1 Pin=T1-2
+Added Pin To Net: NetName=GND Pin=T1-3
+Added Pin To Net: NetName=vdd Pin=T2-1
+Added Pin To Net: NetName=i2 Pin=T2-2
+Added Pin To Net: NetName=GND Pin=T2-3
+Added Pin To Net: NetName=vdd Pin=T3-1
+Added Pin To Net: NetName=i3 Pin=T3-2
+Added Pin To Net: NetName=GND Pin=T3-3
+Added Pin To Net: NetName=O1 Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-3
+Added Pin To Net: NetName=NetC2_2 Pin=U1-8
+Added Pin To Net: NetName=NetC2_2 Pin=Y1-1
+Added Member To Class: ClassName=park-contor Member=Component T1 Terminal
+Added Member To Class: ClassName=park-contor Member=Component T2 Terminal
+Added Member To Class: ClassName=park-contor Member=Component T3 Terminal

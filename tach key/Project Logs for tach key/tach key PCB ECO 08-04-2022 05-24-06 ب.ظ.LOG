@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=R1 Old Footprint=RES 0805 (2012X06L) New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=R5 Old Footprint=RES 0805 (2012X06L) New Footprint=RES 1206 (3216X08L)
+Added Member To Class: ClassName=tach key Member=Component R5 10K
+Added Member To Class: ClassName=tach key Member=Component R6 10K
+Added Member To Class: ClassName=tach key Member=Component R8 10K
+Added Member To Class: ClassName=tach key Member=Component R9 10K
+Added Member To Class: ClassName=tach key Member=Component R11 10K
+Added Member To Class: ClassName=tach key Member=Component R12 10K
+Added Member To Class: ClassName=tach key Member=Component R13 10K
+Added Member To Class: ClassName=tach key Member=Component R15 10K

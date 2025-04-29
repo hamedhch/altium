@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=en Pin=E2-1
+Added Pin To Net: NetName=en Pin=JP5-1
+Added Member To Class: ClassName=iotv4 Member=Component JP1 Jumper

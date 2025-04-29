@@ -1,0 +1,105 @@
+Removed Pin From Net: NetName=GND Pin=D5-2
+Removed Pin From Net: NetName=GND Pin=D6-2
+Removed Pin From Net: NetName=GND Pin=D7-2
+Removed Pin From Net: NetName=GND Pin=D8-2
+Removed Pin From Net: NetName=GND Pin=D9-2
+Removed Pin From Net: NetName=GND Pin=D10-2
+Removed Pin From Net: NetName=GND Pin=D11-2
+Removed Pin From Net: NetName=GND Pin=D12-2
+Removed Pin From Net: NetName=GND Pin=D13-2
+Removed Member From Class: ClassName=park-contor-12i Member=R?
+Change Component Designator: OldDesignator=D8 NewDesignator=D10
+Change Component Designator: OldDesignator=D9 NewDesignator=D8
+Change Component Designator: OldDesignator=D10 NewDesignator=D9
+Change Component Designator: OldDesignator=D11 NewDesignator=D13
+Change Component Designator: OldDesignator=D13 NewDesignator=D11
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Added Component: Designator=R6(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R9(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R10(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R6-2
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=GND Pin=R8-2
+Added Pin To Net: NetName=GND Pin=R9-2
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Pin To Net: NetName=GND Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=GND Pin=R13-2
+Added Pin To Net: NetName=GND Pin=R14-2
+Change Net Name : Old Net Name=NetQ?_2 New Net Name=NetQ2_2
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetR3_1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=R6-1
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=R7-1
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=R8-1
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=R9-1
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD9_2 Pin=R10-1
+Added Net: Name=NetD9_2
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=R11-1
+Added Net: Name=NetD10_2
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD11_2 Pin=R12-1
+Added Net: Name=NetD11_2
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
+Added Pin To Net: NetName=NetD12_2 Pin=R13-1
+Added Net: Name=NetD12_2
+Added Pin To Net: NetName=NetD13_2 Pin=D13-2
+Added Pin To Net: NetName=NetD13_2 Pin=R14-1
+Added Net: Name=NetD13_2
+Added Member To Class: ClassName=park-contor-12i Member=Component R4 10K
+Added Member To Class: ClassName=park-contor-12i Member=Component R5 10K
+Added Member To Class: ClassName=park-contor-12i Member=Component R6 10K
+Added Member To Class: ClassName=park-contor-12i Member=Component R7 10K
+Added Member To Class: ClassName=park-contor-12i Member=Component R8 10K
+Added Member To Class: ClassName=park-contor-12i Member=Component R9 10K
+Added Member To Class: ClassName=park-contor-12i Member=Component R10 10K
+Added Member To Class: ClassName=park-contor-12i Member=Component R11 10K
+Added Member To Class: ClassName=park-contor-12i Member=Component R12 10K
+Added Member To Class: ClassName=park-contor-12i Member=Component R13 10K
+Added Member To Class: ClassName=park-contor-12i Member=Component R14 10K

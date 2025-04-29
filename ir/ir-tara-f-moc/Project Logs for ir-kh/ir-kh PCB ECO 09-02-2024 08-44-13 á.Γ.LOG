@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=vdd Pin=TR1-1
+Removed Member From Class: ClassName=ir-kh Member=TR1
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Added Component: Designator=R4(RES 2010 (5026X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES 2010 (5026X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=U2(DIP762W50P254L730H410Q6)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=291595"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=291595"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "K3021P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP-6 Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/K3021P/Vishay%20Semiconductor%20Opto%20Division/view-part/291595/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=vdd Pin=R4-1
+Added Pin To Net: NetName=vcc Pin=R5-2
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=vdd Pin=U2-6
+Change Net Name : Old Net Name=NetJ3_1 New Net Name=NetJ2_1
+Change Net Name : Old Net Name=NetJ3_2 New Net Name=NetJ2_2
+Added Pin To Net: NetName=NetR6_1 Pin=R6-1
+Added Pin To Net: NetName=NetR6_1 Pin=U2-1
+Added Net: Name=NetR6_1
+Added Pin To Net: NetName=NetU2_4 Pin=U2-4
+Added Pin To Net: NetName=NetU2_4 Pin=U3-3
+Added Net: Name=NetU2_4
+Added Member To Class: ClassName=ir-kh Member=Component R8 10K
+Added Member To Class: ClassName=ir-kh Member=Component R9 10K
+Added Member To Class: ClassName=ir-kh Member=Component U3 MB6S

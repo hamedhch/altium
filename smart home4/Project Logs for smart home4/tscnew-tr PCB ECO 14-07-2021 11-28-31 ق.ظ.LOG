@@ -1,0 +1,25 @@
+Added Component: Designator=PS1(HLKPM01)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Hi-link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "hlk-pm01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/hlk-pm01/Hi-link/view-part/2875605/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=faz Pin=PS1-1
+Added Pin To Net: NetName=GND Pin=PS1-3
+Added Pin To Net: NetName=nol Pin=PS1-2
+Added Net: Name=nol
+Added Pin To Net: NetName=vcc Pin=E2-1
+Added Pin To Net: NetName=vcc Pin=PS1-4
+Added Pin To Net: NetName=vcc Pin=U1-3
+Added Net: Name=vcc
+Change Class Name : Old Net Name=smart home4 New Net Name=tscnew-tr
+Added Member To Class: ClassName=tscnew-tr Member=Component D3 BTA16-600CW3G
+Added Member To Class: ClassName=tscnew-tr Member=Component E3 Antenna
+Added Member To Class: ClassName=tscnew-tr Member=Component J2 TBlock-2
+Added Member To Class: ClassName=tscnew-tr Member=Component PS1 HLK-PM01
+Added Member To Class: ClassName=tscnew-tr Member=Component R2 10K
+Added Member To Class: ClassName=tscnew-tr Member=Component R4 10K
+Change Room Name: Old Name=smart home4 New Name=tscnew-tr
+Change Room Scope: Old Scope=InComponentClass('smart home4') New Scope=InComponentClass('tscnew-tr')

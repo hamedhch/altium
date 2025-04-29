@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=rst Pin=S1-1
+Removed Pin From Net: NetName=btn Pin=S2-1
+Change Component Comment : Designator=S1 Old Comment=PUSH BUTTON New Comment=PUSH BUTTON DOUBLE
+Change Component Comment : Designator=S2 Old Comment=PUSH BUTTON New Comment=PUSH BUTTON DOUBLE

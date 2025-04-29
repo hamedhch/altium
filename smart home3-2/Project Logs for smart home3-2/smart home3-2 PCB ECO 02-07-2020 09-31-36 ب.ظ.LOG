@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=NetD3_3 Pin=U3-6
+Change Component Footprint: Designator=MOC1 Old Footprint=DIP-6 New Footprint=DIP762W50P254L730H410Q6
+Change Component Footprint: Designator=MOC2 Old Footprint=DIP-6 New Footprint=DIP762W50P254L730H410Q6
+Change Component Comment : Designator=MOC1 Old Comment=MOC3021-3 New Comment=K3021P
+Change Component Comment : Designator=MOC2 Old Comment=MOC3021-3 New Comment=K3021P
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Change Component Designator: OldDesignator=MOC1 NewDesignator=U3
+Change Component Designator: OldDesignator=MOC2 NewDesignator=U5
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change component parameters: Designator = "MOC1" ("U3"); Footprint = "DIP-6"; UniqueID = "\WKGHDFYP" ("\WKGHDFYP")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=291595"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Vishay Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=291595"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "K3021P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "DIP-6 Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/K3021P/Vishay%20Semiconductor%20Opto%20Division/view-part/291595/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "MOC2" ("U5"); Footprint = "DIP-6"; UniqueID = "\YMDMMFVG" ("\YMDMMFVG")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=291595"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Vishay Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=291595"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "K3021P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "DIP-6 Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/K3021P/Vishay%20Semiconductor%20Opto%20Division/view-part/291595/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR5_1 Pin=U4-6
+Added Pin To Net: NetName=NetD4_3 Pin=U5-4
+Change Net Name : Old Net Name=NetMOC1_1 New Net Name=NetR2_2
+Change Net Name : Old Net Name=NetMOC1_6 New Net Name=NetR3_1
+Change Net Name : Old Net Name=NetMOC2_1 New Net Name=NetR7_2
+Change Net Name : Old Net Name=NetMOC2_6 New Net Name=NetR6_1
+Added Member To Class: ClassName=smart home3-2 Member=Component R5 10K
+Added Member To Class: ClassName=smart home3-2 Member=Component U5 K3021P

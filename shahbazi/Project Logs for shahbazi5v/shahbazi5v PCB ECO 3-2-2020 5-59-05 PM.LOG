@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=rst Pin=S1-1
+Removed Pin From Net: NetName=GND Pin=S1-2
+Removed Pin From Net: NetName=btn Pin=S1-3
+Change Component Designator: OldDesignator=JP8 NewDesignator=JP7
+Change Component Designator: OldDesignator=JP9 NewDesignator=JP8
+Change Component Designator: OldDesignator=JP10 NewDesignator=JP1
+Change Component Designator: OldDesignator=JP11 NewDesignator=JP9
+Change Component Designator: OldDesignator=JP12 NewDesignator=JP10
+Change Component Designator: OldDesignator=T9 NewDesignator=T10
+Change Component Designator: OldDesignator=T10 NewDesignator=T11
+Change Component Designator: OldDesignator=T11 NewDesignator=T12
+Change Component Designator: OldDesignator=T12 NewDesignator=T13
+Change Component Designator: OldDesignator=T13 NewDesignator=T9
+Added Component: Designator=S2(PUSH BUTTON)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=btn Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-3
+Added Pin To Net: NetName=GND Pin=S2-1
+Added Pin To Net: NetName=GND Pin=S2-2
+Added Pin To Net: NetName=rst Pin=S2-3
+Added Member To Class: ClassName=shahbazi5v Member=Component S2 PUSH BUTTON DOUBLE

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetQ1_1 Pin=T1-2
+Removed Pin From Net: NetName=NetQ3_1 Pin=T3-2
+Change Component Footprint: Designator=T2 Old Footprint=phoenix terminal 2 New Footprint=phoenix terminal 3
+Change Component Designator: OldDesignator=T4 NewDesignator=T3
+Added Pin To Net: NetName=NetQ1_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q3-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R3-2
+Added Pin To Net: NetName=NetQ1_2 Pin=R5-2
+Added Pin To Net: NetName=NetQ1_1 Pin=T2-1
+Added Pin To Net: NetName=NetQ3_1 Pin=T2-3
+Change Net Name : Old Net Name=NetQ1_2 New Net Name=faz

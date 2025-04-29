@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=o3 Pin=U2-4
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Added Component: Designator=Q3(SOT23-3)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Micro Commercial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MMBT3904-TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-23 Micro Commercial"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MMBT3904-TP/Micro%20Commercial/view-part/805928/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Q3-2
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=o2 New Net Name=o1
+Added Pin To Net: NetName=NetQ3_1 Pin=Q3-1
+Added Pin To Net: NetName=NetQ3_1 Pin=R4-2
+Added Net: Name=NetQ3_1
+Added Pin To Net: NetName=o2 Pin=R4-1
+Added Net: Name=o2
+Added Member To Class: ClassName=tsc.1r Member=Component Q3 MMBT3904-TP
+Added Member To Class: ClassName=tsc.1r Member=Component R4 10K

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=faz Pin=D2-2
+Removed Pin From Net: NetName=faz Pin=R5-2
+Removed Pin From Net: NetName=faz Pin=R6-2
+Removed Member From Class: ClassName=tuch-tara2 Member=C4
+Removed Member From Class: ClassName=tuch-tara2 Member=D2
+Added Pin To Net: NetName=faz Pin=U2-6
+Added Pin To Net: NetName=NetU2_4 Pin=U2-4
+Added Pin To Net: NetName=NetU2_4 Pin=U3-3
+Added Net: Name=NetU2_4
+Change Class Name : Old Net Name=tuch-tara2 New Net Name=tuch-tara-btr
+Added Member To Class: ClassName=tuch-tara-btr Member=Component R1 10K
+Added Member To Class: ClassName=tuch-tara-btr Member=Component R2 10K
+Change Room Name: Old Name=tuch-tara2 New Name=tuch-tara-btr
+Change Room Scope: Old Scope=InComponentClass('tuch-tara2') New Scope=InComponentClass('tuch-tara-btr')

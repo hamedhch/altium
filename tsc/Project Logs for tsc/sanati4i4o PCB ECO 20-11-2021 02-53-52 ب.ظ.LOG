@@ -1,0 +1,5 @@
+Added Component: Designator=JP2(Header 2X1)
+Added Pin To Net: NetName=vDD Pin=JP2-1
+Added Pin To Net: NetName=vDD Pin=JP2-2
+Added Member To Class: ClassName=sanati4i4o Member=Component J2 Header5X1
+Added Member To Class: ClassName=sanati4i4o Member=Component JP2 Jumper

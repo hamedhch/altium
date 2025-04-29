@@ -1,0 +1,5 @@
+Added Component: Designator=K2(Relays)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=iotv2 Member=Component K2 Relay-12vDC

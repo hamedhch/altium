@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=ia Pin=U9-4
+Added Pin To Net: NetName=ib Pin=U9-5
+Added Pin To Net: NetName=ic Pin=U9-6
+Added Pin To Net: NetName=out Pin=U9-7
+Added Member To Class: ClassName=iotv3 Member=Component P2 Header 3
+Added Member To Class: ClassName=iotv3 Member=Component T7 Terminal
+Added Member To Class: ClassName=iotv3 Member=Component T8 Terminal

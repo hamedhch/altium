@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=NetQ2_1 Pin=Q2-1
+Removed Pin From Net: NetName=NetQ2_2 Pin=Q2-2
+Removed Pin From Net: NetName=vcc Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-1
+Added Pin To Net: NetName=vcc Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-3
+Added Member To Class: ClassName=touch-24 Member=Component D4 D Tunnel1
+Added Member To Class: ClassName=touch-24 Member=Component Q1 MOSFET-P4
+Added Member To Class: ClassName=touch-24 Member=Component R10 10K
+Added Member To Class: ClassName=touch-24 Member=Component R11 10K

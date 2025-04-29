@@ -1,0 +1,23 @@
+Change Component Designator: OldDesignator=JP2 NewDesignator=JP3
+Change Component Designator: OldDesignator=K2 NewDesignator=K4
+Change Component Designator: OldDesignator=K4 NewDesignator=K2
+Added Component: Designator=JP2(Header 2X1)
+Added Component: Designator=JP4(Header 2X1)
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=NetJ6_1 Pin=JP2-2
+Added Net: Name=NetJ6_1
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Pin To Net: NetName=NetJ6_2 Pin=JP4-2
+Added Net: Name=NetJ6_2
+Added Pin To Net: NetName=NetJ6_3 Pin=J6-3
+Added Pin To Net: NetName=NetJ6_3 Pin=K4-4
+Added Net: Name=NetJ6_3
+Added Pin To Net: NetName=NetJP2_1 Pin=JP2-1
+Added Pin To Net: NetName=NetJP2_1 Pin=K2-5
+Added Net: Name=NetJP2_1
+Added Pin To Net: NetName=NetJP4_1 Pin=JP4-1
+Added Pin To Net: NetName=NetJP4_1 Pin=K2-4
+Added Pin To Net: NetName=NetJP4_1 Pin=K4-5
+Added Net: Name=NetJP4_1
+Added Member To Class: ClassName=tscnew Member=Component JP3 Jumper
+Added Member To Class: ClassName=tscnew Member=Component JP4 Jumper

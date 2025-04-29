@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=A5 Pin=J22-7
+Removed Pin From Net: NetName=A6 Pin=J23-7
+Removed Pin From Net: NetName=A7 Pin=J24-7
+Removed Pin From Net: NetName=A8 Pin=J25-7
+Removed Pin From Net: NetName=A9 Pin=J26-7
+Removed Pin From Net: NetName=A10 Pin=J27-7
+Removed Pin From Net: NetName=A11 Pin=J28-7
+Removed Pin From Net: NetName=A12 Pin=J29-7
+Change Component Designator: OldDesignator=U4 NewDesignator=U5
+Change Component Designator: OldDesignator=U5 NewDesignator=U6
+Change Component Designator: OldDesignator=U6 NewDesignator=U4
+Added Pin To Net: NetName=A17 Pin=J22-7
+Added Net: Name=A17
+Added Pin To Net: NetName=A18 Pin=J23-7
+Added Net: Name=A18
+Added Pin To Net: NetName=A19 Pin=J24-7
+Added Net: Name=A19
+Added Pin To Net: NetName=A20 Pin=J25-7
+Added Net: Name=A20
+Added Pin To Net: NetName=A21 Pin=J26-7
+Added Net: Name=A21
+Added Pin To Net: NetName=A22 Pin=J27-7
+Added Net: Name=A22
+Added Pin To Net: NetName=A23 Pin=J28-7
+Added Net: Name=A23
+Added Pin To Net: NetName=A24 Pin=J29-7
+Added Net: Name=A24
+Added Member To Class: ClassName=park-contor-12i Member=Component U3 ATmega64-16AC
+Added Member To Class: ClassName=park-contor-12i Member=Component U6 CD4051BCM

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=i4 Pin=U6-27
+Removed Pin From Net: NetName=i5 Pin=U6-28
+Removed Pin From Net: NetName=txsim Pin=U9-6
+Removed Pin From Net: NetName=rxsim Pin=U9-7
+Added Pin To Net: NetName=sda Pin=U6-27
+Added Pin To Net: NetName=scl Pin=U6-28
+Added Pin To Net: NetName=i4 Pin=U9-6
+Added Pin To Net: NetName=i5 Pin=U9-7
+Change Class Name : Old Net Name=iotv4 New Net Name=iotv5
+Added Member To Class: ClassName=iotv5 Member=Component J2 Header4X1
+Added Member To Class: ClassName=iotv5 Member=Component J3 Header4X1
+Change Room Name: Old Name=iotv4 New Name=iotv5
+Change Room Scope: Old Scope=InComponentClass('iotv4') New Scope=InComponentClass('iotv5')

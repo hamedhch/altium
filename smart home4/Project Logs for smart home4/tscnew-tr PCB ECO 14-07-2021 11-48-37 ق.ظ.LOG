@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=faz Pin=J3-1
+Removed Pin From Net: NetName=NetD3_1 Pin=J3-3
+Added Pin To Net: NetName=NetD3_1 Pin=J3-1

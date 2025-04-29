@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=U1-7
+Removed Pin From Net: NetName=vcc Pin=U1-8
+Added Pin To Net: NetName=vcc Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Member To Class: ClassName=ir-kh Member=Component U1 ATtiny15L-1SC

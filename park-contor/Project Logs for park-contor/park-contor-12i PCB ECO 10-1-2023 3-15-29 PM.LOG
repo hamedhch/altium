@@ -1,0 +1,241 @@
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Component Designator: OldDesignator=J4 NewDesignator=J2
+Change Component Designator: OldDesignator=J5 NewDesignator=J3
+Change Component Designator: OldDesignator=J6 NewDesignator=J4
+Change Component Designator: OldDesignator=J7 NewDesignator=J5
+Change Component Designator: OldDesignator=J8 NewDesignator=J6
+Change Component Designator: OldDesignator=J9 NewDesignator=J7
+Change Component Designator: OldDesignator=J10 NewDesignator=J8
+Change Component Designator: OldDesignator=J11 NewDesignator=J9
+Change Component Designator: OldDesignator=J12 NewDesignator=J10
+Change Component Designator: OldDesignator=J13 NewDesignator=J11
+Change Component Designator: OldDesignator=J14 NewDesignator=J12
+Change Component Designator: OldDesignator=J15 NewDesignator=J13
+Change Component Designator: OldDesignator=J16 NewDesignator=J14
+Change Component Designator: OldDesignator=J17 NewDesignator=J15
+Change Component Designator: OldDesignator=J18 NewDesignator=J16
+Change Component Designator: OldDesignator=J19 NewDesignator=J17
+Change Component Designator: OldDesignator=J20 NewDesignator=J18
+Change Component Designator: OldDesignator=J21 NewDesignator=J19
+Change Component Designator: OldDesignator=J22 NewDesignator=J20
+Change Component Designator: OldDesignator=J23 NewDesignator=J21
+Change Component Designator: OldDesignator=J24 NewDesignator=J22
+Change Component Designator: OldDesignator=J25 NewDesignator=J23
+Change Component Designator: OldDesignator=J26 NewDesignator=J24
+Change Component Designator: OldDesignator=J27 NewDesignator=J25
+Change Component Designator: OldDesignator=J28 NewDesignator=J26
+Change Component Designator: OldDesignator=J29 NewDesignator=J27
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Change Component Designator: OldDesignator=P3 NewDesignator=P4
+Change Component Designator: OldDesignator=P4 NewDesignator=P1
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Change Component Designator: OldDesignator=U4 NewDesignator=U3
+Change Component Designator: OldDesignator=U5 NewDesignator=U4
+Change Component Designator: OldDesignator=U6 NewDesignator=U5
+Added Component: Designator=D3(3.2X1.6X1.1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SM LED; 2 Flat Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3.2X1.6X1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D4(3.2X1.6X1.1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SM LED; 2 Flat Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3.2X1.6X1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D5(3.2X1.6X1.1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SM LED; 2 Flat Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3.2X1.6X1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D6(3.2X1.6X1.1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SM LED; 2 Flat Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3.2X1.6X1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D7(3.2X1.6X1.1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SM LED; 2 Flat Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3.2X1.6X1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D8(3.2X1.6X1.1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SM LED; 2 Flat Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3.2X1.6X1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D9(3.2X1.6X1.1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SM LED; 2 Flat Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3.2X1.6X1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D10(3.2X1.6X1.1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SM LED; 2 Flat Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3.2X1.6X1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D11(3.2X1.6X1.1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SM LED; 2 Flat Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3.2X1.6X1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D12(3.2X1.6X1.1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SM LED; 2 Flat Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3.2X1.6X1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D13(3.2X1.6X1.1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SM LED; 2 Flat Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3.2X1.6X1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=PT1(POT3)
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemian"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WEB"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT-23B_N)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin SOT-23 Package 0.95 mm Pitch, 2.4 mm Lead Span"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOT-23B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT-23B_N)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin SOT-23 Package 0.95 mm Pitch, 2.4 mm Lead Span"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOT-23B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=vdd Pin=Buzzer1-1
+Added Pin To Net: NetName=vdd Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P4-3
+Added Pin To Net: NetName=vdd Pin=P4-8
+Added Pin To Net: NetName=GND Pin=P4-9
+Added Pin To Net: NetName=vdd Pin=PT1-1
+Added Pin To Net: NetName=GND Pin=PT1-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=GND Pin=Q2-3
+Change Net Name : Old Net Name=NetJ4_1 New Net Name=NetJ2_1
+Change Net Name : Old Net Name=NetJ4_2 New Net Name=NetJ2_2
+Change Net Name : Old Net Name=NetJ5_1 New Net Name=NetJ3_1
+Change Net Name : Old Net Name=NetJ5_2 New Net Name=NetJ3_2
+Change Net Name : Old Net Name=NetJ6_1 New Net Name=NetJ4_1
+Change Net Name : Old Net Name=NetJ6_3 New Net Name=NetJ4_3
+Change Net Name : Old Net Name=NetJ7_1 New Net Name=NetJ5_1
+Change Net Name : Old Net Name=NetJ7_3 New Net Name=NetJ5_3
+Change Net Name : Old Net Name=NetJ8_1 New Net Name=NetJ6_1
+Change Net Name : Old Net Name=NetJ8_3 New Net Name=NetJ6_3
+Change Net Name : Old Net Name=NetJ9_1 New Net Name=NetJ7_1
+Change Net Name : Old Net Name=NetJ9_3 New Net Name=NetJ7_3
+Change Net Name : Old Net Name=NetJ10_1 New Net Name=NetJ8_1
+Change Net Name : Old Net Name=NetJ10_3 New Net Name=NetJ8_3
+Change Net Name : Old Net Name=NetJ11_1 New Net Name=NetJ9_1
+Change Net Name : Old Net Name=NetJ11_3 New Net Name=NetJ9_3
+Change Net Name : Old Net Name=NetJ12_1 New Net Name=NetJ10_1
+Change Net Name : Old Net Name=NetJ12_3 New Net Name=NetJ10_3
+Change Net Name : Old Net Name=NetJ13_1 New Net Name=NetJ11_1
+Change Net Name : Old Net Name=NetJ13_3 New Net Name=NetJ11_3
+Change Net Name : Old Net Name=NetJ14_1 New Net Name=NetJ12_1
+Change Net Name : Old Net Name=NetJ14_3 New Net Name=NetJ12_3
+Change Net Name : Old Net Name=NetJ15_1 New Net Name=NetJ13_1
+Change Net Name : Old Net Name=NetJ15_3 New Net Name=NetJ13_3
+Change Net Name : Old Net Name=NetJ16_1 New Net Name=NetJ14_1
+Change Net Name : Old Net Name=NetJ16_3 New Net Name=NetJ14_3
+Change Net Name : Old Net Name=NetJ17_1 New Net Name=NetJ15_1
+Change Net Name : Old Net Name=NetJ17_3 New Net Name=NetJ15_3
+Change Net Name : Old Net Name=NetJ18_1 New Net Name=NetJ16_1
+Change Net Name : Old Net Name=NetJ18_3 New Net Name=NetJ16_3
+Change Net Name : Old Net Name=NetJ19_1 New Net Name=NetJ17_1
+Change Net Name : Old Net Name=NetJ19_3 New Net Name=NetJ17_3
+Change Net Name : Old Net Name=NetJ20_1 New Net Name=NetJ18_1
+Change Net Name : Old Net Name=NetJ20_3 New Net Name=NetJ18_3
+Change Net Name : Old Net Name=NetJ21_1 New Net Name=NetJ19_1
+Change Net Name : Old Net Name=NetJ21_3 New Net Name=NetJ19_3
+Change Net Name : Old Net Name=NetJ22_1 New Net Name=NetJ20_1
+Change Net Name : Old Net Name=NetJ22_3 New Net Name=NetJ20_3
+Change Net Name : Old Net Name=NetJ23_1 New Net Name=NetJ21_1
+Change Net Name : Old Net Name=NetJ23_3 New Net Name=NetJ21_3
+Change Net Name : Old Net Name=NetJ24_1 New Net Name=NetJ22_1
+Change Net Name : Old Net Name=NetJ24_3 New Net Name=NetJ22_3
+Change Net Name : Old Net Name=NetJ25_1 New Net Name=NetJ23_1
+Change Net Name : Old Net Name=NetJ25_3 New Net Name=NetJ23_3
+Change Net Name : Old Net Name=NetJ26_1 New Net Name=NetJ24_1
+Change Net Name : Old Net Name=NetJ26_3 New Net Name=NetJ24_3
+Change Net Name : Old Net Name=NetJ27_1 New Net Name=NetJ25_1
+Change Net Name : Old Net Name=NetJ27_3 New Net Name=NetJ25_3
+Change Net Name : Old Net Name=NetJ28_1 New Net Name=NetJ26_1
+Change Net Name : Old Net Name=NetJ28_3 New Net Name=NetJ26_3
+Change Net Name : Old Net Name=NetJ29_1 New Net Name=NetJ27_1
+Change Net Name : Old Net Name=NetJ29_3 New Net Name=NetJ27_3
+Change Net Name : Old Net Name=NetP1_1 New Net Name=NetP2_1
+Change Net Name : Old Net Name=NetP1_2 New Net Name=NetP2_2
+Change Net Name : Old Net Name=NetP2_1 New Net Name=NetP3_1
+Change Net Name : Old Net Name=NetP2_2 New Net Name=NetP3_2
+Change Net Name : Old Net Name=NetP2_3 New Net Name=NetP3_3
+Change Net Name : Old Net Name=NetP2_4 New Net Name=NetP3_4
+Change Net Name : Old Net Name=NetP4_4 New Net Name=NetP1_4
+Change Net Name : Old Net Name=NetP4_5 New Net Name=NetP1_5
+Change Net Name : Old Net Name=NetP4_6 New Net Name=NetP1_6
+Change Net Name : Old Net Name=NetP4_7 New Net Name=NetP1_7
+Change Net Name : Old Net Name=NetP4_8 New Net Name=NetP1_8
+Change Net Name : Old Net Name=NetP4_9 New Net Name=NetP1_9
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetR2_1
+Added Pin To Net: NetName=NetBuzzer1_2 Pin=Buzzer1-2
+Added Pin To Net: NetName=NetBuzzer1_2 Pin=Q2-1
+Added Net: Name=NetBuzzer1_2
+Added Pin To Net: NetName=NetP4_1 Pin=P4-1
+Added Pin To Net: NetName=NetP4_1 Pin=Q1-1
+Added Net: Name=NetP4_1
+Added Pin To Net: NetName=NetP4_7 Pin=P4-7
+Added Pin To Net: NetName=NetP4_7 Pin=PT1-3
+Added Net: Name=NetP4_7
+Added Member To Class: ClassName=park-contor-12i Member=Component D3 LED2
+Added Member To Class: ClassName=park-contor-12i Member=Component D4 LED2
+Added Member To Class: ClassName=park-contor-12i Member=Component D5 LED2
+Added Member To Class: ClassName=park-contor-12i Member=Component D6 LED2
+Added Member To Class: ClassName=park-contor-12i Member=Component D7 LED2
+Added Member To Class: ClassName=park-contor-12i Member=Component D8 LED2
+Added Member To Class: ClassName=park-contor-12i Member=Component D9 LED2
+Added Member To Class: ClassName=park-contor-12i Member=Component D10 LED2
+Added Member To Class: ClassName=park-contor-12i Member=Component D11 LED2
+Added Member To Class: ClassName=park-contor-12i Member=Component D12 LED2
+Added Member To Class: ClassName=park-contor-12i Member=Component D13 LED2
+Added Member To Class: ClassName=park-contor-12i Member=Component PT1 POT3
+Added Member To Class: ClassName=park-contor-12i Member=Component Q1 QNPN
+Added Member To Class: ClassName=park-contor-12i Member=Component Q2 QNPN

@@ -1,0 +1,2 @@
+Remove Pin=S1-1 From Net=btn
+Remove Pin=S1-3 From Net=rst

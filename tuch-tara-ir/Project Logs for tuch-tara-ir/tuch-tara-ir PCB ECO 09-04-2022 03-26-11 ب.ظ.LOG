@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=U4 NewDesignator=U3
+Added Component: Designator=ir1(HDR1X3)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ir Pin=ir1-1
+Added Pin To Net: NetName=GND Pin=ir1-2
+Added Pin To Net: NetName=VCC Pin=ir1-3
+Added Member To Class: ClassName=tuch-tara-ir Member=Component D2 BTA16-600CW3G
+Added Member To Class: ClassName=tuch-tara-ir Member=Component ir1 Header 3
+Added Member To Class: ClassName=tuch-tara-ir Member=Component R5 10K
+Added Member To Class: ClassName=tuch-tara-ir Member=Component R6 10K

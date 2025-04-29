@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=o3 Pin=U2-4
+Added Pin To Net: NetName=o3 Pin=U2-21
+Added Member To Class: ClassName=tscnew-tr Member=Component R1 10K
+Added Member To Class: ClassName=tscnew-tr Member=Component U2 ESP_12_E

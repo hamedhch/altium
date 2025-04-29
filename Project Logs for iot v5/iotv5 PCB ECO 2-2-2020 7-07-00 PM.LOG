@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=i4 Pin=U9-6
+Removed Pin From Net: NetName=i5 Pin=U9-7
+Added Component: Designator=R13(RES 1206 (3216X08L))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=rst Pin=R13-1
+Added Pin To Net: NetName=vesp Pin=R13-2
+Added Pin To Net: NetName=i5 Pin=U9-6
+Added Pin To Net: NetName=i4 Pin=U9-7
+Added Member To Class: ClassName=iotv5 Member=Component R13 10K

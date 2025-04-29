@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=i8 Pin=U8-5
+Added Pin To Net: NetName=i7 Pin=U8-6
+Added Pin To Net: NetName=i6 Pin=U8-7
+Change Net Name : Old Net Name=ia New Net Name=i9

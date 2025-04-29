@@ -1,0 +1,101 @@
+Removed Pin From Net: NetName=vcc Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J3-2
+Removed Pin From Net: NetName=o4 Pin=J3-5
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=vcc Pin=R9-2
+Removed Pin From Net: NetName=o3 Pin=U1-3
+Removed Pin From Net: NetName=o2 Pin=U1-4
+Removed Pin From Net: NetName=o4 Pin=U1-6
+Removed Pin From Net: NetName=GND Pin=U1-7
+Removed Pin From Net: NetName=vcc Pin=U1-8
+Removed Member From Class: ClassName=touch-tara-h Member=D2
+Removed Member From Class: ClassName=touch-tara-h Member=D3
+Removed Member From Class: ClassName=touch-tara-h Member=D4
+Removed Member From Class: ClassName=touch-tara-h Member=D5
+Removed Member From Class: ClassName=touch-tara-h Member=J3
+Removed Member From Class: ClassName=touch-tara-h Member=P1
+Removed Member From Class: ClassName=touch-tara-h Member=R8
+Removed Member From Class: ClassName=touch-tara-h Member=R9
+Removed Member From Class: ClassName=touch-tara-h Member=R10
+Removed Member From Class: ClassName=touch-tara-h Member=R11
+Removed Member From Class: ClassName=touch-tara-h Member=R12
+Removed Member From Class: ClassName=touch-tara-h Member=R13
+Change Component Footprint: Designator=U1 Old Footprint=8S2_N New Footprint=SOIC245P670X270-4N
+Change Component Comment : Designator=U1 Old Comment=ATtiny15L-1SC New Comment=MB6S
+Change Component Designator: OldDesignator=D4 NewDesignator=D1
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Component Designator: OldDesignator=R2 NewDesignator=R5
+Change Component Designator: OldDesignator=R3 NewDesignator=R6
+Change Component Designator: OldDesignator=R4 NewDesignator=R1
+Change Component Designator: OldDesignator=R5 NewDesignator=R2
+Change Component Designator: OldDesignator=R10 NewDesignator=R7
+Change component parameters: Designator = "U1" ("U1"); Footprint = "8S2_N"; UniqueID = "\LVOFNQWE" ("\LVOFNQWE")
+Change component parameters (AddParameter): Name = "Digi-Key_Part_Number"; Value = "MB6SCT-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com.tr/product-detail/en/on-semiconductor/MB6S/MB6SCT-ND/965654?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "MB6S"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "BESOP-4 Surge Components"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MB6S/ON%20Semiconductor/view-part/2774209/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES 2010 (5026X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES 2010 (5026X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=U3(8S2_N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.atmel.com/dyn/resources/prod_documents/doc1187.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Atmel.com Home"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.atmel.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1187E-AVR-06/02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "16-Oct-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Lead, 0.208" Body, Plastic Small Outline Package (EIAJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "8S2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revF, Apr-2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Sep-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ATTINY15L-1SC-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "556-ATTINY15L1SC"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=vcc Pin=R1-2
+Added Pin To Net: NetName=VDD Pin=R2-1
+Added Pin To Net: NetName=vcc Pin=R2-2
+Added Pin To Net: NetName=VDD Pin=R3-1
+Added Pin To Net: NetName=vcc Pin=R3-2
+Added Pin To Net: NetName=VDD Pin=R4-1
+Added Pin To Net: NetName=vcc Pin=R4-2
+Added Pin To Net: NetName=VDD Pin=U1-1
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=vcc Pin=U3-1
+Added Pin To Net: NetName=GND Pin=U3-8
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=NetJ2_2
+Change Net Name : Old Net Name=NetJ1_3 New Net Name=NetJ2_3
+Change Net Name : Old Net Name=NetJ1_4 New Net Name=NetJ2_4
+Added Pin To Net: NetName=ir-r Pin=U3-4
+Added Net: Name=ir-r
+Added Pin To Net: NetName=l1 Pin=U3-5
+Added Net: Name=l1
+Added Pin To Net: NetName=l2 Pin=U3-6
+Added Net: Name=l2
+Added Pin To Net: NetName=l3 Pin=U3-7
+Added Net: Name=l3
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=U1-4
+Added Pin To Net: NetName=NetJ1_1 Pin=U2-4
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=U1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=U2-3
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=zero Pin=U3-3
+Added Net: Name=zero
+Change Class Name : Old Net Name=touch-tara-h New Net Name=remote-38k-6key
+Added Member To Class: ClassName=remote-38k-6key Member=Component U3 ATtiny15L-1SC
+Change Room Name: Old Name=touch-tara-h New Name=remote-38k-6key
+Change Room Scope: Old Scope=InComponentClass('touch-tara-h') New Scope=InComponentClass('remote-38k-6key')

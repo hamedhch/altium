@@ -1,0 +1,187 @@
+Removed Pin From Net: NetName=nol Pin=C1-1
+Removed Pin From Net: NetName=vcm Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C2-2
+Removed Pin From Net: NetName=vcm Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=D1-1
+Removed Pin From Net: NetName=NetC1_2 Pin=D1-2
+Removed Pin From Net: NetName=NetC1_2 Pin=D2-1
+Removed Pin From Net: NetName=vcc Pin=D2-2
+Removed Pin From Net: NetName=GND Pin=D3-1
+Removed Pin From Net: NetName=vcc Pin=D3-2
+Removed Pin From Net: NetName=vcc Pin=D4-1
+Removed Pin From Net: NetName=vcm Pin=D4-2
+Removed Pin From Net: NetName=vdd Pin=J1-1
+Removed Pin From Net: NetName=nol Pin=J1-3
+Removed Pin From Net: NetName=nol Pin=R1-1
+Removed Pin From Net: NetName=NetC1_2 Pin=R1-2
+Removed Pin From Net: NetName=vdd Pin=R2-1
+Removed Pin From Net: NetName=vcc Pin=R2-2
+Removed Member From Class: ClassName=clock-temp-touch-sw Member=R11
+Removed Member From Class: ClassName=clock-temp-touch-sw Member=R12
+Change Component Footprint: Designator=C1 Old Footprint=1uf 400v New Footprint=CAP 1206
+Change Component Footprint: Designator=D3 Old Footprint=3.2X1.6X1.1 New Footprint=DO-35
+Change Footprint: Footprint Not Found minimelf
+Change Component Footprint: Designator=D1 Old Footprint=3.2X1.6X1.1 New Footprint=SMB
+Change Component Footprint: Designator=D2 Old Footprint=3.2X1.6X1.1 New Footprint=SMB
+Change Component Comment : Designator=C1 Old Comment=1uf 400v New Comment==Value
+Change Component Comment : Designator=D4 Old Comment=D Tunnel1 New Comment=18 Zener
+Change Component Comment : Designator=D1 Old Comment=D Tunnel1 New Comment=D Schottky
+Change Component Comment : Designator=D2 Old Comment=D Tunnel1 New Comment=D Schottky
+Change Component Comment : Designator=D3 Old Comment=D Tunnel1 New Comment=Zener Diode
+Change Component Designator: OldDesignator=C4 NewDesignator=C7
+Change Component Designator: OldDesignator=C5 NewDesignator=C8
+Change Component Designator: OldDesignator=D5 NewDesignator=D22
+Change Component Designator: OldDesignator=D22 NewDesignator=D30
+Change Component Designator: OldDesignator=D23 NewDesignator=D31
+Change Component Designator: OldDesignator=D24 NewDesignator=D23
+Change Component Designator: OldDesignator=D25 NewDesignator=D24
+Change Component Designator: OldDesignator=D26 NewDesignator=D25
+Change Component Designator: OldDesignator=D27 NewDesignator=D26
+Change Component Designator: OldDesignator=D28 NewDesignator=D27
+Change Component Designator: OldDesignator=D29 NewDesignator=D28
+Change Component Designator: OldDesignator=D30 NewDesignator=D29
+Change Component Designator: OldDesignator=D31 NewDesignator=D39
+Change Component Designator: OldDesignator=D32 NewDesignator=D40
+Change Component Designator: OldDesignator=D33 NewDesignator=D32
+Change Component Designator: OldDesignator=D34 NewDesignator=D33
+Change Component Designator: OldDesignator=D35 NewDesignator=D34
+Change Component Designator: OldDesignator=D36 NewDesignator=D35
+Change Component Designator: OldDesignator=D37 NewDesignator=D36
+Change Component Designator: OldDesignator=D38 NewDesignator=D37
+Change Component Designator: OldDesignator=D39 NewDesignator=D38
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R6 NewDesignator=R2
+Change Component Designator: OldDesignator=R7 NewDesignator=R5
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R10 NewDesignator=R6
+Change Component Designator: OldDesignator=R11 NewDesignator=R9
+Change Component Designator: OldDesignator=R12 NewDesignator=R10
+Change Component Designator: OldDesignator=U1 NewDesignator=U4
+Change Component Designator: OldDesignator=U2 NewDesignator=U5
+Change Component Designator: OldDesignator=U3 NewDesignator=U6
+Change Component Designator: OldDesignator=U4 NewDesignator=U7
+Change Component Designator: OldDesignator=U5 NewDesignator=U8
+Change component parameters: Designator = "C1" ("C1"); Footprint = "1uf 400v"; UniqueID = "\LPTMGZLV" ("\LPTMGZLV")
+Change component parameters: Designator = "D1" ("D1"); Footprint = "3.2X1.6X1.1"; UniqueID = "\JEQMEOHR" ("\JEQMEOHR")
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "DO-214-AA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "DO-214-AA/SMB; 2 C-Bend Leads; Body 5.3 x 3.6 mm, inc. leads (LxW)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SMB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "3.2X1.6X1.1"; UniqueID = "\KOHGMTPO" ("\KOHGMTPO")
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "DO-214-AA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "DO-214-AA/SMB; 2 C-Bend Leads; Body 5.3 x 3.6 mm, inc. leads (LxW)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SMB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D3" ("D3"); Footprint = "3.2X1.6X1.1"; UniqueID = "\JNNKSEAF" ("\JNNKSEAF")
+Change component parameters (AddParameter): Name = "MODEL"; Value = "1N"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "3.2X1.6X1.1"; UniqueID = "\ATXFXEWB" ("\ATXFXEWB")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "DIODE-0.7"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C4(ELEC-CAP-RAD15-30)
+Added Component: Designator=C5(ELEC-CAP-RAD15-30)
+Added Component: Designator=C6(CAP 1206)
+Added Component: Designator=D5(SMB)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "DO-214-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DO-214-AA/SMB; 2 C-Bend Leads; Body 5.3 x 3.6 mm, inc. leads (LxW)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SMB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=L1(HS1101)
+Add component (AddParameter): Name = "Code_IEC"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEITA"; Value = "0402"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "0402-A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1mH"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found MP04A_N
+Added Component: Designator=U2(SOIC245P670X270-4N)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "MB6SCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com.tr/product-detail/en/on-semiconductor/MB6S/MB6SCT-ND/965654?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MB6S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "BESOP-4 Surge Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MB6S/ON%20Semiconductor/view-part/2774209/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U3(SOIC127P599X175-8N)
+Added Pin To Net: NetName=NetC1_2 Pin=C2-2
+Added Pin To Net: NetName=NetC1_2 Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=D4-1
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=NetC1_2 Pin=D5-2
+Added Pin To Net: NetName=NetC1_2 Pin=L1-1
+Add Pin To Net: Unknown Pin: Pin LS2-1
+Add Pin To Net: Unknown Pin: Pin LS2-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-4
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=NetC1_2 Pin=U3-1
+Added Pin To Net: NetName=NetC1_2 Pin=U3-2
+Change Net Name : Old Net Name=NetC4_2 New Net Name=NetC7_2
+Change Net Name : Old Net Name=NetC5_2 New Net Name=NetC8_2
+Change Net Name : Old Net Name=NetD22_NEG New Net Name=NetD30_NEG
+Change Net Name : Old Net Name=NetD23_NEG New Net Name=NetD31_NEG
+Change Net Name : Old Net Name=NetR11_1 New Net Name=NetR9_1
+Change Net Name : Old Net Name=NetR12_1 New Net Name=NetR10_1
+Change Net Name : Old Net Name=NetU2_4 New Net Name=NetU5_4
+Change Net Name : Old Net Name=NetU4_4 New Net Name=NetU7_4
+Added Pin To Net: NetName=+12v Pin=C6-1
+Added Pin To Net: NetName=+12v Pin=D2-1
+Added Pin To Net: NetName=+12v Pin=D4-2
+Added Pin To Net: NetName=+12v Pin=L1-2
+Added Net: Name=+12v
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=D3-1
+Added Pin To Net: NetName=NetC1_1 Pin=U3-3
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC2_1 Pin=C2-1
+Added Pin To Net: NetName=NetC2_1 Pin=D1-2
+Added Pin To Net: NetName=NetC2_1 Pin=U3-4
+Added Net: Name=NetC2_1
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=D1-1
+Added Pin To Net: NetName=NetC3_1 Pin=D2-2
+Added Pin To Net: NetName=NetC3_1 Pin=D3-2
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetC4_2 Pin=C4-2
+Added Pin To Net: NetName=NetC4_2 Pin=C5-2
+Added Pin To Net: NetName=NetC4_2 Pin=U2-1
+Added Pin To Net: NetName=NetC4_2 Pin=U3-5
+Added Pin To Net: NetName=NetC4_2 Pin=U3-6
+Added Pin To Net: NetName=NetC4_2 Pin=U3-7
+Added Pin To Net: NetName=NetC4_2 Pin=U3-8
+Added Net: Name=NetC4_2
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=U2-4
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=U2-3
+Added Net: Name=NetJ1_3
+Added Member To Class: ClassName=clock-temp-touch-sw Member=Component C6 =Value
+Added Member To Class: ClassName=clock-temp-touch-sw Member=Component C7 =Value
+Added Member To Class: ClassName=clock-temp-touch-sw Member=Component C8 =Value
+Added Member To Class: ClassName=clock-temp-touch-sw Member=Component D40 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch-sw Member=Component L1 1mH
+Added Member To Class: ClassName=clock-temp-touch-sw Member=Component U6 K3021P
+Added Member To Class: ClassName=clock-temp-touch-sw Member=Component U7 MB6S
+Added Member To Class: ClassName=clock-temp-touch-sw Member=Component U8 K3021P

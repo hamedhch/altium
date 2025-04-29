@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=GND Pin=BT?-1
+Added Pin To Net: NetName=GND Pin=BT?-2
+Added Pin To Net: NetName=NetBT?_1 Pin=BT?-1
+Added Pin To Net: NetName=NetBT?_1 Pin=D?-1
+Added Net: Name=NetBT?_1
+Added Member To Class: ClassName=clock-temp-touch Member=Component D? D Tunnel1

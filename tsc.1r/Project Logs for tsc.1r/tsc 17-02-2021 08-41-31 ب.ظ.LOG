@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=o3 Pin=R1-1
+Removed Pin From Net: NetName=o2 Pin=R3-1
+Removed Pin From Net: NetName=o1 Pin=R5-1
+Removed Pin From Net: NetName=GND Pin=U3-2
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Pin From Net: NetName=GND Pin=U5-2
+Removed Member From Class: ClassName=smart home4 Member=D1
+Removed Member From Class: ClassName=smart home4 Member=D2
+Removed Member From Class: ClassName=smart home4 Member=E4
+Removed Member From Class: ClassName=smart home4 Member=J3
+Removed Member From Class: ClassName=smart home4 Member=R1
+Removed Member From Class: ClassName=smart home4 Member=R3
+Removed Member From Class: ClassName=smart home4 Member=R5
+Removed Member From Class: ClassName=smart home4 Member=R6
+Removed Member From Class: ClassName=smart home4 Member=U3
+Removed Member From Class: ClassName=smart home4 Member=U4
+Removed Member From Class: ClassName=smart home4 Member=U5
+Added Component: Designator=PS1(HLKPM01)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Hi-link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "hlk-pm01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/hlk-pm01/Hi-link/view-part/2875605/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change Class Name : Old Net Name=smart home4 New Net Name=tsc.1r
+Added Member To Class: ClassName=tsc.1r Member=Component PS1 HLK-PM01
+Change Room Name: Old Name=smart home4 New Name=tsc.1r
+Change Room Scope: Old Scope=InComponentClass('smart home4') New Scope=InComponentClass('tsc.1r')

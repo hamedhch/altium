@@ -1,0 +1,7 @@
+Added Component: Designator=C5(CAP 0805)
+Added Pin To Net: NetName=vesp Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Member To Class: ClassName=tscnew Member=Component C5 =Value
+Added Member To Class: ClassName=tscnew Member=Component R2 10K
+Added Member To Class: ClassName=tscnew Member=Component R3 10K
+Added Member To Class: ClassName=tscnew Member=Component R4 10K

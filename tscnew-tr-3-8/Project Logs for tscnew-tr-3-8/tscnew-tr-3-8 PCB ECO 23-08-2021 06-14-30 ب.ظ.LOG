@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=s3 Pin=J8-1
+Removed Pin From Net: NetName=s2 Pin=J8-2
+Removed Pin From Net: NetName=s1 Pin=J8-3
+Removed Pin From Net: NetName=GND Pin=J8-4
+Added Pin To Net: NetName=GND Pin=J8-1
+Added Pin To Net: NetName=s3 Pin=J8-2
+Added Pin To Net: NetName=s2 Pin=J8-3
+Added Pin To Net: NetName=s1 Pin=J8-4
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component R1 10K
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component R2 10K
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component R3 10K
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component R4 10K
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component R7 10K
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component R8 10K
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component R11 10K
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component R12 10K

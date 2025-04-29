@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=btn Pin=S1-3
+Removed Member From Class: ClassName=iotv3 Member=E2
+Added Pin To Net: NetName=btn Pin=S1-4

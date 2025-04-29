@@ -1,0 +1,58 @@
+Added Component: Designator=C1(ELEC-CAP-RAD10-20)
+Added Component: Designator=R3(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=S1(PB-2pin)
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemian"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WEB"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Added Component: Designator=S2(PUSH BUTTON)
+Added Component: Designator=U2(ESP_12_E)
+Add component (AddParameter): Name = "IC"; Value = "ESP8266-EX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Ai-thinker"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=vesp Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=NetR3_1 Pin=R3-1
+Added Pin To Net: NetName=faz Pin=R3-2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=faz Pin=R5-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=faz Pin=R7-2
+Added Pin To Net: NetName=GND Pin=S1-1
+Added Pin To Net: NetName=rst Pin=S1-2
+Added Pin To Net: NetName=btn Pin=S2-2
+Added Pin To Net: NetName=GND Pin=S2-4
+Added Pin To Net: NetName=rst Pin=U2-1
+Added Pin To Net: NetName=NetR1_2 Pin=U2-2
+Added Pin To Net: NetName=vesp Pin=U2-3
+Added Pin To Net: NetName=o3 Pin=U2-5
+Added Pin To Net: NetName=s2 Pin=U2-6
+Added Pin To Net: NetName=s3 Pin=U2-7
+Added Pin To Net: NetName=vesp Pin=U2-8
+Added Pin To Net: NetName=s1 Pin=U2-12
+Added Pin To Net: NetName=GND Pin=U2-15
+Added Pin To Net: NetName=GND Pin=U2-16
+Added Pin To Net: NetName=btn Pin=U2-18
+Added Pin To Net: NetName=o1 Pin=U2-19
+Added Pin To Net: NetName=o2 Pin=U2-20
+Change Class Name : Old Net Name=tscnew-tr New Net Name=tscnew-tr-3-8
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component C1 =Value
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component PS1 HLK-PM01
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component R3 10K
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component R5 10K
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component R7 10K
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component S1 PB-2pin
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component S2 PUSH BUTTON DOUBLE
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component U2 ESP_12_E
+Change Room Name: Old Name=tscnew-tr New Name=tscnew-tr-3-8
+Change Room Scope: Old Scope=InComponentClass('tscnew-tr') New Scope=InComponentClass('tscnew-tr-3-8')

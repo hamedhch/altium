@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=A11 Pin=U6-1
+Removed Pin From Net: NetName=A12 Pin=U6-2
+Removed Pin From Net: NetName=A7 Pin=U6-12
+Removed Pin From Net: NetName=A8 Pin=U6-13
+Removed Pin From Net: NetName=A9 Pin=U6-14
+Removed Pin From Net: NetName=A10 Pin=U6-15
+Added Pin To Net: NetName=A21 Pin=U6-1
+Added Pin To Net: NetName=A22 Pin=U6-2
+Added Pin To Net: NetName=A23 Pin=U6-4
+Added Pin To Net: NetName=A24 Pin=U6-5
+Added Pin To Net: NetName=A17 Pin=U6-12
+Added Pin To Net: NetName=A18 Pin=U6-13
+Added Pin To Net: NetName=A19 Pin=U6-14
+Added Pin To Net: NetName=A20 Pin=U6-15
+Added Member To Class: ClassName=park-contor-12i Member=Component U5 CD4051BCM
+Added Member To Class: ClassName=park-contor-12i Member=Component U6 CD4051BCM

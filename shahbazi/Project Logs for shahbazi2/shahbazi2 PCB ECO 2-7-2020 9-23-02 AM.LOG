@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=rx Pin=J5-1
+Removed Pin From Net: NetName=tx Pin=J5-2
+Removed Pin From Net: NetName=vDD Pin=J5-3
+Removed Pin From Net: NetName=GND Pin=J5-4
+Removed Member From Class: ClassName=shahbazi2 Member=J5
+Added Component: Designator=T4(phoenix terminal 4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Added Component: Designator=T5(phoenix terminal R 3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Added Component: Designator=T7(phoenix terminal R 3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Added Component: Designator=T8(phoenix terminal R 3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=i3 Pin=T4-1
+Added Pin To Net: NetName=i2 Pin=T4-2
+Added Pin To Net: NetName=i1 Pin=T4-3
+Added Pin To Net: NetName=i6 Pin=T4-4
+Added Pin To Net: NetName=i5 Pin=T5-2
+Added Pin To Net: NetName=i4 Pin=T5-3
+Added Pin To Net: NetName=i9 Pin=T7-1
+Added Pin To Net: NetName=i10 Pin=T7-2
+Added Pin To Net: NetName=i11 Pin=T8-2
+Added Pin To Net: NetName=i13 Pin=T8-3
+Added Member To Class: ClassName=shahbazi2 Member=Component T4 Phoenix terminal
+Added Member To Class: ClassName=shahbazi2 Member=Component T5 Terminal
+Added Member To Class: ClassName=shahbazi2 Member=Component T7 Terminal
+Added Member To Class: ClassName=shahbazi2 Member=Component T8 Terminal

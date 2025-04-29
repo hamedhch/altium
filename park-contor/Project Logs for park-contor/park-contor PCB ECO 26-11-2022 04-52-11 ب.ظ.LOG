@@ -1,0 +1,15 @@
+Change Component Designator: OldDesignator=C1 NewDesignator=C3
+Change Component Designator: OldDesignator=C2 NewDesignator=C4
+Added Component: Designator=C1(CAP 1206)
+Added Component: Designator=C2(CAP 1206)
+Added Pin To Net: NetName=vdd Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=vdd Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Change Net Name : Old Net Name=NetC1_1 New Net Name=NetC3_1
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetC4_1
+Added Member To Class: ClassName=park-contor Member=Component C3 =Value
+Added Member To Class: ClassName=park-contor Member=Component C4 =Value
+Added Member To Class: ClassName=park-contor Member=Component J4 Header4X1
+Added Member To Class: ClassName=park-contor Member=Component J6 Header2X1
+Added Member To Class: ClassName=park-contor Member=Component J7 Header2X1

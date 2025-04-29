@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=oo2 Pin=D4-1
+Added Pin To Net: NetName=oo2 Pin=J10-2
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component D2 BTA16-600CW3G
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component J8 Header2X1
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component R4 10K
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component R6 10K
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component R7 10K
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component R8 10K
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component U6 K3021P

@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=GND Pin=D36-2
+Removed Pin From Net: NetName=L7 Pin=P1-1
+Removed Pin From Net: NetName=L6 Pin=P1-2
+Removed Pin From Net: NetName=L5 Pin=P1-3
+Removed Pin From Net: NetName=L4 Pin=P1-4
+Removed Pin From Net: NetName=L3 Pin=P1-5
+Removed Pin From Net: NetName=l2 Pin=P1-6
+Removed Pin From Net: NetName=l1 Pin=P1-7
+Removed Pin From Net: NetName=R4 Pin=P2-1
+Removed Pin From Net: NetName=R3 Pin=P2-2
+Removed Pin From Net: NetName=R2 Pin=P2-3
+Removed Pin From Net: NetName=R1 Pin=P2-4
+Removed Pin From Net: NetName=vdd Pin=R3-1
+Removed Pin From Net: NetName=vcc Pin=R4-2
+Removed Pin From Net: NetName=GND Pin=R5-2
+Removed Pin From Net: NetName=vcc Pin=R9-2
+Removed Pin From Net: NetName=out Pin=U2-2
+Removed Pin From Net: NetName=zero Pin=U2-3
+Removed Pin From Net: NetName=ir-r Pin=U2-4
+Removed Pin From Net: NetName=GND Pin=U2-7
+Removed Pin From Net: NetName=vcc Pin=U2-8
+Removed Member From Class: ClassName=clock-temp-touch Member=D27
+Removed Member From Class: ClassName=clock-temp-touch Member=D28
+Removed Member From Class: ClassName=clock-temp-touch Member=D36
+Removed Member From Class: ClassName=clock-temp-touch Member=P1
+Removed Member From Class: ClassName=clock-temp-touch Member=P2
+Removed Member From Class: ClassName=clock-temp-touch Member=Q1
+Removed Member From Class: ClassName=clock-temp-touch Member=R3
+Removed Member From Class: ClassName=clock-temp-touch Member=R4
+Removed Member From Class: ClassName=clock-temp-touch Member=R5
+Removed Member From Class: ClassName=clock-temp-touch Member=R9
+Removed Member From Class: ClassName=clock-temp-touch Member=R10
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Member To Class: ClassName=clock-temp-touch Member=Component U1 MAX3241ECAI+T
+Added Member To Class: ClassName=clock-temp-touch Member=Component U3 K3021P

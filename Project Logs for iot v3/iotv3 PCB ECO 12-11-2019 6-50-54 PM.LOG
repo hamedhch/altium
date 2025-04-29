@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=VDD Pin=U3-3
+Removed Pin From Net: NetName=VDD Pin=U3-8
+Removed Pin From Net: NetName=O4 Pin=U3-11
+Removed Pin From Net: NetName=btn Pin=U3-12
+Removed Pin From Net: NetName=sda Pin=U3-13
+Removed Pin From Net: NetName=scl Pin=U3-14
+Removed Pin From Net: NetName=rx Pin=U3-15
+Removed Pin From Net: NetName=tx Pin=U3-16
+Change Component Footprint: Designator=U3 Old Footprint=ESP_12 New Footprint=ESP_12_E
+Change Component Comment : Designator=U3 Old Comment=ESP_12 New Comment=ESP_12_E
+Change Component Designator: OldDesignator=D8 NewDesignator=D10
+Change Component Designator: OldDesignator=D9 NewDesignator=D11
+Change Component Designator: OldDesignator=D10 NewDesignator=D8
+Change Component Designator: OldDesignator=D11 NewDesignator=D9
+Change Component Designator: OldDesignator=D12 NewDesignator=D13
+Change Component Designator: OldDesignator=K3 NewDesignator=K4
+Change Component Designator: OldDesignator=K4 NewDesignator=K3
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change Component Designator: OldDesignator=U6 NewDesignator=U8
+Change Component Designator: OldDesignator=U7 NewDesignator=U9
+Change Component Designator: OldDesignator=U8 NewDesignator=U6
+Change Component Designator: OldDesignator=U9 NewDesignator=U7
+Added Component: Designator=D3(3.2X1.6X1.1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SM LED; 2 Flat Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3.2X1.6X1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=D12(3.2X1.6X1.1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "SM LED; 2 Flat Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "3.2X1.6X1.1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Feb-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VDD Pin=U3-15
+Added Pin To Net: NetName=O4 Pin=U3-17
+Added Pin To Net: NetName=btn Pin=U3-18
+Added Pin To Net: NetName=sda Pin=U3-19
+Added Pin To Net: NetName=scl Pin=U3-20
+Added Pin To Net: NetName=rx Pin=U3-21
+Added Pin To Net: NetName=tx Pin=U3-22
+Change Net Name : Old Net Name=NetD8_1 New Net Name=NetD10_1
+Change Net Name : Old Net Name=NetD9_2 New Net Name=NetD11_2
+Change Net Name : Old Net Name=NetD10_1 New Net Name=NetD8_1
+Change Net Name : Old Net Name=NetD11_2 New Net Name=NetD9_2
+Change Net Name : Old Net Name=NetD12_1 New Net Name=NetD13_1
+Change Net Name : Old Net Name=NetK3_1 New Net Name=NetK4_1
+Change Net Name : Old Net Name=NetK3_2 New Net Name=NetK4_2
+Change Net Name : Old Net Name=NetK3_3 New Net Name=NetK4_3
+Change Net Name : Old Net Name=NetK4_1 New Net Name=NetK3_1
+Change Net Name : Old Net Name=NetK4_2 New Net Name=NetK3_2
+Change Net Name : Old Net Name=NetK4_3 New Net Name=NetK3_3
+Change Net Name : Old Net Name=NetR9_1 New Net Name=NetR10_1
+Change Net Name : Old Net Name=NetR9_2 New Net Name=NetR10_2
+Change Net Name : Old Net Name=NetR10_1 New Net Name=NetR9_1
+Change Net Name : Old Net Name=NetR10_2 New Net Name=NetR9_2
+Change Class Name : Old Net Name=iotv2 New Net Name=iotv3
+Added Member To Class: ClassName=iotv3 Member=Component D6 D Tunnel1
+Added Member To Class: ClassName=iotv3 Member=Component D7 D Tunnel1
+Added Member To Class: ClassName=iotv3 Member=Component D13 D Tunnel1
+Added Member To Class: ClassName=iotv3 Member=Component E1 Antenna
+Added Member To Class: ClassName=iotv3 Member=Component E2 Antenna
+Added Member To Class: ClassName=iotv3 Member=Component J2 Header4X1
+Change Room Name: Old Name=iotv2 New Name=iotv3
+Change Room Scope: Old Scope=InComponentClass('iotv2') New Scope=InComponentClass('iotv3')

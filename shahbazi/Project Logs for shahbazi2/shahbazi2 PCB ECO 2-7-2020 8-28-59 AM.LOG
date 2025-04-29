@@ -1,0 +1,100 @@
+Removed Pin From Net: NetName=VCC Pin=D4-2
+Removed Pin From Net: NetName=VCC Pin=D7-1
+Removed Pin From Net: NetName=VCC Pin=D11-2
+Removed Pin From Net: NetName=VCC Pin=D12-1
+Removed Pin From Net: NetName=VCC Pin=D15-2
+Removed Pin From Net: NetName=VCC Pin=D16-1
+Removed Pin From Net: NetName=VCC Pin=D18-2
+Removed Pin From Net: NetName=VCC Pin=D20-1
+Removed Pin From Net: NetName=VCC Pin=K3-5
+Removed Pin From Net: NetName=VCC Pin=K6-5
+Removed Pin From Net: NetName=VCC Pin=K8-5
+Removed Pin From Net: NetName=VCC Pin=K10-5
+Removed Pin From Net: NetName=O2 Pin=R6-1
+Removed Pin From Net: NetName=O3 Pin=R12-1
+Removed Pin From Net: NetName=o4 Pin=R17-1
+Removed Pin From Net: NetName=O1 Pin=R20-1
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=U8-3
+Removed Pin From Net: NetName=GND Pin=U11-3
+Removed Pin From Net: NetName=GND Pin=U13-3
+Removed Member From Class: ClassName=shahbazi2 Member=D4
+Removed Member From Class: ClassName=shahbazi2 Member=D7
+Removed Member From Class: ClassName=shahbazi2 Member=D11
+Removed Member From Class: ClassName=shahbazi2 Member=D12
+Removed Member From Class: ClassName=shahbazi2 Member=D15
+Removed Member From Class: ClassName=shahbazi2 Member=D16
+Removed Member From Class: ClassName=shahbazi2 Member=D18
+Removed Member From Class: ClassName=shahbazi2 Member=D20
+Removed Member From Class: ClassName=shahbazi2 Member=K3
+Removed Member From Class: ClassName=shahbazi2 Member=K6
+Removed Member From Class: ClassName=shahbazi2 Member=K8
+Removed Member From Class: ClassName=shahbazi2 Member=K10
+Removed Member From Class: ClassName=shahbazi2 Member=R3
+Removed Member From Class: ClassName=shahbazi2 Member=R6
+Removed Member From Class: ClassName=shahbazi2 Member=R10
+Removed Member From Class: ClassName=shahbazi2 Member=R12
+Removed Member From Class: ClassName=shahbazi2 Member=R15
+Removed Member From Class: ClassName=shahbazi2 Member=R17
+Removed Member From Class: ClassName=shahbazi2 Member=R19
+Removed Member From Class: ClassName=shahbazi2 Member=R20
+Removed Member From Class: ClassName=shahbazi2 Member=T3
+Removed Member From Class: ClassName=shahbazi2 Member=T6
+Removed Member From Class: ClassName=shahbazi2 Member=T8
+Removed Member From Class: ClassName=shahbazi2 Member=T12
+Removed Member From Class: ClassName=shahbazi2 Member=U2
+Removed Member From Class: ClassName=shahbazi2 Member=U8
+Removed Member From Class: ClassName=shahbazi2 Member=U11
+Removed Member From Class: ClassName=shahbazi2 Member=U13
+Added Component: Designator=J2(HEADER 4X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J4(HEADER 4X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP2(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP6(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP7(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP10(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP11(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP12(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R13(RES 1206 (3216X08L))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J2-1
+Added Pin To Net: NetName=5v Pin=J2-2
+Added Pin To Net: NetName=sda Pin=J2-3
+Added Pin To Net: NetName=scl Pin=J2-4
+Added Pin To Net: NetName=rx Pin=J4-1
+Added Pin To Net: NetName=rx2 Pin=J4-2
+Added Pin To Net: NetName=vDD Pin=J4-3
+Added Pin To Net: NetName=GND Pin=J4-4
+Added Pin To Net: NetName=btn Pin=JP2-1
+Added Pin To Net: NetName=btn Pin=JP2-2
+Added Pin To Net: NetName=VCC Pin=JP6-1
+Added Pin To Net: NetName=VCC Pin=JP6-2
+Added Pin To Net: NetName=vDD Pin=JP7-1
+Added Pin To Net: NetName=vDD Pin=JP7-2
+Added Pin To Net: NetName=5v Pin=JP10-1
+Added Pin To Net: NetName=5v Pin=JP10-2
+Added Pin To Net: NetName=GND Pin=JP11-1
+Added Pin To Net: NetName=GND Pin=JP11-2
+Added Pin To Net: NetName=i10 Pin=JP12-1
+Added Pin To Net: NetName=i10 Pin=JP12-2
+Added Pin To Net: NetName=rst Pin=R13-1
+Added Pin To Net: NetName=vesp Pin=R13-2
+Added Member To Class: ClassName=shahbazi2 Member=Component J2 Header4X1
+Added Member To Class: ClassName=shahbazi2 Member=Component J4 Header4X1
+Added Member To Class: ClassName=shahbazi2 Member=Component JP2 Jumper
+Added Member To Class: ClassName=shahbazi2 Member=Component JP6 Jumper
+Added Member To Class: ClassName=shahbazi2 Member=Component JP7 Jumper
+Added Member To Class: ClassName=shahbazi2 Member=Component JP10 Jumper
+Added Member To Class: ClassName=shahbazi2 Member=Component JP11 Jumper
+Added Member To Class: ClassName=shahbazi2 Member=Component JP12 Jumper
+Added Member To Class: ClassName=shahbazi2 Member=Component R13 10K

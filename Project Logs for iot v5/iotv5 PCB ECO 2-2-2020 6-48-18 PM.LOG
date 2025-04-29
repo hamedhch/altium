@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=rx2 Pin=U6-30
+Removed Pin From Net: NetName=rx Pin=U6-31
+Change Net Name : Old Net Name=rx2 New Net Name=tx

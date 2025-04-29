@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=T1-1
+Removed Member From Class: ClassName=tablo tara2 Member=T1
+Added Pin To Net: NetName=NetC1_2 Pin=E6-1

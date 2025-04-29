@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=D1 Old Footprint=3.2X1.6X1.1 New Footprint=LED-3mm
+Change Component Comment : Designator=D1 Old Comment=LED2 New Comment=LED 3mm
+Change component parameters: Designator = "D1" ("D1"); Footprint = "3.2X1.6X1.1"; UniqueID = "\TGHFSFLQ" ("\TGHFSFLQ")
+Change component parameters (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemian"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "02/04/2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "www.picpars.com"; VariantName = "[No Variations]"

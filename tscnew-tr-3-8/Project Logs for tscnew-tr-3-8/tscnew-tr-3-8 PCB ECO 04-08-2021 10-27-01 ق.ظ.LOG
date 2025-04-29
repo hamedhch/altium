@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=GND Pin=P2-1
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component J2 Header5X1
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component J4 Header3X1
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component J5 TBlock-2
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component J6 Header2X1
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component J7 TBlock-4

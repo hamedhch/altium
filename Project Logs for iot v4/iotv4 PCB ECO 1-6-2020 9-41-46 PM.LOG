@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=VDD Pin=E2-1
+Added Component: Designator=C3(CAP-30)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP4(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=VDD Pin=JP4-2
+Added Pin To Net: NetName=VDD1 Pin=E2-1
+Added Pin To Net: NetName=VDD1 Pin=JP4-1
+Added Net: Name=VDD1
+Added Member To Class: ClassName=iotv4 Member=Component C3 Value
+Added Member To Class: ClassName=iotv4 Member=Component JP4 Jumper

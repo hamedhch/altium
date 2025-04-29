@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=Q4-3
+Removed Pin From Net: NetName=GND Pin=Q5-1
+Removed Pin From Net: NetName=o3 Pin=R17-1
+Removed Member From Class: ClassName=touch-2ch-v3 Member=Q4
+Removed Member From Class: ClassName=touch-2ch-v3 Member=Q5
+Removed Member From Class: ClassName=touch-2ch-v3 Member=R17
+Added Component: Designator=R1(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=o1 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=V2 Pin=D17-2
+Added Net: Name=V2
+Added Member To Class: ClassName=touch-2ch-v3 Member=Component R1 10K

@@ -1,0 +1,19 @@
+Removed Member From Class: ClassName=tsc2r Member=E1
+Change Component Footprint: Designator=J4 Old Footprint=KF300-3 PIN New Footprint=KF300-2 PIN
+Change Component Comment : Designator=J4 Old Comment=TBlock-3 New Comment=TBlock-2
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Change Component Designator: OldDesignator=J4 NewDesignator=J1
+Added Pin To Net: NetName=faz Pin=K1-1
+Added Pin To Net: NetName=faz Pin=K2-1
+Added Pin To Net: NetName=faz Pin=PS1-1
+Added Pin To Net: NetName=nol Pin=J2-1
+Added Pin To Net: NetName=nol Pin=PS1-2
+Added Net: Name=nol
+Added Pin To Net: NetName=q1 Pin=J4-2
+Added Pin To Net: NetName=q1 Pin=K1-3
+Added Net: Name=q1
+Added Pin To Net: NetName=q2 Pin=J2-2
+Added Pin To Net: NetName=q2 Pin=K2-3
+Added Net: Name=q2
+Added Member To Class: ClassName=tsc2r Member=Component J4 TBlock-2

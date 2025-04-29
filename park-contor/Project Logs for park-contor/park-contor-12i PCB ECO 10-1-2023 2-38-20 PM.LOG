@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=rst Pin=S2-1
+Removed Pin From Net: NetName=rst Pin=U1-1
+Added Pin To Net: NetName=rstsim Pin=S2-1
+Added Pin To Net: NetName=rstsim Pin=U1-1
+Added Net: Name=rstsim

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=VCC Pin=D3-2
+Removed Pin From Net: NetName=VCC Pin=D4-1
+Removed Pin From Net: NetName=VCC Pin=K2-5
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Member From Class: ClassName=tsc Member=D4
+Removed Member From Class: ClassName=tsc Member=K2
+Removed Member From Class: ClassName=tsc Member=Q2
+Removed Member From Class: ClassName=tsc Member=T2
+Added Member To Class: ClassName=tsc Member=Component D1 D Tunnel1
+Added Member To Class: ClassName=tsc Member=Component D2 LED 3mm
+Added Member To Class: ClassName=tsc Member=Component R1 10K
+Added Member To Class: ClassName=tsc Member=Component R2 10K
+Added Member To Class: ClassName=tsc Member=Component R5 10K
+Added Member To Class: ClassName=tsc Member=Component R6 10K

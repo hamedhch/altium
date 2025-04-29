@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Pin From Net: NetName=NetD6_1 Pin=R5-1
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=NetD6_1 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_1 Pin=R5-1
+Added Net: Name=NetQ2_1
+Added Member To Class: ClassName=ir-kh Member=Component R3 10K
+Added Member To Class: ClassName=ir-kh Member=Component R5 10K
+Added Member To Class: ClassName=ir-kh Member=Component R6 10K
+Added Member To Class: ClassName=ir-kh Member=Component R7 10K
+Added Member To Class: ClassName=ir-kh Member=Component R9 10K
+Added Member To Class: ClassName=ir-kh Member=Component R10 10K

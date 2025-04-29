@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=MOC3-2
+Removed Pin From Net: NetName=faz Pin=Q3-2
+Removed Pin From Net: NetName=faz Pin=R5-2
+Removed Pin From Net: NetName=o3 Pin=R6-1
+Removed Member From Class: ClassName=smart home2 Member=MOC3
+Removed Member From Class: ClassName=smart home2 Member=Q3
+Removed Member From Class: ClassName=smart home2 Member=R5
+Removed Member From Class: ClassName=smart home2 Member=R6
+Change Component Footprint: Designator=J2 Old Footprint=KF300-3 PIN New Footprint=KF300-2 PIN
+Change Component Comment : Designator=J2 Old Comment=TBlock-3 New Comment=TBlock-2
+Change Class Name : Old Net Name=smart home2 New Net Name=smart home3
+Change Room Name: Old Name=smart home2 New Name=smart home3
+Change Room Scope: Old Scope=InComponentClass('smart home2') New Scope=InComponentClass('smart home3')

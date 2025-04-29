@@ -1,0 +1,10 @@
+Change Component Footprint: Designator=P1 Old Footprint=MHDR2X3 New Footprint=HDR2X3
+Added Member To Class: ClassName=tach key Member=Component C12 =Value
+Added Member To Class: ClassName=tach key Member=Component R6 10K
+Added Member To Class: ClassName=tach key Member=Component R8 10K
+Added Member To Class: ClassName=tach key Member=Component R13 10K
+Added Member To Class: ClassName=tach key Member=Component R14 10K
+Added Member To Class: ClassName=tach key Member=Component R17 10K
+Added Member To Class: ClassName=tach key Member=Component U4 K3021P
+Added Member To Class: ClassName=tach key Member=Component U7 K3021P
+Added Member To Class: ClassName=tach key Member=Component U10 K3021P

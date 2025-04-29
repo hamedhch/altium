@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=D2-1
+Removed Pin From Net: NetName=NetD3_2 Pin=D4-1
+Change Component Designator: OldDesignator=D4 NewDesignator=D5
+Change Component Designator: OldDesignator=D5 NewDesignator=D4
+Change Component Designator: OldDesignator=R10 NewDesignator=R12
+Added Component: Designator=R10(RES 2010 (5026X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES 2010 (5026X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD3_2 Pin=R10-1
+Added Pin To Net: NetName=NetD1_2 Pin=R11-1
+Change Net Name : Old Net Name=NetD4_2 New Net Name=NetD5_2
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R11-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=R10-2
+Added Net: Name=NetD5_1
+Added Member To Class: ClassName=touch-tara-h Member=Component R11 10K
+Added Member To Class: ClassName=touch-tara-h Member=Component R12 10K

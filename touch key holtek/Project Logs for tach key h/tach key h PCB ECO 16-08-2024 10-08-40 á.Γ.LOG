@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=+12v Pin=U3-3
+Added Pin To Net: NetName=VCC Pin=U3-4
+Added Member To Class: ClassName=tach key h Member=Component C5 =Value
+Added Member To Class: ClassName=tach key h Member=Component D5 D Schottky
+Added Member To Class: ClassName=tach key h Member=Component U1 MB6S
+Added Member To Class: ClassName=tach key h Member=Component U3 LM1117MP-3.3

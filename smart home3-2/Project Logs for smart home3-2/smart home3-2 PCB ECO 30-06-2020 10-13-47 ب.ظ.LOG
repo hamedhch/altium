@@ -1,0 +1,63 @@
+Removed Pin From Net: NetName=faz Pin=R2-2
+Removed Pin From Net: NetName=faz Pin=R4-2
+Removed Pin From Net: NetName=faz Pin=R6-2
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Added Component: Designator=MOC1(DIP-6)
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemian"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-11-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-11-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WEB"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Added Component: Designator=MOC2(DIP-6)
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemian"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-11-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-11-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WEB"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Added Component: Designator=MOC3(DIP-6)
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemian"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-11-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-11-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WEB"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetMOC1_1 Pin=MOC1-1
+Added Pin To Net: NetName=GND Pin=MOC1-2
+Added Pin To Net: NetName=faz Pin=MOC1-4
+Added Pin To Net: NetName=NetMOC1_6 Pin=MOC1-6
+Added Pin To Net: NetName=NetMOC2_1 Pin=MOC2-1
+Added Pin To Net: NetName=GND Pin=MOC2-2
+Added Pin To Net: NetName=faz Pin=MOC2-4
+Added Pin To Net: NetName=NetMOC2_6 Pin=MOC2-6
+Added Pin To Net: NetName=NetMOC3_1 Pin=MOC3-1
+Added Pin To Net: NetName=GND Pin=MOC3-2
+Added Pin To Net: NetName=faz Pin=MOC3-4
+Added Pin To Net: NetName=NetMOC3_6 Pin=MOC3-6
+Added Pin To Net: NetName=NetMOC1_6 Pin=R3-1
+Added Pin To Net: NetName=NetMOC2_6 Pin=R5-1
+Added Pin To Net: NetName=NetMOC3_6 Pin=R7-1
+Added Pin To Net: NetName=NetQ1_3 Pin=R3-2
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetQ2_3 Pin=R5-2
+Added Net: Name=NetQ2_3
+Added Pin To Net: NetName=NetQ3_3 Pin=R7-2
+Added Net: Name=NetQ3_3
+Added Member To Class: ClassName=smart home3-2 Member=Component MOC1 MOC3021-3
+Added Member To Class: ClassName=smart home3-2 Member=Component MOC2 MOC3021-3
+Added Member To Class: ClassName=smart home3-2 Member=Component MOC3 MOC3021-3

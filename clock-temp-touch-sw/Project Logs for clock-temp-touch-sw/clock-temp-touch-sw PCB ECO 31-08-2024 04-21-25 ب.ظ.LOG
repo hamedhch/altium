@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=out1 Pin=R9-2
+Removed Pin From Net: NetName=out2 Pin=R10-2
+Removed Pin From Net: NetName=NetJ2_1 Pin=U5-2
+Removed Pin From Net: NetName=vcc Pin=U6-1
+Removed Pin From Net: NetName=NetJ3_1 Pin=U7-2
+Removed Pin From Net: NetName=vcc Pin=U8-1
+Removed Member From Class: ClassName=clock-temp-touch-sw Member=R10
+Removed Member From Class: ClassName=clock-temp-touch-sw Member=U5
+Removed Member From Class: ClassName=clock-temp-touch-sw Member=U6
+Removed Member From Class: ClassName=clock-temp-touch-sw Member=U7
+Removed Member From Class: ClassName=clock-temp-touch-sw Member=U8
+Change Footprint: Footprint Not Found minimelf
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Added Component: Designator=Q1(SOT89N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.motorola.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Pin 2 is electrically connected to Pin 4 (TAB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Thru-Hole, Vertical, Heatsink Mounted; 3 In-Line Leads; Pitch 2.28 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "369-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "29-Sep-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Q2(SOT89N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.motorola.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Pin 2 is electrically connected to Pin 4 (TAB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Thru-Hole, Vertical, Heatsink Mounted; 3 In-Line Leads; Pitch 2.28 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "369-03"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "29-Sep-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R8(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found MP04A_N
+Added Pin To Net: NetName=NetC4_2 Pin=J2-2
+Added Pin To Net: NetName=NetC4_2 Pin=J3-2
+Add Pin To Net: Unknown Pin: Pin LS2-1
+Add Pin To Net: Unknown Pin: Pin LS2-2
+Added Pin To Net: NetName=NetJ2_1 Pin=Q1-2
+Added Pin To Net: NetName=NetJ2_1 Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Pin To Net: NetName=NetJ3_1 Pin=Q2-2
+Added Pin To Net: NetName=NetJ3_1 Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=Q2-3
+Added Pin To Net: NetName=out1 Pin=R8-1
+Added Pin To Net: NetName=out2 Pin=R9-1
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Change Net Name : Old Net Name=NetC4_2 New Net Name=VDD
+Added Pin To Net: NetName=NetQ2_3 Pin=R9-2
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-1
+Added Net: Name=NetQ2_3
+Added Member To Class: ClassName=clock-temp-touch-sw Member=Component Q1 Triac
+Added Member To Class: ClassName=clock-temp-touch-sw Member=Component Q2 Triac
+Added Member To Class: ClassName=clock-temp-touch-sw Member=Component R8 10K
+Add Class Member: Failed to add class member : Component U1 LM1117MP-3.3

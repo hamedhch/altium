@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=o10 Pin=P1-1
+Removed Pin From Net: NetName=o9 Pin=P1-2
+Removed Pin From Net: NetName=o8 Pin=P1-3
+Removed Pin From Net: NetName=rst2 Pin=P1-4
+Added Pin To Net: NetName=rst2 Pin=P1-1
+Added Pin To Net: NetName=o8 Pin=P1-2
+Added Pin To Net: NetName=o9 Pin=P1-3
+Added Pin To Net: NetName=o10 Pin=P1-4
+Added Member To Class: ClassName=iotv4 Member=Component P1 Header 6

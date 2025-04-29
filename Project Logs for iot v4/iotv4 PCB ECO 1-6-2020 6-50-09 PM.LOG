@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=iotv4 Member=C1
+Added Component: Designator=C?(ELEC-CAP-RAD10-20)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=iotv4 Member=Component C? Value

@@ -1,0 +1,104 @@
+Removed Pin From Net: NetName=VCC Pin=D1-2
+Removed Pin From Net: NetName=VCC Pin=D2-2
+Removed Pin From Net: NetName=VCC Pin=D4-2
+Removed Pin From Net: NetName=VCC Pin=D5-2
+Removed Pin From Net: NetName=GND Pin=JP4-1
+Removed Pin From Net: NetName=GND Pin=JP4-2
+Removed Pin From Net: NetName=faz Pin=K1-1
+Removed Pin From Net: NetName=o1 Pin=K1-3
+Removed Pin From Net: NetName=VCC Pin=K1-4
+Removed Pin From Net: NetName=faz Pin=K2-1
+Removed Pin From Net: NetName=VCC Pin=K2-5
+Removed Pin From Net: NetName=faz Pin=K3-1
+Removed Pin From Net: NetName=VCC Pin=K3-5
+Removed Pin From Net: NetName=faz Pin=K4-1
+Removed Pin From Net: NetName=VCC Pin=K4-4
+Removed Pin From Net: NetName=GND Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=P3-1
+Removed Pin From Net: NetName=GND Pin=P4-1
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Pin From Net: NetName=GND Pin=Q3-2
+Removed Pin From Net: NetName=GND Pin=Q4-2
+Removed Pin From Net: NetName=nol Pin=T1-3
+Removed Pin From Net: NetName=faz Pin=T1-4
+Removed Pin From Net: NetName=o1 Pin=T1-6
+Removed Pin From Net: NetName=VCC Pin=U2-1
+Removed Member From Class: ClassName=tach key Member=D3
+Removed Member From Class: ClassName=tach key Member=D4
+Removed Member From Class: ClassName=tach key Member=D5
+Removed Member From Class: ClassName=tach key Member=JP1
+Removed Member From Class: ClassName=tach key Member=JP2
+Removed Member From Class: ClassName=tach key Member=JP3
+Removed Member From Class: ClassName=tach key Member=JP4
+Removed Member From Class: ClassName=tach key Member=K1
+Removed Member From Class: ClassName=tach key Member=K2
+Removed Member From Class: ClassName=tach key Member=K3
+Removed Member From Class: ClassName=tach key Member=K4
+Removed Member From Class: ClassName=tach key Member=P3
+Removed Member From Class: ClassName=tach key Member=P4
+Removed Member From Class: ClassName=tach key Member=Q1
+Removed Member From Class: ClassName=tach key Member=Q2
+Removed Member From Class: ClassName=tach key Member=Q3
+Removed Member From Class: ClassName=tach key Member=Q4
+Removed Member From Class: ClassName=tach key Member=R6
+Removed Member From Class: ClassName=tach key Member=R7
+Removed Member From Class: ClassName=tach key Member=T1
+Change Component Footprint: Designator=D2 Old Footprint=3.2X1.6X1.1 New Footprint=*TO254P1028X482X1968-3
+Change Component Footprint: Designator=U2 Old Footprint=TO-220 New Footprint=DIP762W50P254L730H410Q6
+Change Component Comment : Designator=D2 Old Comment=D Tunnel1 New Comment=BTA16-600CW3G
+Change Component Comment : Designator=U2 Old Comment=L78XXCV New Comment=K3021P
+Change Component Designator: OldDesignator=D3 NewDesignator=D1
+Change Component Designator: OldDesignator=P2 NewDesignator=P1
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Change Component Designator: OldDesignator=R5 NewDesignator=R3
+Change component parameters: Designator = "U2" ("U2"); Footprint = "TO-220"; UniqueID = "\UJRWERZE" ("\UJRWERZE")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=291595"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Vishay Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=291595"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "K3021P"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "DIP-6 Vishay"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/K3021P/Vishay%20Semiconductor%20Opto%20Division/view-part/291595/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "3.2X1.6X1.1"; UniqueID = "\ICPLVIMH" ("\ICPLVIMH")
+Change component parameters (AddParameter): Name = "Arrow_Americas-Purchase-URL"; Value = "https://snapeda.com/shop?store=Arrow+Americas&id=390940"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=390940"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Littelfuse Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=390940"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "BTA16-600CW3G"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "TO-220 ON Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BTA16-600CW3G/Littelfuse%20Inc./view-part/390940/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=faz Pin=D2-2
+Added Pin To Net: NetName=o1 Pin=P1-2
+Added Pin To Net: NetName=VCC Pin=P1-3
+Added Pin To Net: NetName=o1 Pin=R4-1
+Added Pin To Net: NetName=faz Pin=R5-2
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR2_1
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR3_1
+Added Pin To Net: NetName=NetD2_3 Pin=D2-3
+Added Pin To Net: NetName=NetD2_3 Pin=U2-6
+Added Net: Name=NetD2_3
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=U2-1
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U2-4
+Added Net: Name=NetR5_1
+Change Class Name : Old Net Name=tach key New Net Name=tuch-tara
+Added Member To Class: ClassName=tuch-tara Member=Component R5 10K
+Change Room Name: Old Name=tach key New Name=tuch-tara
+Change Room Scope: Old Scope=InComponentClass('tach key') New Scope=InComponentClass('tuch-tara')

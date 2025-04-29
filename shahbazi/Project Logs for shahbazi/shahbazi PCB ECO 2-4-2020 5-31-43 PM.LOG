@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=vDD Pin=T14-1
+Removed Pin From Net: NetName=GND Pin=T14-2
+Change Component Footprint: Designator=T14 Old Footprint=KF300-2 PIN New Footprint=phoenix terminal R 3
+Added Pin To Net: NetName=vDD Pin=T14-2
+Added Pin To Net: NetName=GND Pin=T14-3

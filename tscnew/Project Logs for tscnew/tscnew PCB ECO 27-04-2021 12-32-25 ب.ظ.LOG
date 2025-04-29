@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=s1 Pin=P2-1
+Added Pin To Net: NetName=s2 Pin=P2-2
+Added Member To Class: ClassName=tscnew Member=Component C1 =Value
+Added Member To Class: ClassName=tscnew Member=Component P2 Header 2
+Added Member To Class: ClassName=tscnew Member=Component P3 Header 2
+Added Member To Class: ClassName=tscnew Member=Component R1 10K
+Added Member To Class: ClassName=tscnew Member=Component R3 10K

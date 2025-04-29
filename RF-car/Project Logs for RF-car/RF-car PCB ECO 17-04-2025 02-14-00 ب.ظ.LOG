@@ -1,0 +1,29 @@
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=vcc Pin=C2-2
+Removed Pin From Net: NetName=vdd Pin=C3-2
+Removed Pin From Net: NetName=GND Pin=J2-4
+Removed Pin From Net: NetName=vdd Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=out Pin=R2-1
+Removed Member From Class: ClassName=RF-car Member=D1
+Removed Member From Class: ClassName=RF-car Member=D2
+Removed Member From Class: ClassName=RF-car Member=D3
+Removed Member From Class: ClassName=RF-car Member=J4
+Removed Member From Class: ClassName=RF-car Member=Q2
+Removed Member From Class: ClassName=RF-car Member=R2
+Removed Member From Class: ClassName=RF-car Member=R3
+Change Component Footprint: Designator=J2 Old Footprint=HEADER 4X1 New Footprint=Header 2X1
+Change Component Comment : Designator=J2 Old Comment=Header4X1 New Comment=Header2X1
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change Component Designator: OldDesignator=Q2 NewDesignator=Q1
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Added Component: Designator=C3(CAP 1206)
+Added Pin To Net: NetName=vcc Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=vcc Pin=C3-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Change Net Name : Old Net Name=NetQ2_2 New Net Name=NetQ1_2

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=vcc Pin=TR1-1
+Added Pin To Net: NetName=vdd Pin=J1-1
+Added Pin To Net: NetName=vdd Pin=R3-1
+Added Pin To Net: NetName=vdd Pin=TR1-1
+Added Net: Name=vdd
+Added Member To Class: ClassName=ir-kh Member=Component D6 LED2
+Added Member To Class: ClassName=ir-kh Member=Component J2 Header3X1
+Added Member To Class: ClassName=ir-kh Member=Component Q1 QNPN
+Added Member To Class: ClassName=ir-kh Member=Component R6 10K
+Added Member To Class: ClassName=ir-kh Member=Component R7 10K

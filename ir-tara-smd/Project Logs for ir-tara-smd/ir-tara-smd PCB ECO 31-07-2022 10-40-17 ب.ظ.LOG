@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=U2-1
+Removed Pin From Net: NetName=NetC1_1 Pin=U2-2
+Removed Pin From Net: NetName=NetD1_2 Pin=U2-3
+Removed Pin From Net: NetName=VCC Pin=U2-4
+Removed Pin From Net: NetName=NetC2_1 Pin=U2-5
+Removed Pin From Net: NetName=NetC1_1 Pin=U2-6
+Removed Pin From Net: NetName=NetR3_1 Pin=U2-7
+Removed Pin From Net: NetName=VCC Pin=U2-8
+Removed Member From Class: ClassName=ir-tara Member=U2
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=NetC1_1 Pin=U1-2
+Added Pin To Net: NetName=NetD1_2 Pin=U1-3
+Added Pin To Net: NetName=VCC Pin=U1-4
+Added Pin To Net: NetName=NetC2_1 Pin=U1-5
+Added Pin To Net: NetName=NetC1_1 Pin=U1-6
+Added Pin To Net: NetName=NetR3_1 Pin=U1-7
+Added Pin To Net: NetName=VCC Pin=U1-8
+Change Class Name : Old Net Name=ir-tara New Net Name=ir-tara-smd
+Change Room Name: Old Name=ir-tara New Name=ir-tara-smd
+Change Room Scope: Old Scope=InComponentClass('ir-tara') New Scope=InComponentClass('ir-tara-smd')

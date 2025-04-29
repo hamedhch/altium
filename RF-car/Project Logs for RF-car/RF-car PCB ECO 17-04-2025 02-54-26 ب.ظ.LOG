@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=bizer Pin=U1-5
+Added Pin To Net: NetName=DATA_IN Pin=U2-2
+Added Pin To Net: NetName=DATA_OUT Pin=U2-7

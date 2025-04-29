@@ -1,0 +1,35 @@
+Change Component Designator: OldDesignator=K2 NewDesignator=K4
+Added Component: Designator=K2(RELAY_HJR-4102-L-05V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BuyPart"; Value = "https://www.snapeda.com/parts/HJR-4102-L-05V/Tianbo/view-part/3661977/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Tianbo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HJR-4102-L-05V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/HJR-4102-L-05V/Tianbo/view-part/3661977/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=K3(RELAY_HJR-4102-L-05V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BuyPart"; Value = "https://www.snapeda.com/parts/HJR-4102-L-05V/Tianbo/view-part/3661977/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Tianbo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HJR-4102-L-05V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/HJR-4102-L-05V/Tianbo/view-part/3661977/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=K5(Relays)
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Added Component: Designator=K6(Relays)
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetK2_1 Pin=K2-1
+Added Pin To Net: NetName=NetK2_1 Pin=K2-12
+Added Net: Name=NetK2_1
+Added Pin To Net: NetName=NetK3_1 Pin=K3-1
+Added Pin To Net: NetName=NetK3_1 Pin=K3-12
+Added Net: Name=NetK3_1
+Added Member To Class: ClassName=tsc Member=Component K3 HJR-4102-L-05V
+Added Member To Class: ClassName=tsc Member=Component K4 Relay-05vDC
+Added Member To Class: ClassName=tsc Member=Component K5 Relay-05vDC
+Added Member To Class: ClassName=tsc Member=Component K6 Relay-05vDC

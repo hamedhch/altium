@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=o1 Pin=T1-6
+Added Net: Name=o1
+Added Pin To Net: NetName=o2 Pin=T1-5
+Added Net: Name=o2
+Added Pin To Net: NetName=o3 Pin=K3-3
+Added Pin To Net: NetName=o3 Pin=T1-2
+Added Net: Name=o3
+Added Pin To Net: NetName=o4 Pin=K1-3
+Added Pin To Net: NetName=o4 Pin=T1-1
+Added Net: Name=o4

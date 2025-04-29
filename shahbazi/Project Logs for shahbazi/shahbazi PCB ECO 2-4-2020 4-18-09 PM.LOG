@@ -1,0 +1,13 @@
+Added Component: Designator=JP1(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=R13(RES 1206 (3216X08L))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=vDD Pin=JP1-1
+Added Pin To Net: NetName=vDD Pin=JP1-2
+Added Pin To Net: NetName=rst Pin=R13-1
+Added Pin To Net: NetName=vesp Pin=R13-2
+Added Member To Class: ClassName=shahbazi Member=Component JP1 Jumper
+Added Member To Class: ClassName=shahbazi Member=Component R13 10K

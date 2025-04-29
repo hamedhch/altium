@@ -1,0 +1,15 @@
+Added Component: Designator=U5(DIP762W50P254L730H410Q6)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey-Purchase-URL"; Value = "https://snapeda.com/shop?store=DigiKey&id=291595"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Vishay Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=291595"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "K3021P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "DIP-6 Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/K3021P/Vishay%20Semiconductor%20Opto%20Division/view-part/291595/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR7_2 Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=NetR6_1 Pin=U5-4
+Added Pin To Net: NetName=NetD4_3 Pin=U5-6
+Added Member To Class: ClassName=smart home3-2 Member=Component U5 K3021P

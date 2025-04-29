@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=i12 Pin=T3-1
+Removed Pin From Net: NetName=i11 Pin=T3-2
+Removed Pin From Net: NetName=i13 Pin=T3-3
+Removed Member From Class: ClassName=contor Member=T3

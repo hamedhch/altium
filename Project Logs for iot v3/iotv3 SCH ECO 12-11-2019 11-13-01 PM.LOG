@@ -1,0 +1,61 @@
+Remove Pin=D13-2 From Net=O4
+Remove Pin=U3-1 From Net=rst
+Remove Pin=U3-2 From Net=ADC
+Remove Pin=U3-4 From Net=O3
+Remove Pin=U3-5 From Net=O2
+Remove Pin=U3-6 From Net=O1
+Remove Pin=U3-7 From Net=dht
+Remove Pin=U3-11 From Net=O4
+Remove Pin=U3-12 From Net=btn
+Remove Pin=U3-13 From Net=sda
+Remove Pin=U3-14 From Net=scl
+Remove Pin=U3-15 From Net=rx
+Remove Pin=U3-16 From Net=tx
+Change Component Footprint: Designator=U3 Old Footprint=ESP_12 New Footprint=DIP4
+Change Component Comment: Designator=U3 Old Comment=ESP_12 New Comment=PC817
+Change Component Designator: OldDesignator=D1 NewDesignator=D7
+Change Component Designator: OldDesignator=D2 NewDesignator=D8
+Change Component Designator: OldDesignator=D4 NewDesignator=D11
+Change Component Designator: OldDesignator=D5 NewDesignator=D13
+Change Component Designator: OldDesignator=D6 NewDesignator=D14
+Change Component Designator: OldDesignator=D7 NewDesignator=D16
+Change Component Designator: OldDesignator=D8 NewDesignator=D20
+Change Component Designator: OldDesignator=D9 NewDesignator=D23
+Change Component Designator: OldDesignator=D10 NewDesignator=D19
+Change Component Designator: OldDesignator=D11 NewDesignator=D21
+Change Component Designator: OldDesignator=D12 NewDesignator=D24
+Change Component Designator: OldDesignator=E1 NewDesignator=E2
+Change Component Designator: OldDesignator=E2 NewDesignator=E1
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Change Component Designator: OldDesignator=J3 NewDesignator=J4
+Change Component Designator: OldDesignator=K1 NewDesignator=K3
+Change Component Designator: OldDesignator=K2 NewDesignator=K5
+Change Component Designator: OldDesignator=K3 NewDesignator=K8
+Change Component Designator: OldDesignator=K4 NewDesignator=K7
+Change Component Designator: OldDesignator=P1 NewDesignator=P3
+Change Component Designator: OldDesignator=P2 NewDesignator=P4
+Change Component Designator: OldDesignator=R1 NewDesignator=R7
+Change Component Designator: OldDesignator=R2 NewDesignator=R8
+Change Component Designator: OldDesignator=R3 NewDesignator=R9
+Change Component Designator: OldDesignator=R4 NewDesignator=R11
+Change Component Designator: OldDesignator=R5 NewDesignator=R13
+Change Component Designator: OldDesignator=R6 NewDesignator=R15
+Change Component Designator: OldDesignator=R7 NewDesignator=R19
+Change Component Designator: OldDesignator=R8 NewDesignator=R17
+Change Component Designator: OldDesignator=R9 NewDesignator=R21
+Change Component Designator: OldDesignator=R10 NewDesignator=R22
+Change Component Designator: OldDesignator=R11 NewDesignator=R24
+Change Component Designator: OldDesignator=R12 NewDesignator=R23
+Change Component Designator: OldDesignator=T1 NewDesignator=T3
+Change Component Designator: OldDesignator=T2 NewDesignator=T5
+Change Component Designator: OldDesignator=T3 NewDesignator=T13
+Change Component Designator: OldDesignator=T4 NewDesignator=T14
+Change Component Designator: OldDesignator=U1 NewDesignator=U5
+Change Component Designator: OldDesignator=U2 NewDesignator=U6
+Change Component Designator: OldDesignator=U4 NewDesignator=U8
+Change Component Designator: OldDesignator=U5 NewDesignator=U11
+Change Component Designator: OldDesignator=U6 NewDesignator=U14
+Change Component Designator: OldDesignator=U7 NewDesignator=U16
+Change Component Designator: OldDesignator=U8 NewDesignator=U15
+Change Component Designator: OldDesignator=U9 NewDesignator=U17
+Change Pin Designator/Name:  Old Designator=U3-3 Old Name=EN New Designator =R\S\T\ New Name=1

@@ -1,0 +1,18 @@
+Removed Member From Class: ClassName=iotv4 Member=JP?
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Change Component Designator: OldDesignator=J3 NewDesignator=J5
+Change Component Designator: OldDesignator=J5 NewDesignator=J6
+Change Component Designator: OldDesignator=JP8 NewDesignator=JP9
+Change Component Designator: OldDesignator=JP9 NewDesignator=JP10
+Change Component Designator: OldDesignator=JP? NewDesignator=JP8
+Change Component Designator: OldDesignator=JP? NewDesignator=JP11
+Added Component: Designator=J2(HEADER 4X1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=en Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-4
+Added Pin To Net: NetName=data Pin=J2-2
+Added Pin To Net: NetName=data Pin=J2-3
+Added Net: Name=data
+Added Member To Class: ClassName=iotv4 Member=Component J6 Header4X1
+Added Member To Class: ClassName=iotv4 Member=Component JP10 Jumper
+Added Member To Class: ClassName=iotv4 Member=Component JP11 Jumper

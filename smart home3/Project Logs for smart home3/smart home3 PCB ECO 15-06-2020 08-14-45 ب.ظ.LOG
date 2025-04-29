@@ -1,0 +1,36 @@
+Change Component Comment : Designator=C1 Old Comment=Value New Comment==Value
+Change Component Designator: OldDesignator=MOC1_1 NewDesignator=MOC2
+Change Component Designator: OldDesignator=Q1_1 NewDesignator=Q2
+Change Component Designator: OldDesignator=R1_1 NewDesignator=R4
+Change Component Designator: OldDesignator=R2_1 NewDesignator=R5
+Change Component Designator: OldDesignator=R3_1 NewDesignator=R6
+Change Component Designator: OldDesignator=T1_1 NewDesignator=T3
+Added Pin To Net: NetName=out Pin=MOC2-2
+Added Pin To Net: NetName=vesp Pin=R5-1
+Added Pin To Net: NetName=NetMOC2_1 Pin=MOC2-1
+Added Pin To Net: NetName=NetMOC2_1 Pin=R5-2
+Added Net: Name=NetMOC2_1
+Added Pin To Net: NetName=NetMOC2_4 Pin=MOC2-4
+Added Pin To Net: NetName=NetMOC2_4 Pin=R4-1
+Added Net: Name=NetMOC2_4
+Added Pin To Net: NetName=NetMOC2_6 Pin=MOC2-6
+Added Pin To Net: NetName=NetMOC2_6 Pin=Q2-3
+Added Pin To Net: NetName=NetMOC2_6 Pin=R6-1
+Added Net: Name=NetMOC2_6
+Added Pin To Net: NetName=NetQ2_1 Pin=Q2-1
+Added Pin To Net: NetName=NetQ2_1 Pin=R6-2
+Added Pin To Net: NetName=NetQ2_1 Pin=T3-2
+Added Net: Name=NetQ2_1
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R4-2
+Added Pin To Net: NetName=NetQ2_2 Pin=T3-1
+Added Net: Name=NetQ2_2
+Change Class Name : Old Net Name=smart home New Net Name=smart home3
+Added Member To Class: ClassName=smart home3 Member=Component MOC2 MOC3021-3
+Added Member To Class: ClassName=smart home3 Member=Component Q2 MODEL
+Added Member To Class: ClassName=smart home3 Member=Component R4 Res2
+Added Member To Class: ClassName=smart home3 Member=Component R5 Res2
+Added Member To Class: ClassName=smart home3 Member=Component R6 Res2
+Added Member To Class: ClassName=smart home3 Member=Component T3 Terminal
+Change Room Name: Old Name=smart home New Name=smart home3
+Change Room Scope: Old Scope=InComponentClass('smart home') New Scope=InComponentClass('smart home3')

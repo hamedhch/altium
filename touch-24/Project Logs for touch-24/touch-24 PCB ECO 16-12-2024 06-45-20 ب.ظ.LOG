@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=vdd Pin=D3-2
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=ACS Pin=J1-5
+Added Pin To Net: NetName=key+ Pin=J2-1
+Added Pin To Net: NetName=key- Pin=J2-5
+Added Pin To Net: NetName=key Pin=J1-3
+Added Pin To Net: NetName=key Pin=J2-3
+Added Net: Name=key
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=J1-1
+Added Net: Name=NetD3_1

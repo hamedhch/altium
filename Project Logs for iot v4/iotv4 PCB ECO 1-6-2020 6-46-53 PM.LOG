@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=C1 Old Footprint=CAP-30 New Footprint=CAPR5-4X5
+Change Component Footprint: Designator=C2 Old Footprint=CAP-30 New Footprint=CAPR5-4X5
+Change Component Comment : Designator=C1 Old Comment=Value New Comment=Cap2
+Change Component Comment : Designator=C2 Old Comment=Value New Comment=Cap2
+Change component parameters: Designator = "C1"; Footprint = "CAPR5-4X5"; UniqueID = "\XVJUVRSQ"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "23-Sep-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2"; Footprint = "CAPR5-4X5"; UniqueID = "\VCRPULCP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "23-Sep-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"

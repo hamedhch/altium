@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=GND Pin=T14-1
+Removed Pin From Net: NetName=btn Pin=T14-2
+Removed Pin From Net: NetName=vDD Pin=T14-3
+Removed Pin From Net: NetName=i12 Pin=T15-1
+Removed Member From Class: ClassName=shahbazi Member=T15
+Change Component Designator: OldDesignator=J3 NewDesignator=J4
+Change Component Designator: OldDesignator=T15 NewDesignator=T14
+Change Component Designator: OldDesignator=U12 NewDesignator=U13
+Change Component Designator: OldDesignator=U13 NewDesignator=U14
+Added Component: Designator=C4(ELEC-CAP-RAD10-20)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C5(ELEC-CAP-RAD10-20)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J3(HEADER 4X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=U12(TO220ABN)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/stonline/products/literature/ds/2144/l7805ab.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Nov-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Note"; Value = "Tab is connected to pin 3 (GND)."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Thru-Hole, Vertical, Heatsink Mounted; 3 In-Line Leads; Pitch 2.54 mm; Pin sequence 1, 3, 2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO220ABN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jun-1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Aug-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=VCC Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=btn Pin=J3-2
+Added Pin To Net: NetName=i12 Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Pin To Net: NetName=VCC Pin=U12-1
+Added Pin To Net: NetName=GND Pin=U12-3
+Added Pin To Net: NetName=5v Pin=C5-2
+Added Pin To Net: NetName=5v Pin=J3-1
+Added Pin To Net: NetName=5v Pin=U12-2
+Added Net: Name=5v
+Added Member To Class: ClassName=shahbazi Member=Component C4 Value
+Added Member To Class: ClassName=shahbazi Member=Component C5 Value
+Added Member To Class: ClassName=shahbazi Member=Component J4 Header4X1
+Added Member To Class: ClassName=shahbazi Member=Component JP7 Jumper
+Added Member To Class: ClassName=shahbazi Member=Component U14 L4931CV30

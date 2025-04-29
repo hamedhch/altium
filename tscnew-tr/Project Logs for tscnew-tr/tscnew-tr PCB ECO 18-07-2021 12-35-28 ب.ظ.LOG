@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=E3 NewDesignator=E1
+Change Component Designator: OldDesignator=J1 NewDesignator=J3
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Component Designator: OldDesignator=J3 NewDesignator=J4
+Added Component: Designator=J2(Header 2X1)
+Added Member To Class: ClassName=tscnew-tr Member=Component J4 TBlock-3

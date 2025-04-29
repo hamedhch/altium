@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetQ1_1 Pin=T2-2
+Added Component: Designator=E1(PIN1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PIN1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=E2(PIN1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PIN1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=E1-1
+Added Pin To Net: NetName=vDD Pin=E2-1
+Added Pin To Net: NetName=NetQ1_1 Pin=T1-2
+Added Pin To Net: NetName=GND Pin=T2-2
+Added Pin To Net: NetName=rst Pin=U2-1
+Added Pin To Net: NetName=btn Pin=U2-18
+Added Pin To Net: NetName=s Pin=T2-1
+Added Net: Name=s
+Added Member To Class: ClassName=smart home Member=Component E1 Antenna
+Added Member To Class: ClassName=smart home Member=Component E2 Antenna

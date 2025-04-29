@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=vdd Pin=U4-4
+Removed Pin From Net: NetName=NetU4_6 Pin=U5-3
+Removed Pin From Net: NetName=nol Pin=U5-4
+Added Pin To Net: NetName=nol Pin=U4-4
+Added Pin To Net: NetName=vdd Pin=U5-3
+Added Pin To Net: NetName=NetU4_6 Pin=U5-4
+Added Member To Class: ClassName=clock-temp-touch Member=Component D? D Tunnel1

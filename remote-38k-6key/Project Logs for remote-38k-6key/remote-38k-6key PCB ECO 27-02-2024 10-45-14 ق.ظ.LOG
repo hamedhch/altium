@@ -1,0 +1,4 @@
+Added Component: Designator=C2(CAP 1206)
+Added Pin To Net: NetName=vcc Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Member To Class: ClassName=remote-38k-6key Member=Component C2 =Value

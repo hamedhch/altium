@@ -1,0 +1,7 @@
+Added Component: Designator=J3(HEADER 4X1)
+Added Pin To Net: NetName=NetC1_1 Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=o2 Pin=J3-3
+Added Pin To Net: NetName=o3 Pin=J3-4
+Change Net Name : Old Net Name=NetC1_1 New Net Name=vcc
+Added Member To Class: ClassName=touch-tara-h Member=Component J3 Header4X1

@@ -1,0 +1,14 @@
+Added Component: Designator=D1(LED-3mm)
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemian"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "02/04/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Member To Class: ClassName=smart home3 Member=Component D1 LED 3mm
+Added Member To Class: ClassName=smart home3 Member=Component R1 10K
+Added Member To Class: ClassName=smart home3 Member=Component R2 10K
+Added Member To Class: ClassName=smart home3 Member=Component R4 10K
+Added Member To Class: ClassName=smart home3 Member=Component R5 10K
+Added Member To Class: ClassName=smart home3 Member=Component R6 10K

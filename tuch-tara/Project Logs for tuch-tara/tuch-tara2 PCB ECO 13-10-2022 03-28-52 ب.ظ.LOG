@@ -1,0 +1,35 @@
+Removed Pin From Net: NetName=nol Pin=C1-1
+Removed Pin From Net: NetName=nol Pin=R1-2
+Removed Pin From Net: NetName=faz Pin=R4-2
+Added Component: Designator=C4(CAP 1206)
+Added Component: Designator=Q1(SOT23-3)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.fairchildsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.fairchildsemi.com/ds/2N%2F2N3906.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1997"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "15-Jan-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "PCB Footprint 'BCY-W3/D4.7' replaced"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Flat Index; 3 In-Line, Axial Leads; Body Dia. 4.5mm; Leads 0.51 x 0.48 mm (max)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO-92A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Sep-1998"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R6(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=faz Pin=C1-1
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=VCC Pin=C4-2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-1
+Added Pin To Net: NetName=VCC Pin=Q1-2
+Added Pin To Net: NetName=NetJ1_14 Pin=Q1-3
+Added Pin To Net: NetName=faz Pin=R1-2
+Added Pin To Net: NetName=nol Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R6-1
+Added Member To Class: ClassName=tuch-tara2 Member=Component C4 =Value
+Added Member To Class: ClassName=tuch-tara2 Member=Component Q1 2N3906
+Added Member To Class: ClassName=tuch-tara2 Member=Component R6 10K
+Added Member To Class: ClassName=tuch-tara2 Member=Component R7 10K
+Added Member To Class: ClassName=tuch-tara2 Member=Component R9 10K

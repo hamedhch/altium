@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=vesp Pin=U1-2
+Added Pin To Net: NetName=vcc Pin=U1-3
+Added Pin To Net: NetName=vesp Pin=U1-4
+Added Member To Class: ClassName=plug Member=Component U1 LM1117MP-3.3

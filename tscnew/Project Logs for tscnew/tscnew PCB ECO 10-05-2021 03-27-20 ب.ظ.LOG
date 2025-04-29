@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=K2 NewDesignator=K3
+Added Component: Designator=J5(KF300-5 PIN)
+Added Component: Designator=K2(Relays)
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Added Component: Designator=K4(Relays)
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=tscnew Member=Component J5 TBlock-5
+Added Member To Class: ClassName=tscnew Member=Component K3 Relay-12vDC
+Added Member To Class: ClassName=tscnew Member=Component K4 Relay-12vDC

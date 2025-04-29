@@ -1,0 +1,173 @@
+Removed Pin From Net: NetName=GND Pin=E1-1
+Removed Pin From Net: NetName=GND Pin=E2-1
+Removed Pin From Net: NetName=vdd Pin=E3-1
+Removed Pin From Net: NetName=GND Pin=J1-2A
+Removed Pin From Net: NetName=GND Pin=J1-2B
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J1-3A
+Removed Pin From Net: NetName=GND Pin=J1-3B
+Removed Pin From Net: NetName=GND Pin=J1-3
+Removed Pin From Net: NetName=rx Pin=J2-1
+Removed Pin From Net: NetName=rx2 Pin=J2-2
+Removed Pin From Net: NetName=vdd Pin=J2-3
+Removed Pin From Net: NetName=GND Pin=J2-4
+Removed Pin From Net: NetName=rx2 Pin=JP1-1
+Removed Pin From Net: NetName=rx2 Pin=JP1-2
+Removed Pin From Net: NetName=btn Pin=JP2-1
+Removed Pin From Net: NetName=btn Pin=JP2-2
+Removed Pin From Net: NetName=rst Pin=JP3-1
+Removed Pin From Net: NetName=rst Pin=JP3-2
+Removed Pin From Net: NetName=rx Pin=JP4-1
+Removed Pin From Net: NetName=rx Pin=JP4-2
+Removed Pin From Net: NetName=GND Pin=JP5-1
+Removed Pin From Net: NetName=GND Pin=JP5-2
+Removed Pin From Net: NetName=i8 Pin=JP7-1
+Removed Pin From Net: NetName=i8 Pin=JP7-2
+Removed Pin From Net: NetName=rx Pin=JP8-1
+Removed Pin From Net: NetName=rx Pin=JP8-2
+Removed Pin From Net: NetName=GND Pin=JP9-1
+Removed Pin From Net: NetName=GND Pin=JP9-2
+Removed Pin From Net: NetName=i10 Pin=JP10-1
+Removed Pin From Net: NetName=i10 Pin=JP10-2
+Removed Pin From Net: NetName=o8 Pin=P1-1
+Removed Pin From Net: NetName=o9 Pin=P1-2
+Removed Pin From Net: NetName=o10 Pin=P1-3
+Removed Pin From Net: NetName=o8 Pin=R5-1
+Removed Pin From Net: NetName=O2 Pin=R6-1
+Removed Pin From Net: NetName=o9 Pin=R7-1
+Removed Pin From Net: NetName=o11 Pin=R8-1
+Removed Pin From Net: NetName=o7 Pin=R11-1
+Removed Pin From Net: NetName=O3 Pin=R12-1
+Removed Pin From Net: NetName=o6 Pin=R16-1
+Removed Pin From Net: NetName=o4 Pin=R17-1
+Removed Pin From Net: NetName=O1 Pin=R20-1
+Removed Pin From Net: NetName=o5 Pin=R21-1
+Removed Pin From Net: NetName=rx2 Pin=T9-1
+Removed Pin From Net: NetName=rx Pin=T9-2
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=U3-3
+Removed Pin From Net: NetName=GND Pin=U4-3
+Removed Pin From Net: NetName=GND Pin=U6-3
+Removed Pin From Net: NetName=GND Pin=U7-3
+Removed Pin From Net: NetName=btn Pin=U8-18
+Removed Pin From Net: NetName=i10 Pin=U8-19
+Removed Pin From Net: NetName=i8 Pin=U8-20
+Removed Pin From Net: NetName=GND Pin=U9-3
+Removed Pin From Net: NetName=GND Pin=U10-3
+Removed Pin From Net: NetName=GND Pin=U11-3
+Removed Pin From Net: NetName=GND Pin=U12-3
+Removed Member From Class: ClassName=shahbazi5v Member=D1
+Removed Member From Class: ClassName=shahbazi5v Member=D2
+Removed Member From Class: ClassName=shahbazi5v Member=D3
+Removed Member From Class: ClassName=shahbazi5v Member=D4
+Removed Member From Class: ClassName=shahbazi5v Member=D5
+Removed Member From Class: ClassName=shahbazi5v Member=D6
+Removed Member From Class: ClassName=shahbazi5v Member=D7
+Removed Member From Class: ClassName=shahbazi5v Member=D8
+Removed Member From Class: ClassName=shahbazi5v Member=D9
+Removed Member From Class: ClassName=shahbazi5v Member=D10
+Removed Member From Class: ClassName=shahbazi5v Member=D11
+Removed Member From Class: ClassName=shahbazi5v Member=D12
+Removed Member From Class: ClassName=shahbazi5v Member=D13
+Removed Member From Class: ClassName=shahbazi5v Member=D14
+Removed Member From Class: ClassName=shahbazi5v Member=D15
+Removed Member From Class: ClassName=shahbazi5v Member=D16
+Removed Member From Class: ClassName=shahbazi5v Member=D17
+Removed Member From Class: ClassName=shahbazi5v Member=D18
+Removed Member From Class: ClassName=shahbazi5v Member=D19
+Removed Member From Class: ClassName=shahbazi5v Member=D20
+Removed Member From Class: ClassName=shahbazi5v Member=E1
+Removed Member From Class: ClassName=shahbazi5v Member=E2
+Removed Member From Class: ClassName=shahbazi5v Member=E3
+Removed Member From Class: ClassName=shahbazi5v Member=E4
+Removed Member From Class: ClassName=shahbazi5v Member=J1
+Removed Member From Class: ClassName=shahbazi5v Member=J2
+Removed Member From Class: ClassName=shahbazi5v Member=JP1
+Removed Member From Class: ClassName=shahbazi5v Member=JP2
+Removed Member From Class: ClassName=shahbazi5v Member=JP3
+Removed Member From Class: ClassName=shahbazi5v Member=JP4
+Removed Member From Class: ClassName=shahbazi5v Member=JP5
+Removed Member From Class: ClassName=shahbazi5v Member=JP6
+Removed Member From Class: ClassName=shahbazi5v Member=JP7
+Removed Member From Class: ClassName=shahbazi5v Member=JP8
+Removed Member From Class: ClassName=shahbazi5v Member=JP9
+Removed Member From Class: ClassName=shahbazi5v Member=JP10
+Removed Member From Class: ClassName=shahbazi5v Member=K1
+Removed Member From Class: ClassName=shahbazi5v Member=K2
+Removed Member From Class: ClassName=shahbazi5v Member=K3
+Removed Member From Class: ClassName=shahbazi5v Member=K4
+Removed Member From Class: ClassName=shahbazi5v Member=K5
+Removed Member From Class: ClassName=shahbazi5v Member=K6
+Removed Member From Class: ClassName=shahbazi5v Member=K7
+Removed Member From Class: ClassName=shahbazi5v Member=K8
+Removed Member From Class: ClassName=shahbazi5v Member=K9
+Removed Member From Class: ClassName=shahbazi5v Member=K10
+Removed Member From Class: ClassName=shahbazi5v Member=R2
+Removed Member From Class: ClassName=shahbazi5v Member=R3
+Removed Member From Class: ClassName=shahbazi5v Member=R4
+Removed Member From Class: ClassName=shahbazi5v Member=R5
+Removed Member From Class: ClassName=shahbazi5v Member=R6
+Removed Member From Class: ClassName=shahbazi5v Member=R7
+Removed Member From Class: ClassName=shahbazi5v Member=R8
+Removed Member From Class: ClassName=shahbazi5v Member=R9
+Removed Member From Class: ClassName=shahbazi5v Member=R10
+Removed Member From Class: ClassName=shahbazi5v Member=R11
+Removed Member From Class: ClassName=shahbazi5v Member=R12
+Removed Member From Class: ClassName=shahbazi5v Member=R13
+Removed Member From Class: ClassName=shahbazi5v Member=R14
+Removed Member From Class: ClassName=shahbazi5v Member=R15
+Removed Member From Class: ClassName=shahbazi5v Member=R16
+Removed Member From Class: ClassName=shahbazi5v Member=R17
+Removed Member From Class: ClassName=shahbazi5v Member=R18
+Removed Member From Class: ClassName=shahbazi5v Member=R19
+Removed Member From Class: ClassName=shahbazi5v Member=R20
+Removed Member From Class: ClassName=shahbazi5v Member=R21
+Removed Member From Class: ClassName=shahbazi5v Member=T4
+Removed Member From Class: ClassName=shahbazi5v Member=T5
+Removed Member From Class: ClassName=shahbazi5v Member=T6
+Removed Member From Class: ClassName=shahbazi5v Member=T7
+Removed Member From Class: ClassName=shahbazi5v Member=T8
+Removed Member From Class: ClassName=shahbazi5v Member=T9
+Removed Member From Class: ClassName=shahbazi5v Member=T10
+Removed Member From Class: ClassName=shahbazi5v Member=T11
+Removed Member From Class: ClassName=shahbazi5v Member=T12
+Removed Member From Class: ClassName=shahbazi5v Member=T13
+Removed Member From Class: ClassName=shahbazi5v Member=U3
+Removed Member From Class: ClassName=shahbazi5v Member=U4
+Removed Member From Class: ClassName=shahbazi5v Member=U5
+Removed Member From Class: ClassName=shahbazi5v Member=U6
+Removed Member From Class: ClassName=shahbazi5v Member=U7
+Removed Member From Class: ClassName=shahbazi5v Member=U8
+Removed Member From Class: ClassName=shahbazi5v Member=U9
+Removed Member From Class: ClassName=shahbazi5v Member=U10
+Removed Member From Class: ClassName=shahbazi5v Member=U11
+Removed Member From Class: ClassName=shahbazi5v Member=U12
+Change Component Footprint: Designator=P1 Old Footprint=HDR1X4 New Footprint=HDR1X6
+Change Component Comment : Designator=P1 Old Comment=Header 4 New Comment=Header 6
+Change Component Comment : Designator=C1 Old Comment=Value New Comment==Value
+Change Component Comment : Designator=C2 Old Comment=Value New Comment==Value
+Change Component Designator: OldDesignator=R13 NewDesignator=R1
+Change Component Designator: OldDesignator=T9 NewDesignator=T1
+Change Component Designator: OldDesignator=T12 NewDesignator=T2
+Change Component Designator: OldDesignator=T13 NewDesignator=T3
+Change Component Designator: OldDesignator=U5 NewDesignator=U1
+Change Component Designator: OldDesignator=U8 NewDesignator=U2
+Added Component: Designator=P2(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=i6 Pin=P1-1
+Added Pin To Net: NetName=o11 Pin=P1-2
+Added Pin To Net: NetName=i2 Pin=P1-3
+Added Pin To Net: NetName=i3 Pin=P1-4
+Added Pin To Net: NetName=i4 Pin=P1-5
+Added Pin To Net: NetName=i5 Pin=P1-6
+Added Pin To Net: NetName=rx2 Pin=P2-1
+Added Pin To Net: NetName=rx Pin=P2-2
+Added Pin To Net: NetName=vdd Pin=T1-1
+Added Pin To Net: NetName=GND Pin=T1-2
+Change Class Name : Old Net Name=shahbazi5v New Net Name=contor
+Added Member To Class: ClassName=contor Member=Component P2 Header 2
+Change Room Name: Old Name=shahbazi5v New Name=contor
+Change Room Scope: Old Scope=InComponentClass('shahbazi5v') New Scope=InComponentClass('contor')

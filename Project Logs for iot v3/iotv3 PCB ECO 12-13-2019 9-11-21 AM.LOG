@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetS1_1 Pin=S1-1
+Added Pin To Net: NetName=NetS1_1 Pin=S2-1
+Added Net: Name=NetS1_1
+Added Member To Class: ClassName=iotv3 Member=Component S2 PUSH BUTTON DOUBLE

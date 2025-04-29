@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=faz Pin=PS1-1
+Removed Pin From Net: NetName=nol Pin=PS1-2
+Added Pin To Net: NetName=nol Pin=PS1-1
+Added Pin To Net: NetName=faz Pin=PS1-2

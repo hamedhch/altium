@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=RS1 Old Footprint=Res-(1/4) New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=RT1 Old Footprint=Res-(1/4) New Footprint=RES 1206 (3216X08L)
+Change Component Designator: OldDesignator=U1 NewDesignator=U2
+Added Member To Class: ClassName=iotv3 595 Member=Component U2 MC74VHC595M

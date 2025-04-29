@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=en Pin=D17-1
+Removed Pin From Net: NetName=led Pin=JP7-2
+Removed Member From Class: ClassName=iotv4 Member=D17
+Removed Member From Class: ClassName=iotv4 Member=JP7

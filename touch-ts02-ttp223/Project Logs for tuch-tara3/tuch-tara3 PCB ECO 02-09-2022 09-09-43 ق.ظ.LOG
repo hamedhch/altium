@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=VCC Pin=D2-1
+Removed Pin From Net: NetName=NetD2_2 Pin=D2-2
+Removed Pin From Net: NetName=NetD2_2 Pin=D3-1
+Removed Pin From Net: NetName=NetD4_2 Pin=D4-2
+Removed Pin From Net: NetName=NetD4_2 Pin=D5-1
+Removed Pin From Net: NetName=GND Pin=D5-2
+Removed Pin From Net: NetName=VCC Pin=D6-1
+Removed Pin From Net: NetName=o2 Pin=D7-2
+Removed Pin From Net: NetName=o2 Pin=D8-1
+Removed Pin From Net: NetName=GND Pin=D9-2
+Removed Member From Class: ClassName=tuch-tara3 Member=D6
+Removed Member From Class: ClassName=tuch-tara3 Member=D7
+Removed Member From Class: ClassName=tuch-tara3 Member=D8
+Removed Member From Class: ClassName=tuch-tara3 Member=D9
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Change Component Designator: OldDesignator=D4 NewDesignator=D3
+Change Component Designator: OldDesignator=D7 NewDesignator=D4
+Change Component Designator: OldDesignator=D8 NewDesignator=D5
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Added Component: Designator=R8(Res-(1/4))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R13(Res-(1/4))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=D2-1
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=VCC Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D5-2
+Added Pin To Net: NetName=NetD2_2 Pin=R8-1
+Added Pin To Net: NetName=o1 Pin=R8-2
+Added Pin To Net: NetName=NetD4_2 Pin=R13-1
+Added Pin To Net: NetName=o2 Pin=R13-2
+Added Pin To Net: NetName=o1 Pin=U4-1
+Added Member To Class: ClassName=tuch-tara3 Member=Component R10 10K
+Added Member To Class: ClassName=tuch-tara3 Member=Component R13 10K

@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=faz Pin=C7-1
+Removed Pin From Net: NetName=faz Pin=R9-2
+Removed Pin From Net: NetName=nol Pin=R10-2
+Added Pin To Net: NetName=nol Pin=C7-1
+Added Pin To Net: NetName=nol Pin=R9-2
+Added Pin To Net: NetName=faz Pin=R10-2
+Added Pin To Net: NetName=nol Pin=T1-1
+Added Pin To Net: NetName=faz Pin=T1-2
+Added Member To Class: ClassName=tach key Member=Component C8 =Value
+Added Member To Class: ClassName=tach key Member=Component D7 MODEL
+Added Member To Class: ClassName=tach key Member=Component R8 10K
+Added Member To Class: ClassName=tach key Member=Component R12 10K
+Added Member To Class: ClassName=tach key Member=Component R16 10K

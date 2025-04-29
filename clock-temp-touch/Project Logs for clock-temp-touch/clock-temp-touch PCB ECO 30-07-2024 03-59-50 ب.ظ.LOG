@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change Component Designator: OldDesignator=U4 NewDesignator=U5
+Change Component Designator: OldDesignator=U5 NewDesignator=U6
+Add Component: Footprint Not Found SO8
+Add Pin To Net: Unknown Pin: Pin LS2-1
+Add Pin To Net: Unknown Pin: Pin LS2-2
+Change Net Name : Old Net Name=NetU2_4 New Net Name=NetU3_4
+Change Net Name : Old Net Name=NetU4_4 New Net Name=NetU5_4
+Added Member To Class: ClassName=clock-temp-touch Member=Component U6 K3021P

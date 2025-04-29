@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=J3 NewDesignator=J5
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change Component Designator: OldDesignator=J5 NewDesignator=J6
+Change Component Designator: OldDesignator=J6 NewDesignator=J7
+Change Component Designator: OldDesignator=J7 NewDesignator=J8
+Change Component Designator: OldDesignator=J8 NewDesignator=J9
+Added Component: Designator=J4(HEADER 3X1)
+Added Pin To Net: NetName=adc Pin=J4-1
+Added Pin To Net: NetName=NetJ1_3 Pin=J4-2
+Added Pin To Net: NetName=NetJ1_4 Pin=J4-3
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component J9 TBlock-3

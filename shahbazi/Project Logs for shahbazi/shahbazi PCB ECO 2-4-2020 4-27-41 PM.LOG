@@ -1,0 +1,7 @@
+Added Component: Designator=S1(PUSH BUTTON)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=btn Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=rst Pin=S1-3
+Added Pin To Net: NetName=GND Pin=S1-4
+Added Member To Class: ClassName=shahbazi Member=Component S1 PUSH BUTTON DOUBLE

@@ -1,0 +1,15 @@
+Added Component: Designator=U5(SOIC245P670X270-4N)
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "MB6SCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Purchase_URL"; Value = "https://www.digikey.com.tr/product-detail/en/on-semiconductor/MB6S/MB6SCT-ND/965654?utm_source=snapeda&utm_medium=aggregator&utm_campaign=symbol"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "MB6S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "BESOP-4 Surge Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/MB6S/ON%20Semiconductor/view-part/2774209/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC6_2 Pin=U5-1
+Added Pin To Net: NetName=GND Pin=U5-2
+Added Pin To Net: NetName=NetC5_2 Pin=U5-3
+Added Pin To Net: NetName=nol Pin=U5-4
+Added Member To Class: ClassName=tuch-tara-tr Member=Component C8 =Value
+Added Member To Class: ClassName=tuch-tara-tr Member=Component R6 10K
+Added Member To Class: ClassName=tuch-tara-tr Member=Component U5 MB6S

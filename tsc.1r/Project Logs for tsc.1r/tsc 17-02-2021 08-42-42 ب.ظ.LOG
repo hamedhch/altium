@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=o3 Pin=R1-1
+Removed Pin From Net: NetName=o2 Pin=R3-1
+Removed Pin From Net: NetName=o1 Pin=R5-1
+Removed Pin From Net: NetName=GND Pin=U3-2
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Pin From Net: NetName=GND Pin=U5-2
+Added Component: Designator=PS1(HLKPM01)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Hi-link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "hlk-pm01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/hlk-pm01/Hi-link/view-part/2875605/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=tsc.1r Member=Component J2 TBlock-2
+Added Member To Class: ClassName=tsc.1r Member=Component J3 TBlock-3
+Added Member To Class: ClassName=tsc.1r Member=Component PS1 HLK-PM01
+Change Room Name: Old Name=smart home4 New Name=tsc.1r
+Change Room Scope: Old Scope=InComponentClass('smart home4') New Scope=InComponentClass('tsc.1r')

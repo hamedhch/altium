@@ -1,0 +1,5 @@
+Add Pin To Net: Unknown Pin: Pin LS2-1
+Add Pin To Net: Unknown Pin: Pin LS2-2
+Change Class Name : Old Net Name=clock-temp-touch New Net Name=clock-temp-touch-sw
+Change Room Name: Old Name=clock-temp-touch New Name=clock-temp-touch-sw
+Change Room Scope: Old Scope=InComponentClass('clock-temp-touch') New Scope=InComponentClass('clock-temp-touch-sw')

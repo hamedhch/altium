@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=C2 NewDesignator=C3
+Added Component: Designator=C2(CAP 1206)
+Added Pin To Net: NetName=VCC Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetC3_1
+Added Member To Class: ClassName=tuch-tara2 Member=Component C3 =Value

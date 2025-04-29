@@ -1,0 +1,7 @@
+Added Pin To Net: NetName=faz Pin=J3-1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=J3-2
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=J3-3
+Added Net: Name=NetD3_1

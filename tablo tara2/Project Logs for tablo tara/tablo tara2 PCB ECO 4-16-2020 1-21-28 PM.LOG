@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetC1_2 Pin=E6-1
+Change Component Designator: OldDesignator=T1 NewDesignator=T2
+Change Component Designator: OldDesignator=T2 NewDesignator=T3
+Added Component: Designator=T1(phoenix terminal 2)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=T1-1
+Change Net Name : Old Net Name=NetT2_2 New Net Name=NetT3_2
+Added Pin To Net: NetName=NetE6_1 Pin=E6-1
+Added Pin To Net: NetName=NetE6_1 Pin=T1-2
+Added Net: Name=NetE6_1
+Added Member To Class: ClassName=tablo tara2 Member=Component T3 Phoenix terminal

@@ -1,0 +1,48 @@
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Added Component: Designator=C2(ELEC-CAP-RAD10-20)
+Added Component: Designator=J1(HEADER 4X1)
+Added Component: Designator=J4(HEADER 3X1)
+Added Component: Designator=Q2(SOT-23B_L)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin SOT-23 Package 0.95 mm Pitch, 2.4 mm Lead Span"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOT-23B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=Buzzer1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=vcc Pin=C2-2
+Added Pin To Net: NetName=vcc Pin=J1-1
+Added Pin To Net: NetName=DATA_IN Pin=J1-2
+Added Pin To Net: NetName=DATA_IN Pin=J1-3
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=vcc Pin=J4-1
+Added Pin To Net: NetName=DATA_OUT Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Pin To Net: NetName=vcc Pin=Q2-3
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=NetJ2_2
+Change Net Name : Old Net Name=NetJ1_3 New Net Name=NetJ2_3
+Change Net Name : Old Net Name=NetJ2_4 New Net Name=NetJ3_4
+Added Pin To Net: NetName=bizer Pin=R3-1
+Added Net: Name=bizer
+Added Pin To Net: NetName=NetBuzzer1_1 Pin=Buzzer1-1
+Added Pin To Net: NetName=NetBuzzer1_1 Pin=Q2-2
+Added Net: Name=NetBuzzer1_1
+Added Pin To Net: NetName=NetQ2_2 Pin=R3-2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-1
+Added Net: Name=NetQ2_2
+Added Member To Class: ClassName=RF-car Member=Component Buzzer1 Buzzer
+Added Member To Class: ClassName=RF-car Member=Component C1 =Value
+Added Member To Class: ClassName=RF-car Member=Component C2 =Value
+Added Member To Class: ClassName=RF-car Member=Component J3 Header4X1
+Added Member To Class: ClassName=RF-car Member=Component J4 Header3X1
+Added Member To Class: ClassName=RF-car Member=Component Q2 QNPN
+Added Member To Class: ClassName=RF-car Member=Component R3 10K
+Added Member To Class: ClassName=RF-car Member=Component U1 ATtiny15L-1SC
+Added Member To Class: ClassName=RF-car Member=Component U2 ATtiny15L-1SC

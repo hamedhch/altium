@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=J5 Old Footprint=KF300-5 PIN New Footprint=KF300-3 PIN
+Change Component Comment : Designator=J5 Old Comment=TBlock-5 New Comment=TBlock-3
+Added Component: Designator=J6(KF300-3 PIN)
+Added Member To Class: ClassName=tscnew Member=Component J6 TBlock-3
+Added Member To Class: ClassName=tscnew Member=Component K2 Relay-12vDC

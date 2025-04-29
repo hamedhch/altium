@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=E1-1
+Removed Pin From Net: NetName=vcc Pin=E2-1
+Removed Member From Class: ClassName=tscnew-tr Member=E1
+Removed Member From Class: ClassName=tscnew-tr Member=E2

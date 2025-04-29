@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=JP1 NewDesignator=JP2
+Added Component: Designator=JP1(Header 2X1)
+Added Pin To Net: NetName=GND Pin=JP1-1
+Added Pin To Net: NetName=GND Pin=JP1-2
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component C3 =Value
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component JP2 Jumper

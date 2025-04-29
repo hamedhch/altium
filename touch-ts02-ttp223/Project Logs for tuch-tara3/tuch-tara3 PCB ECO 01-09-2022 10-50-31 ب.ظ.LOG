@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=R12 Old Footprint=RES 1206 (3216X08L) New Footprint=RES 0805 (2012X06L)
+Added Component: Designator=R10(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR10_1 Pin=R10-1
+Added Pin To Net: NetName=GND Pin=R10-2
+Added Member To Class: ClassName=tuch-tara3 Member=Component R10 10K

@@ -1,0 +1,24 @@
+Add Component: Footprint Not Found 3.2X1.6X1.1
+Add Component: Footprint Not Found 3.2X1.6X1.1
+Add Component: Footprint Not Found RES 1206 (3216X08L)
+Add Component: Footprint Not Found RES 1206 (3216X08L)
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Class Member: Failed to add class member : Component D1 LED2
+Add Class Member: Failed to add class member : Component D2 LED2
+Added Member To Class: ClassName=ir-tara-h Member=Component D3 LED2
+Added Member To Class: ClassName=ir-tara-h Member=Component D4 LED2
+Added Member To Class: ClassName=ir-tara-h Member=Component D5 LED2
+Add Class Member: Failed to add class member : Component R1 10K
+Add Class Member: Failed to add class member : Component R4 10K
+Added Member To Class: ClassName=ir-tara-h Member=Component R6 10K
+Added Member To Class: ClassName=ir-tara-h Member=Component R7 10K
+Added Member To Class: ClassName=ir-tara-h Member=Component R10 10K
+Added Member To Class: ClassName=ir-tara-h Member=Component R11 10K
+Added Member To Class: ClassName=ir-tara-h Member=Component R13 10K

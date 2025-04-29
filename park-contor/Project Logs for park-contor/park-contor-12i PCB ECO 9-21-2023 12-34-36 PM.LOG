@@ -1,0 +1,44 @@
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change Component Designator: OldDesignator=U4 NewDesignator=U5
+Added Component: Designator=U3(64A_N)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MS-026-AEB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.atmel.com/dyn/resources/prod_documents/doc2490.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Atmel.com Home"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.atmel.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "2490C-AVR-009/02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "16-Oct-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "64-Pin Plastic Thin Profile Quad Flat Pack, 14 x 14 x 1.0 mm Body, 0.8 mm Pitch (TQFP)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "64A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revB, Oct-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Sep-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ATMEGA64-16AC-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "556-ATMEGA64-16AC"; VariantName = "[No Variations]"
+Added Component: Designator=U6(SOIC127P600X175-16N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CD4051BCM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOIC-16 Rochester Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CD4051BCM/ON%20Semiconductor/view-part/2774140/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=A11 Pin=U6-1
+Added Pin To Net: NetName=A12 Pin=U6-2
+Added Pin To Net: NetName=i1 Pin=U6-3
+Added Pin To Net: NetName=GND Pin=U6-6
+Added Pin To Net: NetName=GND Pin=U6-7
+Added Pin To Net: NetName=GND Pin=U6-8
+Added Pin To Net: NetName=cc1 Pin=U6-9
+Added Pin To Net: NetName=cb1 Pin=U6-10
+Added Pin To Net: NetName=ca1 Pin=U6-11
+Added Pin To Net: NetName=A7 Pin=U6-12
+Added Pin To Net: NetName=A8 Pin=U6-13
+Added Pin To Net: NetName=A9 Pin=U6-14
+Added Pin To Net: NetName=A10 Pin=U6-15
+Added Pin To Net: NetName=vdd Pin=U6-16
+Added Member To Class: ClassName=park-contor-12i Member=Component U5 CD4051BCM
+Added Member To Class: ClassName=park-contor-12i Member=Component U6 CD4051BCM

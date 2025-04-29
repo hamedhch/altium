@@ -1,0 +1,22 @@
+Removed Pin From Net: NetName=VCC Pin=R13-2
+Change Component Designator: OldDesignator=P1 NewDesignator=P2
+Change Component Designator: OldDesignator=P2 NewDesignator=P3
+Change Component Designator: OldDesignator=P3 NewDesignator=P4
+Change Component Designator: OldDesignator=P4 NewDesignator=P5
+Change Component Designator: OldDesignator=P5 NewDesignator=P6
+Added Component: Designator=P1(HDR1X6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=o10 Pin=P1-1
+Added Pin To Net: NetName=o9 Pin=P1-2
+Added Pin To Net: NetName=o8 Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-5
+Added Pin To Net: NetName=VDD Pin=P1-6
+Added Pin To Net: NetName=VDD Pin=R13-2
+Added Pin To Net: NetName=rst2 Pin=P1-4
+Added Pin To Net: NetName=rst2 Pin=R13-1
+Added Pin To Net: NetName=rst2 Pin=U5-29
+Added Net: Name=rst2
+Added Member To Class: ClassName=iotv4 Member=Component P6 Header 10

@@ -1,0 +1,12 @@
+Change Component Footprint: Designator=R1 Old Footprint=Res50 New Footprint=Res-(1/4)
+Change Component Footprint: Designator=R3 Old Footprint=Res50 New Footprint=Res-(1/4)
+Change Component Comment : Designator=R1 Old Comment=Res2 New Comment=10K
+Change Component Comment : Designator=R3 Old Comment=Res2 New Comment=10K
+Change component parameters: Designator = "R1" ("R1"); Footprint = "Res50"; UniqueID = "\WYTLMUXX" ("\WYTLMUXX")
+Change component parameters (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R3" ("R3"); Footprint = "Res50"; UniqueID = "\ZPQWVJVD" ("\ZPQWVJVD")
+Change component parameters (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"

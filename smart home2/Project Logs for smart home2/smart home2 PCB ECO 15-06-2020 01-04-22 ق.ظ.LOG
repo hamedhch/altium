@@ -1,0 +1,12 @@
+Added Component: Designator=MOC3(DIP-6)
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemian"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-11-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-11-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WEB"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetMOC3_1 Pin=MOC3-1
+Added Pin To Net: NetName=GND Pin=MOC3-2
+Added Pin To Net: NetName=NetMOC3_4 Pin=MOC3-4
+Added Pin To Net: NetName=NetMOC3_6 Pin=MOC3-6
+Added Member To Class: ClassName=smart home2 Member=Component MOC3 MOC3021-3

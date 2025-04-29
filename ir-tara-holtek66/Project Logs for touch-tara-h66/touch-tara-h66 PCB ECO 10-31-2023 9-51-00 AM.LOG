@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=o3 Pin=U1-3
+Removed Pin From Net: NetName=o2 Pin=U1-4
+Added Pin To Net: NetName=o2 Pin=U1-3
+Added Pin To Net: NetName=o3 Pin=U1-4
+Change Class Name : Old Net Name=touch-tara-h New Net Name=touch-tara-h66
+Change Room Name: Old Name=touch-tara-h New Name=touch-tara-h66
+Change Room Scope: Old Scope=InComponentClass('touch-tara-h') New Scope=InComponentClass('touch-tara-h66')

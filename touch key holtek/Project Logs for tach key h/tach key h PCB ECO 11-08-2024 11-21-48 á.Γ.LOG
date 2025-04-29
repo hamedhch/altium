@@ -1,0 +1,18 @@
+Added Component: Designator=K1(Relays)
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Added Component: Designator=K2(Relays)
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Added Component: Designator=K3(Relays)
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=tach key h Member=Component D15 MODEL
+Added Member To Class: ClassName=tach key h Member=Component D17 MODEL
+Added Member To Class: ClassName=tach key h Member=Component K1 Relay-05vDC
+Added Member To Class: ClassName=tach key h Member=Component K2 Relay-05vDC
+Added Member To Class: ClassName=tach key h Member=Component K3 Relay-05vDC
+Added Member To Class: ClassName=tach key h Member=Component R19 10K
+Added Member To Class: ClassName=tach key h Member=Component R21 10K
+Added Member To Class: ClassName=tach key h Member=Component R22 10K
+Added Member To Class: ClassName=tach key h Member=Component R24 10K

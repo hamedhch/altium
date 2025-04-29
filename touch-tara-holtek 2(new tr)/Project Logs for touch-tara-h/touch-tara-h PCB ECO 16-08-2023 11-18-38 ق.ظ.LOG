@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=NetJ4_2 Pin=J4-2
+Removed Pin From Net: NetName=NetQ3_3 Pin=R4-2
+Removed Pin From Net: NetName=NetP1_1 Pin=U1-4
+Removed Member From Class: ClassName=touch-tara-h Member=J3
+Removed Member From Class: ClassName=touch-tara-h Member=J4
+Change Component Footprint: Designator=J3 Old Footprint=KF300-2 PIN New Footprint=KF300-4 PIN
+Change Component Comment : Designator=J3 Old Comment=TBlock-2 New Comment=TBlock-4
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Change Component Designator: OldDesignator=R1 NewDesignator=R5
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=R5 NewDesignator=R4
+Added Pin To Net: NetName=NetJ4_2 Pin=J2-4
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=NetQ3_3 Pin=R5-2
+Added Pin To Net: NetName=NetP1_1 Pin=U1-1
+Change Net Name : Old Net Name=NetJ2_1 New Net Name=NetJ1_1
+Change Net Name : Old Net Name=NetJ2_3 New Net Name=NetJ1_3
+Change Net Name : Old Net Name=NetJ4_2 New Net Name=NetJ2_4
+Change Net Name : Old Net Name=NetR2_1 New Net Name=NetR1_1
+Change Net Name : Old Net Name=NetR4_1 New Net Name=NetR3_1
+Added Pin To Net: NetName=NetJ2_1 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_1 Pin=Q1-1
+Added Net: Name=NetJ2_1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=Q2-1
+Added Net: Name=NetJ2_2
+Added Pin To Net: NetName=NetJ2_3 Pin=J2-3
+Added Pin To Net: NetName=NetJ2_3 Pin=Q3-1
+Added Net: Name=NetJ2_3
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_3 Pin=R3-2
+Added Net: Name=NetQ2_3
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=U1-4
+Added Net: Name=NetR5_1

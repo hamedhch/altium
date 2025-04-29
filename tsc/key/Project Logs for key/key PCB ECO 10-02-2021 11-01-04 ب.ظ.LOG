@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=GND Pin=E1-1
+Removed Pin From Net: NetName=vDD Pin=E2-1
+Removed Member From Class: ClassName=tsc Member=E1
+Removed Member From Class: ClassName=tsc Member=E2
+Removed Member From Class: ClassName=tsc Member=E3
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Added Component: Designator=J1(KF300-2 PIN)
+Added Component: Designator=LS1(ABSM-1574)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.megastar.com/linecard/buzzmode/index.php"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "17-Dec-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Dec-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Schematic revised, PCB Footprint replaced."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Magnetic Transducer Buzzer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "ABSM-1574"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=vDD Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=NetJ2_1
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=NetJ2_2
+Change Net Name : Old Net Name=NetJ1_3 New Net Name=NetJ2_3
+Added Pin To Net: NetName=i1 Pin=P1-1
+Added Net: Name=i1
+Added Pin To Net: NetName=i2 Pin=P1-2
+Added Net: Name=i2
+Added Pin To Net: NetName=i3 Pin=P1-3
+Added Net: Name=i3
+Added Pin To Net: NetName=i4 Pin=P1-4
+Added Net: Name=i4
+Added Pin To Net: NetName=i5 Pin=P1-5
+Added Net: Name=i5
+Added Pin To Net: NetName=i6 Pin=P1-6
+Added Net: Name=i6
+Added Pin To Net: NetName=i7 Pin=P1-7
+Added Net: Name=i7
+Added Pin To Net: NetName=NetLS1_1 Pin=LS1-1
+Added Pin To Net: NetName=NetLS1_1 Pin=LS1-1A
+Added Net: Name=NetLS1_1
+Added Pin To Net: NetName=NetLS1_2 Pin=LS1-2
+Added Pin To Net: NetName=NetLS1_2 Pin=LS1-2A
+Added Net: Name=NetLS1_2
+Added Member To Class: ClassName=tsc Member=Component J2 TBlock-3
+Added Member To Class: ClassName=tsc Member=Component LS1 Buzzer

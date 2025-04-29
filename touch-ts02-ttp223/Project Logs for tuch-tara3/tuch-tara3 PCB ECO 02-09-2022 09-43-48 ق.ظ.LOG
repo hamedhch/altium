@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=C11 Old Footprint=C1206 New Footprint=ELEC-CAP-RAD10-20
+Change Component Comment : Designator=C11 Old Comment=Cap Semi New Comment==Value
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Change Component Designator: OldDesignator=R12 NewDesignator=R11
+Change component parameters: Designator = "C11" ("C11"); Footprint = "C1206"; UniqueID = "\VCVBTQVW" ("\VCVBTQVW")
+Change Net Name : Old Net Name=NetR12_1 New Net Name=NetR11_1

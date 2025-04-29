@@ -1,0 +1,10 @@
+Added Component: Designator=D2(DO-41)
+Add component (AddParameter): Name = "MODEL"; Value = "1N4148"; VariantName = "[No Variations]"
+Added Component: Designator=D3(DO-41)
+Add component (AddParameter): Name = "MODEL"; Value = "1N4148"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D2-1
+Added Pin To Net: NetName=VCC Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=VCC Pin=D3-2
+Added Member To Class: ClassName=tuch-tablotara Member=Component D2 MODEL
+Added Member To Class: ClassName=tuch-tablotara Member=Component D3 MODEL

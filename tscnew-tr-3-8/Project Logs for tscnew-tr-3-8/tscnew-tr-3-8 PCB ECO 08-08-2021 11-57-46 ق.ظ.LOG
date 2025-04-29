@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=o3 Pin=R3-1
+Removed Pin From Net: NetName=o2 Pin=R7-1
+Removed Pin From Net: NetName=o1 Pin=R11-1
+Removed Pin From Net: NetName=o3 Pin=U3-5
+Removed Pin From Net: NetName=o1 Pin=U3-19
+Removed Pin From Net: NetName=o2 Pin=U3-20
+Added Pin To Net: NetName=o1esp Pin=R11-1
+Added Pin To Net: NetName=o1esp Pin=U3-19
+Added Net: Name=o1esp
+Added Pin To Net: NetName=o2esp Pin=R7-1
+Added Pin To Net: NetName=o2esp Pin=U3-20
+Added Net: Name=o2esp
+Added Pin To Net: NetName=o3esp Pin=R3-1
+Added Pin To Net: NetName=o3esp Pin=U3-5
+Added Net: Name=o3esp
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component P1 Header 7
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component P2 Header 7

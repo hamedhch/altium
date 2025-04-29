@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=rxsim Pin=U8-6
+Removed Pin From Net: NetName=txsim Pin=U8-7
+Added Pin To Net: NetName=txsim Pin=U8-6
+Added Pin To Net: NetName=rxsim Pin=U8-7
+Added Member To Class: ClassName=iotv4 Member=Component JP? Jumper

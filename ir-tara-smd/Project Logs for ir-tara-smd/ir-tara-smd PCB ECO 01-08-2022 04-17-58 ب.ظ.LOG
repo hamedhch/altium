@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=o1 Pin=J1-2
+Removed Pin From Net: NetName=NetC4_2 Pin=J1-3
+Added Component: Designator=D1(LED-5mm)
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=D1-1
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=o1 Pin=J1-3
+Added Member To Class: ClassName=ir-tara-smd Member=Component D1 MODEL

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=J2-1
+Removed Pin From Net: NetName=5v Pin=J2-2
+Added Component: Designator=JP8(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP9(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=O2 Pin=J2-1
+Added Pin To Net: NetName=VCC Pin=J2-2
+Added Pin To Net: NetName=GND Pin=J2-3
+Added Pin To Net: NetName=O1 Pin=J2-4
+Added Pin To Net: NetName=i8 Pin=JP8-1
+Added Pin To Net: NetName=i8 Pin=JP8-2
+Added Pin To Net: NetName=i7 Pin=JP9-1
+Added Pin To Net: NetName=i7 Pin=JP9-2
+Added Member To Class: ClassName=shahbazi2 Member=Component JP8 Jumper
+Added Member To Class: ClassName=shahbazi2 Member=Component JP9 Jumper

@@ -1,0 +1,70 @@
+Removed Pin From Net: NetName=GND Pin=Buzzer1-2
+Removed Pin From Net: NetName=vcc Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=vcc Pin=C2-2
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=vdd Pin=C5-2
+Removed Pin From Net: NetName=vcc Pin=D1-1
+Removed Pin From Net: NetName=NetD1_2 Pin=D2-1
+Removed Pin From Net: NetName=vdd Pin=D2-2
+Removed Pin From Net: NetName=vdd Pin=D3-2
+Removed Pin From Net: NetName=GND Pin=D4-2
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=vdd Pin=Q1-3
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Pin From Net: NetName=vcc Pin=Q3-3
+Removed Pin From Net: NetName=out Pin=R2-1
+Removed Pin From Net: NetName=vcc Pin=R4-2
+Removed Pin From Net: NetName=vcc Pin=R5-2
+Removed Pin From Net: NetName=NetD1_2 Pin=U2-3
+Removed Member From Class: ClassName=ir-24v Member=Buzzer1
+Removed Member From Class: ClassName=ir-24v Member=C5
+Removed Member From Class: ClassName=ir-24v Member=Q2
+Removed Member From Class: ClassName=ir-24v Member=Q3
+Removed Member From Class: ClassName=ir-24v Member=Q4
+Removed Member From Class: ClassName=ir-24v Member=R3
+Removed Member From Class: ClassName=ir-24v Member=R4
+Removed Member From Class: ClassName=ir-24v Member=R5
+Removed Member From Class: ClassName=ir-24v Member=R6
+Change Component Footprint: Designator=J1 Old Footprint=HEADER 3X1 New Footprint=HEADER 4X1
+Change Component Footprint: Designator=J2 Old Footprint=HEADER 3X1 New Footprint=HEADER 4X1
+Change Component Comment : Designator=D1 Old Comment=D Tunnel1 New Comment=LED2
+Change Component Comment : Designator=D2 Old Comment=D Tunnel1 New Comment=LED2
+Change Component Comment : Designator=D3 Old Comment=D Tunnel1 New Comment=LED2
+Change Component Comment : Designator=J1 Old Comment=Header3X1 New Comment=Header4X1
+Change Component Comment : Designator=J2 Old Comment=Header3X1 New Comment=Header4X1
+Change Component Designator: OldDesignator=C1 NewDesignator=C2
+Change Component Designator: OldDesignator=Q4 NewDesignator=Q1
+Change Component Designator: OldDesignator=R6 NewDesignator=R2
+Added Component: Designator=C1(ELEC-CAP-RAD10-20)
+Added Component: Designator=S1(PUSH BUTTON)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=vcc Pin=C1-2
+Added Pin To Net: NetName=vdd Pin=C2-2
+Added Pin To Net: NetName=NetD1_2 Pin=D2-2
+Added Pin To Net: NetName=NetD1_2 Pin=D3-2
+Added Pin To Net: NetName=vdd Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-4
+Added Pin To Net: NetName=vdd Pin=J2-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=NetD1_2 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=out Pin=R2-1
+Added Pin To Net: NetName=GND Pin=S1-4
+Added Pin To Net: NetName=vdd Pin=U2-3
+Change Net Name : Old Net Name=NetQ4_2 New Net Name=NetQ1_2
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=J2-2
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=J2-3
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-4
+Added Pin To Net: NetName=NetJ2_4 Pin=Q1-3
+Added Net: Name=NetJ2_4
+Added Pin To Net: NetName=NetS1_1 Pin=S1-1
+Added Pin To Net: NetName=NetS1_1 Pin=U1-4
+Added Net: Name=NetS1_1
+Change Class Name : Old Net Name=ir-24v New Net Name=usb-cuter
+Added Member To Class: ClassName=usb-cuter Member=Component S1 PUSH BUTTON DOUBLE

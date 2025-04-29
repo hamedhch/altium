@@ -1,0 +1,8 @@
+Change Component Designator: Old Designator=C1 New Designator=C2
+Change Component Designator: Old Designator=C2 New Designator=C3
+Change Component Designator: Old Designator=C? New Designator=C1
+Change Component Designator: Old Designator=RF_IN? New Designator=RF_IN1
+Change Component Designator: Old Designator=RF_OUT? New Designator=RF_OUT1
+Change Component Designator: Old Designator=U1 New Designator=U2
+Change Component Designator: Old Designator=U2 New Designator=U3
+Change Component Designator: Old Designator=U? New Designator=U1

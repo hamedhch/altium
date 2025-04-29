@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=VCC Pin=D1-2
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=o1 Pin=R4-1
+Added Pin To Net: NetName=VCC Pin=R4-1
+Change Room Name: Old Name=tuch-tara New Name=tuch-tara2
+Change Room Scope: Old Scope=InComponentClass('tuch-tara') New Scope=InComponentClass('tuch-tara2')

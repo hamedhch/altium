@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=s1 Pin=U2-5
+Removed Pin From Net: NetName=s2 Pin=U2-6
+Removed Pin From Net: NetName=s3 Pin=U2-7
+Removed Pin From Net: NetName=btn Pin=U2-18
+Added Pin To Net: NetName=o2 Pin=R2-1
+Added Member To Class: ClassName=tsc.1r Member=Component J1 TBlock-3
+Added Member To Class: ClassName=tsc.1r Member=Component J2 TBlock-4
+Added Member To Class: ClassName=tsc.1r Member=Component J3 TBlock-2
+Added Member To Class: ClassName=tsc.1r Member=Component S1 PB-2pin

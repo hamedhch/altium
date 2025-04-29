@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=o4 Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-3
+Removed Pin From Net: NetName=GND Pin=J3-1
+Removed Pin From Net: NetName=vDD Pin=J3-2
+Removed Pin From Net: NetName=vDD Pin=R5-2
+Removed Pin From Net: NetName=vDD Pin=R10-2
+Removed Pin From Net: NetName=vDD Pin=U1-3
+Removed Pin From Net: NetName=o1 Pin=U1-7
+Removed Pin From Net: NetName=vDD Pin=U1-8
+Removed Pin From Net: NetName=GND Pin=U1-15
+Removed Pin From Net: NetName=GND Pin=U1-16
+Removed Pin From Net: NetName=o2 Pin=U1-19
+Removed Pin From Net: NetName=o3 Pin=U1-20
+Removed Pin From Net: NetName=o4 Pin=U1-21
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=U3-3
+Removed Member From Class: ClassName=sanati4i4o Member=C1
+Removed Member From Class: ClassName=sanati4i4o Member=C2
+Removed Member From Class: ClassName=sanati4i4o Member=C3
+Removed Member From Class: ClassName=sanati4i4o Member=C4
+Removed Member From Class: ClassName=sanati4i4o Member=J2
+Removed Member From Class: ClassName=sanati4i4o Member=J3
+Removed Member From Class: ClassName=sanati4i4o Member=R5
+Removed Member From Class: ClassName=sanati4i4o Member=R8
+Removed Member From Class: ClassName=sanati4i4o Member=R9
+Removed Member From Class: ClassName=sanati4i4o Member=R10
+Removed Member From Class: ClassName=sanati4i4o Member=R11
+Removed Member From Class: ClassName=sanati4i4o Member=R12
+Removed Member From Class: ClassName=sanati4i4o Member=T4
+Removed Member From Class: ClassName=sanati4i4o Member=U1
+Removed Member From Class: ClassName=sanati4i4o Member=U2
+Removed Member From Class: ClassName=sanati4i4o Member=U3
+Change Class Name : Old Net Name=sanati4i4o New Net Name=tach key
+Change Room Name: Old Name=sanati4i4o New Name=tach key
+Change Room Scope: Old Scope=InComponentClass('sanati4i4o') New Scope=InComponentClass('tach key')

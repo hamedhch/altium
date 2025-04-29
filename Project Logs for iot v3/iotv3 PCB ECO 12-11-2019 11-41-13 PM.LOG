@@ -1,0 +1,54 @@
+Change Component Footprint: Designator=T8 Old Footprint=Terminal 1*2 New Footprint=Terminal 1*3
+Added Component: Designator=D4(LED-3mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemian"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "02/04/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Added Component: Designator=D10(LED-3mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemian"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "02/04/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Added Component: Designator=D17(LED-3mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemian"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "02/04/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Added Component: Designator=D23(LED-3mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemian"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "02/04/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Added Component: Designator=K8(Relays)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=VCC Pin=D10-1
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=VCC Pin=D17-1
+Added Pin To Net: NetName=NetD17_2 Pin=D17-2
+Added Pin To Net: NetName=VCC Pin=D23-1
+Added Pin To Net: NetName=NetD23_2 Pin=D23-2
+Added Pin To Net: NetName=NetK8_1 Pin=K8-1
+Added Pin To Net: NetName=NetK8_2 Pin=K8-2
+Added Pin To Net: NetName=NetK8_3 Pin=K8-3
+Added Pin To Net: NetName=VCC Pin=K8-4
+Added Pin To Net: NetName=NetD21_1 Pin=K8-5
+Added Pin To Net: NetName=NetK8_2 Pin=T8-3
+Added Member To Class: ClassName=iotv3 Member=Component D4 LED 3mm
+Added Member To Class: ClassName=iotv3 Member=Component D10 LED 3mm
+Added Member To Class: ClassName=iotv3 Member=Component D17 LED 3mm
+Added Member To Class: ClassName=iotv3 Member=Component D23 LED 3mm
+Added Member To Class: ClassName=iotv3 Member=Component K8 Relay-12vDC
+Added Member To Class: ClassName=iotv3 Member=Component P1 Header 5
+Added Member To Class: ClassName=iotv3 Member=Component P2 Header 8

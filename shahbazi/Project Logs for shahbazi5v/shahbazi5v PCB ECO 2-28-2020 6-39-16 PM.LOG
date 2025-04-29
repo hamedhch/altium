@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=i3 Pin=T9-1
+Removed Pin From Net: NetName=i2 Pin=T9-2
+Removed Pin From Net: NetName=i1 Pin=T9-3
+Removed Pin From Net: NetName=i6 Pin=T9-4
+Removed Pin From Net: NetName=i7 Pin=T10-1
+Removed Pin From Net: NetName=i5 Pin=T10-2
+Removed Pin From Net: NetName=i4 Pin=T10-3
+Removed Member From Class: ClassName=shahbazi5v Member=T9
+Removed Member From Class: ClassName=shahbazi5v Member=T10
+Added Component: Designator=JP4(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP6(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP7(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP10(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Component: Designator=JP11(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=5v Pin=JP4-1
+Added Pin To Net: NetName=5v Pin=JP4-2
+Added Pin To Net: NetName=5v Pin=JP6-1
+Added Pin To Net: NetName=5v Pin=JP6-2
+Added Pin To Net: NetName=5v Pin=JP7-1
+Added Pin To Net: NetName=5v Pin=JP7-2
+Added Pin To Net: NetName=5v Pin=JP10-1
+Added Pin To Net: NetName=5v Pin=JP10-2
+Added Pin To Net: NetName=GND Pin=JP11-1
+Added Pin To Net: NetName=GND Pin=JP11-2
+Added Member To Class: ClassName=shahbazi5v Member=Component JP4 Jumper
+Added Member To Class: ClassName=shahbazi5v Member=Component JP6 Jumper
+Added Member To Class: ClassName=shahbazi5v Member=Component JP7 Jumper
+Added Member To Class: ClassName=shahbazi5v Member=Component JP10 Jumper
+Added Member To Class: ClassName=shahbazi5v Member=Component JP11 Jumper

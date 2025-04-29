@@ -1,0 +1,52 @@
+Change Component Designator: OldDesignator=MOC1_1 NewDesignator=MOC?
+Change Component Designator: OldDesignator=Q1_1 NewDesignator=Q?
+Change Component Designator: OldDesignator=R1_1 NewDesignator=R?
+Change Component Designator: OldDesignator=R2_1 NewDesignator=R?
+Change Component Designator: OldDesignator=T1_1 NewDesignator=T?
+Change Component Designator: OldDesignator=T2 NewDesignator=T4
+Change component parameters: Designator = "T1_1" ("T?"); Footprint = "phoenix terminal 2"; UniqueID = "\VAOKMLTW" ("\VAOKMLTW")
+Change component parameters (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "MOC1_1" ("MOC?"); Footprint = "DIP-6"; UniqueID = "\COBOFLFJ" ("\COBOFLFJ")
+Change component parameters (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemian"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-11-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "17-11-2011"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WEB"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1_1" ("Q?"); Footprint = "SOT32"; UniqueID = "\NXKOBARE" ("\NXKOBARE")
+Change component parameters: Designator = "R1_1" ("R?"); Footprint = "Res50"; UniqueID = "\UGSWENZI" ("\UGSWENZI")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.4 in Pin Spacing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2_1" ("R?"); Footprint = "RES 1206 (3216X08L)"; UniqueID = "\SMBGNYAK" ("\SMBGNYAK")
+Change component parameters (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=MOC?-2
+Added Pin To Net: NetName=NetMOC?_1 Pin=MOC?-1
+Added Pin To Net: NetName=NetMOC?_1 Pin=R?-2
+Added Net: Name=NetMOC?_1
+Added Pin To Net: NetName=NetMOC?_4 Pin=MOC?-4
+Added Pin To Net: NetName=NetMOC?_4 Pin=R?-1
+Added Net: Name=NetMOC?_4
+Added Pin To Net: NetName=NetMOC?_6 Pin=MOC?-6
+Added Pin To Net: NetName=NetMOC?_6 Pin=Q?-3
+Added Net: Name=NetMOC?_6
+Added Pin To Net: NetName=NetQ?_1 Pin=Q?-1
+Added Pin To Net: NetName=NetQ?_1 Pin=T?-2
+Added Net: Name=NetQ?_1
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_2 Pin=R?-2
+Added Pin To Net: NetName=NetQ?_2 Pin=T?-1
+Added Net: Name=NetQ?_2
+Added Member To Class: ClassName=smart home2 Member=Component MOC? MOC3021-3
+Added Member To Class: ClassName=smart home2 Member=Component Q? MODEL
+Added Member To Class: ClassName=smart home2 Member=Component R? Res2
+Added Member To Class: ClassName=smart home2 Member=Component R? 10K
+Added Member To Class: ClassName=smart home2 Member=Component T4 Phoenix terminal
+Added Member To Class: ClassName=smart home2 Member=Component T? Phoenix terminal

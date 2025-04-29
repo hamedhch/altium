@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Added Component: Designator=J1(Header 2X1)
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=NetJ2_1
+Added Member To Class: ClassName=ir-rf Member=Component J2 Header2X1

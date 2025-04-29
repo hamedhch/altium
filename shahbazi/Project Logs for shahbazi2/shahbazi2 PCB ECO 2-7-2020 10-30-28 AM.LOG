@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=rst Pin=JP1-1
+Removed Pin From Net: NetName=rst Pin=JP1-2
+Removed Pin From Net: NetName=vDD Pin=JP4-1
+Removed Pin From Net: NetName=vDD Pin=JP4-2
+Removed Pin From Net: NetName=VCC Pin=JP6-1
+Removed Pin From Net: NetName=VCC Pin=JP6-2
+Removed Pin From Net: NetName=vDD Pin=JP7-1
+Removed Pin From Net: NetName=vDD Pin=JP7-2
+Removed Pin From Net: NetName=i8 Pin=JP8-1
+Removed Pin From Net: NetName=i8 Pin=JP8-2
+Removed Pin From Net: NetName=i7 Pin=JP9-1
+Removed Pin From Net: NetName=i7 Pin=JP9-2
+Removed Pin From Net: NetName=GND Pin=JP11-1
+Removed Pin From Net: NetName=GND Pin=JP11-2
+Removed Pin From Net: NetName=i10 Pin=JP12-1
+Removed Pin From Net: NetName=i10 Pin=JP12-2
+Removed Pin From Net: NetName=rst Pin=P1-4
+Removed Member From Class: ClassName=shahbazi2 Member=JP1
+Removed Member From Class: ClassName=shahbazi2 Member=JP2
+Removed Member From Class: ClassName=shahbazi2 Member=JP4
+Removed Member From Class: ClassName=shahbazi2 Member=JP6
+Removed Member From Class: ClassName=shahbazi2 Member=JP7
+Removed Member From Class: ClassName=shahbazi2 Member=JP8
+Removed Member From Class: ClassName=shahbazi2 Member=JP9
+Removed Member From Class: ClassName=shahbazi2 Member=JP10
+Removed Member From Class: ClassName=shahbazi2 Member=JP11
+Removed Member From Class: ClassName=shahbazi2 Member=JP12
+Added Pin To Net: NetName=rst2 Pin=P1-4
+Added Net: Name=rst2
+Added Member To Class: ClassName=shahbazi2 Member=Component J3 Header6X1

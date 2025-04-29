@@ -1,0 +1,8 @@
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Change Component Designator: OldDesignator=J3 NewDesignator=J4
+Added Component: Designator=J4(KF300-3 PIN)
+Added Pin To Net: NetName=s2 Pin=J4-1
+Added Pin To Net: NetName=s1 Pin=J4-2
+Added Pin To Net: NetName=GND Pin=J4-3
+Added Member To Class: ClassName=tsc2r Member=Component J4 TBlock-3

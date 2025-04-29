@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=R7 Old Footprint=Res-(1/4) New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=R8 Old Footprint=Res-(1/4) New Footprint=RES 0805 (2012X06L)
+Added Member To Class: ClassName=tach key1-3 Member=Component JP2 Jumper
+Added Member To Class: ClassName=tach key1-3 Member=Component JP3 Jumper
+Added Member To Class: ClassName=tach key1-3 Member=Component JP5 Jumper
+Added Member To Class: ClassName=tach key1-3 Member=Component JP7 Jumper

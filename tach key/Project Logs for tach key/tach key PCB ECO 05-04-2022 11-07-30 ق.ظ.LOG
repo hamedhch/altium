@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=VCC Pin=JP2-1
+Removed Pin From Net: NetName=VCC Pin=JP2-2
+Removed Member From Class: ClassName=tach key Member=JP3
+Change Component Designator: OldDesignator=JP3 NewDesignator=JP2
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Added Component: Designator=R12(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=R12-1
+Added Pin To Net: NetName=VCC Pin=R12-2
+Change Net Name : Old Net Name=NetR12_1 New Net Name=NetR13_1
+Change Net Name : Old Net Name=NetR14_1 New Net Name=NetR15_1
+Added Member To Class: ClassName=tach key Member=Component JP1 Jumper
+Added Member To Class: ClassName=tach key Member=Component R15 10K

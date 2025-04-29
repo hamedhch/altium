@@ -1,0 +1,8 @@
+Change Component Footprint: Designator=R4 Old Footprint=Res-(1/4) New Footprint=Res-(1/1)
+Added Component: Designator=R2(Res-(1/4))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC1_2 Pin=R2-1
+Added Pin To Net: NetName=faz Pin=R2-2
+Added Member To Class: ClassName=tuch-tara-btr Member=Component R2 10K

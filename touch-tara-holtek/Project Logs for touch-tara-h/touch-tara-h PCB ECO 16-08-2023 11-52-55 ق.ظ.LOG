@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Removed Pin From Net: NetName=GND Pin=Q1-2
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Pin From Net: NetName=GND Pin=Q2-2
+Removed Pin From Net: NetName=GND Pin=Q3-2
+Removed Pin From Net: NetName=GND Pin=Q3-2
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Added Component: Designator=R1(RES 2010 (5026X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=Q1-1
+Added Pin To Net: NetName=GND Pin=Q2-1
+Added Pin To Net: NetName=GND Pin=Q3-1
+Change Net Name : Old Net Name=NetJ1_1 New Net Name=NetJ2_1
+Change Net Name : Old Net Name=NetJ1_3 New Net Name=NetJ2_3
+Change Net Name : Old Net Name=NetJ2_4 New Net Name=NetJ1_4
+Change Net Name : Old Net Name=NetR1_1 New Net Name=NetR2_1
+Change Net Name : Old Net Name=NetR3_1 New Net Name=NetR4_1
+Change Net Name : Old Net Name=NetR5_1 New Net Name=NetR6_1
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR9_2
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetJ1_1 Pin=J1-1
+Added Pin To Net: NetName=NetJ1_1 Pin=Q1-2
+Added Pin To Net: NetName=NetJ1_1 Pin=Q1-2
+Added Net: Name=NetJ1_1
+Added Pin To Net: NetName=NetJ1_2 Pin=J1-2
+Added Pin To Net: NetName=NetJ1_2 Pin=Q2-2
+Added Pin To Net: NetName=NetJ1_2 Pin=Q2-2
+Added Net: Name=NetJ1_2
+Added Pin To Net: NetName=NetJ1_3 Pin=J1-3
+Added Pin To Net: NetName=NetJ1_3 Pin=Q3-2
+Added Pin To Net: NetName=NetJ1_3 Pin=Q3-2
+Added Net: Name=NetJ1_3
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R2-2
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=VDD Pin=R1-1
+Added Net: Name=VDD
+Added Member To Class: ClassName=touch-tara-h Member=Component J1 TBlock-4
+Added Member To Class: ClassName=touch-tara-h Member=Component J2 TBlock-3
+Added Member To Class: ClassName=touch-tara-h Member=Component R5 10K
+Added Member To Class: ClassName=touch-tara-h Member=Component R9 10K

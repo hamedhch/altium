@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=U1 NewDesignator=U7
+Change Component Designator: OldDesignator=U2 NewDesignator=U8
+Change Component Designator: OldDesignator=U3 NewDesignator=U9
+Change Component Designator: OldDesignator=U4 NewDesignator=U10
+Change Component Designator: OldDesignator=U5 NewDesignator=U11
+Change Component Designator: OldDesignator=U6 NewDesignator=U12
+Change Component Designator: OldDesignator=U7 NewDesignator=U13
+Change Component Designator: OldDesignator=U8 NewDesignator=U14
+Added Component: Designator=U1(DIP4)
+Added Component: Designator=U2(DIP4)
+Added Component: Designator=U3(DIP4)
+Added Component: Designator=U4(DIP4)
+Added Component: Designator=U5(DIP4)
+Added Component: Designator=U6(DIP4)
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component P1 Header 4
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component P2 Header 4
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component U9 ULN2003ADRG4
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component U10 ESP_12_E
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component U11 PC817
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component U12 K3021P
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component U13 K3021P
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component U14 K3021P

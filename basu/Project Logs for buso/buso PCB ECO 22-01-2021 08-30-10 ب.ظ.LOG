@@ -1,0 +1,134 @@
+Removed Pin From Net: NetName=VCC Pin=D1-2
+Removed Pin From Net: NetName=VCC Pin=D2-2
+Removed Pin From Net: NetName=VCC Pin=D4-2
+Removed Pin From Net: NetName=VCC Pin=D5-2
+Removed Pin From Net: NetName=VCC Pin=D6-1
+Removed Pin From Net: NetName=VCC Pin=D8-1
+Removed Pin From Net: NetName=VCC Pin=D9-2
+Removed Pin From Net: NetName=VCC Pin=D11-2
+Removed Pin From Net: NetName=VCC Pin=D13-2
+Removed Pin From Net: NetName=VCC Pin=D15-2
+Removed Pin From Net: NetName=VCC Pin=D17-2
+Removed Pin From Net: NetName=VCC Pin=D18-2
+Removed Pin From Net: NetName=VCC Pin=D19-1
+Removed Pin From Net: NetName=VCC Pin=K2-5
+Removed Pin From Net: NetName=VCC Pin=K4-5
+Removed Pin From Net: NetName=VCC Pin=K9-5
+Removed Pin From Net: NetName=o8 Pin=R5-1
+Removed Pin From Net: NetName=O2 Pin=R6-1
+Removed Pin From Net: NetName=o9 Pin=R7-1
+Removed Pin From Net: NetName=o10 Pin=R8-1
+Removed Pin From Net: NetName=o7 Pin=R11-1
+Removed Pin From Net: NetName=O3 Pin=R12-1
+Removed Pin From Net: NetName=o6 Pin=R16-1
+Removed Pin From Net: NetName=o4 Pin=R17-1
+Removed Pin From Net: NetName=O1 Pin=R20-1
+Removed Pin From Net: NetName=o5 Pin=R21-1
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=GND Pin=U3-3
+Removed Pin From Net: NetName=GND Pin=U4-3
+Removed Pin From Net: NetName=NetC2_2 Pin=U6-7
+Removed Pin From Net: NetName=NetC3_2 Pin=U6-8
+Removed Pin From Net: NetName=GND Pin=U7-3
+Removed Pin From Net: NetName=GND Pin=U8-3
+Removed Pin From Net: NetName=rst Pin=U9-1
+Removed Pin From Net: NetName=vDD Pin=U9-3
+Removed Pin From Net: NetName=i12 Pin=U9-4
+Removed Pin From Net: NetName=i11 Pin=U9-5
+Removed Pin From Net: NetName=i13 Pin=U9-6
+Removed Pin From Net: NetName=i9 Pin=U9-7
+Removed Pin From Net: NetName=vDD Pin=U9-8
+Removed Pin From Net: NetName=i10 Pin=U9-12
+Removed Pin From Net: NetName=GND Pin=U9-15
+Removed Pin From Net: NetName=GND Pin=U9-16
+Removed Pin From Net: NetName=btn Pin=U9-18
+Removed Pin From Net: NetName=sda Pin=U9-19
+Removed Pin From Net: NetName=scl Pin=U9-20
+Removed Pin From Net: NetName=rx Pin=U9-21
+Removed Pin From Net: NetName=rx2 Pin=U9-22
+Removed Pin From Net: NetName=GND Pin=U10-3
+Removed Pin From Net: NetName=GND Pin=U11-3
+Removed Pin From Net: NetName=GND Pin=U13-3
+Removed Pin From Net: NetName=GND Pin=U14-3
+Removed Member From Class: ClassName=buso Member=D1
+Removed Member From Class: ClassName=buso Member=D2
+Removed Member From Class: ClassName=buso Member=D4
+Removed Member From Class: ClassName=buso Member=D5
+Removed Member From Class: ClassName=buso Member=D6
+Removed Member From Class: ClassName=buso Member=D8
+Removed Member From Class: ClassName=buso Member=D9
+Removed Member From Class: ClassName=buso Member=D11
+Removed Member From Class: ClassName=buso Member=D13
+Removed Member From Class: ClassName=buso Member=D15
+Removed Member From Class: ClassName=buso Member=D17
+Removed Member From Class: ClassName=buso Member=D18
+Removed Member From Class: ClassName=buso Member=D19
+Removed Member From Class: ClassName=buso Member=K2
+Removed Member From Class: ClassName=buso Member=K4
+Removed Member From Class: ClassName=buso Member=K9
+Removed Member From Class: ClassName=buso Member=R2
+Removed Member From Class: ClassName=buso Member=R4
+Removed Member From Class: ClassName=buso Member=R5
+Removed Member From Class: ClassName=buso Member=R6
+Removed Member From Class: ClassName=buso Member=R7
+Removed Member From Class: ClassName=buso Member=R8
+Removed Member From Class: ClassName=buso Member=R11
+Removed Member From Class: ClassName=buso Member=R12
+Removed Member From Class: ClassName=buso Member=R16
+Removed Member From Class: ClassName=buso Member=R17
+Removed Member From Class: ClassName=buso Member=R18
+Removed Member From Class: ClassName=buso Member=R20
+Removed Member From Class: ClassName=buso Member=R21
+Removed Member From Class: ClassName=buso Member=T2
+Removed Member From Class: ClassName=buso Member=T4
+Removed Member From Class: ClassName=buso Member=T11
+Removed Member From Class: ClassName=buso Member=U1
+Removed Member From Class: ClassName=buso Member=U2
+Removed Member From Class: ClassName=buso Member=U3
+Removed Member From Class: ClassName=buso Member=U4
+Removed Member From Class: ClassName=buso Member=U7
+Removed Member From Class: ClassName=buso Member=U8
+Removed Member From Class: ClassName=buso Member=U10
+Removed Member From Class: ClassName=buso Member=U11
+Removed Member From Class: ClassName=buso Member=U13
+Removed Member From Class: ClassName=buso Member=U14
+Added Component: Designator=U?(SOIC127P600X175-16N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ULN2003ADRG4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_2 Pin=U?-7
+Added Pin To Net: NetName=NetC3_2 Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-39
+Added Pin To Net: NetName=NetK1_4 Pin=K1-4
+Added Pin To Net: NetName=NetK1_4 Pin=R1-2
+Added Pin To Net: NetName=NetK1_4 Pin=U?-12
+Added Net: Name=NetK1_4
+Added Pin To Net: NetName=NetK3_4 Pin=K3-4
+Added Pin To Net: NetName=NetK3_4 Pin=R3-2
+Added Pin To Net: NetName=NetK3_4 Pin=U?-16
+Added Net: Name=NetK3_4
+Added Pin To Net: NetName=NetK5_4 Pin=K5-4
+Added Pin To Net: NetName=NetK5_4 Pin=R9-2
+Added Pin To Net: NetName=NetK5_4 Pin=U?-11
+Added Net: Name=NetK5_4
+Added Pin To Net: NetName=NetK6_4 Pin=K6-4
+Added Pin To Net: NetName=NetK6_4 Pin=R10-2
+Added Pin To Net: NetName=NetK6_4 Pin=U?-15
+Added Net: Name=NetK6_4
+Added Pin To Net: NetName=NetK7_4 Pin=K7-4
+Added Pin To Net: NetName=NetK7_4 Pin=R14-2
+Added Pin To Net: NetName=NetK7_4 Pin=U?-10
+Added Net: Name=NetK7_4
+Added Pin To Net: NetName=NetK8_4 Pin=K8-4
+Added Pin To Net: NetName=NetK8_4 Pin=R15-2
+Added Pin To Net: NetName=NetK8_4 Pin=U?-14
+Added Net: Name=NetK8_4
+Added Pin To Net: NetName=NetK10_4 Pin=K10-4
+Added Pin To Net: NetName=NetK10_4 Pin=R19-2
+Added Pin To Net: NetName=NetK10_4 Pin=U?-13
+Added Net: Name=NetK10_4
+Added Member To Class: ClassName=buso Member=Component U? ATmega16-16AC

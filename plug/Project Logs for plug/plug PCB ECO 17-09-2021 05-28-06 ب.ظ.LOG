@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=vcc Pin=D2-1
+Removed Pin From Net: NetName=NetD1_1 Pin=R4-2
+Removed Member From Class: ClassName=plug Member=D2
+Change Component Designator: OldDesignator=R1 NewDesignator=R4
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R2
+Added Component: Designator=R1(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=vesp Pin=R1-1
+Added Pin To Net: NetName=rst Pin=R1-2
+Change Net Name : Old Net Name=NetR1_2 New Net Name=NetR4_2
+Change Net Name : Old Net Name=NetR2_2 New Net Name=NetR3_2
+Change Net Name : Old Net Name=NetR3_2 New Net Name=NetR2_2

@@ -1,0 +1,9 @@
+Added Pin To Net: NetName=cs Pin=J3-4
+Added Pin To Net: NetName=cs Pin=U1-12
+Added Net: Name=cs
+Added Pin To Net: NetName=sck Pin=J3-3
+Added Pin To Net: NetName=sck Pin=U1-18
+Added Net: Name=sck
+Added Pin To Net: NetName=so Pin=J3-5
+Added Pin To Net: NetName=so Pin=U1-4
+Added Net: Name=so

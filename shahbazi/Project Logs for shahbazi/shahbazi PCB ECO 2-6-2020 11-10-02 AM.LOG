@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=vDD Pin=JP10-1
+Removed Pin From Net: NetName=vDD Pin=JP10-2
+Added Pin To Net: NetName=5v Pin=JP10-1
+Added Pin To Net: NetName=5v Pin=JP10-2

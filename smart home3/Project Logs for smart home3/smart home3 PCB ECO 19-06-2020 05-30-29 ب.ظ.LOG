@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=GND Pin=E4_1-1
+Removed Pin From Net: NetName=o1 Pin=U2-22
+Change Component Designator: OldDesignator=E3_1 NewDesignator=E1
+Change Component Designator: OldDesignator=E4_1 NewDesignator=E2
+Added Pin To Net: NetName=GND Pin=E1-1
+Added Pin To Net: NetName=vDD Pin=E2-1
+Change Net Name : Old Net Name=o1 New Net Name=o3
+Change Net Name : Old Net Name=o3 New Net Name=o1
+Added Net: Name=o4
+Added Member To Class: ClassName=smart home3 Member=Component E1 Antenna
+Added Member To Class: ClassName=smart home3 Member=Component E2 Antenna

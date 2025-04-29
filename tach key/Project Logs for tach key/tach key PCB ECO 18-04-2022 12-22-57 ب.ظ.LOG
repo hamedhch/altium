@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=o21 Pin=R20-2
+Change Component Designator: OldDesignator=R21 NewDesignator=R22
+Change Component Designator: OldDesignator=R22 NewDesignator=R23
+Change Component Designator: OldDesignator=R23 NewDesignator=R24
+Change Component Designator: OldDesignator=R24 NewDesignator=R25
+Added Component: Designator=R21(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=o21 Pin=R21-2
+Added Pin To Net: NetName=NetR20_2 Pin=R20-2
+Added Pin To Net: NetName=NetR20_2 Pin=R21-1
+Added Net: Name=NetR20_2
+Added Member To Class: ClassName=tach key Member=Component R25 10K

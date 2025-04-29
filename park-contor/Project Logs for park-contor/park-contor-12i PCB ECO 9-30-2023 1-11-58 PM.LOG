@@ -1,0 +1,25 @@
+Added Component: Designator=Buzzer1(BUZZER)
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X9)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P3(HDR1X9)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P4(HDR1X4)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=vdd Pin=P4-3
+Added Pin To Net: NetName=GND Pin=P4-4
+Added Pin To Net: NetName=scl Pin=P4-1
+Added Net: Name=scl
+Added Pin To Net: NetName=sda Pin=P4-2
+Added Net: Name=sda
+Added Member To Class: ClassName=park-contor-12i Member=Component Buzzer1 Buzzer
+Added Member To Class: ClassName=park-contor-12i Member=Component P2 Header 9
+Added Member To Class: ClassName=park-contor-12i Member=Component P3 Header 9
+Added Member To Class: ClassName=park-contor-12i Member=Component P4 Header 4

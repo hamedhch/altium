@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=T1 Old Footprint=phoenix terminal 2 New Footprint=KF300-2 PIN
+Change Component Footprint: Designator=T2 Old Footprint=phoenix terminal 3 New Footprint=KF300-3 PIN
+Change Component Footprint: Designator=T3 Old Footprint=phoenix terminal 4 New Footprint=KF300-4 PIN
+Change Component Comment : Designator=T1 Old Comment=Phoenix terminal New Comment=TBlock-2
+Change Component Comment : Designator=T2 Old Comment=Phoenix terminal New Comment=TBlock-3
+Change Component Comment : Designator=T3 Old Comment=Phoenix terminal New Comment=TBlock-4
+Change Component Designator: OldDesignator=T1 NewDesignator=J1
+Change Component Designator: OldDesignator=T2 NewDesignator=J2
+Change Component Designator: OldDesignator=T3 NewDesignator=J3
+Change component parameters: Designator = "T1" ("J1"); Footprint = "phoenix terminal 2"; UniqueID = "\PKNAYTZA" ("\PKNAYTZA")
+Change component parameters: Designator = "T2" ("J2"); Footprint = "phoenix terminal 3"; UniqueID = "\YZLYWTIC" ("\YZLYWTIC")
+Change component parameters: Designator = "T3" ("J3"); Footprint = "phoenix terminal 4"; UniqueID = "\NTTZUUZY" ("\NTTZUUZY")
+Added Component: Designator=J4(KF300-2 PIN)
+Added Pin To Net: NetName=GND Pin=J4-1
+Added Pin To Net: NetName=s Pin=J4-2
+Change Net Name : Old Net Name=NetQ1_1 New Net Name=NetJ2_1
+Change Net Name : Old Net Name=NetQ2_1 New Net Name=NetJ2_2
+Change Net Name : Old Net Name=NetQ3_1 New Net Name=NetJ2_3
+Added Member To Class: ClassName=smart home2 Member=Component J3 TBlock-4
+Added Member To Class: ClassName=smart home2 Member=Component J4 TBlock-2

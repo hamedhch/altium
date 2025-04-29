@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GND Pin=J5-3
+Removed Pin From Net: NetName=en Pin=J5-4
+Added Component: Designator=D17(LED-3mm)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemian"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LED"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "02/04/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=en Pin=D17-1
+Added Pin To Net: NetName=led2 Pin=D17-2
+Added Pin To Net: NetName=en Pin=J5-3
+Added Pin To Net: NetName=GND Pin=J5-4
+Added Member To Class: ClassName=iotv4 Member=Component D17 LED 3mm

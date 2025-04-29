@@ -1,0 +1,43 @@
+Removed Pin From Net: NetName=o2 Pin=P3-2
+Removed Pin From Net: NetName=o1 Pin=P3-3
+Removed Pin From Net: NetName=rst Pin=P3-4
+Removed Pin From Net: NetName=o3 Pin=U1-9
+Removed Pin From Net: NetName=o4 Pin=U1-10
+Removed Pin From Net: NetName=o5 Pin=U1-11
+Removed Pin From Net: NetName=o6 Pin=U1-12
+Removed Pin From Net: NetName=o7 Pin=U1-13
+Removed Pin From Net: NetName=o8 Pin=U1-14
+Removed Pin From Net: NetName=o1 Pin=U1-15
+Removed Pin From Net: NetName=o2 Pin=U1-16
+Removed Member From Class: ClassName=tscnew-tr-3-8 Member=P3
+Added Pin To Net: NetName=o1 Pin=P1-2
+Added Pin To Net: NetName=o2 Pin=P1-3
+Added Pin To Net: NetName=o3 Pin=P1-4
+Added Pin To Net: NetName=o4 Pin=P1-5
+Added Pin To Net: NetName=o5 Pin=P1-6
+Added Pin To Net: NetName=o6 Pin=P1-7
+Added Pin To Net: NetName=o7 Pin=P2-2
+Added Pin To Net: NetName=o8 Pin=P2-3
+Added Pin To Net: NetName=o1 Pin=U1-9
+Added Pin To Net: NetName=o2 Pin=U1-10
+Added Pin To Net: NetName=o3 Pin=U1-11
+Added Pin To Net: NetName=o4 Pin=U1-12
+Added Pin To Net: NetName=o5 Pin=U1-13
+Added Pin To Net: NetName=o6 Pin=U1-14
+Added Pin To Net: NetName=o7 Pin=U1-15
+Added Pin To Net: NetName=o8 Pin=U1-16
+Added Pin To Net: NetName=o9 Pin=P2-4
+Added Pin To Net: NetName=o9 Pin=U1-17
+Added Net: Name=o9
+Added Pin To Net: NetName=o10 Pin=P2-5
+Added Net: Name=o10
+Added Pin To Net: NetName=o11 Pin=P2-6
+Added Net: Name=o11
+Added Pin To Net: NetName=o12 Pin=P2-7
+Added Net: Name=o12
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component J3 Header3X1
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component J4 Header3X1
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component J6 TBlock-2
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component J7 Header2X1
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component J8 TBlock-4
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component U2 LM1117MP-3.3

@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetJ1_14 Pin=R6-2
+Added Member To Class: ClassName=tuch-tara2 Member=Component R6 10K
+Added Member To Class: ClassName=tuch-tara2 Member=Component R7 10K
+Added Member To Class: ClassName=tuch-tara2 Member=Component R8 10K
+Added Member To Class: ClassName=tuch-tara2 Member=Component R9 10K

@@ -1,0 +1,16 @@
+Added Component: Designator=U4(ESP_12_E)
+Add component (AddParameter): Name = "IC"; Value = "ESP8266-EX"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vendor"; Value = "Ai-thinker"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=rst Pin=U4-1
+Added Pin To Net: NetName=vesp Pin=U4-3
+Added Pin To Net: NetName=NetP2_4 Pin=U4-4
+Added Pin To Net: NetName=NetP2_3 Pin=U4-5
+Added Pin To Net: NetName=NetP2_2 Pin=U4-6
+Added Pin To Net: NetName=NetP2_1 Pin=U4-7
+Added Pin To Net: NetName=vesp Pin=U4-8
+Added Pin To Net: NetName=GND Pin=U4-15
+Added Pin To Net: NetName=GND Pin=U4-16
+Added Pin To Net: NetName=btn Pin=U4-18
+Added Pin To Net: NetName=rx Pin=U4-19
+Added Pin To Net: NetName=tx Pin=U4-20
+Added Member To Class: ClassName=tscnew Member=Component U4 ESP_12_E

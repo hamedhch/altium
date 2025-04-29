@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=o3 Pin=R2-1
+Added Pin To Net: NetName=o1 Pin=R2-1
+Added Member To Class: ClassName=tsc2r Member=Component J4 TBlock-3

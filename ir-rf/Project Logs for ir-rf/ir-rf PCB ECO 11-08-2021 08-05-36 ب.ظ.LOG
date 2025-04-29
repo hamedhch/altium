@@ -1,0 +1,6 @@
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=vdD Pin=P1-2
+Added Pin To Net: NetName=GND Pin=P1-3
+Added Pin To Net: NetName=GND Pin=P1-4
+Added Member To Class: ClassName=ir-rf Member=Component Q1 MODEL
+Added Member To Class: ClassName=ir-rf Member=Component R1 10K

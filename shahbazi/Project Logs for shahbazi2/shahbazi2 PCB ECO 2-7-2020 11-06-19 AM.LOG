@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Added Component: Designator=R10(Res-(1/4))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetR11_2 New Net Name=NetR12_2
+Added Member To Class: ClassName=shahbazi2 Member=Component R8 Res2
+Added Member To Class: ClassName=shahbazi2 Member=Component R12 Res2

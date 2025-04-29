@@ -1,0 +1,194 @@
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=E1-1
+Removed Pin From Net: NetName=GND Pin=JP1-1
+Removed Pin From Net: NetName=GND Pin=JP1-2
+Removed Pin From Net: NetName=out Pin=MOC1-2
+Removed Pin From Net: NetName=GND Pin=S1-3
+Removed Pin From Net: NetName=GND Pin=S2-1
+Removed Pin From Net: NetName=GND Pin=T2-1
+Removed Pin From Net: NetName=GND Pin=U1-1
+Removed Pin From Net: NetName=out Pin=U2-5
+Removed Pin From Net: NetName=GND Pin=U2-15
+Removed Member From Class: ClassName=smart home Member=C1
+Removed Member From Class: ClassName=smart home Member=E1
+Removed Member From Class: ClassName=smart home Member=JP1
+Removed Member From Class: ClassName=smart home Member=MOC1
+Removed Member From Class: ClassName=smart home Member=Q1
+Removed Member From Class: ClassName=smart home Member=R2
+Removed Member From Class: ClassName=smart home Member=R3
+Removed Member From Class: ClassName=smart home Member=S1
+Removed Member From Class: ClassName=smart home Member=S2
+Removed Member From Class: ClassName=smart home Member=T2
+Removed Member From Class: ClassName=smart home Member=U1
+Change Component Footprint: Designator=U2 Old Footprint=ESP_12_E New Footprint=TS5B_N
+Change Component Footprint: Designator=T1 Old Footprint=phoenix terminal R 2 New Footprint=phoenix terminal 2
+Change Component Comment : Designator=U2 Old Comment=ESP_12_E New Comment=LM2596S-3.3
+Change Component Comment : Designator=T1 Old Comment=Terminal New Comment=Phoenix terminal
+Change component parameters: Designator = "U2"; Footprint = "TS5B_N"; UniqueID = "\QVWRUFTS"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MO-169-AB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "LM2596 Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.national.com/ds/LM/LM2596.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "LM2596 Web Page"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.national.com/pf/LM/LM2596.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "TS5B Package Page"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.national.com/packaging/folders/ts5b.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CompType"; Value = "Switcher"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "May-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DigiKeyPartNumber"; Value = "LM2596S-3.3-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "FirstPublished"; Value = "4-Dec-2008"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "National Semiconductor"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "TO-263, Molded, .400 x .390 x .180in, 5 Lead, .067in Pitch, Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TS5B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageTopMarking"; Value = "NSUZXYTT*LM2596S*-3.3 P+"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "revD, Apr-2005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartNumber"; Value = "LM2596S-3.3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PinCount"; Value = "5"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PowerWise"; Value = "N"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "O"; VariantName = "[No Variations]"
+Added Component: Designator=Buzzer1(BUZZER)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Added Component: Designator=C3(ELEC-CAP-RAD10-20)
+Add component. Clean all parameters for all variants
+Added Component: Designator=C4(ELEC-CAP-RAD10-20)
+Add component. Clean all parameters for all variants
+Added Component: Designator=D1(DO-41)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "MODEL"; Value = "1N4148"; VariantName = "[No Variations]"
+Added Component: Designator=E3(PIN1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PIN1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=E4(PIN1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PIN1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=E5(PIN1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PIN1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=E6(PIN1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PIN1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=E7(PIN1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "PIN1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U3(8S2_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.atmel.com/dyn/resources/prod_documents/doc1187.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Atmel.com Home"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.atmel.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1187E-AVR-06/02"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "16-Oct-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "8-Lead, 0.208" Body, Plastic Small Outline Package (EIAJ)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "8S2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revF, Apr-2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Sep-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 2"; Value = "Mouser"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "ATTINY15L-1SC-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 2"; Value = "556-ATTINY15L1SC"; VariantName = "[No Variations]"
+Added Component: Designator=U4(TO-220A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/stonline/products/literature/ds/4340/l4931abxx15.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Apr-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "06-Jun-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "PCB Pin sequence re-ordered."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Thru-Hole, Vertical, Heatsink Mounted; 3 In-Line Leads; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO-220A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jul-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Aug-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=U5(TO-220A)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/stonline/products/literature/ds/4340/l4931abxx15.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Apr-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "06-Jun-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "PCB Pin sequence re-ordered."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "TO, Thru-Hole, Vertical, Heatsink Mounted; 3 In-Line Leads; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TO-220A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jul-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Aug-2001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=GND Pin=E6-1
+Added Pin To Net: NetName=out Pin=R1-1
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=GND Pin=U2-5
+Added Pin To Net: NetName=GND Pin=U3-4
+Added Pin To Net: NetName=GND Pin=U4-3
+Added Pin To Net: NetName=GND Pin=U5-3
+Added Pin To Net: NetName=NetBuzzer1_1 Pin=Buzzer1-1
+Added Pin To Net: NetName=NetBuzzer1_1 Pin=D1-2
+Added Pin To Net: NetName=NetBuzzer1_1 Pin=U2-2
+Added Net: Name=NetBuzzer1_1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=NetC3_2 Pin=E7-1
+Added Pin To Net: NetName=NetC3_2 Pin=U2-1
+Added Net: Name=NetC3_2
+Added Pin To Net: NetName=NetE2_1 Pin=E2-1
+Added Pin To Net: NetName=NetE2_1 Pin=E3-1
+Added Net: Name=NetE2_1
+Added Pin To Net: NetName=NetE4_1 Pin=E4-1
+Added Pin To Net: NetName=NetE4_1 Pin=E5-1
+Added Net: Name=NetE4_1
+Added Pin To Net: NetName=NetR1_2 Pin=R1-2
+Added Pin To Net: NetName=NetR1_2 Pin=U4-2
+Added Pin To Net: NetName=NetR1_2 Pin=U5-2
+Added Net: Name=NetR1_2
+Added Pin To Net: NetName=NetT1_2 Pin=T1-2
+Added Pin To Net: NetName=NetT1_2 Pin=U4-1
+Added Pin To Net: NetName=NetT1_2 Pin=U5-1
+Added Net: Name=NetT1_2
+Added Pin To Net: NetName=VCC Pin=Buzzer1-2
+Added Pin To Net: NetName=VCC Pin=C4-2
+Added Pin To Net: NetName=VCC Pin=T1-1
+Added Pin To Net: NetName=VCC Pin=U2-4
+Added Pin To Net: NetName=VCC Pin=U3-8
+Added Net: Name=VCC
+Change Class Name : Old Net Name=smart home New Net Name=tablo tara
+Added Member To Class: ClassName=tablo tara Member=Component Buzzer1 Buzzer
+Added Member To Class: ClassName=tablo tara Member=Component C3 Value
+Added Member To Class: ClassName=tablo tara Member=Component C4 Value
+Added Member To Class: ClassName=tablo tara Member=Component D1 MODEL
+Added Member To Class: ClassName=tablo tara Member=Component E3 Antenna
+Added Member To Class: ClassName=tablo tara Member=Component E4 Antenna
+Added Member To Class: ClassName=tablo tara Member=Component E5 Antenna
+Added Member To Class: ClassName=tablo tara Member=Component E6 Antenna
+Added Member To Class: ClassName=tablo tara Member=Component E7 Antenna
+Added Member To Class: ClassName=tablo tara Member=Component U3 ATtiny15L-1SC
+Added Member To Class: ClassName=tablo tara Member=Component U4 L4931CV30
+Added Member To Class: ClassName=tablo tara Member=Component U5 L4931CV30
+Change Room Name: Old Name=smart home New Name=tablo tara
+Change Room Scope: Old Scope=InComponentClass('smart home') New Scope=InComponentClass('tablo tara')

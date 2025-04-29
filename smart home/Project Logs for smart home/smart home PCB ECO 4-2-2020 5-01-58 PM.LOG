@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=vDD Pin=JP1-1
+Removed Pin From Net: NetName=vDD Pin=JP1-2
+Removed Member From Class: ClassName=smart home Member=JP1

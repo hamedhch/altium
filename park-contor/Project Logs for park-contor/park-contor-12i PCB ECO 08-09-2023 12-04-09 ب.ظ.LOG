@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=vdd Pin=J6-1
+Removed Pin From Net: NetName=i1 Pin=J6-2
+Removed Pin From Net: NetName=GND Pin=J6-3
+Removed Pin From Net: NetName=vdd Pin=J7-1
+Removed Pin From Net: NetName=i2 Pin=J7-2
+Removed Pin From Net: NetName=GND Pin=J7-3
+Removed Pin From Net: NetName=vdd Pin=J8-1
+Removed Pin From Net: NetName=i3 Pin=J8-2
+Removed Pin From Net: NetName=GND Pin=J8-3
+Removed Pin From Net: NetName=tx Pin=T1-1
+Removed Pin From Net: NetName=i9 Pin=T2-1
+Removed Member From Class: ClassName=park-contor-12i Member=J6
+Removed Member From Class: ClassName=park-contor-12i Member=J7
+Removed Member From Class: ClassName=park-contor-12i Member=J8
+Removed Member From Class: ClassName=park-contor-12i Member=T1
+Removed Member From Class: ClassName=park-contor-12i Member=T2

@@ -1,0 +1,70 @@
+Removed Member From Class: ClassName=clock-temp-touch Member=D?
+Removed Member From Class: ClassName=clock-temp-touch Member=R?
+Change Component Designator: OldDesignator=BT? NewDesignator=BT1
+Change Component Designator: OldDesignator=D4 NewDesignator=D6
+Change Component Designator: OldDesignator=D5 NewDesignator=D7
+Change Component Designator: OldDesignator=D6 NewDesignator=D8
+Change Component Designator: OldDesignator=D7 NewDesignator=D9
+Change Component Designator: OldDesignator=D8 NewDesignator=D10
+Change Component Designator: OldDesignator=D9 NewDesignator=D11
+Change Component Designator: OldDesignator=D10 NewDesignator=D12
+Change Component Designator: OldDesignator=D11 NewDesignator=D13
+Change Component Designator: OldDesignator=D12 NewDesignator=D14
+Change Component Designator: OldDesignator=D13 NewDesignator=D15
+Change Component Designator: OldDesignator=D14 NewDesignator=D16
+Change Component Designator: OldDesignator=D15 NewDesignator=D17
+Change Component Designator: OldDesignator=D16 NewDesignator=D18
+Change Component Designator: OldDesignator=D17 NewDesignator=D19
+Change Component Designator: OldDesignator=D18 NewDesignator=D20
+Change Component Designator: OldDesignator=D19 NewDesignator=D21
+Change Component Designator: OldDesignator=D20 NewDesignator=D22
+Change Component Designator: OldDesignator=D21 NewDesignator=D23
+Change Component Designator: OldDesignator=D22 NewDesignator=D24
+Change Component Designator: OldDesignator=D23 NewDesignator=D25
+Change Component Designator: OldDesignator=D24 NewDesignator=D26
+Change Component Designator: OldDesignator=D25 NewDesignator=D27
+Change Component Designator: OldDesignator=D26 NewDesignator=D28
+Change Component Designator: OldDesignator=D27 NewDesignator=D29
+Change Component Designator: OldDesignator=D28 NewDesignator=D30
+Change Component Designator: OldDesignator=D29 NewDesignator=D31
+Change Component Designator: OldDesignator=D30 NewDesignator=D32
+Change Component Designator: OldDesignator=D31 NewDesignator=D33
+Change Component Designator: OldDesignator=D32 NewDesignator=D34
+Change Component Designator: OldDesignator=D33 NewDesignator=D35
+Change Component Designator: OldDesignator=D? NewDesignator=D4
+Change Component Designator: OldDesignator=D? NewDesignator=D5
+Change Component Designator: OldDesignator=LS1 NewDesignator=LS2
+Change Component Designator: OldDesignator=LS2 NewDesignator=LS1
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Change Component Designator: OldDesignator=R8 NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Change Component Designator: OldDesignator=U4 NewDesignator=U5
+Change Component Designator: OldDesignator=U5 NewDesignator=U4
+Added Component: Designator=R5(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin LS2-1
+Added Pin To Net: NetName=vcc Pin=R4-2
+Added Pin To Net: NetName=GND Pin=R5-2
+Change Net Name : Old Net Name=NetBT?_1 New Net Name=NetBT1_1
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetR9_1
+Change Net Name : Old Net Name=NetR8_1 New Net Name=NetR10_1
+Change Net Name : Old Net Name=NetU2_6 New Net Name=NetU2_4
+Change Net Name : Old Net Name=NetU4_6 New Net Name=NetU4_4
+Added Pin To Net: NetName=bizer Pin=LS2-2A
+Added Pin To Net: NetName=bizer Pin=U1-14
+Added Net: Name=bizer
+Added Pin To Net: NetName=inpout Pin=R4-1
+Added Pin To Net: NetName=inpout Pin=R5-1
+Added Pin To Net: NetName=inpout Pin=U1-13
+Added Net: Name=inpout
+Added Member To Class: ClassName=clock-temp-touch Member=Component D34 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component D35 LHN974_RED_LED_1206
+Added Member To Class: ClassName=clock-temp-touch Member=Component R9 10K
+Added Member To Class: ClassName=clock-temp-touch Member=Component R10 10K

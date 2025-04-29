@@ -1,0 +1,13 @@
+Added Pin To Net: NetName=NetJ3_1 Pin=J3-1
+Added Pin To Net: NetName=NetJ3_1 Pin=U3-22
+Added Net: Name=NetJ3_1
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=U3-21
+Added Net: Name=NetJ3_2
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component J1 Header5X1
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component J2 TBlock-2
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component J3 Header2X1
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component P3 Header 4
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component U3 ESP_12_E
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component U5 K3021P
+Added Member To Class: ClassName=tscnew-tr-3-8 Member=Component U7 K3021P

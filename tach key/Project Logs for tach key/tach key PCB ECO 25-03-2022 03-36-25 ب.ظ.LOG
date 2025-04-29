@@ -1,0 +1,78 @@
+Change Component Designator: OldDesignator=C2 NewDesignator=C4
+Change Component Designator: OldDesignator=C3 NewDesignator=C2
+Change Component Designator: OldDesignator=C4 NewDesignator=C3
+Change Component Designator: OldDesignator=D2 NewDesignator=D3
+Change Component Designator: OldDesignator=D3 NewDesignator=D2
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R5
+Change Component Designator: OldDesignator=U2 NewDesignator=U3
+Change Component Designator: OldDesignator=U3 NewDesignator=U5
+Change Component Designator: OldDesignator=U4 NewDesignator=U6
+Change Component Designator: OldDesignator=U5 NewDesignator=U8
+Change Component Designator: OldDesignator=U6 NewDesignator=U10
+Added Component: Designator=U2(SOT95P285X126-6N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TTP223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402 KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TTP223%20/KOA%20Speer/view-part/2780209/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U4(SOT95P285X126-6N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TTP223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402 KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TTP223%20/KOA%20Speer/view-part/2780209/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U7(SOT95P285X126-6N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TTP223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402 KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TTP223%20/KOA%20Speer/view-part/2780209/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U9(SOT95P285X126-6N)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TTP223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "0402 KOA Speer"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/TTP223%20/KOA%20Speer/view-part/2780209/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=o1 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=VCC Pin=U2-5
+Added Pin To Net: NetName=VCC Pin=U2-6
+Added Pin To Net: NetName=o2 Pin=U4-1
+Added Pin To Net: NetName=GND Pin=U4-2
+Added Pin To Net: NetName=VCC Pin=U4-5
+Added Pin To Net: NetName=VCC Pin=U4-6
+Added Pin To Net: NetName=o3 Pin=U7-1
+Added Pin To Net: NetName=GND Pin=U7-2
+Added Pin To Net: NetName=VCC Pin=U7-5
+Added Pin To Net: NetName=VCC Pin=U7-6
+Added Pin To Net: NetName=o4 Pin=U9-1
+Added Pin To Net: NetName=GND Pin=U9-2
+Added Pin To Net: NetName=VCC Pin=U9-5
+Added Pin To Net: NetName=VCC Pin=U9-6
+Change Net Name : Old Net Name=NetC2_1 New Net Name=NetC4_1
+Change Net Name : Old Net Name=NetC2_2 New Net Name=NetC4_2
+Change Net Name : Old Net Name=NetC3_2 New Net Name=NetC2_2
+Change Net Name : Old Net Name=NetD2_3 New Net Name=NetD3_3
+Change Net Name : Old Net Name=NetR6_2 New Net Name=NetR7_2
+Added Member To Class: ClassName=tach key Member=Component C1 =Value
+Added Member To Class: ClassName=tach key Member=Component C4 =Value
+Added Member To Class: ClassName=tach key Member=Component R3 10K
+Added Member To Class: ClassName=tach key Member=Component R4 10K
+Added Member To Class: ClassName=tach key Member=Component R5 10K
+Added Member To Class: ClassName=tach key Member=Component R7 10K
+Added Member To Class: ClassName=tach key Member=Component U1 K3021P
+Added Member To Class: ClassName=tach key Member=Component U2 TTP223_
+Added Member To Class: ClassName=tach key Member=Component U7 TTP223_
+Added Member To Class: ClassName=tach key Member=Component U8 K3021P
+Added Member To Class: ClassName=tach key Member=Component U9 TTP223_
+Added Member To Class: ClassName=tach key Member=Component U10 L78XXCV

@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=VCC Pin=D2-1
+Removed Pin From Net: NetName=VCC Pin=D4-1
+Removed Pin From Net: NetName=VCC Pin=D6-1
+Removed Pin From Net: NetName=VCC Pin=D8-1
+Removed Pin From Net: NetName=NetD1_1 Pin=R1-2
+Removed Pin From Net: NetName=NetD3_1 Pin=R3-2
+Removed Pin From Net: NetName=NetD5_1 Pin=R6-2
+Removed Pin From Net: NetName=NetD7_1 Pin=R13-2
+Removed Member From Class: ClassName=tach key Member=D2
+Removed Member From Class: ClassName=tach key Member=D4
+Removed Member From Class: ClassName=tach key Member=D6
+Removed Member From Class: ClassName=tach key Member=D8
+Removed Member From Class: ClassName=tach key Member=R1
+Removed Member From Class: ClassName=tach key Member=R3
+Removed Member From Class: ClassName=tach key Member=R6
+Removed Member From Class: ClassName=tach key Member=R13

@@ -1,0 +1,55 @@
+Removed Pin From Net: NetName=GND Pin=C5-1
+Removed Pin From Net: NetName=GND2 Pin=C6-1
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=GND2 Pin=C8-1
+Removed Pin From Net: NetName=GND2 Pin=R17-1
+Removed Pin From Net: NetName=GND2 Pin=R20-1
+Removed Pin From Net: NetName=NetR13_1 Pin=T5-3
+Removed Pin From Net: NetName=NetR8_1 Pin=T5-4
+Removed Pin From Net: NetName=GND2 Pin=T5-5
+Removed Pin From Net: NetName=GND2 Pin=U4-2
+Removed Pin From Net: NetName=GND2 Pin=U5-2
+Removed Pin From Net: NetName=GND Pin=U5-3
+Removed Member From Class: ClassName=sanati4i4o Member=C7
+Removed Member From Class: ClassName=sanati4i4o Member=C8
+Removed Member From Class: ClassName=sanati4i4o Member=C10
+Removed Member From Class: ClassName=sanati4i4o Member=R16
+Removed Member From Class: ClassName=sanati4i4o Member=R17
+Removed Member From Class: ClassName=sanati4i4o Member=R18
+Removed Member From Class: ClassName=sanati4i4o Member=R19
+Removed Member From Class: ClassName=sanati4i4o Member=R20
+Removed Member From Class: ClassName=sanati4i4o Member=U5
+Change Component Footprint: Designator=T5 Old Footprint=phoenix terminal 5 New Footprint=phoenix terminal R 3
+Change Component Comment : Designator=U4 Old Comment=PC817 New Comment=L7805ABV
+Change Component Designator: OldDesignator=C9 NewDesignator=C5
+Change Component Designator: OldDesignator=C10 NewDesignator=C6
+Change component parameters: Designator = "U4" ("U4"); Footprint = "DIP4"; UniqueID = "\NYUMGKOU" ("\NYUMGKOU")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/stonline/products/literature/ds/2144/l7805ab.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "Nov-1999"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Note"; Value = "Tab is connected to pin 3 (GND)."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "TO, Thru-Hole, Vertical, Heatsink Mounted; 3 In-Line Leads; Pitch 2.54 mm; Pin sequence 1, 3, 2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "TO220ABN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Jun-1998"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "24-Aug-2001"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetR13_1 Pin=T5-1
+Added Pin To Net: NetName=NetR8_1 Pin=T5-2
+Added Pin To Net: NetName=GND2 Pin=T5-3
+Added Pin To Net: NetName=VCC Pin=U4-1
+Added Pin To Net: NetName=5v Pin=U4-2
+Added Member To Class: ClassName=sanati4i4o Member=Component C1 Cap Semi
+Added Member To Class: ClassName=sanati4i4o Member=Component C2 Cap Semi
+Added Member To Class: ClassName=sanati4i4o Member=Component C3 Cap Semi
+Added Member To Class: ClassName=sanati4i4o Member=Component C4 Cap Semi
+Added Member To Class: ClassName=sanati4i4o Member=Component R7 10K
+Added Member To Class: ClassName=sanati4i4o Member=Component R9 10K
+Added Member To Class: ClassName=sanati4i4o Member=Component R10 10K
+Added Member To Class: ClassName=sanati4i4o Member=Component R11 10K
+Added Member To Class: ClassName=sanati4i4o Member=Component R12 10K
+Added Member To Class: ClassName=sanati4i4o Member=Component R13 10K
+Added Member To Class: ClassName=sanati4i4o Member=Component R14 10K

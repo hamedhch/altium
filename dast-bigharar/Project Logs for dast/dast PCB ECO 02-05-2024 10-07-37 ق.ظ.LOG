@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=vDD Pin=U2-9
+Add Component: Footprint Not Found MP04A_N
+Added Pin To Net: NetName=VCC Pin=U2-9
+Add Pin To Net: Unknown Pin: Pin U4-1
+Add Pin To Net: Unknown Pin: Pin U4-2
+Add Pin To Net: Unknown Pin: Pin U4-3
+Add Pin To Net: Unknown Pin: Pin U4-4
+Add Class Member: Failed to add class member : Component U4 LM1117MP-3.3

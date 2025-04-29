@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=o5 Pin=J3-3
+Removed Pin From Net: NetName=o4 Pin=J3-4
+Change Component DesignItemId : Designator=J3 Old DesignItemId=Header4X1 New DesignItemId=Header5X1
+Change Component Footprint: Designator=J3 Old Footprint=HEADER 4X1 New Footprint=HEADER 5X1
+Change Component Comment : Designator=J3 Old Comment=Header4X1 New Comment=Header5X1
+Added Pin To Net: NetName=o5 Pin=J3-4
+Added Pin To Net: NetName=o4 Pin=J3-5

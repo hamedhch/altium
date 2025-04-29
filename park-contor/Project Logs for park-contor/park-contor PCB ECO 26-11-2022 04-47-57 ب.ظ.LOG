@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=o8 Pin=U1-15
+Removed Pin From Net: NetName=o9 Pin=U1-16
+Removed Pin From Net: NetName=o10 Pin=U1-17
+Change Component Designator: OldDesignator=J4 NewDesignator=J5
+Change Component Designator: OldDesignator=J5 NewDesignator=J6
+Change Component Designator: OldDesignator=J6 NewDesignator=J7
+Change Component Designator: OldDesignator=J7 NewDesignator=J8
+Added Component: Designator=J4(HEADER 4X1)
+Change Net Name : Old Net Name=NetJ5_1 New Net Name=NetJ6_1
+Change Net Name : Old Net Name=NetJ5_2 New Net Name=NetJ6_2
+Change Net Name : Old Net Name=NetJ6_1 New Net Name=NetJ7_1
+Change Net Name : Old Net Name=NetJ6_2 New Net Name=NetJ7_2
+Added Pin To Net: NetName=NetJ4_1 Pin=J4-1
+Added Pin To Net: NetName=NetJ4_1 Pin=U1-17
+Added Net: Name=NetJ4_1
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=U1-16
+Added Net: Name=NetJ4_2
+Added Pin To Net: NetName=NetJ4_3 Pin=J4-3
+Added Pin To Net: NetName=NetJ4_3 Pin=U1-15
+Added Net: Name=NetJ4_3
+Added Pin To Net: NetName=NetJ4_4 Pin=J4-4
+Added Pin To Net: NetName=NetJ4_4 Pin=U1-14
+Added Net: Name=NetJ4_4
+Added Member To Class: ClassName=park-contor Member=Component J8 Header4X1

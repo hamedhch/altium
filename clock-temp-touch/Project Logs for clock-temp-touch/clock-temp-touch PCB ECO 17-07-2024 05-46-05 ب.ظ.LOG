@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=L4 Pin=U1-17
+Removed Pin From Net: NetName=dot Pin=U1-18
+Removed Pin From Net: NetName=L5 Pin=U1-19
+Removed Pin From Net: NetName=R4 Pin=U1-20
+Removed Pin From Net: NetName=R3 Pin=U1-21
+Removed Pin From Net: NetName=L6 Pin=U1-22
+Removed Pin From Net: NetName=l1 Pin=U1-23
+Removed Pin From Net: NetName=R2 Pin=U1-24
+Removed Pin From Net: NetName=l2 Pin=U1-25
+Removed Pin From Net: NetName=R1 Pin=U1-26
+Add Pin To Net: Unknown Pin: Pin LS2-1
+Add Pin To Net: Unknown Pin: Pin LS2-2
+Added Pin To Net: NetName=L4 Pin=U1-15
+Added Pin To Net: NetName=dot Pin=U1-16
+Added Pin To Net: NetName=L5 Pin=U1-17
+Added Pin To Net: NetName=R4 Pin=U1-18
+Added Pin To Net: NetName=R3 Pin=U1-19
+Added Pin To Net: NetName=L6 Pin=U1-20
+Added Pin To Net: NetName=l1 Pin=U1-21
+Added Pin To Net: NetName=R2 Pin=U1-22
+Added Pin To Net: NetName=l2 Pin=U1-23
+Added Pin To Net: NetName=R1 Pin=U1-24
+Added Pin To Net: NetName=touch1 Pin=U1-25
+Added Net: Name=touch1
+Added Pin To Net: NetName=touch2 Pin=U1-26
+Added Net: Name=touch2

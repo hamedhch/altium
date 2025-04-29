@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=S1 Old Footprint=PUSH BUTTON New Footprint=PB-2pin
+Change Component Comment : Designator=S1 Old Comment=PUSH BUTTON New Comment=PB-2pin
+Change component parameters: Designator = "S1" ("S1"); Footprint = "PUSH BUTTON"; UniqueID = "\JLNXNHUS" ("\JLNXNHUS")
+Change component parameters (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemian"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "WEB"; Value = "www.picpars.com"; VariantName = "[No Variations]"

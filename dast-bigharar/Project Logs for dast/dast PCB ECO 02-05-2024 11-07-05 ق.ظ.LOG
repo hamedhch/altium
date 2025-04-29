@@ -1,0 +1,10 @@
+Added Pin To Net: NetName=ds Pin=U1-14
+Added Pin To Net: NetName=ds Pin=U3-4
+Added Net: Name=ds
+Added Pin To Net: NetName=sh Pin=U1-11
+Added Pin To Net: NetName=sh Pin=U3-2
+Added Net: Name=sh
+Added Pin To Net: NetName=st Pin=U1-12
+Added Pin To Net: NetName=st Pin=U3-3
+Added Net: Name=st
+Added Member To Class: ClassName=dast Member=Component J1 PWR2.5

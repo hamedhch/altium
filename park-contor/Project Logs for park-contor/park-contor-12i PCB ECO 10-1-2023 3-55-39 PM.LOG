@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=vdd Pin=Buzzer1-1
+Removed Pin From Net: NetName=NetBuzzer1_2 Pin=Q2-1
+Removed Pin From Net: NetName=GND Pin=Q2-3
+Removed Pin From Net: NetName=ca1 Pin=U2-7
+Removed Pin From Net: NetName=cb1 Pin=U2-8
+Removed Pin From Net: NetName=cc1 Pin=U2-9
+Removed Member From Class: ClassName=park-contor-12i Member=Q2
+Added Component: Designator=Q?(SOT-23B_L)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "3-Pin SOT-23 Package 0.95 mm Pitch, 2.4 mm Lead Span"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SOT-23B"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=vcc Pin=Buzzer1-1
+Added Pin To Net: NetName=GND Pin=Q?-2
+Added Pin To Net: NetName=NetBuzzer1_2 Pin=Q?-3
+Added Pin To Net: NetName=ca1 Pin=U2-14
+Added Pin To Net: NetName=cb1 Pin=U2-15
+Added Pin To Net: NetName=cc1 Pin=U2-16
+Added Pin To Net: NetName=bizer Pin=R?-1
+Added Net: Name=bizer
+Added Pin To Net: NetName=NetQ1_2 Pin=R?-2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-1
+Added Net: Name=NetQ1_2
+Added Member To Class: ClassName=park-contor-12i Member=Component Q? QNPN
+Added Member To Class: ClassName=park-contor-12i Member=Component R? 10K
+Added Member To Class: ClassName=park-contor-12i Member=Component R? 10K

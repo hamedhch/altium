@@ -1,0 +1,37 @@
+Removed Pin From Net: NetName=rx2 Pin=U1-30
+Removed Pin From Net: NetName=rx Pin=U1-31
+Removed Pin From Net: NetName=rx Pin=U2-21
+Removed Pin From Net: NetName=rx2 Pin=U2-22
+Removed Member From Class: ClassName=park-contor Member=J?
+Change Component DesignItemId : Designator=J2 Old DesignItemId=Header3X1 New DesignItemId=Header4X1
+Change Component Footprint: Designator=J2 Old Footprint=HEADER 3X1 New Footprint=HEADER 4X1
+Change Component Comment : Designator=J2 Old Comment=Header3X1 New Comment=Header4X1
+Change Component Designator: OldDesignator=J1 NewDesignator=J4
+Change Component Designator: OldDesignator=J2 NewDesignator=J7
+Change Component Designator: OldDesignator=J? NewDesignator=J1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=J? NewDesignator=J3
+Change Component Designator: OldDesignator=T4 NewDesignator=T1
+Change Component Designator: OldDesignator=T5 NewDesignator=T2
+Change Component Designator: OldDesignator=T6 NewDesignator=T3
+Added Component: Designator=J5(Header 2X1)
+Added Component: Designator=J6(Header 2X1)
+Added Pin To Net: NetName=GND Pin=J7-4
+Change Net Name : Old Net Name=rx2 New Net Name=tx
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_1 Pin=U1-31
+Added Net: Name=NetJ5_1
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-2
+Added Pin To Net: NetName=NetJ5_2 Pin=U1-30
+Added Net: Name=NetJ5_2
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=NetJ6_1 Pin=U2-22
+Added Net: Name=NetJ6_1
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Pin To Net: NetName=NetJ6_2 Pin=U2-21
+Added Net: Name=NetJ6_2
+Added Member To Class: ClassName=park-contor Member=Component J3 Header3X1
+Added Member To Class: ClassName=park-contor Member=Component J4 PWR2.5
+Added Member To Class: ClassName=park-contor Member=Component J5 Header2X1
+Added Member To Class: ClassName=park-contor Member=Component J6 Header2X1
+Added Member To Class: ClassName=park-contor Member=Component J7 Header4X1

@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=T3 NewDesignator=T4
+Added Component: Designator=T3(phoenix terminal 4)
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=smart home2 Member=Component T4 Phoenix terminal

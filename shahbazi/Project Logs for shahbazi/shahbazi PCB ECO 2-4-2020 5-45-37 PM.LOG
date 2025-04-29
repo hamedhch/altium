@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=i9 Pin=U8-6
+Removed Pin From Net: NetName=i10 Pin=U8-7
+Removed Pin From Net: NetName=data Pin=U8-12
+Added Pin To Net: NetName=i9 Pin=U8-7
+Added Pin To Net: NetName=i10 Pin=U8-12
+Added Member To Class: ClassName=shahbazi Member=Component E1 Antenna

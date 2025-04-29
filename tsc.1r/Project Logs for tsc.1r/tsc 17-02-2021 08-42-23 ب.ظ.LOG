@@ -1,0 +1,4 @@
+Added Component: Designator=J2(KF300-2 PIN)
+Added Component: Designator=J3(KF300-3 PIN)
+Added Member To Class: ClassName=tsc.1r Member=Component J2 TBlock-2
+Added Member To Class: ClassName=tsc.1r Member=Component J3 TBlock-3

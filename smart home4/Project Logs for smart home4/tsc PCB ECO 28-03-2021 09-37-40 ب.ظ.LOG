@@ -1,0 +1,22 @@
+Change Component Designator: OldDesignator=K1 NewDesignator=K2
+Added Component: Designator=K1(RELAY_HJR-4102-L-05V)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "BuyPart"; Value = "https://www.snapeda.com/parts/HJR-4102-L-05V/Tianbo/view-part/3661977/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Tianbo"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "HJR-4102-L-05V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Package"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/HJR-4102-L-05V/Tianbo/view-part/3661977/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetK1_1 Pin=K1-1
+Added Pin To Net: NetName=NetK1_1 Pin=K1-12
+Added Net: Name=NetK1_1
+Change Class Name : Old Net Name=smart home4 New Net Name=tsc
+Added Member To Class: ClassName=tsc Member=Component D3 BTA16-600CW3G
+Added Member To Class: ClassName=tsc Member=Component E3 Antenna
+Added Member To Class: ClassName=tsc Member=Component J2 TBlock-2
+Added Member To Class: ClassName=tsc Member=Component K2 Relay-05vDC
+Added Member To Class: ClassName=tsc Member=Component R2 10K
+Added Member To Class: ClassName=tsc Member=Component R4 10K
+Change Room Name: Old Name=smart home4 New Name=tsc
+Change Room Scope: Old Scope=InComponentClass('smart home4') New Scope=InComponentClass('tsc')

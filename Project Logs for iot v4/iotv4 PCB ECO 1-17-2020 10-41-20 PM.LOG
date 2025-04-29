@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=rxsim Pin=JP8-1
+Removed Pin From Net: NetName=rxsim Pin=JP8-2
+Removed Pin From Net: NetName=txsim Pin=JP11-1
+Removed Pin From Net: NetName=txsim Pin=JP11-2
+Removed Member From Class: ClassName=iotv4 Member=JP8
+Removed Member From Class: ClassName=iotv4 Member=JP11
+Added Pin To Net: NetName=VCC Pin=E3-1
+Added Pin To Net: NetName=VCC Pin=JP6-2
+Added Member To Class: ClassName=iotv4 Member=Component J2 Header4X1

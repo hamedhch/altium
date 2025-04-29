@@ -1,0 +1,182 @@
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=VCC Pin=D1-2
+Removed Pin From Net: NetName=VCC Pin=D3-1
+Removed Pin From Net: NetName=VCC Pin=D4-2
+Removed Pin From Net: NetName=VCC Pin=D7-1
+Removed Pin From Net: NetName=VCC Pin=D9-2
+Removed Pin From Net: NetName=VCC Pin=D10-1
+Removed Pin From Net: NetName=VCC Pin=D11-2
+Removed Pin From Net: NetName=VCC Pin=D12-1
+Removed Pin From Net: NetName=VCC Pin=D13-2
+Removed Pin From Net: NetName=VCC Pin=D14-1
+Removed Pin From Net: NetName=VCC Pin=D15-2
+Removed Pin From Net: NetName=VCC Pin=D16-1
+Removed Pin From Net: NetName=VCC Pin=D17-2
+Removed Pin From Net: NetName=VCC Pin=D18-2
+Removed Pin From Net: NetName=VCC Pin=D19-1
+Removed Pin From Net: NetName=VCC Pin=D20-1
+Removed Pin From Net: NetName=VCC Pin=K1-5
+Removed Pin From Net: NetName=VCC Pin=K3-5
+Removed Pin From Net: NetName=VCC Pin=K5-5
+Removed Pin From Net: NetName=VCC Pin=K6-5
+Removed Pin From Net: NetName=VCC Pin=K7-5
+Removed Pin From Net: NetName=VCC Pin=K8-5
+Removed Pin From Net: NetName=VCC Pin=K9-5
+Removed Pin From Net: NetName=VCC Pin=K10-5
+Removed Pin From Net: NetName=o9 Pin=P1-2
+Removed Pin From Net: NetName=o10 Pin=P1-3
+Removed Pin From Net: NetName=rst Pin=P1-4
+Removed Pin From Net: NetName=rst Pin=R13-1
+Removed Pin From Net: NetName=vesp Pin=R13-2
+Removed Pin From Net: NetName=GND Pin=U1-3
+Removed Pin From Net: NetName=GND Pin=U2-3
+Removed Pin From Net: NetName=i8 Pin=U6-1
+Removed Pin From Net: NetName=vDD Pin=U6-4
+Removed Pin From Net: NetName=GND Pin=U6-5
+Removed Pin From Net: NetName=o9 Pin=U6-16
+Removed Pin From Net: NetName=o10 Pin=U6-17
+Removed Pin From Net: NetName=vDD Pin=U6-18
+Removed Pin From Net: NetName=GND Pin=U6-21
+Removed Pin From Net: NetName=i6 Pin=U6-23
+Removed Pin From Net: NetName=i1 Pin=U6-24
+Removed Pin From Net: NetName=i2 Pin=U6-25
+Removed Pin From Net: NetName=i3 Pin=U6-26
+Removed Pin From Net: NetName=i4 Pin=U6-27
+Removed Pin From Net: NetName=i5 Pin=U6-28
+Removed Pin From Net: NetName=rst Pin=U6-29
+Removed Pin From Net: NetName=rx Pin=U6-31
+Removed Pin From Net: NetName=i7 Pin=U6-32
+Removed Pin From Net: NetName=GND Pin=U7-3
+Removed Pin From Net: NetName=GND Pin=U8-3
+Removed Pin From Net: NetName=1 Pin=U10-1
+Removed Pin From Net: NetName=2 Pin=U10-2
+Removed Pin From Net: NetName=3 Pin=U10-3
+Removed Pin From Net: NetName=4 Pin=U10-4
+Removed Pin From Net: NetName=5 Pin=U10-5
+Removed Pin From Net: NetName=6 Pin=U10-6
+Removed Pin From Net: NetName=7 Pin=U10-7
+Removed Pin From Net: NetName=8 Pin=U10-8
+Removed Pin From Net: NetName=GND Pin=U11-3
+Removed Pin From Net: NetName=GND Pin=U12-3
+Removed Pin From Net: NetName=GND Pin=U13-3
+Removed Pin From Net: NetName=GND Pin=U14-3
+Removed Member From Class: ClassName=iotv4 Member=C3
+Removed Member From Class: ClassName=iotv4 Member=C4
+Removed Member From Class: ClassName=iotv4 Member=D5
+Removed Member From Class: ClassName=iotv4 Member=D6
+Removed Member From Class: ClassName=iotv4 Member=D7
+Removed Member From Class: ClassName=iotv4 Member=D8
+Removed Member From Class: ClassName=iotv4 Member=D9
+Removed Member From Class: ClassName=iotv4 Member=D10
+Removed Member From Class: ClassName=iotv4 Member=D11
+Removed Member From Class: ClassName=iotv4 Member=D12
+Removed Member From Class: ClassName=iotv4 Member=D13
+Removed Member From Class: ClassName=iotv4 Member=D14
+Removed Member From Class: ClassName=iotv4 Member=D15
+Removed Member From Class: ClassName=iotv4 Member=D16
+Removed Member From Class: ClassName=iotv4 Member=D17
+Removed Member From Class: ClassName=iotv4 Member=D18
+Removed Member From Class: ClassName=iotv4 Member=D19
+Removed Member From Class: ClassName=iotv4 Member=D20
+Removed Member From Class: ClassName=iotv4 Member=K3
+Removed Member From Class: ClassName=iotv4 Member=K4
+Removed Member From Class: ClassName=iotv4 Member=K5
+Removed Member From Class: ClassName=iotv4 Member=K6
+Removed Member From Class: ClassName=iotv4 Member=K7
+Removed Member From Class: ClassName=iotv4 Member=K8
+Removed Member From Class: ClassName=iotv4 Member=K9
+Removed Member From Class: ClassName=iotv4 Member=K10
+Removed Member From Class: ClassName=iotv4 Member=P1
+Removed Member From Class: ClassName=iotv4 Member=R5
+Removed Member From Class: ClassName=iotv4 Member=R6
+Removed Member From Class: ClassName=iotv4 Member=R7
+Removed Member From Class: ClassName=iotv4 Member=R8
+Removed Member From Class: ClassName=iotv4 Member=R9
+Removed Member From Class: ClassName=iotv4 Member=R10
+Removed Member From Class: ClassName=iotv4 Member=R11
+Removed Member From Class: ClassName=iotv4 Member=R12
+Removed Member From Class: ClassName=iotv4 Member=R13
+Removed Member From Class: ClassName=iotv4 Member=R14
+Removed Member From Class: ClassName=iotv4 Member=R15
+Removed Member From Class: ClassName=iotv4 Member=R16
+Removed Member From Class: ClassName=iotv4 Member=R17
+Removed Member From Class: ClassName=iotv4 Member=R18
+Removed Member From Class: ClassName=iotv4 Member=R19
+Removed Member From Class: ClassName=iotv4 Member=R20
+Removed Member From Class: ClassName=iotv4 Member=R21
+Removed Member From Class: ClassName=iotv4 Member=T7
+Removed Member From Class: ClassName=iotv4 Member=T8
+Removed Member From Class: ClassName=iotv4 Member=T9
+Removed Member From Class: ClassName=iotv4 Member=T10
+Removed Member From Class: ClassName=iotv4 Member=T11
+Removed Member From Class: ClassName=iotv4 Member=T12
+Removed Member From Class: ClassName=iotv4 Member=T13
+Removed Member From Class: ClassName=iotv4 Member=T14
+Removed Member From Class: ClassName=iotv4 Member=U5
+Removed Member From Class: ClassName=iotv4 Member=U6
+Removed Member From Class: ClassName=iotv4 Member=U7
+Removed Member From Class: ClassName=iotv4 Member=U8
+Removed Member From Class: ClassName=iotv4 Member=U9
+Removed Member From Class: ClassName=iotv4 Member=U10
+Removed Member From Class: ClassName=iotv4 Member=U11
+Removed Member From Class: ClassName=iotv4 Member=U12
+Removed Member From Class: ClassName=iotv4 Member=U13
+Removed Member From Class: ClassName=iotv4 Member=U14
+Removed Member From Class: ClassName=iotv4 Member=Y1
+Change Component Designator: OldDesignator=C4 NewDesignator=C2
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=D5 NewDesignator=D2
+Change Component Designator: OldDesignator=D6 NewDesignator=D3
+Change Component Designator: OldDesignator=D8 NewDesignator=D4
+Change Component Designator: OldDesignator=K2 NewDesignator=K1
+Change Component Designator: OldDesignator=K4 NewDesignator=K2
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Change Component Designator: OldDesignator=R7 NewDesignator=R3
+Change Component Designator: OldDesignator=R8 NewDesignator=R4
+Change Component Designator: OldDesignator=T2 NewDesignator=T1
+Change Component Designator: OldDesignator=T4 NewDesignator=T2
+Change Component Designator: OldDesignator=T9 NewDesignator=T3
+Change Component Designator: OldDesignator=T10 NewDesignator=T4
+Change Component Designator: OldDesignator=T13 NewDesignator=T5
+Change Component Designator: OldDesignator=T14 NewDesignator=T6
+Change Component Designator: OldDesignator=U3 NewDesignator=U1
+Change Component Designator: OldDesignator=U4 NewDesignator=U2
+Change Component Designator: OldDesignator=U5 NewDesignator=U3
+Change Component Designator: OldDesignator=U9 NewDesignator=U4
+Added Component: Designator=MOC1(DIP-6)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemian"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-11-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-11-2011"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "WEB"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Added Component: Designator=Q1(SOT32)
+Add component. Clean all parameters for all variants
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD1_1
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetD6_2 New Net Name=NetD3_2
+Change Net Name : Old Net Name=NetD8_2 New Net Name=NetD4_2
+Change Net Name : Old Net Name=NetK2_1 New Net Name=NetK1_1
+Change Net Name : Old Net Name=NetK2_2 New Net Name=NetK1_2
+Change Net Name : Old Net Name=NetK2_3 New Net Name=NetK1_3
+Change Net Name : Old Net Name=NetK4_1 New Net Name=NetK2_1
+Change Net Name : Old Net Name=NetK4_2 New Net Name=NetK2_2
+Change Net Name : Old Net Name=NetK4_3 New Net Name=NetK2_3
+Change Net Name : Old Net Name=NetR7_2 New Net Name=NetR3_2
+Change Net Name : Old Net Name=NetR8_2 New Net Name=NetR4_2
+Added Pin To Net: NetName=NetMOC1_4 Pin=MOC1-4
+Added Pin To Net: NetName=NetMOC1_4 Pin=Q1-3
+Added Net: Name=NetMOC1_4
+Added Pin To Net: NetName=tx Pin=J8-2
+Added Pin To Net: NetName=tx Pin=U4-22
+Added Net: Name=tx
+Change Class Name : Old Net Name=iotv4 New Net Name=smart home
+Added Member To Class: ClassName=smart home Member=Component J2 Header4X1
+Added Member To Class: ClassName=smart home Member=Component J3 Header4X1
+Added Member To Class: ClassName=smart home Member=Component MOC1 MOC3021-3
+Added Member To Class: ClassName=smart home Member=Component Q1 MODEL
+Change Room Name: Old Name=iotv4 New Name=smart home
+Change Room Scope: Old Scope=InComponentClass('iotv4') New Scope=InComponentClass('smart home')

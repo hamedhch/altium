@@ -1,0 +1,19 @@
+Added Pin To Net: NetName=faz Pin=K1-4
+Added Pin To Net: NetName=faz Pin=K2-4
+Added Pin To Net: NetName=faz Pin=K3-4
+Added Pin To Net: NetName=faz Pin=U2-3
+Added Pin To Net: NetName=nol Pin=U2-4
+Added Member To Class: ClassName=tach key h Member=Component C5 =Value
+Added Member To Class: ClassName=tach key h Member=Component C6 =Value
+Added Member To Class: ClassName=tach key h Member=Component C7 =Value
+Added Member To Class: ClassName=tach key h Member=Component C10 =Value
+Added Member To Class: ClassName=tach key h Member=Component C13 Cap Semi
+Added Member To Class: ClassName=tach key h Member=Component C16 Cap Semi
+Added Member To Class: ClassName=tach key h Member=Component D1 Diode
+Added Member To Class: ClassName=tach key h Member=Component D4 Zener Diode
+Added Member To Class: ClassName=tach key h Member=Component D5 MODEL
+Added Member To Class: ClassName=tach key h Member=Component D8 MODEL
+Added Member To Class: ClassName=tach key h Member=Component D9 MODEL
+Added Member To Class: ClassName=tach key h Member=Component D11 MODEL
+Added Member To Class: ClassName=tach key h Member=Component R12 10K
+Added Member To Class: ClassName=tach key h Member=Component U3 HT7A6312

@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=rx Pin=U9-21
+Added Pin To Net: NetName=GND Pin=P3-1
+Added Pin To Net: NetName=VDD Pin=P3-2
+Added Pin To Net: NetName=miso Pin=P3-3
+Added Net: Name=miso
+Added Pin To Net: NetName=mosi Pin=P3-4
+Added Net: Name=mosi
+Added Pin To Net: NetName=sck Pin=P3-5
+Added Pin To Net: NetName=sck Pin=U9-14
+Added Net: Name=sck

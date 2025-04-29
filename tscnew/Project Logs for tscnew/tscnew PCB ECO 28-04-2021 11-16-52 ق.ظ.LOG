@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=S1-1
+Removed Pin From Net: NetName=rst Pin=S1-2
+Removed Pin From Net: NetName=btn Pin=S2-2
+Removed Pin From Net: NetName=GND Pin=S2-4
+Removed Member From Class: ClassName=tscnew Member=S1
+Removed Member From Class: ClassName=tscnew Member=S2
+Added Pin To Net: NetName=rst Pin=P2-4
+Added Member To Class: ClassName=tscnew Member=Component C3 =Value

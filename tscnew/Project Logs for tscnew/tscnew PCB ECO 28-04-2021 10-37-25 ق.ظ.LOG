@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C4-2
+Added Member To Class: ClassName=tscnew Member=Component R1 10K
+Added Member To Class: ClassName=tscnew Member=Component R3 10K
+Added Member To Class: ClassName=tscnew Member=Component R4 10K

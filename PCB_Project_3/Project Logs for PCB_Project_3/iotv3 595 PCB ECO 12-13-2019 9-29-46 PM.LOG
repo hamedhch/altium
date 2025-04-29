@@ -1,0 +1,64 @@
+Added Component: Designator=CS1(CAP 1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=CT1(CAP 1206)
+Add component. Clean all parameters for all variants
+Added Component: Designator=P1(HDR1X8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=P2(HDR1X3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=RS1(RES 1206 (3216X08L))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=RT1(RES 1206 (3216X08L))
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=U1(966-01_N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentAvailability"; Value = "Not for New Design"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.onsemi.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.onsemi.com/pub/Collateral/MC74VHC595-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "1997"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "13-Apr-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "16-Pin Small Outline Package 1.27 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "966-01"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "1997"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "15-Apr-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=CS1-2
+Added Pin To Net: NetName=GND Pin=CT1-2
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Pin To Net: NetName=GND Pin=U1-10
+Added Pin To Net: NetName=GND Pin=U1-13
+Added Net: Name=GND
+Added Pin To Net: NetName=NetCS1_1 Pin=CS1-1
+Added Pin To Net: NetName=NetCS1_1 Pin=RS1-2
+Added Pin To Net: NetName=NetCS1_1 Pin=U1-14
+Added Net: Name=NetCS1_1
+Added Pin To Net: NetName=NetCT1_1 Pin=CT1-1
+Added Pin To Net: NetName=NetCT1_1 Pin=RT1-2
+Added Pin To Net: NetName=NetCT1_1 Pin=U1-12
+Added Net: Name=NetCT1_1
+Added Pin To Net: NetName=out Pin=P2-1
+Added Pin To Net: NetName=out Pin=RS1-1
+Added Pin To Net: NetName=out Pin=RT1-1
+Added Pin To Net: NetName=out Pin=U1-11
+Added Net: Name=out
+Added Pin To Net: NetName=vdd Pin=P2-2
+Added Pin To Net: NetName=vdd Pin=U1-16
+Added Net: Name=vdd
+Added Class: Name=iotv3 595
+Added Room: Name=iotv3 595

@@ -1,0 +1,264 @@
+Added Component: Designator=J6(SO08)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ACS712/Allegro+MicroSystems+LLC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Allegro MicroSystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ACS712"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ACS712/Allegro+MicroSystems+LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J7(SO08)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ACS712/Allegro+MicroSystems+LLC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Allegro MicroSystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ACS712"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ACS712/Allegro+MicroSystems+LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J8(SO08)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ACS712/Allegro+MicroSystems+LLC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Allegro MicroSystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ACS712"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ACS712/Allegro+MicroSystems+LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J9(SO08)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ACS712/Allegro+MicroSystems+LLC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Allegro MicroSystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ACS712"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ACS712/Allegro+MicroSystems+LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J10(SO08)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ACS712/Allegro+MicroSystems+LLC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Allegro MicroSystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ACS712"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ACS712/Allegro+MicroSystems+LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J11(SO08)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ACS712/Allegro+MicroSystems+LLC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Allegro MicroSystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ACS712"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ACS712/Allegro+MicroSystems+LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J12(SO08)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ACS712/Allegro+MicroSystems+LLC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Allegro MicroSystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ACS712"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ACS712/Allegro+MicroSystems+LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J13(SO08)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ACS712/Allegro+MicroSystems+LLC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Allegro MicroSystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ACS712"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ACS712/Allegro+MicroSystems+LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J14(SO08)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ACS712/Allegro+MicroSystems+LLC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Allegro MicroSystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ACS712"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ACS712/Allegro+MicroSystems+LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J15(SO08)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ACS712/Allegro+MicroSystems+LLC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Allegro MicroSystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ACS712"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ACS712/Allegro+MicroSystems+LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J16(SO08)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ACS712/Allegro+MicroSystems+LLC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Allegro MicroSystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ACS712"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ACS712/Allegro+MicroSystems+LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=J17(SO08)
+Add component (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ACS712/Allegro+MicroSystems+LLC/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Allegro MicroSystems"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ACS712"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ACS712/Allegro+MicroSystems+LLC/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=T1(phoenix terminal 2)
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Added Component: Designator=T2(phoenix terminal 2)
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Added Component: Designator=T3(phoenix terminal 2)
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Added Component: Designator=T4(phoenix terminal 2)
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Added Component: Designator=T5(phoenix terminal 2)
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Added Component: Designator=T6(phoenix terminal 2)
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Added Component: Designator=T7(phoenix terminal 2)
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Added Component: Designator=T8(phoenix terminal 2)
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Added Component: Designator=T9(phoenix terminal 2)
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Added Component: Designator=T10(phoenix terminal 2)
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Added Component: Designator=T11(phoenix terminal 2)
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Added Component: Designator=T12(phoenix terminal 2)
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "E-mail"; Value = "picpars@gmail.com"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-1
+Added Pin To Net: NetName=NetJ6_1 Pin=J6-2
+Added Pin To Net: NetName=NetJ6_3 Pin=J6-3
+Added Pin To Net: NetName=NetJ6_3 Pin=J6-4
+Added Pin To Net: NetName=A2 Pin=J6-7
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-2
+Added Pin To Net: NetName=NetJ7_3 Pin=J7-3
+Added Pin To Net: NetName=NetJ7_3 Pin=J7-4
+Added Pin To Net: NetName=A3 Pin=J7-7
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-2
+Added Pin To Net: NetName=NetJ8_3 Pin=J8-3
+Added Pin To Net: NetName=NetJ8_3 Pin=J8-4
+Added Pin To Net: NetName=A4 Pin=J8-7
+Added Pin To Net: NetName=NetJ9_1 Pin=J9-1
+Added Pin To Net: NetName=NetJ9_1 Pin=J9-2
+Added Pin To Net: NetName=NetJ9_3 Pin=J9-3
+Added Pin To Net: NetName=NetJ9_3 Pin=J9-4
+Added Pin To Net: NetName=A5 Pin=J9-7
+Added Pin To Net: NetName=NetJ10_1 Pin=J10-1
+Added Pin To Net: NetName=NetJ10_1 Pin=J10-2
+Added Pin To Net: NetName=NetJ10_3 Pin=J10-3
+Added Pin To Net: NetName=NetJ10_3 Pin=J10-4
+Added Pin To Net: NetName=A6 Pin=J10-7
+Added Pin To Net: NetName=NetJ11_1 Pin=J11-1
+Added Pin To Net: NetName=NetJ11_1 Pin=J11-2
+Added Pin To Net: NetName=NetJ11_3 Pin=J11-3
+Added Pin To Net: NetName=NetJ11_3 Pin=J11-4
+Added Pin To Net: NetName=A7 Pin=J11-7
+Added Pin To Net: NetName=NetJ12_1 Pin=J12-1
+Added Pin To Net: NetName=NetJ12_1 Pin=J12-2
+Added Pin To Net: NetName=NetJ12_3 Pin=J12-3
+Added Pin To Net: NetName=NetJ12_3 Pin=J12-4
+Added Pin To Net: NetName=A8 Pin=J12-7
+Added Pin To Net: NetName=NetJ13_1 Pin=J13-1
+Added Pin To Net: NetName=NetJ13_1 Pin=J13-2
+Added Pin To Net: NetName=NetJ13_3 Pin=J13-3
+Added Pin To Net: NetName=NetJ13_3 Pin=J13-4
+Added Pin To Net: NetName=A9 Pin=J13-7
+Added Pin To Net: NetName=NetJ14_1 Pin=J14-1
+Added Pin To Net: NetName=NetJ14_1 Pin=J14-2
+Added Pin To Net: NetName=NetJ14_3 Pin=J14-3
+Added Pin To Net: NetName=NetJ14_3 Pin=J14-4
+Added Pin To Net: NetName=A10 Pin=J14-7
+Added Pin To Net: NetName=NetJ15_1 Pin=J15-1
+Added Pin To Net: NetName=NetJ15_1 Pin=J15-2
+Added Pin To Net: NetName=NetJ15_3 Pin=J15-3
+Added Pin To Net: NetName=NetJ15_3 Pin=J15-4
+Added Pin To Net: NetName=A11 Pin=J15-7
+Added Pin To Net: NetName=NetJ16_1 Pin=J16-1
+Added Pin To Net: NetName=NetJ16_1 Pin=J16-2
+Added Pin To Net: NetName=NetJ16_3 Pin=J16-3
+Added Pin To Net: NetName=NetJ16_3 Pin=J16-4
+Added Pin To Net: NetName=A12 Pin=J16-7
+Added Pin To Net: NetName=NetJ17_1 Pin=J17-1
+Added Pin To Net: NetName=NetJ17_1 Pin=J17-2
+Added Pin To Net: NetName=NetJ17_3 Pin=J17-3
+Added Pin To Net: NetName=NetJ17_3 Pin=J17-4
+Added Pin To Net: NetName=A13 Pin=J17-7
+Added Pin To Net: NetName=NetJ6_1 Pin=T1-1
+Added Pin To Net: NetName=NetJ6_3 Pin=T1-2
+Added Pin To Net: NetName=NetJ7_1 Pin=T2-1
+Added Pin To Net: NetName=NetJ7_3 Pin=T2-2
+Added Pin To Net: NetName=NetJ8_1 Pin=T3-1
+Added Pin To Net: NetName=NetJ8_3 Pin=T3-2
+Added Pin To Net: NetName=NetJ9_1 Pin=T4-1
+Added Pin To Net: NetName=NetJ9_3 Pin=T4-2
+Added Pin To Net: NetName=NetJ10_1 Pin=T5-1
+Added Pin To Net: NetName=NetJ10_3 Pin=T5-2
+Added Pin To Net: NetName=NetJ11_1 Pin=T6-1
+Added Pin To Net: NetName=NetJ11_3 Pin=T6-2
+Added Pin To Net: NetName=NetJ12_1 Pin=T7-1
+Added Pin To Net: NetName=NetJ12_3 Pin=T7-2
+Added Pin To Net: NetName=NetJ13_1 Pin=T8-1
+Added Pin To Net: NetName=NetJ13_3 Pin=T8-2
+Added Pin To Net: NetName=NetJ14_1 Pin=T9-1
+Added Pin To Net: NetName=NetJ14_3 Pin=T9-2
+Added Pin To Net: NetName=NetJ15_1 Pin=T10-1
+Added Pin To Net: NetName=NetJ15_3 Pin=T10-2
+Added Pin To Net: NetName=NetJ16_1 Pin=T11-1
+Added Pin To Net: NetName=NetJ16_3 Pin=T11-2
+Added Pin To Net: NetName=NetJ17_1 Pin=T12-1
+Added Pin To Net: NetName=NetJ17_3 Pin=T12-2
+Added Member To Class: ClassName=park-contor-12i Member=Component J6 ACS712
+Added Member To Class: ClassName=park-contor-12i Member=Component J7 ACS712
+Added Member To Class: ClassName=park-contor-12i Member=Component J8 ACS712
+Added Member To Class: ClassName=park-contor-12i Member=Component J9 ACS712
+Added Member To Class: ClassName=park-contor-12i Member=Component J10 ACS712
+Added Member To Class: ClassName=park-contor-12i Member=Component J11 ACS712
+Added Member To Class: ClassName=park-contor-12i Member=Component J12 ACS712
+Added Member To Class: ClassName=park-contor-12i Member=Component J13 ACS712
+Added Member To Class: ClassName=park-contor-12i Member=Component J14 ACS712
+Added Member To Class: ClassName=park-contor-12i Member=Component J15 ACS712
+Added Member To Class: ClassName=park-contor-12i Member=Component J16 ACS712
+Added Member To Class: ClassName=park-contor-12i Member=Component J17 ACS712
+Added Member To Class: ClassName=park-contor-12i Member=Component T1 Phoenix terminal
+Added Member To Class: ClassName=park-contor-12i Member=Component T2 Phoenix terminal
+Added Member To Class: ClassName=park-contor-12i Member=Component T3 Phoenix terminal
+Added Member To Class: ClassName=park-contor-12i Member=Component T4 Phoenix terminal
+Added Member To Class: ClassName=park-contor-12i Member=Component T5 Phoenix terminal
+Added Member To Class: ClassName=park-contor-12i Member=Component T6 Phoenix terminal
+Added Member To Class: ClassName=park-contor-12i Member=Component T7 Phoenix terminal
+Added Member To Class: ClassName=park-contor-12i Member=Component T8 Phoenix terminal
+Added Member To Class: ClassName=park-contor-12i Member=Component T9 Phoenix terminal
+Added Member To Class: ClassName=park-contor-12i Member=Component T10 Phoenix terminal
+Added Member To Class: ClassName=park-contor-12i Member=Component T11 Phoenix terminal
+Added Member To Class: ClassName=park-contor-12i Member=Component T12 Phoenix terminal

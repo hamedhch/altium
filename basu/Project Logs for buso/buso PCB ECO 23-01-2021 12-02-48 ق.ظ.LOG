@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=oo7 Pin=K1-4
+Removed Pin From Net: NetName=oo6 Pin=K2-4
+Removed Pin From Net: NetName=oo5 Pin=K3-4
+Removed Pin From Net: NetName=oo4 Pin=K4-4
+Removed Pin From Net: NetName=oo7 Pin=R1-2
+Removed Pin From Net: NetName=oo6 Pin=R2-2
+Removed Pin From Net: NetName=oo5 Pin=R3-2
+Removed Pin From Net: NetName=oo4 Pin=R4-2
+Added Pin To Net: NetName=oo4 Pin=K1-4
+Added Pin To Net: NetName=oo7 Pin=K2-4
+Added Pin To Net: NetName=oo6 Pin=K3-4
+Added Pin To Net: NetName=oo5 Pin=K4-4
+Added Pin To Net: NetName=oo4 Pin=R1-2
+Added Pin To Net: NetName=oo7 Pin=R2-2
+Added Pin To Net: NetName=oo6 Pin=R3-2
+Added Pin To Net: NetName=oo5 Pin=R4-2

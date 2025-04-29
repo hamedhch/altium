@@ -1,0 +1,144 @@
+Change Component Designator: OldDesignator=J3 NewDesignator=J5
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change Component Designator: OldDesignator=J5 NewDesignator=J4
+Change Component Designator: OldDesignator=J9 NewDesignator=J18
+Change Component Designator: OldDesignator=J10 NewDesignator=J19
+Change Component Designator: OldDesignator=J11 NewDesignator=J20
+Change Component Designator: OldDesignator=J12 NewDesignator=J21
+Change Component Designator: OldDesignator=J13 NewDesignator=J22
+Change Component Designator: OldDesignator=J14 NewDesignator=J23
+Change Component Designator: OldDesignator=J15 NewDesignator=J24
+Change Component Designator: OldDesignator=J16 NewDesignator=J25
+Change Component Designator: OldDesignator=J17 NewDesignator=J26
+Change Component Designator: OldDesignator=J18 NewDesignator=J27
+Change Component Designator: OldDesignator=J19 NewDesignator=J28
+Change Component Designator: OldDesignator=J20 NewDesignator=J29
+Change Component Designator: OldDesignator=T3 NewDesignator=T13
+Change Component Designator: OldDesignator=T4 NewDesignator=T14
+Change Component Designator: OldDesignator=T5 NewDesignator=T15
+Change Component Designator: OldDesignator=T6 NewDesignator=T16
+Change Component Designator: OldDesignator=T7 NewDesignator=T17
+Change Component Designator: OldDesignator=T8 NewDesignator=T18
+Change Component Designator: OldDesignator=T9 NewDesignator=T19
+Change Component Designator: OldDesignator=T10 NewDesignator=T20
+Change Component Designator: OldDesignator=T11 NewDesignator=T21
+Change Component Designator: OldDesignator=T12 NewDesignator=T22
+Change Component Designator: OldDesignator=T13 NewDesignator=T23
+Change Component Designator: OldDesignator=T14 NewDesignator=T24
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Change Component Designator: OldDesignator=U4 NewDesignator=U3
+Add Component: Footprint Not Found SO08
+Add Component: Footprint Not Found SO08
+Add Component: Footprint Not Found SO08
+Add Component: Footprint Not Found SO08
+Add Component: Footprint Not Found SO08
+Add Component: Footprint Not Found SO08
+Add Component: Footprint Not Found SO08
+Add Component: Footprint Not Found SO08
+Add Component: Footprint Not Found SO08
+Add Component: Footprint Not Found SO08
+Add Component: Footprint Not Found SO08
+Add Component: Footprint Not Found SO08
+Add Component: Footprint Not Found phoenix terminal 2
+Add Component: Footprint Not Found phoenix terminal 2
+Add Component: Footprint Not Found phoenix terminal 2
+Add Component: Footprint Not Found phoenix terminal 2
+Add Component: Footprint Not Found phoenix terminal 2
+Add Component: Footprint Not Found phoenix terminal 2
+Add Component: Footprint Not Found phoenix terminal 2
+Add Component: Footprint Not Found phoenix terminal 2
+Add Component: Footprint Not Found phoenix terminal 2
+Add Component: Footprint Not Found phoenix terminal 2
+Add Component: Footprint Not Found phoenix terminal 2
+Add Component: Footprint Not Found phoenix terminal 2
+Add Pin To Net: Unknown Pin: Pin J6-7
+Add Pin To Net: Unknown Pin: Pin J7-7
+Add Pin To Net: Unknown Pin: Pin J8-7
+Add Pin To Net: Unknown Pin: Pin J9-7
+Add Pin To Net: Unknown Pin: Pin J10-7
+Add Pin To Net: Unknown Pin: Pin J11-7
+Add Pin To Net: Unknown Pin: Pin J12-7
+Add Pin To Net: Unknown Pin: Pin J13-7
+Add Pin To Net: Unknown Pin: Pin J14-7
+Add Pin To Net: Unknown Pin: Pin J15-7
+Add Pin To Net: Unknown Pin: Pin J16-7
+Change Net Name : Old Net Name=NetJ3_1 New Net Name=NetJ5_1
+Change Net Name : Old Net Name=NetJ3_2 New Net Name=NetJ5_2
+Change Net Name : Old Net Name=NetJ4_1 New Net Name=NetJ3_1
+Change Net Name : Old Net Name=NetJ4_2 New Net Name=NetJ3_2
+Change Net Name : Old Net Name=NetJ4_3 New Net Name=NetJ3_3
+Change Net Name : Old Net Name=NetJ5_1 New Net Name=NetJ4_1
+Change Net Name : Old Net Name=NetJ5_2 New Net Name=NetJ4_2
+Change Net Name : Old Net Name=NetJ9_1 New Net Name=NetJ18_1
+Change Net Name : Old Net Name=NetJ9_3 New Net Name=NetJ18_3
+Change Net Name : Old Net Name=NetJ10_1 New Net Name=NetJ19_1
+Change Net Name : Old Net Name=NetJ10_3 New Net Name=NetJ19_3
+Change Net Name : Old Net Name=NetJ11_1 New Net Name=NetJ20_1
+Change Net Name : Old Net Name=NetJ11_3 New Net Name=NetJ20_3
+Change Net Name : Old Net Name=NetJ12_1 New Net Name=NetJ21_1
+Change Net Name : Old Net Name=NetJ12_3 New Net Name=NetJ21_3
+Change Net Name : Old Net Name=NetJ13_1 New Net Name=NetJ22_1
+Change Net Name : Old Net Name=NetJ13_3 New Net Name=NetJ22_3
+Change Net Name : Old Net Name=NetJ14_1 New Net Name=NetJ23_1
+Change Net Name : Old Net Name=NetJ14_3 New Net Name=NetJ23_3
+Change Net Name : Old Net Name=NetJ15_1 New Net Name=NetJ24_1
+Change Net Name : Old Net Name=NetJ15_3 New Net Name=NetJ24_3
+Change Net Name : Old Net Name=NetJ16_1 New Net Name=NetJ25_1
+Change Net Name : Old Net Name=NetJ16_3 New Net Name=NetJ25_3
+Change Net Name : Old Net Name=NetJ17_1 New Net Name=NetJ26_1
+Change Net Name : Old Net Name=NetJ17_3 New Net Name=NetJ26_3
+Change Net Name : Old Net Name=NetJ18_1 New Net Name=NetJ27_1
+Change Net Name : Old Net Name=NetJ18_3 New Net Name=NetJ27_3
+Change Net Name : Old Net Name=NetJ19_1 New Net Name=NetJ28_1
+Change Net Name : Old Net Name=NetJ19_3 New Net Name=NetJ28_3
+Change Net Name : Old Net Name=NetJ20_1 New Net Name=NetJ29_1
+Change Net Name : Old Net Name=NetJ20_3 New Net Name=NetJ29_3
+Added Net: Name=A13
+Added Net: Name=NetJ6_1
+Added Net: Name=NetJ6_3
+Added Net: Name=NetJ7_1
+Added Net: Name=NetJ7_3
+Added Net: Name=NetJ8_1
+Added Net: Name=NetJ8_3
+Added Net: Name=NetJ9_1
+Added Net: Name=NetJ9_3
+Added Net: Name=NetJ10_1
+Added Net: Name=NetJ10_3
+Added Net: Name=NetJ11_1
+Added Net: Name=NetJ11_3
+Added Net: Name=NetJ12_1
+Added Net: Name=NetJ12_3
+Added Net: Name=NetJ13_1
+Added Net: Name=NetJ13_3
+Added Net: Name=NetJ14_1
+Added Net: Name=NetJ14_3
+Added Net: Name=NetJ15_1
+Added Net: Name=NetJ15_3
+Added Net: Name=NetJ16_1
+Added Net: Name=NetJ16_3
+Added Net: Name=NetJ17_1
+Added Net: Name=NetJ17_3
+Add Class Member: Failed to add class member : Component J6 ACS712
+Add Class Member: Failed to add class member : Component J7 ACS712
+Add Class Member: Failed to add class member : Component J8 ACS712
+Added Member To Class: ClassName=park-contor-12i Member=Component J21 ACS712
+Added Member To Class: ClassName=park-contor-12i Member=Component J22 ACS712
+Added Member To Class: ClassName=park-contor-12i Member=Component J23 ACS712
+Added Member To Class: ClassName=park-contor-12i Member=Component J24 ACS712
+Added Member To Class: ClassName=park-contor-12i Member=Component J25 ACS712
+Added Member To Class: ClassName=park-contor-12i Member=Component J26 ACS712
+Added Member To Class: ClassName=park-contor-12i Member=Component J27 ACS712
+Added Member To Class: ClassName=park-contor-12i Member=Component J28 ACS712
+Added Member To Class: ClassName=park-contor-12i Member=Component J29 ACS712
+Add Class Member: Failed to add class member : Component T1 Phoenix terminal
+Add Class Member: Failed to add class member : Component T2 Phoenix terminal
+Added Member To Class: ClassName=park-contor-12i Member=Component T15 Phoenix terminal
+Added Member To Class: ClassName=park-contor-12i Member=Component T16 Phoenix terminal
+Added Member To Class: ClassName=park-contor-12i Member=Component T17 Phoenix terminal
+Added Member To Class: ClassName=park-contor-12i Member=Component T18 Phoenix terminal
+Added Member To Class: ClassName=park-contor-12i Member=Component T19 Phoenix terminal
+Added Member To Class: ClassName=park-contor-12i Member=Component T20 Phoenix terminal
+Added Member To Class: ClassName=park-contor-12i Member=Component T21 Phoenix terminal
+Added Member To Class: ClassName=park-contor-12i Member=Component T22 Phoenix terminal
+Added Member To Class: ClassName=park-contor-12i Member=Component T23 Phoenix terminal
+Added Member To Class: ClassName=park-contor-12i Member=Component T24 Phoenix terminal

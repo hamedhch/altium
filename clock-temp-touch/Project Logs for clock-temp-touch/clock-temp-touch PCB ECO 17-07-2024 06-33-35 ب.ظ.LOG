@@ -1,0 +1,9 @@
+Change Footprint: Cannot match pads with new footprint in component :D22 Footprint:C1206
+Change Footprint: Cannot match pads with new footprint in component :D23 Footprint:C1206
+Change Footprint: Cannot match pads with new footprint in component :D31 Footprint:C1206
+Change Footprint: Cannot match pads with new footprint in component :D32 Footprint:C1206
+Add Pin To Net: Unknown Pin: Pin LS2-1
+Add Pin To Net: Unknown Pin: Pin LS2-2
+Added Member To Class: ClassName=clock-temp-touch Member=Component R8 10K
+Added Member To Class: ClassName=clock-temp-touch Member=Component R9 10K
+Added Member To Class: ClassName=clock-temp-touch Member=Component R10 10K

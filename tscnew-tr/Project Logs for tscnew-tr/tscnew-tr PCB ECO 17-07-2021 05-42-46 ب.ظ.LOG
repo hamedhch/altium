@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=R1 Old Footprint=RES 1206 (3216X08L) New Footprint=RES 0805 (2012X06L)
+Added Member To Class: ClassName=tscnew-tr Member=Component R1 10K
+Added Member To Class: ClassName=tscnew-tr Member=Component R2 10K
+Added Member To Class: ClassName=tscnew-tr Member=Component R4 10K
+Added Member To Class: ClassName=tscnew-tr Member=Component R5 10K

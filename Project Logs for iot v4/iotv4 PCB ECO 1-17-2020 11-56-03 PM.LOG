@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=rxsim Pin=JP8-1
+Removed Pin From Net: NetName=rxsim Pin=JP8-2
+Removed Pin From Net: NetName=txsim Pin=JP10-1
+Removed Pin From Net: NetName=txsim Pin=JP10-2
+Removed Pin From Net: NetName=i8 Pin=T10-1
+Removed Pin From Net: NetName=i9 Pin=T13-1
+Change Component Designator: OldDesignator=JP7 NewDesignator=JP8
+Change Component Designator: OldDesignator=JP8 NewDesignator=JP7
+Change Component Designator: OldDesignator=JP8 NewDesignator=JP10
+Change Component Designator: OldDesignator=JP9 NewDesignator=JP11
+Change Component Designator: OldDesignator=JP10 NewDesignator=JP9
+Change Component Designator: OldDesignator=JP10 NewDesignator=JP12
+Added Pin To Net: NetName=i8 Pin=JP7-1
+Added Pin To Net: NetName=i8 Pin=JP7-2
+Added Pin To Net: NetName=i9 Pin=JP9-1
+Added Pin To Net: NetName=i9 Pin=JP9-2
+Added Pin To Net: NetName=i9 Pin=T10-1
+Added Pin To Net: NetName=i8 Pin=T13-1
+Added Member To Class: ClassName=iotv4 Member=Component JP11 Jumper
+Added Member To Class: ClassName=iotv4 Member=Component JP12 Jumper

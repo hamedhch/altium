@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=i9 Pin=J3-1
+Removed Pin From Net: NetName=i10 Pin=J3-2
+Added Pin To Net: NetName=i10 Pin=J3-1
+Added Pin To Net: NetName=i9 Pin=J3-2
+Added Member To Class: ClassName=shahbazi2 Member=Component J3 Header6X1

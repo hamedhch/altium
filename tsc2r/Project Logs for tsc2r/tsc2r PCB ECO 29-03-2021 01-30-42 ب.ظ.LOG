@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=J1 Old Footprint=KF300-4 PIN New Footprint=KF300-3 PIN
+Change Component Comment : Designator=J1 Old Comment=TBlock-4 New Comment=TBlock-3
+Added Pin To Net: NetName=s2 Pin=J1-1
+Added Member To Class: ClassName=tsc2r Member=Component J1 TBlock-3

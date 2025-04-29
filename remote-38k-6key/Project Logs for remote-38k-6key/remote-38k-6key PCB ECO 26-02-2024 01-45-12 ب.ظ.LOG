@@ -1,0 +1,49 @@
+Change Component Designator: OldDesignator=J2 NewDesignator=J3
+Change Component Designator: OldDesignator=R3 NewDesignator=R5
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R5 NewDesignator=R7
+Change Component Designator: OldDesignator=R6 NewDesignator=R8
+Change Component Designator: OldDesignator=R7 NewDesignator=R9
+Added Component: Designator=J2(HEADER 3X1)
+Added Component: Designator=R1(RES 2010 (5026X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES 2010 (5026X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES 2010 (5026X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES 2010 (5026X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=ir-r Pin=J2-1
+Added Pin To Net: NetName=GND Pin=J2-2
+Added Pin To Net: NetName=vcc Pin=J2-3
+Added Pin To Net: NetName=zero Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=VDD Pin=R2-1
+Added Pin To Net: NetName=zero Pin=R2-2
+Added Pin To Net: NetName=VDD Pin=R3-1
+Added Pin To Net: NetName=vcc Pin=R3-2
+Added Pin To Net: NetName=VDD Pin=R4-1
+Added Pin To Net: NetName=vcc Pin=R4-2
+Change Net Name : Old Net Name=NetJ2_2 New Net Name=NetJ3_2
+Change Net Name : Old Net Name=NetJ2_3 New Net Name=NetJ3_3
+Change Net Name : Old Net Name=NetJ2_4 New Net Name=NetJ3_4
+Added Member To Class: ClassName=remote-38k-6key Member=Component D1 Diode
+Added Member To Class: ClassName=remote-38k-6key Member=Component J2 Header3X1
+Added Member To Class: ClassName=remote-38k-6key Member=Component J3 Header4X1
+Added Member To Class: ClassName=remote-38k-6key Member=Component R1 10K
+Added Member To Class: ClassName=remote-38k-6key Member=Component R2 10K
+Added Member To Class: ClassName=remote-38k-6key Member=Component R3 10K
+Added Member To Class: ClassName=remote-38k-6key Member=Component R4 10K
+Added Member To Class: ClassName=remote-38k-6key Member=Component R5 10K
+Added Member To Class: ClassName=remote-38k-6key Member=Component R6 10K
+Added Member To Class: ClassName=remote-38k-6key Member=Component R7 10K
+Added Member To Class: ClassName=remote-38k-6key Member=Component R8 10K
+Added Member To Class: ClassName=remote-38k-6key Member=Component R9 10K

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=GND Pin=U2-15
+Removed Pin From Net: NetName=btn Pin=U2-18
+Removed Pin From Net: NetName=O4 Pin=U2-20
+Removed Pin From Net: NetName=rx Pin=U2-21
+Removed Pin From Net: NetName=tx Pin=U2-22
+Change Component Footprint: Designator=U2 Old Footprint=ESP_12_E New Footprint=ESP_12
+Change Component Comment : Designator=U2 Old Comment=ESP_12_E New Comment=ESP_12
+Added Pin To Net: NetName=GND Pin=U2-9
+Added Pin To Net: NetName=btn Pin=U2-12
+Added Pin To Net: NetName=O4 Pin=U2-14
+Added Pin To Net: NetName=rx Pin=U2-15
+Added Pin To Net: NetName=tx Pin=U2-16
+Added Pin To Net: NetName=NetU2_10 Pin=U2-10
+Added Pin To Net: NetName=NetU2_10 Pin=U2-11
+Added Net: Name=NetU2_10

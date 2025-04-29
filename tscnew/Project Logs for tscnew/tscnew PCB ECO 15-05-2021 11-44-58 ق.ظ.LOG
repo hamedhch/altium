@@ -1,0 +1,10 @@
+Change Component Designator: OldDesignator=JP1 NewDesignator=JP2
+Change Component Designator: OldDesignator=JP2 NewDesignator=JP3
+Change Component Designator: OldDesignator=JP3 NewDesignator=JP4
+Change Component Designator: OldDesignator=JP4 NewDesignator=JP5
+Added Component: Designator=JP1(Header 2X1)
+Change Net Name : Old Net Name=NetJP2_1 New Net Name=NetJP3_1
+Change Net Name : Old Net Name=NetJP4_1 New Net Name=NetJP5_1
+Added Member To Class: ClassName=tscnew Member=Component JP2 Jumper
+Added Member To Class: ClassName=tscnew Member=Component JP5 Jumper
+Added Member To Class: ClassName=tscnew Member=Component K4 Relay-12vDC

@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=q2 Pin=J2-1
+Removed Pin From Net: NetName=q1 Pin=J4-1
+Removed Pin From Net: NetName=q1 Pin=K1-3
+Removed Pin From Net: NetName=q2 Pin=K2-3
+Added Component: Designator=R1(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=rst Pin=R1-1
+Added Pin To Net: NetName=vesp Pin=R1-2
+Added Pin To Net: NetName=q11 Pin=J4-1
+Added Pin To Net: NetName=q11 Pin=K1-3
+Added Net: Name=q11
+Added Pin To Net: NetName=q12 Pin=J2-1
+Added Pin To Net: NetName=q12 Pin=K2-3
+Added Net: Name=q12
+Added Member To Class: ClassName=tscnew Member=Component R1 10K

@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=GND Pin=U3-1
+Added Pin To Net: NetName=vdd Pin=U3-2
+Added Pin To Net: NetName=vdd Pin=U3-3
+Added Pin To Net: NetName=vdd Pin=U3-4
+Added Member To Class: ClassName=contor Member=Component U3 LM1117MP-3.3

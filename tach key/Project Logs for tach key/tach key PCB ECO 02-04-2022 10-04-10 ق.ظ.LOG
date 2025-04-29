@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=C15-1
+Removed Pin From Net: NetName=VCC Pin=U10-1
+Removed Pin From Net: NetName=GND Pin=U10-2
+Removed Member From Class: ClassName=tach key Member=C15
+Removed Member From Class: ClassName=tach key Member=U10

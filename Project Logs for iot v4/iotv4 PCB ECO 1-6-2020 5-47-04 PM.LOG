@@ -1,0 +1,49 @@
+Removed Pin From Net: NetName=O1 Pin=P2-1
+Removed Pin From Net: NetName=O2 Pin=P2-2
+Removed Pin From Net: NetName=O3 Pin=P2-3
+Removed Pin From Net: NetName=o4 Pin=P2-4
+Removed Pin From Net: NetName=o5 Pin=P2-5
+Removed Pin From Net: NetName=o7 Pin=P2-7
+Removed Pin From Net: NetName=o8 Pin=P2-8
+Change Component Designator: OldDesignator=P3 NewDesignator=P2
+Change Component Designator: OldDesignator=P4 NewDesignator=P3
+Change Component Designator: OldDesignator=P5 NewDesignator=P4
+Change Component Designator: OldDesignator=P7 NewDesignator=P5
+Added Pin To Net: NetName=O1 Pin=P1-1
+Added Pin To Net: NetName=O2 Pin=P1-2
+Added Pin To Net: NetName=O3 Pin=P1-3
+Added Pin To Net: NetName=o4 Pin=P1-4
+Added Pin To Net: NetName=o5 Pin=P1-5
+Added Pin To Net: NetName=o7 Pin=P1-7
+Added Pin To Net: NetName=o8 Pin=P1-8
+Added Pin To Net: NetName=o8 Pin=R5-1
+Added Pin To Net: NetName=o4 Pin=R6-1
+Added Pin To Net: NetName=o7 Pin=R11-1
+Added Pin To Net: NetName=O3 Pin=R12-1
+Added Pin To Net: NetName=O2 Pin=R16-1
+Added Pin To Net: NetName=O1 Pin=R19-1
+Added Pin To Net: NetName=o5 Pin=R20-1
+Added Pin To Net: NetName=NetLabel113 Pin=P1-6
+Added Pin To Net: NetName=NetLabel113 Pin=R15-1
+Added Net: Name=NetLabel113
+Added Pin To Net: NetName=o9 Pin=P1-9
+Added Pin To Net: NetName=o9 Pin=R7-1
+Added Net: Name=o9
+Added Pin To Net: NetName=o10 Pin=P1-10
+Added Pin To Net: NetName=o10 Pin=R8-1
+Added Net: Name=o10
+Added Member To Class: ClassName=iotv4 Member=Component D2 Diode 1N4007
+Added Member To Class: ClassName=iotv4 Member=Component D5 Diode 1N4007
+Added Member To Class: ClassName=iotv4 Member=Component D6 LED 3mm
+Added Member To Class: ClassName=iotv4 Member=Component D8 LED 3mm
+Added Member To Class: ClassName=iotv4 Member=Component J1 PWR2.5
+Added Member To Class: ClassName=iotv4 Member=Component K2 Relay-12vDC
+Added Member To Class: ClassName=iotv4 Member=Component K4 Relay-12vDC
+Added Member To Class: ClassName=iotv4 Member=Component P1 Header 10
+Added Member To Class: ClassName=iotv4 Member=Component R2 Res2
+Added Member To Class: ClassName=iotv4 Member=Component R4 Res2
+Added Member To Class: ClassName=iotv4 Member=Component R7 Res2
+Added Member To Class: ClassName=iotv4 Member=Component R8 Res2
+Added Member To Class: ClassName=iotv4 Member=Component T2 Terminal
+Added Member To Class: ClassName=iotv4 Member=Component T4 Terminal
+Added Member To Class: ClassName=iotv4 Member=Component U4 L4931CV30

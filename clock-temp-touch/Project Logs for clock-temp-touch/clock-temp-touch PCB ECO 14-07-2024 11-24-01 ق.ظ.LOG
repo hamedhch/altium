@@ -1,0 +1,110 @@
+Removed Member From Class: ClassName=clock-temp-touch Member=D14
+Removed Member From Class: ClassName=clock-temp-touch Member=D15
+Removed Member From Class: ClassName=clock-temp-touch Member=D16
+Removed Member From Class: ClassName=clock-temp-touch Member=D17
+Removed Member From Class: ClassName=clock-temp-touch Member=D18
+Removed Member From Class: ClassName=clock-temp-touch Member=D19
+Removed Member From Class: ClassName=clock-temp-touch Member=D20
+Removed Member From Class: ClassName=clock-temp-touch Member=D21
+Removed Member From Class: ClassName=clock-temp-touch Member=D22
+Removed Member From Class: ClassName=clock-temp-touch Member=D23
+Removed Member From Class: ClassName=clock-temp-touch Member=D24
+Removed Member From Class: ClassName=clock-temp-touch Member=D25
+Removed Member From Class: ClassName=clock-temp-touch Member=D26
+Removed Member From Class: ClassName=clock-temp-touch Member=D27
+Removed Member From Class: ClassName=clock-temp-touch Member=D28
+Removed Member From Class: ClassName=clock-temp-touch Member=D29
+Removed Member From Class: ClassName=clock-temp-touch Member=D30
+Removed Member From Class: ClassName=clock-temp-touch Member=D31
+Removed Member From Class: ClassName=clock-temp-touch Member=D32
+Removed Member From Class: ClassName=clock-temp-touch Member=D33
+Removed Member From Class: ClassName=clock-temp-touch Member=D34
+Change Component Comment : Designator=D4 Old Comment=LED2 New Comment=LHN974_RED_LED_1206
+Change Component Comment : Designator=D5 Old Comment=LED2 New Comment=LHN974_RED_LED_1206
+Change Component Comment : Designator=D6 Old Comment=LED2 New Comment=LHN974_RED_LED_1206
+Change Component Comment : Designator=D7 Old Comment=LED2 New Comment=LHN974_RED_LED_1206
+Change Component Comment : Designator=D8 Old Comment=LED2 New Comment=LHN974_RED_LED_1206
+Change Component Comment : Designator=D9 Old Comment=LED2 New Comment=LHN974_RED_LED_1206
+Change Component Comment : Designator=D10 Old Comment=LED2 New Comment=LHN974_RED_LED_1206
+Change Component Designator: OldDesignator=D25 NewDesignator=D11
+Change Component Designator: OldDesignator=D26 NewDesignator=D12
+Change Component Designator: OldDesignator=D34 NewDesignator=D13
+Change component parameters: Designator = "D4" ("D4"); Footprint = "LEDC3216X120N"; UniqueID = "\HJQTJVFE" ("\HJQTJVFE")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/7899607/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Osram"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "LHN974 RED LED 1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/7899607/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D5" ("D5"); Footprint = "LEDC3216X120N"; UniqueID = "\UCLHFXYU" ("\UCLHFXYU")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/7899607/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Osram"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "LHN974 RED LED 1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/7899607/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D6" ("D6"); Footprint = "LEDC3216X120N"; UniqueID = "\EPBVVUZH" ("\EPBVVUZH")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/7899607/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Osram"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "LHN974 RED LED 1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/7899607/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D7" ("D7"); Footprint = "LEDC3216X120N"; UniqueID = "\PUKHTVWP" ("\PUKHTVWP")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/7899607/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Osram"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "LHN974 RED LED 1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/7899607/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D8" ("D8"); Footprint = "LEDC3216X120N"; UniqueID = "\STSWWVOM" ("\STSWWVOM")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/7899607/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Osram"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "LHN974 RED LED 1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/7899607/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D9" ("D9"); Footprint = "LEDC3216X120N"; UniqueID = "\KYILEXMF" ("\KYILEXMF")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/7899607/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Osram"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "LHN974 RED LED 1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/7899607/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "D10" ("D10"); Footprint = "LEDC3216X120N"; UniqueID = "\JBQRAYHG" ("\JBQRAYHG")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Not in stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/7899607/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Osram"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "LHN974 RED LED 1206"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/LHN974%20RED%20LED%201206/Osram/view-part/7899607/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=R4 Pin=D4-NEG
+Added Pin To Net: NetName=l1 Pin=D4-POS
+Added Pin To Net: NetName=R4 Pin=D5-NEG
+Added Pin To Net: NetName=l2 Pin=D5-POS
+Added Pin To Net: NetName=R4 Pin=D6-NEG
+Added Pin To Net: NetName=L3 Pin=D6-POS
+Added Pin To Net: NetName=R4 Pin=D7-NEG
+Added Pin To Net: NetName=L4 Pin=D7-POS
+Added Pin To Net: NetName=R4 Pin=D8-NEG
+Added Pin To Net: NetName=L5 Pin=D8-POS
+Added Pin To Net: NetName=R4 Pin=D9-NEG
+Added Pin To Net: NetName=L6 Pin=D9-POS
+Added Pin To Net: NetName=R4 Pin=D10-NEG
+Added Pin To Net: NetName=L7 Pin=D10-POS
+Change Net Name : Old Net Name=NetD25_2 New Net Name=NetD11_2
+Change Net Name : Old Net Name=NetD34_1 New Net Name=NetD13_1

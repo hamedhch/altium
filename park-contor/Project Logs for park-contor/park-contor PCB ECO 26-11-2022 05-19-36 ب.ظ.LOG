@@ -1,0 +1,14 @@
+Change Component Comment : Designator=D1 Old Comment=LED1 New Comment=LED 5mm
+Change Component Comment : Designator=D2 Old Comment=LED1 New Comment=LED 5mm
+Change component parameters: Designator = "D1" ("D1"); Footprint = "LED-1"; UniqueID = "\ABTUQFID" ("\ABTUQFID")
+Change component parameters (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemian"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "07/31/2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D2" ("D2"); Footprint = "LED-1"; UniqueID = "\TDJWLFHC" ("\TDJWLFHC")
+Change component parameters (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemian"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "LED; 2 Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "07/31/2012"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "www.picpars.com"; VariantName = "[No Variations]"

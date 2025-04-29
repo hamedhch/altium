@@ -1,0 +1,153 @@
+Removed Pin From Net: NetName=vcc Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=D4-1
+Removed Pin From Net: NetName=vcc Pin=D4-2
+Removed Pin From Net: NetName=vcc Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J3-2
+Removed Pin From Net: NetName=GND Pin=Q1-3
+Removed Pin From Net: NetName=GND Pin=Q2-3
+Removed Pin From Net: NetName=GND Pin=Q3-3
+Removed Pin From Net: NetName=GND Pin=R1-2
+Removed Pin From Net: NetName=NetD5_2 Pin=R7-1
+Removed Pin From Net: NetName=vcc Pin=R9-2
+Removed Pin From Net: NetName=GND Pin=U1-7
+Removed Pin From Net: NetName=vcc Pin=U1-8
+Removed Pin From Net: NetName=GND Pin=U2-2
+Removed Pin From Net: NetName=NetJ2_1 Pin=U2-4
+Removed Member From Class: ClassName=touch-tara-h Member=J3
+Removed Member From Class: ClassName=touch-tara-h Member=P1
+Removed Member From Class: ClassName=touch-tara-h Member=Q3
+Removed Member From Class: ClassName=touch-tara-h Member=R9
+Removed Member From Class: ClassName=touch-tara-h Member=R10
+Removed Member From Class: ClassName=touch-tara-h Member=R11
+Removed Member From Class: ClassName=touch-tara-h Member=R12
+Removed Member From Class: ClassName=touch-tara-h Member=R13
+Removed Member From Class: ClassName=touch-tara-h Member=U1
+Removed Member From Class: ClassName=touch-tara-h Member=U2
+Change Component Footprint: Designator=D5 Old Footprint=3.2X1.6X1.1 New Footprint=LED-5mm
+Change Component Footprint: Designator=D4 Old Footprint=C1206 New Footprint=3.2X1.6X1.1
+Change Component Footprint: Designator=C1 Old Footprint=CAP 1206 New Footprint=1uf 400v
+Change Component Footprint: Designator=J2 Old Footprint=HEADER 3X1 New Footprint=Header 2X1
+Change Component Footprint: Designator=J1 Old Footprint=HEADER 4X1 New Footprint=HEADER 3X1
+Change Component Footprint: Designator=R3 Old Footprint=RES 1206 (3216X08L) New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=R2 Old Footprint=RES 1206 (3216X08L) New Footprint=RES 2010 (5026X08L)
+Change Component Footprint: Designator=R1 Old Footprint=RES 1206 (3216X08L) New Footprint=Res-(2/1)
+Change Component Footprint: Designator=R4 Old Footprint=RES 2010 (5026X08L) New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=R5 Old Footprint=RES 2010 (5026X08L) New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=R6 Old Footprint=RES 2010 (5026X08L) New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=R8 Old Footprint=RES 2010 (5026X08L) New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=Q1 Old Footprint=SOT89N New Footprint=SOT-23B_L
+Change Component Footprint: Designator=Q2 Old Footprint=SOT89N New Footprint=SOT-23B_L
+Change Component Comment : Designator=C1 Old Comment==Value New Comment=1uf 400v
+Change Component Comment : Designator=D4 Old Comment=Diode New Comment=LED2
+Change Component Comment : Designator=J2 Old Comment=Header3X1 New Comment=Header2X1
+Change Component Comment : Designator=J1 Old Comment=Header4X1 New Comment=Header3X1
+Change Component Comment : Designator=D1 Old Comment=LED2 New Comment=D Tunnel1
+Change Component Comment : Designator=D2 Old Comment=LED2 New Comment=D Tunnel1
+Change Component Comment : Designator=D3 Old Comment=LED2 New Comment=D Tunnel1
+Change Component Comment : Designator=D5 Old Comment=LED2 New Comment=MODEL
+Change Component Comment : Designator=Q1 Old Comment=Triac New Comment=QNPN
+Change Component Comment : Designator=Q2 Old Comment=Triac New Comment=QNPN
+Change component parameters: Designator = "C1" ("C1"); Footprint = "CAP 1206"; UniqueID = "\WJBNDHIN" ("\WJBNDHIN")
+Change component parameters (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "1uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D4" ("D4"); Footprint = "C1206"; UniqueID = "\QLHAKMBW" ("\QLHAKMBW")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "SM LED; 2 Flat Leads"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "3.2X1.6X1.1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Feb-2002"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D5" ("D5"); Footprint = "3.2X1.6X1.1"; UniqueID = "\ARPAJMYZ" ("\ARPAJMYZ")
+Change component parameters (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q1" ("Q1"); Footprint = "SOT89N"; UniqueID = "\SXUZXQVX" ("\SXUZXQVX")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin SOT-23 Package 0.95 mm Pitch, 2.4 mm Lead Span"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SOT-23B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Change component parameters: Designator = "Q2" ("Q2"); Footprint = "SOT89N"; UniqueID = "\UBZVZXIR" ("\UBZVZXIR")
+Change component parameters (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "3-Pin SOT-23 Package 0.95 mm Pitch, 2.4 mm Lead Span"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "SOT-23B"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "Aug-1999"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP 1206)
+Added Component: Designator=C3(CAP 1206)
+Added Component: Designator=C4(CAP 1206)
+Added Component: Designator=TR1(SOT428)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/BT136S-600D/BitFenix+Co.+Ltd./view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "WeEn Semiconductor(Hong Kong)Co.,Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BT136S-600D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BT136S-600D/BitFenix+Co.+Ltd./view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=vcc Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=vcc Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=D1-1
+Added Pin To Net: NetName=vcc Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=vcc Pin=D3-2
+Added Pin To Net: NetName=GND Pin=D5-1
+Added Pin To Net: NetName=vcc Pin=J1-1
+Added Pin To Net: NetName=GND Pin=Q1-2
+Added Pin To Net: NetName=GND Pin=Q2-2
+Added Pin To Net: NetName=vcc Pin=R2-2
+Added Pin To Net: NetName=vcc Pin=R3-1
+Added Pin To Net: NetName=NetD5_2 Pin=R3-2
+Added Pin To Net: NetName=vcc Pin=R4-1
+Added Pin To Net: NetName=NetD5_2 Pin=R6-1
+Added Pin To Net: NetName=vcc Pin=TR1-1
+Added Pin To Net: NetName=NetJ2_1 Pin=TR1-MB
+Added Pin To Net: NetName=ir-t Pin=R4-2
+Added Pin To Net: NetName=ir-t Pin=R7-1
+Added Pin To Net: NetName=ir-t Pin=Q1-3
+Added Net: Name=ir-t
+Added Pin To Net: NetName=NetC1_1 Pin=C1-1
+Added Pin To Net: NetName=NetC1_1 Pin=R1-2
+Added Net: Name=NetC1_1
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=D1-2
+Added Pin To Net: NetName=NetC1_2 Pin=D2-1
+Added Net: Name=NetC1_2
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R2-1
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=Q2-3
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetQ1_2 Pin=R6-2
+Added Pin To Net: NetName=NetQ1_2 Pin=Q1-1
+Added Net: Name=NetQ1_2
+Added Pin To Net: NetName=NetQ2_2 Pin=R7-2
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-1
+Added Net: Name=NetQ2_2
+Added Pin To Net: NetName=NetR5_1 Pin=R5-1
+Added Pin To Net: NetName=NetR5_1 Pin=TR1-3
+Added Net: Name=NetR5_1
+Added Pin To Net: NetName=nol Pin=J1-3
+Added Pin To Net: NetName=nol Pin=J2-2
+Added Pin To Net: NetName=nol Pin=R1-1
+Added Pin To Net: NetName=nol Pin=R8-1
+Added Net: Name=nol
+Added Pin To Net: NetName=out Pin=R5-2
+Added Net: Name=out
+Added Pin To Net: NetName=zero Pin=C4-2
+Added Pin To Net: NetName=zero Pin=R8-2
+Added Net: Name=zero
+Change Class Name : Old Net Name=touch-tara-h New Net Name=ir-kh
+Added Member To Class: ClassName=ir-kh Member=Component C2 =Value
+Added Member To Class: ClassName=ir-kh Member=Component C3 =Value
+Added Member To Class: ClassName=ir-kh Member=Component C4 =Value
+Added Member To Class: ClassName=ir-kh Member=Component TR1 BT136S-600D
+Change Room Name: Old Name=touch-tara-h New Name=ir-kh
+Change Room Scope: Old Scope=InComponentClass('touch-tara-h') New Scope=InComponentClass('ir-kh')

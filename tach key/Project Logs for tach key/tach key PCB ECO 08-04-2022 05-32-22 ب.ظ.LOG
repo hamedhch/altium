@@ -1,0 +1,44 @@
+Removed Pin From Net: NetName=VCC Pin=D8-1
+Removed Pin From Net: NetName=o3 Pin=D8-2
+Removed Pin From Net: NetName=o3 Pin=D9-1
+Removed Pin From Net: NetName=VCC Pin=D11-1
+Removed Pin From Net: NetName=o4 Pin=D11-2
+Removed Pin From Net: NetName=o4 Pin=D12-1
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R17
+Change Component Designator: OldDesignator=R16 NewDesignator=R18
+Change Component Designator: OldDesignator=R17 NewDesignator=R19
+Added Component: Designator=R10(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=R10-2
+Added Pin To Net: NetName=VCC Pin=R16-2
+Change Net Name : Old Net Name=NetR11_1 New Net Name=NetR12_1
+Change Net Name : Old Net Name=NetR15_1 New Net Name=NetR17_1
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_1 Pin=R10-1
+Added Net: Name=NetD8_1
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=D9-1
+Added Pin To Net: NetName=NetD8_2 Pin=R14-1
+Added Pin To Net: NetName=NetD8_2 Pin=U7-1
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetD11_1 Pin=D11-1
+Added Pin To Net: NetName=NetD11_1 Pin=R16-1
+Added Net: Name=NetD11_1
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD11_2 Pin=D12-1
+Added Pin To Net: NetName=NetD11_2 Pin=R19-1
+Added Pin To Net: NetName=NetD11_2 Pin=U9-1
+Added Net: Name=NetD11_2
+Added Member To Class: ClassName=tach key Member=Component R18 10K
+Added Member To Class: ClassName=tach key Member=Component R19 10K

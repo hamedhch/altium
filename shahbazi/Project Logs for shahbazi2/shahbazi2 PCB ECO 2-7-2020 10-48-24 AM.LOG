@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=VCC Pin=JP3-1
+Removed Pin From Net: NetName=VCC Pin=JP3-2
+Removed Pin From Net: NetName=GND Pin=JP5-1
+Removed Pin From Net: NetName=GND Pin=JP5-2
+Removed Member From Class: ClassName=shahbazi2 Member=JP3
+Removed Member From Class: ClassName=shahbazi2 Member=JP5
+Added Member To Class: ClassName=shahbazi2 Member=Component J3 Header6X1

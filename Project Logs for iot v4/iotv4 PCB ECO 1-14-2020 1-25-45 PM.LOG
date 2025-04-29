@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=O1 Pin=U5-2
+Change Component Designator: OldDesignator=JP1 NewDesignator=JP2
+Change Component Designator: OldDesignator=JP2 NewDesignator=JP3
+Change Component Designator: OldDesignator=JP3 NewDesignator=JP4
+Change Component Designator: OldDesignator=JP4 NewDesignator=JP5
+Change Component Designator: OldDesignator=JP5 NewDesignator=JP6
+Added Component: Designator=JP1(Header 2X1)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=O1 Pin=JP1-1
+Added Pin To Net: NetName=NetJP1_2 Pin=JP1-2
+Added Pin To Net: NetName=NetJP1_2 Pin=U5-2
+Added Net: Name=NetJP1_2
+Added Member To Class: ClassName=iotv4 Member=Component JP6 Jumper
