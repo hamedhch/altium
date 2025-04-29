@@ -1,0 +1,9 @@
+Added Component: Designator=R3(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=out Pin=R3-1
+Added Pin To Net: NetName=NetQ1_2 Pin=R3-2
+Added Member To Class: ClassName=usb-cuter Member=Component R1 10K
+Added Member To Class: ClassName=usb-cuter Member=Component R2 10K
+Added Member To Class: ClassName=usb-cuter Member=Component R3 10K
