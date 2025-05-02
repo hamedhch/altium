@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R2-1
+Added Net: Name=NetD2_1
+Added Member To Class: ClassName=usb-cuter Member=Component R1 10K
+Added Member To Class: ClassName=usb-cuter Member=Component R2 10K
