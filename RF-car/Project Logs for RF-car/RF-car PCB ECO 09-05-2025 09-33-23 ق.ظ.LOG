@@ -1,0 +1,3 @@
+Removed Pin From Net: NetName=DATA_IN Pin=U2-2
+Added Pin To Net: NetName=DATA_IN Pin=U2-4
+Added Member To Class: ClassName=RF-car Member=Component R1 10K
