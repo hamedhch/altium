@@ -1,0 +1,4 @@
+Change Component DesignItemId : Designator=J1 Old DesignItemId=Header2X1 New DesignItemId=Header4X1
+Change Component Footprint: Designator=J1 Old Footprint=Header 2X1 New Footprint=HEADER 4X1
+Change Component Comment : Designator=J1 Old Comment=Header2X1 New Comment=Header4X1
+Added Member To Class: ClassName=RF-car Member=Component Q1 QNPN
