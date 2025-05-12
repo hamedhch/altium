@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=D1-2
+Removed Pin From Net: NetName=NetD2_2 Pin=D2-2
+Removed Pin From Net: NetName=bizer Pin=U1-5
+Removed Pin From Net: NetName=data Pin=U1-6
+Removed Pin From Net: NetName=NetD2_2 Pin=U2-2
+Removed Pin From Net: NetName=NetD1_2 Pin=U2-3
+Removed Pin From Net: NetName=data Pin=U2-5
+Removed Pin From Net: NetName=DATA_OUT Pin=U2-7
+Change Component Designator: OldDesignator=D1 NewDesignator=D2
+Change Component Designator: OldDesignator=D2 NewDesignator=D1
+Change Component Designator: OldDesignator=R1 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R2
+Added Component: Designator=R1(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_2 Pin=D1-2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD1_2 Pin=R1-1
+Added Pin To Net: NetName=NetD2_2 Pin=R3-1
+Added Pin To Net: NetName=data Pin=U1-5
+Added Pin To Net: NetName=bizer Pin=U1-6
+Added Pin To Net: NetName=NetD1_2 Pin=U2-2
+Added Pin To Net: NetName=NetD2_2 Pin=U2-3
+Added Pin To Net: NetName=DATA_OUT Pin=U2-5
+Added Pin To Net: NetName=data Pin=U2-7
+Change Net Name : Old Net Name=NetD1_1 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetD2_1 New Net Name=NetD1_1
+Added Pin To Net: NetName=o1 Pin=J1-4
+Added Pin To Net: NetName=o1 Pin=R1-2
+Added Net: Name=o1
+Added Pin To Net: NetName=o2 Pin=J1-3
+Added Pin To Net: NetName=o2 Pin=R3-2
+Added Net: Name=o2
+Added Member To Class: ClassName=RF-car Member=Component R3 10K
+Added Member To Class: ClassName=RF-car Member=Component R4 10K

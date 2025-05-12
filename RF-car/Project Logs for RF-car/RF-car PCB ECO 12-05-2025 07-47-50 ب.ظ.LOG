@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetD8_2 Pin=Q1-3
+Removed Pin From Net: NetName=vdd Pin=R5-1
+Removed Pin From Net: NetName=NetQ1_2 Pin=R7-2
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Added Component: Designator=R7(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=vdd Pin=D5-1
+Added Pin To Net: NetName=NetD8_2 Pin=R5-1
+Added Pin To Net: NetName=NetQ1_2 Pin=R7-2
+Added Pin To Net: NetName=NetQ1_1 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_1 Pin=R5-2
+Added Net: Name=NetQ1_1
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R8-2
+Added Net: Name=NetR7_1
+Added Member To Class: ClassName=RF-car Member=Component R8 10K
