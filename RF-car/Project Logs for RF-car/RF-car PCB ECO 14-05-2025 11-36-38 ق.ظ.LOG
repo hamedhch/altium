@@ -1,0 +1,12 @@
+Add component: Footprint Not Found 3.2X1.6X1.1
+Add component: Footprint Not Found SOIC127P600X175-16N
+Add Pin To Net: Unknown Pin: Pin D3-2
+Added Pin To Net: NetName=GND Pin=U3-8
+Added Pin To Net: NetName=vcc Pin=U3-9
+Added Pin To Net: NetName=NetD3_2 Pin=U3-16
+Add Class Member: Failed to add class member : Component D3 LED2
+Added Member To Class: ClassName=RF-car Member=Component D4 D Tunnel1
+Added Member To Class: ClassName=RF-car Member=Component D6 LED2
+Added Member To Class: ClassName=RF-car Member=Component D8 LED2
+Added Member To Class: ClassName=RF-car Member=Component U3 ULN2003ADRG4
+Added Member To Class: ClassName=RF-car Member=Component U4 LM1117MP-3.3

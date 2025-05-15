@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=DATA_IN Pin=J2-2
+Removed Pin From Net: NetName=DATA_IN Pin=J2-3
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Add component: Footprint Not Found RES 1206 (3216X08L)
+Add Pin To Net: Unknown Pin: Pin R5-1
+Change Net Name : Old Net Name=NetR7_1 New Net Name=NetR8_1
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-2
+Added Pin To Net: NetName=NetJ2_2 Pin=J2-3
+Added Net: Name=NetJ2_2
+Added Member To Class: ClassName=RF-car Member=Component R9 10K

@@ -1,0 +1,11 @@
+Change Component Designator: OldDesignator=D1 NewDesignator=D7
+Change Component Designator: OldDesignator=D2 NewDesignator=D8
+Change Component Designator: OldDesignator=D3 NewDesignator=D12
+Add component: Footprint Not Found 3.2X1.6X1.1
+Add component: Footprint Not Found 3.2X1.6X1.1
+Add component: Footprint Not Found 3.2X1.6X1.1
+Add component: Footprint Not Found RES 1206 (3216X08L)
+Added Net: Name=NetD1_1
+Added Net: Name=NetD2_1
+Added Net: Name=NetD3_1
+Add Class Member: Failed to add class member : Component R? 10K

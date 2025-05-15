@@ -1,0 +1,58 @@
+Add component: Footprint Not Found 3.2X1.6X1.1
+Add component: Footprint Not Found 3.2X1.6X1.1
+Add component: Footprint Not Found 3.2X1.6X1.1
+Add component: Footprint Not Found HEADER 4X1
+Add component: Footprint Not Found RES 1206 (3216X08L)
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=D5-2
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_1 Pin=D6-2
+Added Net: Name=NetD5_1
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=D8-2
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetD8_1 Pin=D8-1
+Added Pin To Net: NetName=NetD8_1 Pin=D9-2
+Added Net: Name=NetD8_1
+Added Pin To Net: NetName=NetD10_1 Pin=D10-1
+Added Pin To Net: NetName=NetD10_1 Pin=D11-2
+Added Net: Name=NetD10_1
+Added Pin To Net: NetName=NetD11_1 Pin=D11-1
+Added Pin To Net: NetName=NetD11_1 Pin=D12-2
+Added Net: Name=NetD11_1
+Added Pin To Net: NetName=NetD13_1 Pin=D13-1
+Added Pin To Net: NetName=NetD13_1 Pin=D14-2
+Added Net: Name=NetD13_1
+Added Pin To Net: NetName=NetD14_1 Pin=D14-1
+Added Pin To Net: NetName=NetD14_1 Pin=D15-2
+Added Net: Name=NetD14_1
+Added Pin To Net: NetName=NetD17_1 Pin=D17-1
+Added Pin To Net: NetName=NetD17_1 Pin=D18-2
+Added Net: Name=NetD17_1
+Added Pin To Net: NetName=NetD18_1 Pin=D18-1
+Added Pin To Net: NetName=NetD18_1 Pin=D19-2
+Added Net: Name=NetD18_1
+Add Class Member: Failed to add class member : Component D1 LED2
+Add Class Member: Failed to add class member : Component D2 LED2
+Add Class Member: Failed to add class member : Component D3 LED2
+Added Member To Class: ClassName=RF-car Member=Component D7 LED2
+Added Member To Class: ClassName=RF-car Member=Component D8 LED2
+Added Member To Class: ClassName=RF-car Member=Component D12 LED2
+Added Member To Class: ClassName=RF-car Member=Component D17 LED2
+Added Member To Class: ClassName=RF-car Member=Component D19 LED2
+Added Member To Class: ClassName=RF-car Member=Component D21 LED2
+Add Class Member: Failed to add class member : Component J1 Header4X1
+Added Member To Class: ClassName=RF-car Member=Component J2 Header4X1
+Add Class Member: Failed to add class member : Component R1 10K
+Added Member To Class: ClassName=RF-car Member=Component R3 10K
+Added Member To Class: ClassName=RF-car Member=Component R4 10K
+Added Member To Class: ClassName=RF-car Member=Component R6 10K
+Added Member To Class: ClassName=RF-car Member=Component R7 10K
+Added Member To Class: ClassName=RF-car Member=Component R8 10K

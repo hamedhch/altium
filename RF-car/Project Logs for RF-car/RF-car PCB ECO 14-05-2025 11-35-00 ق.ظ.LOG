@@ -1,0 +1,19 @@
+Change Component Designator: OldDesignator=D3 NewDesignator=D4
+Change Component Designator: OldDesignator=D4 NewDesignator=D5
+Change Component Designator: OldDesignator=D5 NewDesignator=D6
+Change Component Designator: OldDesignator=D6 NewDesignator=D7
+Change Component Designator: OldDesignator=D7 NewDesignator=D8
+Change Component Designator: OldDesignator=D8 NewDesignator=D9
+Change Component Designator: OldDesignator=U3 NewDesignator=U4
+Add component: Footprint Not Found 3.2X1.6X1.1
+Add component: Footprint Not Found SOIC127P600X175-16N
+Add Pin To Net: Unknown Pin: Pin U3-8
+Add Pin To Net: Unknown Pin: Pin U3-9
+Change Net Name : Old Net Name=NetD3_2 New Net Name=NetD4_2
+Change Net Name : Old Net Name=NetD5_2 New Net Name=NetD6_2
+Change Net Name : Old Net Name=NetD6_2 New Net Name=NetD7_2
+Change Net Name : Old Net Name=NetD7_2 New Net Name=NetD8_2
+Change Net Name : Old Net Name=NetD8_2 New Net Name=NetD9_2
+Added Net: Name=NetD3_2
+Added Member To Class: ClassName=RF-car Member=Component D9 LED2
+Added Member To Class: ClassName=RF-car Member=Component U4 LM1117MP-3.3
