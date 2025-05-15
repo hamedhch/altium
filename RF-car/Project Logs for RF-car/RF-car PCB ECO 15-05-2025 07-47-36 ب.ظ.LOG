@@ -1,0 +1,19 @@
+Added Pin To Net: NetName=NetQ2_2 Pin=Q2-2
+Added Pin To Net: NetName=NetQ2_2 Pin=R15-2
+Added Net: Name=NetQ2_2
+Added Member To Class: ClassName=RF-car Member=Component C2 =Value
+Added Member To Class: ClassName=RF-car Member=Component D14 LED2
+Added Member To Class: ClassName=RF-car Member=Component D16 LED2
+Added Member To Class: ClassName=RF-car Member=Component D17 LED2
+Added Member To Class: ClassName=RF-car Member=Component D19 LED2
+Added Member To Class: ClassName=RF-car Member=Component J2 Header4X1
+Added Member To Class: ClassName=RF-car Member=Component J3 Header4X1
+Added Member To Class: ClassName=RF-car Member=Component R7 10K
+Added Member To Class: ClassName=RF-car Member=Component R9 10K
+Added Member To Class: ClassName=RF-car Member=Component R12 10K
+Added Member To Class: ClassName=RF-car Member=Component R16 10K
+Added Member To Class: ClassName=RF-car Member=Component R17 10K
+Added Member To Class: ClassName=RF-car Member=Component R18 10K
+Added Member To Class: ClassName=RF-car Member=Component R19 10K
+Added Member To Class: ClassName=RF-car Member=Component R20 10K
+Added Member To Class: ClassName=RF-car Member=Component R22 10K

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=NetD5_2 Pin=J4-1
+Removed Pin From Net: NetName=NetD5_2 Pin=J4-2
+Removed Pin From Net: NetName=NetD6_2 Pin=J4-3
+Removed Pin From Net: NetName=NetD6_2 Pin=J4-4
+Added Member To Class: ClassName=RF-car Member=Component D32 LED2
+Added Member To Class: ClassName=RF-car Member=Component D33 LED2
+Added Member To Class: ClassName=RF-car Member=Component D34 LED2
+Added Member To Class: ClassName=RF-car Member=Component J4 Header4X1
+Added Member To Class: ClassName=RF-car Member=Component J5 Header4X1
+Added Member To Class: ClassName=RF-car Member=Component R15 10K
+Added Member To Class: ClassName=RF-car Member=Component R16 10K
+Added Member To Class: ClassName=RF-car Member=Component R18 10K
+Added Member To Class: ClassName=RF-car Member=Component R19 10K
+Added Member To Class: ClassName=RF-car Member=Component R21 10K

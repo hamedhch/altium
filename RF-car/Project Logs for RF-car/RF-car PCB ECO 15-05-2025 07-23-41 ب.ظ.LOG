@@ -1,0 +1,42 @@
+Added Pin To Net: NetName=vcc Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Pin To Net: NetName=vcc Pin=R1-1
+Added Pin To Net: NetName=vcc Pin=R2-1
+Added Pin To Net: NetName=vcc Pin=R3-1
+Added Pin To Net: NetName=vcc Pin=R4-1
+Added Pin To Net: NetName=vcc Pin=R6-1
+Added Pin To Net: NetName=vcc Pin=R8-1
+Added Pin To Net: NetName=vcc Pin=R11-1
+Added Pin To Net: NetName=vcc Pin=R13-1
+Added Pin To Net: NetName=vcc Pin=R14-1
+Added Pin To Net: NetName=vcc Pin=R15-1
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-2
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD4_1 Pin=D4-1
+Added Pin To Net: NetName=NetD4_1 Pin=R2-2
+Added Net: Name=NetD4_1
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=NetD7_1 Pin=R3-2
+Added Net: Name=NetD7_1
+Added Pin To Net: NetName=NetD10_1 Pin=D10-1
+Added Pin To Net: NetName=NetD10_1 Pin=R4-2
+Added Net: Name=NetD10_1
+Added Pin To Net: NetName=NetD13_1 Pin=D13-1
+Added Pin To Net: NetName=NetD13_1 Pin=R6-2
+Added Net: Name=NetD13_1
+Added Pin To Net: NetName=NetD17_1 Pin=D17-1
+Added Pin To Net: NetName=NetD17_1 Pin=R8-2
+Added Net: Name=NetD17_1
+Added Pin To Net: NetName=NetD21_1 Pin=D21-1
+Added Pin To Net: NetName=NetD21_1 Pin=R11-2
+Added Net: Name=NetD21_1
+Added Pin To Net: NetName=NetD24_1 Pin=D24-1
+Added Pin To Net: NetName=NetD24_1 Pin=R13-2
+Added Net: Name=NetD24_1
+Added Pin To Net: NetName=NetD28_1 Pin=D28-1
+Added Pin To Net: NetName=NetD28_1 Pin=R14-2
+Added Net: Name=NetD28_1
+Added Pin To Net: NetName=NetD32_1 Pin=D32-1
+Added Pin To Net: NetName=NetD32_1 Pin=R15-2
+Added Net: Name=NetD32_1

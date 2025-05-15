@@ -1,0 +1,24 @@
+Added Pin To Net: NetName=l1 Pin=D3-2
+Added Pin To Net: NetName=l1 Pin=D6-2
+Added Pin To Net: NetName=l1 Pin=U1-10
+Added Net: Name=l1
+Added Pin To Net: NetName=l2 Pin=D9-2
+Added Pin To Net: NetName=l2 Pin=U1-11
+Added Net: Name=l2
+Added Pin To Net: NetName=l3 Pin=D12-2
+Added Pin To Net: NetName=l3 Pin=U1-12
+Added Net: Name=l3
+Added Pin To Net: NetName=l4 Pin=D15-2
+Added Pin To Net: NetName=l4 Pin=U1-13
+Added Net: Name=l4
+Added Pin To Net: NetName=l5 Pin=D19-2
+Added Pin To Net: NetName=l5 Pin=U1-14
+Added Net: Name=l5
+Added Pin To Net: NetName=l6 Pin=D23-2
+Added Pin To Net: NetName=l6 Pin=U1-15
+Added Net: Name=l6
+Added Pin To Net: NetName=l7 Pin=D26-2
+Added Pin To Net: NetName=l7 Pin=D30-2
+Added Pin To Net: NetName=l7 Pin=D34-2
+Added Pin To Net: NetName=l7 Pin=U1-16
+Added Net: Name=l7
