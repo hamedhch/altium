@@ -1,0 +1,139 @@
+Removed Pin From Net: NetName=GND Pin=Buzzer1-2
+Removed Pin From Net: NetName=vcc Pin=D27-1
+Removed Pin From Net: NetName=vdd Pin=D31-2
+Removed Pin From Net: NetName=vdd Pin=D35-1
+Removed Pin From Net: NetName=vcc Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=vcc Pin=J2-1
+Removed Pin From Net: NetName=GND Pin=J2-2
+Removed Pin From Net: NetName=vcc Pin=J3-1
+Removed Pin From Net: NetName=GND Pin=J3-4
+Removed Pin From Net: NetName=vcc Pin=J4-1
+Removed Pin From Net: NetName=GND Pin=J4-3
+Removed Pin From Net: NetName=vdd Pin=J5-1
+Removed Pin From Net: NetName=GND Pin=J5-2
+Removed Pin From Net: NetName=o2 Pin=J5-3
+Removed Pin From Net: NetName=o1 Pin=J5-4
+Removed Pin From Net: NetName=GND Pin=Q3-2
+Removed Pin From Net: NetName=vcc Pin=Q4-3
+Removed Pin From Net: NetName=vcc Pin=R1-1
+Removed Pin From Net: NetName=vcc Pin=R2-1
+Removed Pin From Net: NetName=vcc Pin=R3-1
+Removed Pin From Net: NetName=vcc Pin=R4-1
+Removed Pin From Net: NetName=o1 Pin=R5-2
+Removed Pin From Net: NetName=GND Pin=R6-2
+Removed Pin From Net: NetName=vcc Pin=R7-1
+Removed Pin From Net: NetName=o2 Pin=R8-2
+Removed Pin From Net: NetName=GND Pin=R9-2
+Removed Pin From Net: NetName=vcc Pin=R10-1
+Removed Pin From Net: NetName=vcc Pin=R12-1
+Removed Pin From Net: NetName=vcc Pin=R13-1
+Removed Pin From Net: NetName=GND Pin=R15-1
+Removed Pin From Net: NetName=vcc Pin=R16-1
+Removed Pin From Net: NetName=GND Pin=R17-1
+Removed Pin From Net: NetName=vcc Pin=R18-1
+Removed Pin From Net: NetName=GND Pin=U1-8
+Removed Pin From Net: NetName=vcc Pin=U1-9
+Removed Pin From Net: NetName=vcc Pin=U3-1
+Removed Pin From Net: NetName=GND Pin=U3-8
+Removed Pin From Net: NetName=vcc Pin=U4-1
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Pin From Net: NetName=GND Pin=U4-2
+Removed Member From Class: ClassName=RF-car Member=Buzzer1
+Removed Member From Class: ClassName=RF-car Member=D13
+Removed Member From Class: ClassName=RF-car Member=D14
+Removed Member From Class: ClassName=RF-car Member=D15
+Removed Member From Class: ClassName=RF-car Member=D16
+Removed Member From Class: ClassName=RF-car Member=D17
+Removed Member From Class: ClassName=RF-car Member=D18
+Removed Member From Class: ClassName=RF-car Member=D19
+Removed Member From Class: ClassName=RF-car Member=D20
+Removed Member From Class: ClassName=RF-car Member=D21
+Removed Member From Class: ClassName=RF-car Member=D22
+Removed Member From Class: ClassName=RF-car Member=D23
+Removed Member From Class: ClassName=RF-car Member=D24
+Removed Member From Class: ClassName=RF-car Member=D25
+Removed Member From Class: ClassName=RF-car Member=D26
+Removed Member From Class: ClassName=RF-car Member=D27
+Removed Member From Class: ClassName=RF-car Member=D28
+Removed Member From Class: ClassName=RF-car Member=D29
+Removed Member From Class: ClassName=RF-car Member=D30
+Removed Member From Class: ClassName=RF-car Member=D31
+Removed Member From Class: ClassName=RF-car Member=D32
+Removed Member From Class: ClassName=RF-car Member=D33
+Removed Member From Class: ClassName=RF-car Member=D34
+Removed Member From Class: ClassName=RF-car Member=D35
+Removed Member From Class: ClassName=RF-car Member=D36
+Removed Member From Class: ClassName=RF-car Member=D37
+Removed Member From Class: ClassName=RF-car Member=D38
+Removed Member From Class: ClassName=RF-car Member=J2
+Removed Member From Class: ClassName=RF-car Member=J3
+Removed Member From Class: ClassName=RF-car Member=J4
+Removed Member From Class: ClassName=RF-car Member=J5
+Removed Member From Class: ClassName=RF-car Member=Q1
+Removed Member From Class: ClassName=RF-car Member=Q2
+Removed Member From Class: ClassName=RF-car Member=Q3
+Removed Member From Class: ClassName=RF-car Member=Q4
+Removed Member From Class: ClassName=RF-car Member=R1
+Removed Member From Class: ClassName=RF-car Member=R2
+Removed Member From Class: ClassName=RF-car Member=R3
+Removed Member From Class: ClassName=RF-car Member=R4
+Removed Member From Class: ClassName=RF-car Member=R5
+Removed Member From Class: ClassName=RF-car Member=R6
+Removed Member From Class: ClassName=RF-car Member=R7
+Removed Member From Class: ClassName=RF-car Member=R8
+Removed Member From Class: ClassName=RF-car Member=R9
+Removed Member From Class: ClassName=RF-car Member=R10
+Removed Member From Class: ClassName=RF-car Member=R11
+Removed Member From Class: ClassName=RF-car Member=R12
+Removed Member From Class: ClassName=RF-car Member=R13
+Removed Member From Class: ClassName=RF-car Member=R14
+Removed Member From Class: ClassName=RF-car Member=R15
+Removed Member From Class: ClassName=RF-car Member=R16
+Removed Member From Class: ClassName=RF-car Member=R17
+Removed Member From Class: ClassName=RF-car Member=R18
+Removed Member From Class: ClassName=RF-car Member=R19
+Removed Member From Class: ClassName=RF-car Member=R20
+Removed Member From Class: ClassName=RF-car Member=R21
+Removed Member From Class: ClassName=RF-car Member=R22
+Removed Member From Class: ClassName=RF-car Member=U2
+Removed Member From Class: ClassName=RF-car Member=U3
+Removed Member From Class: ClassName=RF-car Member=U4
+Change Component Designator: OldDesignator=D2 NewDesignator=D5
+Change Component Designator: OldDesignator=D3 NewDesignator=D6
+Change Component Designator: OldDesignator=D5 NewDesignator=D7
+Change Component Designator: OldDesignator=D6 NewDesignator=D8
+Change Component Designator: OldDesignator=D8 NewDesignator=D9
+Change Component Designator: OldDesignator=D9 NewDesignator=D10
+Change Component Designator: OldDesignator=D35 NewDesignator=D3
+Change Component Designator: OldDesignator=D36 NewDesignator=D4
+Change Component Designator: OldDesignator=D37 NewDesignator=D1
+Change Component Designator: OldDesignator=D38 NewDesignator=D2
+Change Component Designator: OldDesignator=J3 NewDesignator=J1
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Added Pin To Net: NetName=vcc Pin=D1-1
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=vcc Pin=D3-1
+Added Pin To Net: NetName=GND Pin=D4-2
+Added Pin To Net: NetName=vcc Pin=D5-1
+Added Pin To Net: NetName=GND Pin=D6-2
+Added Pin To Net: NetName=vcc Pin=D7-1
+Added Pin To Net: NetName=GND Pin=D8-2
+Added Pin To Net: NetName=vcc Pin=D9-1
+Added Pin To Net: NetName=GND Pin=D10-2
+Added Pin To Net: NetName=vcc Pin=D11-1
+Added Pin To Net: NetName=GND Pin=D12-2
+Added Pin To Net: NetName=o1 Pin=J1-1
+Added Pin To Net: NetName=o2 Pin=J1-2
+Added Pin To Net: NetName=vcc Pin=J1-4
+Added Pin To Net: NetName=o1 Pin=U1-4
+Added Pin To Net: NetName=o2 Pin=U1-6
+Change Net Name : Old Net Name=NetD2_2 New Net Name=NetD5_2
+Change Net Name : Old Net Name=NetD5_2 New Net Name=NetD7_2
+Change Net Name : Old Net Name=NetD8_2 New Net Name=NetD9_2
+Change Net Name : Old Net Name=NetD35_2 New Net Name=NetD3_2
+Change Net Name : Old Net Name=NetD37_2 New Net Name=NetD1_2
+Added Pin To Net: NetName=o3 Pin=J1-3
+Added Pin To Net: NetName=o3 Pin=U1-5
+Added Net: Name=o3
+Change Class Name : Old Net Name=RF-car New Net Name=clock-3key
