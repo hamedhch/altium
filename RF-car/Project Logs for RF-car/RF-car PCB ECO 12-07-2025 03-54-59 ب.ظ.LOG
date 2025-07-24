@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=NetD36_2 Pin=D37-1
+Add component: Footprint Not Found RES 1206 (3216X08L)
+Added Pin To Net: NetName=NetD36_2 Pin=R19-1
+Add Class Member: Failed to add class member : Component R23 10K

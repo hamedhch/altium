@@ -1,0 +1,50 @@
+Removed Pin From Net: NetName=vcc Pin=R13-2
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R16
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Change Component Designator: OldDesignator=R17 NewDesignator=R18
+Change Component Designator: OldDesignator=R19 NewDesignator=R20
+Change Component Designator: OldDesignator=R21 NewDesignator=R22
+Change Component Designator: OldDesignator=R22 NewDesignator=R23
+Change Component Designator: OldDesignator=R23 NewDesignator=R24
+Change Component Designator: OldDesignator=R25 NewDesignator=R26
+Add component: Footprint Not Found 3.2X1.6X1.1
+Add component: Footprint Not Found 3.2X1.6X1.1
+Add component: Footprint Not Found 3.2X1.6X1.1
+Add component: Footprint Not Found 3.2X1.6X1.1
+Add component: Footprint Not Found 3.2X1.6X1.1
+Add component: Footprint Not Found 3.2X1.6X1.1
+Add component: Footprint Not Found RES 1206 (3216X08L)
+Add component: Footprint Not Found RES 1206 (3216X08L)
+Add component: Footprint Not Found RES 1206 (3216X08L)
+Add component: Footprint Not Found RES 1206 (3216X08L)
+Add Pin To Net: Unknown Pin: Pin D30-1
+Add Pin To Net: Unknown Pin: Pin D30-2
+Add Pin To Net: Unknown Pin: Pin D31-1
+Add Pin To Net: Unknown Pin: Pin D31-2
+Add Pin To Net: Unknown Pin: Pin D32-1
+Add Pin To Net: Unknown Pin: Pin D32-2
+Add Pin To Net: Unknown Pin: Pin D34-1
+Add Pin To Net: Unknown Pin: Pin D34-2
+Add Pin To Net: Unknown Pin: Pin D35-1
+Add Pin To Net: Unknown Pin: Pin D35-2
+Add Pin To Net: Unknown Pin: Pin D36-1
+Add Pin To Net: Unknown Pin: Pin D36-2
+Add Pin To Net: Unknown Pin: Pin R14-2
+Add Pin To Net: Unknown Pin: Pin R19-1
+Add Pin To Net: Unknown Pin: Pin R19-2
+Add Pin To Net: Unknown Pin: Pin R21-1
+Add Pin To Net: Unknown Pin: Pin R21-2
+Change Net Name : Old Net Name=NetR22_1 New Net Name=NetR23_1
+Added Pin To Net: NetName=NetR13_2 Pin=R13-2
+Added Net: Name=NetR13_2
+Add Class Member: Failed to add class member : Component D30 LED2
+Add Class Member: Failed to add class member : Component D31 LED2
+Add Class Member: Failed to add class member : Component D32 LED2
+Add Class Member: Failed to add class member : Component D34 LED2
+Add Class Member: Failed to add class member : Component D35 LED2
+Add Class Member: Failed to add class member : Component D36 LED2
+Added Member To Class: ClassName=RF-car Member=Component R18 10K
+Added Member To Class: ClassName=RF-car Member=Component R20 10K
+Added Member To Class: ClassName=RF-car Member=Component R24 10K
+Added Member To Class: ClassName=RF-car Member=Component R26 10K
