@@ -1,0 +1,829 @@
+Removed Pin From Net: NetName=VCC Pin=D14-1
+Removed Pin From Net: NetName=DN Pin=D16-2
+Removed Pin From Net: NetName=VCC Pin=D23-1
+Removed Pin From Net: NetName=VCC Pin=D24-1
+Removed Pin From Net: NetName=VCC Pin=D32-1
+Removed Pin From Net: NetName=VCC Pin=D39-1
+Removed Pin From Net: NetName=UP Pin=D43-2
+Removed Pin From Net: NetName=VCC Pin=D44-1
+Removed Pin From Net: NetName=NetD45_2 Pin=D46-1
+Removed Pin From Net: NetName=VCC Pin=D50-1
+Removed Pin From Net: NetName=VCC Pin=D51-1
+Removed Pin From Net: NetName=NetD54_2 Pin=D55-1
+Removed Pin From Net: NetName=VCC Pin=D57-1
+Removed Pin From Net: NetName=NetD57_2 Pin=D58-1
+Removed Pin From Net: NetName=DN Pin=R3-1
+Removed Pin From Net: NetName=NetD11_2 Pin=R3-2
+Removed Pin From Net: NetName=B Pin=R4-1
+Removed Pin From Net: NetName=C Pin=R5-1
+Removed Pin From Net: NetName=DN Pin=R6-1
+Removed Pin From Net: NetName=NetD20_2 Pin=R6-2
+Removed Pin From Net: NetName=D Pin=R7-1
+Removed Pin From Net: NetName=E Pin=R9-1
+Removed Pin From Net: NetName=UP Pin=R10-1
+Removed Pin From Net: NetName=NetD36_2 Pin=R10-2
+Removed Pin From Net: NetName=F Pin=R11-1
+Removed Pin From Net: NetName=UP Pin=R12-1
+Removed Pin From Net: NetName=NetD47_2 Pin=R12-2
+Removed Pin From Net: NetName=G Pin=R13-1
+Removed Pin From Net: NetName=NetD46_2 Pin=R13-2
+Removed Pin From Net: NetName=1 Pin=R14-1
+Removed Pin From Net: NetName=NetD56_2 Pin=R14-2
+Removed Pin From Net: NetName=- Pin=R15-1
+Removed Pin From Net: NetName=NetD59_2 Pin=R15-2
+Change Component Footprint: Designator=D16 Old Footprint=3.2X1.6X1.1 New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D43 Old Footprint=3.2X1.6X1.1 New Footprint=RES 0805 (2012X06L)
+Change Component Comment : Designator=D16 Old Comment=D Tunnel1 New Comment=MODEL
+Change Component Comment : Designator=D43 Old Comment=D Tunnel1 New Comment=MODEL
+Change Component Designator: OldDesignator=D5 NewDesignator=D1
+Change Component Designator: OldDesignator=D6 NewDesignator=D2
+Change Component Designator: OldDesignator=D7 NewDesignator=D3
+Change Component Designator: OldDesignator=D8 NewDesignator=D13
+Change Component Designator: OldDesignator=D9 NewDesignator=D14
+Change Component Designator: OldDesignator=D10 NewDesignator=D15
+Change Component Designator: OldDesignator=D15 NewDesignator=D127
+Change Component Designator: OldDesignator=D17 NewDesignator=D25
+Change Component Designator: OldDesignator=D18 NewDesignator=D26
+Change Component Designator: OldDesignator=D19 NewDesignator=D27
+Change Component Designator: OldDesignator=D24 NewDesignator=D37
+Change Component Designator: OldDesignator=D25 NewDesignator=D38
+Change Component Designator: OldDesignator=D26 NewDesignator=D39
+Change Component Designator: OldDesignator=D33 NewDesignator=D49
+Change Component Designator: OldDesignator=D34 NewDesignator=D50
+Change Component Designator: OldDesignator=D35 NewDesignator=D51
+Change Component Designator: OldDesignator=D40 NewDesignator=D61
+Change Component Designator: OldDesignator=D41 NewDesignator=D62
+Change Component Designator: OldDesignator=D42 NewDesignator=D63
+Change Component Designator: OldDesignator=P2 NewDesignator=P1
+Change Component Designator: OldDesignator=R2 NewDesignator=R1
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R9
+Change Component Designator: OldDesignator=R7 NewDesignator=R13
+Change Component Designator: OldDesignator=R9 NewDesignator=R17
+Change Component Designator: OldDesignator=R11 NewDesignator=R21
+Change component parameters: Designator = "D16" ("D16"); Footprint = "3.2X1.6X1.1"; UniqueID = "\FNVUQNDC" ("\FNVUQNDC")
+Change component parameters (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D43" ("D43"); Footprint = "3.2X1.6X1.1"; UniqueID = "\LSIFVBGB" ("\LSIFVBGB")
+Change component parameters (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D4(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D5(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D6(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D7(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D8(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D9(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D10(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D17(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D18(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D19(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D24(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D33(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D34(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D35(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D40(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D41(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D42(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D60(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D64(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D65(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D66(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D67(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D68(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D69(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D70(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D71(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D72(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D73(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D74(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D75(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D76(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D77(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D78(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D79(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D80(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D81(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D82(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D83(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D84(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D85(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D86(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D87(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D88(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D89(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D90(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D91(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D92(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D93(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D94(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D95(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D96(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D97(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D98(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D99(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D100(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D101(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D102(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D103(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D104(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D105(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D106(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D107(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D108(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D109(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D110(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D111(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D112(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D113(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D114(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D115(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D116(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D117(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D118(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D119(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D120(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D121(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D122(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D123(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D124(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D125(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=D126(RES 0805 (2012X06L))
+Add component (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R19(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R20(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R22(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R23(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R24(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R25(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R26(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R27(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R28(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R29(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R30(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R31(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R32(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R33(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R34(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R35(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R36(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R37(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R38(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R39(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R40(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R41(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R42(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=D4-1
+Added Pin To Net: NetName=VCC Pin=D7-1
+Added Pin To Net: NetName=VCC Pin=D10-1
+Added Pin To Net: NetName=NetD11_2 Pin=D12-1
+Added Pin To Net: NetName=VCC Pin=D16-1
+Added Pin To Net: NetName=VCC Pin=D19-1
+Added Pin To Net: NetName=NetD20_2 Pin=D21-1
+Added Pin To Net: NetName=VCC Pin=D22-1
+Added Pin To Net: NetName=VCC Pin=D28-1
+Added Pin To Net: NetName=VCC Pin=D31-1
+Added Pin To Net: NetName=VCC Pin=D34-1
+Added Pin To Net: NetName=NetD46_2 Pin=D47-1
+Added Pin To Net: NetName=NetD47_2 Pin=D48-1
+Added Pin To Net: NetName=VCC Pin=D52-1
+Added Pin To Net: NetName=VCC Pin=D55-1
+Added Pin To Net: NetName=NetD56_2 Pin=D57-1
+Added Pin To Net: NetName=VCC Pin=D58-1
+Added Pin To Net: NetName=NetD59_2 Pin=D60-1
+Added Pin To Net: NetName=VCC Pin=D64-1
+Added Pin To Net: NetName=VCC Pin=D67-1
+Added Pin To Net: NetName=VCC Pin=D70-1
+Added Pin To Net: NetName=VCC Pin=D73-1
+Added Pin To Net: NetName=VCC Pin=D76-1
+Added Pin To Net: NetName=VCC Pin=D79-1
+Added Pin To Net: NetName=VCC Pin=D82-1
+Added Pin To Net: NetName=VCC Pin=D85-1
+Added Pin To Net: NetName=VCC Pin=D88-1
+Added Pin To Net: NetName=VCC Pin=D91-1
+Added Pin To Net: NetName=VCC Pin=D94-1
+Added Pin To Net: NetName=VCC Pin=D97-1
+Added Pin To Net: NetName=VCC Pin=D109-1
+Added Pin To Net: NetName=VCC Pin=D112-1
+Added Pin To Net: NetName=VCC Pin=D115-1
+Added Pin To Net: NetName=VCC Pin=D118-1
+Added Pin To Net: NetName=VCC Pin=D121-1
+Added Pin To Net: NetName=VCC Pin=D124-1
+Added Pin To Net: NetName=C Pin=R3-1
+Added Pin To Net: NetName=A Pin=R5-1
+Added Pin To Net: NetName=C Pin=R7-1
+Added Pin To Net: NetName=A Pin=R9-1
+Added Pin To Net: NetName=C Pin=R11-1
+Added Pin To Net: NetName=NetD36_2 Pin=R12-2
+Added Pin To Net: NetName=A Pin=R13-1
+Added Pin To Net: NetName=C Pin=R15-1
+Added Pin To Net: NetName=NetD45_2 Pin=R15-2
+Added Pin To Net: NetName=A Pin=R17-1
+Added Pin To Net: NetName=NetD54_2 Pin=R18-2
+Added Pin To Net: NetName=C Pin=R19-1
+Added Pin To Net: NetName=NetD57_2 Pin=R19-2
+Added Pin To Net: NetName=A Pin=R21-1
+Added Pin To Net: NetName=C Pin=R23-1
+Added Pin To Net: NetName=F Pin=R26-1
+Added Pin To Net: NetName=F Pin=R29-1
+Added Pin To Net: NetName=F Pin=R32-1
+Added Pin To Net: NetName=F Pin=R35-1
+Added Pin To Net: NetName=F Pin=R38-1
+Added Pin To Net: NetName=F Pin=R41-1
+Change Net Name : Old Net Name=NetD5_2 New Net Name=NetD1_2
+Change Net Name : Old Net Name=NetD6_2 New Net Name=NetD2_2
+Change Net Name : Old Net Name=NetD7_2 New Net Name=NetD3_2
+Change Net Name : Old Net Name=NetD8_2 New Net Name=NetD13_2
+Change Net Name : Old Net Name=NetD9_2 New Net Name=NetD14_2
+Change Net Name : Old Net Name=NetD10_2 New Net Name=NetD15_2
+Change Net Name : Old Net Name=NetD17_2 New Net Name=NetD25_2
+Change Net Name : Old Net Name=NetD18_2 New Net Name=NetD26_2
+Change Net Name : Old Net Name=NetD19_2 New Net Name=NetD27_2
+Change Net Name : Old Net Name=NetD24_2 New Net Name=NetD37_2
+Change Net Name : Old Net Name=NetD25_2 New Net Name=NetD38_2
+Change Net Name : Old Net Name=NetD26_2 New Net Name=NetD39_2
+Change Net Name : Old Net Name=NetD33_2 New Net Name=NetD49_2
+Change Net Name : Old Net Name=NetD34_2 New Net Name=NetD50_2
+Change Net Name : Old Net Name=NetD35_2 New Net Name=NetD51_2
+Change Net Name : Old Net Name=NetD40_2 New Net Name=NetD61_2
+Change Net Name : Old Net Name=NetD41_2 New Net Name=NetD62_2
+Change Net Name : Old Net Name=NetD42_2 New Net Name=NetD63_2
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=NetD4_2 Pin=D5-1
+Added Net: Name=NetD4_2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=D6-1
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=R2-2
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=D8-1
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=D9-1
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD9_2 Pin=R3-2
+Added Net: Name=NetD9_2
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=D11-1
+Added Net: Name=NetD10_2
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
+Added Pin To Net: NetName=NetD12_2 Pin=R4-2
+Added Net: Name=NetD12_2
+Added Pin To Net: NetName=NetD16_2 Pin=D16-2
+Added Pin To Net: NetName=NetD16_2 Pin=D17-1
+Added Net: Name=NetD16_2
+Added Pin To Net: NetName=NetD17_2 Pin=D17-2
+Added Pin To Net: NetName=NetD17_2 Pin=D18-1
+Added Net: Name=NetD17_2
+Added Pin To Net: NetName=NetD18_2 Pin=D18-2
+Added Pin To Net: NetName=NetD18_2 Pin=R6-2
+Added Net: Name=NetD18_2
+Added Pin To Net: NetName=NetD19_2 Pin=D19-2
+Added Pin To Net: NetName=NetD19_2 Pin=D20-1
+Added Net: Name=NetD19_2
+Added Pin To Net: NetName=NetD21_2 Pin=D21-2
+Added Pin To Net: NetName=NetD21_2 Pin=R7-2
+Added Net: Name=NetD21_2
+Added Pin To Net: NetName=NetD22_2 Pin=D22-2
+Added Pin To Net: NetName=NetD22_2 Pin=D23-1
+Added Net: Name=NetD22_2
+Added Pin To Net: NetName=NetD23_2 Pin=D23-2
+Added Pin To Net: NetName=NetD23_2 Pin=D24-1
+Added Net: Name=NetD23_2
+Added Pin To Net: NetName=NetD24_2 Pin=D24-2
+Added Pin To Net: NetName=NetD24_2 Pin=R8-2
+Added Net: Name=NetD24_2
+Added Pin To Net: NetName=NetD28_2 Pin=D28-2
+Added Pin To Net: NetName=NetD28_2 Pin=D29-1
+Added Net: Name=NetD28_2
+Added Pin To Net: NetName=NetD29_2 Pin=D29-2
+Added Pin To Net: NetName=NetD29_2 Pin=D30-1
+Added Net: Name=NetD29_2
+Added Pin To Net: NetName=NetD30_2 Pin=D30-2
+Added Pin To Net: NetName=NetD30_2 Pin=R10-2
+Added Net: Name=NetD30_2
+Added Pin To Net: NetName=NetD31_2 Pin=D31-2
+Added Pin To Net: NetName=NetD31_2 Pin=D32-1
+Added Net: Name=NetD31_2
+Added Pin To Net: NetName=NetD32_2 Pin=D32-2
+Added Pin To Net: NetName=NetD32_2 Pin=D33-1
+Added Net: Name=NetD32_2
+Added Pin To Net: NetName=NetD33_2 Pin=D33-2
+Added Pin To Net: NetName=NetD33_2 Pin=R11-2
+Added Net: Name=NetD33_2
+Added Pin To Net: NetName=NetD34_2 Pin=D34-2
+Added Pin To Net: NetName=NetD34_2 Pin=D35-1
+Added Net: Name=NetD34_2
+Added Pin To Net: NetName=NetD35_2 Pin=D35-2
+Added Pin To Net: NetName=NetD35_2 Pin=D36-1
+Added Net: Name=NetD35_2
+Added Pin To Net: NetName=NetD40_2 Pin=D40-2
+Added Pin To Net: NetName=NetD40_2 Pin=D41-1
+Added Net: Name=NetD40_2
+Added Pin To Net: NetName=NetD41_2 Pin=D41-2
+Added Pin To Net: NetName=NetD41_2 Pin=D42-1
+Added Net: Name=NetD41_2
+Added Pin To Net: NetName=NetD42_2 Pin=D42-2
+Added Pin To Net: NetName=NetD42_2 Pin=R14-2
+Added Net: Name=NetD42_2
+Added Pin To Net: NetName=NetD43_2 Pin=D43-2
+Added Pin To Net: NetName=NetD43_2 Pin=D44-1
+Added Net: Name=NetD43_2
+Added Pin To Net: NetName=NetD48_2 Pin=D48-2
+Added Pin To Net: NetName=NetD48_2 Pin=R16-2
+Added Net: Name=NetD48_2
+Added Pin To Net: NetName=NetD60_2 Pin=D60-2
+Added Pin To Net: NetName=NetD60_2 Pin=R20-2
+Added Net: Name=NetD60_2
+Added Pin To Net: NetName=NetD64_2 Pin=D64-2
+Added Pin To Net: NetName=NetD64_2 Pin=D65-1
+Added Net: Name=NetD64_2
+Added Pin To Net: NetName=NetD65_2 Pin=D65-2
+Added Pin To Net: NetName=NetD65_2 Pin=D66-1
+Added Net: Name=NetD65_2
+Added Pin To Net: NetName=NetD66_2 Pin=D66-2
+Added Pin To Net: NetName=NetD66_2 Pin=R22-2
+Added Net: Name=NetD66_2
+Added Pin To Net: NetName=NetD67_2 Pin=D67-2
+Added Pin To Net: NetName=NetD67_2 Pin=D68-1
+Added Net: Name=NetD67_2
+Added Pin To Net: NetName=NetD68_2 Pin=D68-2
+Added Pin To Net: NetName=NetD68_2 Pin=D69-1
+Added Net: Name=NetD68_2
+Added Pin To Net: NetName=NetD69_2 Pin=D69-2
+Added Pin To Net: NetName=NetD69_2 Pin=R23-2
+Added Net: Name=NetD69_2
+Added Pin To Net: NetName=NetD70_2 Pin=D70-2
+Added Pin To Net: NetName=NetD70_2 Pin=D71-1
+Added Net: Name=NetD70_2
+Added Pin To Net: NetName=NetD71_2 Pin=D71-2
+Added Pin To Net: NetName=NetD71_2 Pin=D72-1
+Added Net: Name=NetD71_2
+Added Pin To Net: NetName=NetD72_2 Pin=D72-2
+Added Pin To Net: NetName=NetD72_2 Pin=R24-2
+Added Net: Name=NetD72_2
+Added Pin To Net: NetName=NetD73_2 Pin=D73-2
+Added Pin To Net: NetName=NetD73_2 Pin=D74-1
+Added Net: Name=NetD73_2
+Added Pin To Net: NetName=NetD74_2 Pin=D74-2
+Added Pin To Net: NetName=NetD74_2 Pin=D75-1
+Added Net: Name=NetD74_2
+Added Pin To Net: NetName=NetD75_2 Pin=D75-2
+Added Pin To Net: NetName=NetD75_2 Pin=R25-2
+Added Net: Name=NetD75_2
+Added Pin To Net: NetName=NetD76_2 Pin=D76-2
+Added Pin To Net: NetName=NetD76_2 Pin=D77-1
+Added Net: Name=NetD76_2
+Added Pin To Net: NetName=NetD77_2 Pin=D77-2
+Added Pin To Net: NetName=NetD77_2 Pin=D78-1
+Added Net: Name=NetD77_2
+Added Pin To Net: NetName=NetD78_2 Pin=D78-2
+Added Pin To Net: NetName=NetD78_2 Pin=R26-2
+Added Net: Name=NetD78_2
+Added Pin To Net: NetName=NetD79_2 Pin=D79-2
+Added Pin To Net: NetName=NetD79_2 Pin=D80-1
+Added Net: Name=NetD79_2
+Added Pin To Net: NetName=NetD80_2 Pin=D80-2
+Added Pin To Net: NetName=NetD80_2 Pin=D81-1
+Added Net: Name=NetD80_2
+Added Pin To Net: NetName=NetD81_2 Pin=D81-2
+Added Pin To Net: NetName=NetD81_2 Pin=R27-2
+Added Net: Name=NetD81_2
+Added Pin To Net: NetName=NetD82_2 Pin=D82-2
+Added Pin To Net: NetName=NetD82_2 Pin=D83-1
+Added Net: Name=NetD82_2
+Added Pin To Net: NetName=NetD83_2 Pin=D83-2
+Added Pin To Net: NetName=NetD83_2 Pin=D84-1
+Added Net: Name=NetD83_2
+Added Pin To Net: NetName=NetD84_2 Pin=D84-2
+Added Pin To Net: NetName=NetD84_2 Pin=R28-2
+Added Net: Name=NetD84_2
+Added Pin To Net: NetName=NetD85_2 Pin=D85-2
+Added Pin To Net: NetName=NetD85_2 Pin=D86-1
+Added Net: Name=NetD85_2
+Added Pin To Net: NetName=NetD86_2 Pin=D86-2
+Added Pin To Net: NetName=NetD86_2 Pin=D87-1
+Added Net: Name=NetD86_2
+Added Pin To Net: NetName=NetD87_2 Pin=D87-2
+Added Pin To Net: NetName=NetD87_2 Pin=R29-2
+Added Net: Name=NetD87_2
+Added Pin To Net: NetName=NetD88_2 Pin=D88-2
+Added Pin To Net: NetName=NetD88_2 Pin=D89-1
+Added Net: Name=NetD88_2
+Added Pin To Net: NetName=NetD89_2 Pin=D89-2
+Added Pin To Net: NetName=NetD89_2 Pin=D90-1
+Added Net: Name=NetD89_2
+Added Pin To Net: NetName=NetD90_2 Pin=D90-2
+Added Pin To Net: NetName=NetD90_2 Pin=R30-2
+Added Net: Name=NetD90_2
+Added Pin To Net: NetName=NetD91_2 Pin=D91-2
+Added Pin To Net: NetName=NetD91_2 Pin=D92-1
+Added Net: Name=NetD91_2
+Added Pin To Net: NetName=NetD92_2 Pin=D92-2
+Added Pin To Net: NetName=NetD92_2 Pin=D93-1
+Added Net: Name=NetD92_2
+Added Pin To Net: NetName=NetD93_2 Pin=D93-2
+Added Pin To Net: NetName=NetD93_2 Pin=R31-2
+Added Net: Name=NetD93_2
+Added Pin To Net: NetName=NetD94_2 Pin=D94-2
+Added Pin To Net: NetName=NetD94_2 Pin=D95-1
+Added Net: Name=NetD94_2
+Added Pin To Net: NetName=NetD95_2 Pin=D95-2
+Added Pin To Net: NetName=NetD95_2 Pin=D96-1
+Added Net: Name=NetD95_2
+Added Pin To Net: NetName=NetD96_2 Pin=D96-2
+Added Pin To Net: NetName=NetD96_2 Pin=R32-2
+Added Net: Name=NetD96_2
+Added Pin To Net: NetName=NetD97_2 Pin=D97-2
+Added Pin To Net: NetName=NetD97_2 Pin=D98-1
+Added Net: Name=NetD97_2
+Added Pin To Net: NetName=NetD98_2 Pin=D98-2
+Added Pin To Net: NetName=NetD98_2 Pin=D99-1
+Added Net: Name=NetD98_2
+Added Pin To Net: NetName=NetD99_2 Pin=D99-2
+Added Pin To Net: NetName=NetD99_2 Pin=R33-2
+Added Net: Name=NetD99_2
+Added Pin To Net: NetName=NetD100_2 Pin=D100-2
+Added Pin To Net: NetName=NetD100_2 Pin=D101-1
+Added Net: Name=NetD100_2
+Added Pin To Net: NetName=NetD101_2 Pin=D101-2
+Added Pin To Net: NetName=NetD101_2 Pin=D102-1
+Added Net: Name=NetD101_2
+Added Pin To Net: NetName=NetD102_2 Pin=D102-2
+Added Pin To Net: NetName=NetD102_2 Pin=R34-2
+Added Net: Name=NetD102_2
+Added Pin To Net: NetName=NetD103_2 Pin=D103-2
+Added Pin To Net: NetName=NetD103_2 Pin=D104-1
+Added Net: Name=NetD103_2
+Added Pin To Net: NetName=NetD104_2 Pin=D104-2
+Added Pin To Net: NetName=NetD104_2 Pin=D105-1
+Added Net: Name=NetD104_2
+Added Pin To Net: NetName=NetD105_2 Pin=D105-2
+Added Pin To Net: NetName=NetD105_2 Pin=R35-2
+Added Net: Name=NetD105_2
+Added Pin To Net: NetName=NetD106_2 Pin=D106-2
+Added Pin To Net: NetName=NetD106_2 Pin=D107-1
+Added Net: Name=NetD106_2
+Added Pin To Net: NetName=NetD107_2 Pin=D107-2
+Added Pin To Net: NetName=NetD107_2 Pin=D108-1
+Added Net: Name=NetD107_2
+Added Pin To Net: NetName=NetD108_2 Pin=D108-2
+Added Pin To Net: NetName=NetD108_2 Pin=R36-2
+Added Net: Name=NetD108_2
+Added Pin To Net: NetName=NetD109_2 Pin=D109-2
+Added Pin To Net: NetName=NetD109_2 Pin=D110-1
+Added Net: Name=NetD109_2
+Added Pin To Net: NetName=NetD110_2 Pin=D110-2
+Added Pin To Net: NetName=NetD110_2 Pin=D111-1
+Added Net: Name=NetD110_2
+Added Pin To Net: NetName=NetD111_2 Pin=D111-2
+Added Pin To Net: NetName=NetD111_2 Pin=R37-2
+Added Net: Name=NetD111_2
+Added Pin To Net: NetName=NetD112_2 Pin=D112-2
+Added Pin To Net: NetName=NetD112_2 Pin=D113-1
+Added Net: Name=NetD112_2
+Added Pin To Net: NetName=NetD113_2 Pin=D113-2
+Added Pin To Net: NetName=NetD113_2 Pin=D114-1
+Added Net: Name=NetD113_2
+Added Pin To Net: NetName=NetD114_2 Pin=D114-2
+Added Pin To Net: NetName=NetD114_2 Pin=R38-2
+Added Net: Name=NetD114_2
+Added Pin To Net: NetName=NetD115_2 Pin=D115-2
+Added Pin To Net: NetName=NetD115_2 Pin=D116-1
+Added Net: Name=NetD115_2
+Added Pin To Net: NetName=NetD116_2 Pin=D116-2
+Added Pin To Net: NetName=NetD116_2 Pin=D117-1
+Added Net: Name=NetD116_2
+Added Pin To Net: NetName=NetD117_2 Pin=D117-2
+Added Pin To Net: NetName=NetD117_2 Pin=R39-2
+Added Net: Name=NetD117_2
+Added Pin To Net: NetName=NetD118_2 Pin=D118-2
+Added Pin To Net: NetName=NetD118_2 Pin=D119-1
+Added Net: Name=NetD118_2
+Added Pin To Net: NetName=NetD119_2 Pin=D119-2
+Added Pin To Net: NetName=NetD119_2 Pin=D120-1
+Added Net: Name=NetD119_2
+Added Pin To Net: NetName=NetD120_2 Pin=D120-2
+Added Pin To Net: NetName=NetD120_2 Pin=R40-2
+Added Net: Name=NetD120_2
+Added Pin To Net: NetName=NetD121_2 Pin=D121-2
+Added Pin To Net: NetName=NetD121_2 Pin=D122-1
+Added Net: Name=NetD121_2
+Added Pin To Net: NetName=NetD122_2 Pin=D122-2
+Added Pin To Net: NetName=NetD122_2 Pin=D123-1
+Added Net: Name=NetD122_2
+Added Pin To Net: NetName=NetD123_2 Pin=D123-2
+Added Pin To Net: NetName=NetD123_2 Pin=R41-2
+Added Net: Name=NetD123_2
+Added Pin To Net: NetName=NetD124_2 Pin=D124-2
+Added Pin To Net: NetName=NetD124_2 Pin=D125-1
+Added Net: Name=NetD124_2
+Added Pin To Net: NetName=NetD125_2 Pin=D125-2
+Added Pin To Net: NetName=NetD125_2 Pin=D126-1
+Added Net: Name=NetD125_2
+Added Pin To Net: NetName=NetD126_2 Pin=D126-2
+Added Pin To Net: NetName=NetD126_2 Pin=R42-2
+Added Net: Name=NetD126_2
+Added Pin To Net: NetName=NetR2_1 Pin=R2-1
+Added Pin To Net: NetName=NetR2_1 Pin=R6-1
+Added Pin To Net: NetName=NetR2_1 Pin=R10-1
+Added Pin To Net: NetName=NetR2_1 Pin=R14-1
+Added Pin To Net: NetName=NetR2_1 Pin=R18-1
+Added Pin To Net: NetName=NetR2_1 Pin=R22-1
+Added Net: Name=NetR2_1
+Added Pin To Net: NetName=NetR4_1 Pin=R4-1
+Added Pin To Net: NetName=NetR4_1 Pin=R8-1
+Added Pin To Net: NetName=NetR4_1 Pin=R12-1
+Added Pin To Net: NetName=NetR4_1 Pin=R16-1
+Added Pin To Net: NetName=NetR4_1 Pin=R20-1
+Added Pin To Net: NetName=NetR4_1 Pin=R24-1
+Added Net: Name=NetR4_1
+Added Pin To Net: NetName=NetR25_1 Pin=R25-1
+Added Pin To Net: NetName=NetR25_1 Pin=R28-1
+Added Pin To Net: NetName=NetR25_1 Pin=R31-1
+Added Pin To Net: NetName=NetR25_1 Pin=R34-1
+Added Pin To Net: NetName=NetR25_1 Pin=R37-1
+Added Pin To Net: NetName=NetR25_1 Pin=R40-1
+Added Net: Name=NetR25_1
+Added Pin To Net: NetName=NetR27_1 Pin=R27-1
+Added Pin To Net: NetName=NetR27_1 Pin=R30-1
+Added Pin To Net: NetName=NetR27_1 Pin=R33-1
+Added Pin To Net: NetName=NetR27_1 Pin=R36-1
+Added Pin To Net: NetName=NetR27_1 Pin=R39-1
+Added Pin To Net: NetName=NetR27_1 Pin=R42-1
+Added Net: Name=NetR27_1
+Added Member To Class: ClassName=bigsegment Member=Component D4 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D5 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D6 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D7 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D60 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D61 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D62 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D63 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D64 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D65 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D66 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D67 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D68 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D69 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D70 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D71 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D72 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D73 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D74 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D75 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D76 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D77 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D78 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D79 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D80 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D81 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D82 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D83 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D84 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D85 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D86 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D87 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D88 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D89 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D90 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D91 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D92 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D93 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D94 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D95 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D96 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D97 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D98 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D99 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D100 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D101 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D102 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D103 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D104 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D105 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D106 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D107 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D108 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D109 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D110 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D111 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D112 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D113 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D114 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D115 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D116 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D117 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D118 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D119 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D120 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D121 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D122 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D123 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D124 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D125 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D126 MODEL
+Added Member To Class: ClassName=bigsegment Member=Component D127 D Tunnel1
+Added Member To Class: ClassName=bigsegment Member=Component R2 10K
+Added Member To Class: ClassName=bigsegment Member=Component R16 10K
+Added Member To Class: ClassName=bigsegment Member=Component R17 10K
+Added Member To Class: ClassName=bigsegment Member=Component R18 10K
+Added Member To Class: ClassName=bigsegment Member=Component R19 10K
+Added Member To Class: ClassName=bigsegment Member=Component R20 10K
+Added Member To Class: ClassName=bigsegment Member=Component R21 10K
+Added Member To Class: ClassName=bigsegment Member=Component R22 10K
+Added Member To Class: ClassName=bigsegment Member=Component R23 10K
+Added Member To Class: ClassName=bigsegment Member=Component R24 10K
+Added Member To Class: ClassName=bigsegment Member=Component R25 10K
+Added Member To Class: ClassName=bigsegment Member=Component R26 10K
+Added Member To Class: ClassName=bigsegment Member=Component R27 10K
+Added Member To Class: ClassName=bigsegment Member=Component R28 10K
+Added Member To Class: ClassName=bigsegment Member=Component R29 10K
+Added Member To Class: ClassName=bigsegment Member=Component R30 10K
+Added Member To Class: ClassName=bigsegment Member=Component R31 10K
+Added Member To Class: ClassName=bigsegment Member=Component R32 10K
+Added Member To Class: ClassName=bigsegment Member=Component R33 10K
+Added Member To Class: ClassName=bigsegment Member=Component R34 10K
+Added Member To Class: ClassName=bigsegment Member=Component R35 10K
+Added Member To Class: ClassName=bigsegment Member=Component R36 10K
+Added Member To Class: ClassName=bigsegment Member=Component R37 10K
+Added Member To Class: ClassName=bigsegment Member=Component R38 10K
+Added Member To Class: ClassName=bigsegment Member=Component R39 10K
+Added Member To Class: ClassName=bigsegment Member=Component R40 10K
+Added Member To Class: ClassName=bigsegment Member=Component R41 10K
+Added Member To Class: ClassName=bigsegment Member=Component R42 10K
+Change Simulation Model (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "COLOR"; Value = "RED"; VariantName = "[No Variations]"
