@@ -1,0 +1,58 @@
+Removed Pin From Net: NetName=o1 Pin=Q1-1
+Removed Pin From Net: NetName=o2 Pin=Q2-1
+Removed Pin From Net: NetName=o3 Pin=Q3-1
+Removed Pin From Net: NetName=o3 Pin=R2-1
+Removed Pin From Net: NetName=o1 Pin=R3-1
+Removed Pin From Net: NetName=o2 Pin=R4-1
+Change Footprint: Cannot match pads with new footprint in component :D10 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D11 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D12 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D13 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D14 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D15 Footprint:LEDC3216X120N
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R5
+Change Component Designator: OldDesignator=R4 NewDesignator=R6
+Change Component Designator: OldDesignator=R5 NewDesignator=R8
+Change Component Designator: OldDesignator=R6 NewDesignator=R9
+Change Component Designator: OldDesignator=R7 NewDesignator=R10
+Add component: Footprint Not Found minimelf
+Added Component: Designator=R2(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Added Pin To Net: NetName=o22 Pin=Q2-1
+Added Pin To Net: NetName=o3 Pin=R2-1
+Added Pin To Net: NetName=NetP2_1 Pin=R2-2
+Added Pin To Net: NetName=o1 Pin=R4-1
+Added Pin To Net: NetName=NetP2_2 Pin=R4-2
+Added Pin To Net: NetName=o22 Pin=R6-1
+Added Pin To Net: NetName=o2 Pin=R7-1
+Added Pin To Net: NetName=NetP2_3 Pin=R7-2
+Add Pin To Net: Unknown Pin: Pin U3-4
+Added Pin To Net: NetName=o11 Pin=R5-1
+Added Pin To Net: NetName=o11 Pin=Q1-1
+Added Net: Name=o11
+Added Pin To Net: NetName=o33 Pin=R3-1
+Added Pin To Net: NetName=o33 Pin=Q3-1
+Added Net: Name=o33
+Add Class Member: Failed to add class member : Component D4 18 Zener
+Added Member To Class: ClassName=tach key h Member=Component D7 D Tunnel1
+Added Member To Class: ClassName=tach key h Member=Component R1 10K
+Added Member To Class: ClassName=tach key h Member=Component R2 10K
+Added Member To Class: ClassName=tach key h Member=Component R3 10K
+Added Member To Class: ClassName=tach key h Member=Component R4 10K
+Added Member To Class: ClassName=tach key h Member=Component R6 10K
+Added Member To Class: ClassName=tach key h Member=Component R8 10K
+Added Member To Class: ClassName=tach key h Member=Component R9 10K
+Added Member To Class: ClassName=tach key h Member=Component R10 10K

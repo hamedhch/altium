@@ -1,0 +1,20 @@
+Change Component Footprint: Designator=C7 Old Footprint=ELEC-CAP-RAD20-40 New Footprint=ELEC-CAP-RAD10-20
+Change Footprint: Cannot match pads with new footprint in component :D10 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D11 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D12 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D13 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D14 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D15 Footprint:LEDC3216X120N
+Add component: Footprint Not Found minimelf
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Class Member: Failed to add class member : Component D4 18 Zener
+Added Member To Class: ClassName=tach key h-relay2 Member=Component R1 10K
+Added Member To Class: ClassName=tach key h-relay2 Member=Component R2 10K
+Added Member To Class: ClassName=tach key h-relay2 Member=Component R3 10K
+Added Member To Class: ClassName=tach key h-relay2 Member=Component R5 10K
+Added Member To Class: ClassName=tach key h-relay2 Member=Component R6 10K
+Added Member To Class: ClassName=tach key h-relay2 Member=Component R7 10K
+Added Member To Class: ClassName=tach key h-relay2 Member=Component R8 10K
+Added Member To Class: ClassName=tach key h-relay2 Member=Component R10 10K

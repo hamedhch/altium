@@ -1,0 +1,23 @@
+Change Footprint: Footprint Not Found LEDC3216X120N
+Change Footprint: Footprint Not Found LEDC3216X120N
+Change Footprint: Footprint Not Found LEDC3216X120N
+Change Footprint: Footprint Not Found LEDC3216X120N
+Change Footprint: Footprint Not Found LEDC3216X120N
+Change Footprint: Footprint Not Found LEDC3216X120N
+Add component: Footprint Not Found ELEC-CAP-RAD20-40
+Add component: Footprint Not Found ELEC-CAP-RAD20-40
+Add component: Footprint Not Found CAP 1206
+Add component: Footprint Not Found minimelf
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Class Member: Failed to add class member : Component C2 =Value
+Add Class Member: Failed to add class member : Component C3 =Value
+Add Class Member: Failed to add class member : Component C6 =Value
+Add Class Member: Failed to add class member : Component D4 18 Zener
+Added Member To Class: ClassName=tach key h Member=Component D10 MODEL

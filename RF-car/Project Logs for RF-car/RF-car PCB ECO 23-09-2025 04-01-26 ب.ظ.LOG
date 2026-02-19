@@ -1,0 +1,71 @@
+Change Component Designator: OldDesignator=Q3 NewDesignator=Q4
+Add component: Footprint Not Found 3.2X1.6X1.1
+Add component: Footprint Not Found 3.2X1.6X1.1
+Add component: Footprint Not Found 3.2X1.6X1.1
+Add component: Footprint Not Found 3.2X1.6X1.1
+Add component: Footprint Not Found 3.2X1.6X1.1
+Add component: Footprint Not Found 3.2X1.6X1.1
+Add component: Footprint Not Found SOT-23B_L
+Add component: Footprint Not Found RES 1206 (3216X08L)
+Add component: Footprint Not Found RES 1206 (3216X08L)
+Add component: Footprint Not Found RES 1206 (3216X08L)
+Added Component: Designator=U5(SOT89L)
+Add component (AddParameter): Name = "Code_IPC"; Value = "SOT223-4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "TO-261-AA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LM1117 Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.national.com/ds/LM/LM1117.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "LM1117 Web Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.national.com/pf/LM/LM1117.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "MP04A Package Page"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.national.com/packaging/folders/mp04a.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CompType"; Value = "LDO IC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Apr-2006"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKeyPartNumber"; Value = "LM1117MP-3.3CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "National Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Molded SOT-223, 6.50 x 3.56 x 1.6mm Body, 4 Lead, 2.3mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "MP04A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageTopMarking"; Value = "XYTT*N05A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "revB, Apr-2003"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "LM1117MP-3.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PinCount"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerWise"; Value = "N"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "4-Dec-2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "O"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D30-1
+Add Pin To Net: Unknown Pin: Pin D30-2
+Add Pin To Net: Unknown Pin: Pin D31-1
+Add Pin To Net: Unknown Pin: Pin D31-2
+Add Pin To Net: Unknown Pin: Pin D32-1
+Add Pin To Net: Unknown Pin: Pin D32-2
+Add Pin To Net: Unknown Pin: Pin D34-1
+Add Pin To Net: Unknown Pin: Pin D34-2
+Add Pin To Net: Unknown Pin: Pin D35-1
+Add Pin To Net: Unknown Pin: Pin D35-2
+Add Pin To Net: Unknown Pin: Pin D36-1
+Add Pin To Net: Unknown Pin: Pin D36-2
+Add Pin To Net: Unknown Pin: Pin R20-1
+Add Pin To Net: Unknown Pin: Pin R20-2
+Add Pin To Net: Unknown Pin: Pin R22-1
+Add Pin To Net: Unknown Pin: Pin R22-2
+Change Net Name : Old Net Name=NetQ3_2 New Net Name=NetQ4_2
+Add Class Member: Failed to add class member : Component D30 LED2
+Add Class Member: Failed to add class member : Component D31 LED2
+Add Class Member: Failed to add class member : Component D32 LED2
+Add Class Member: Failed to add class member : Component D34 LED2
+Add Class Member: Failed to add class member : Component D35 LED2
+Add Class Member: Failed to add class member : Component D36 LED2
+Add Class Member: Failed to add class member : Component M1 N-channel MOSFET BSIM4v7 v4.7.0 Model
+Added Member To Class: ClassName=RF-car Member=Component Q4 QNPN
+Added Member To Class: ClassName=RF-car Member=Component R8 10K
+Added Member To Class: ClassName=RF-car Member=Component R9 10K
+Added Member To Class: ClassName=RF-car Member=Component R11 10K
+Added Member To Class: ClassName=RF-car Member=Component R12 10K
+Added Member To Class: ClassName=RF-car Member=Component R13 10K
+Added Member To Class: ClassName=RF-car Member=Component R16 10K
+Added Member To Class: ClassName=RF-car Member=Component R17 10K
+Add Class Member: Failed to add class member : Component R20 10K
+Add Class Member: Failed to add class member : Component R22 10K
+Add Class Member: Failed to add class member : Component R24 10K
+Added Member To Class: ClassName=RF-car Member=Component U5 LM1117MP-3.3
+Add Class Member: Failed to add class member : Component X1 TRIAC Thyristror

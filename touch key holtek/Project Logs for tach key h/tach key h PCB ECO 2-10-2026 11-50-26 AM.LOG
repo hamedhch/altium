@@ -1,0 +1,21 @@
+Change Component Footprint: Designator=C2 Old Footprint=ELEC-CAP-RAD15-30 New Footprint=ELEC-CAP-RAD10-20
+Change Footprint: Cannot match pads with new footprint in component :D9 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D10 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D11 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D12 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D13 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D14 Footprint:LEDC3216X120N
+Added Component: Designator=C6(CAP 1206)
+Add component: Footprint Not Found minimelf
+Added Pin To Net: NetName=NetC1_2 Pin=C2-1
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC1_2 Pin=C3-1
+Added Pin To Net: NetName=NetC3_2 Pin=C3-2
+Added Pin To Net: NetName=+12v Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C6-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Added Member To Class: ClassName=tach key h Member=Component C3 =Value
+Added Member To Class: ClassName=tach key h Member=Component C6 =Value
+Added Member To Class: ClassName=tach key h Member=Component C7 =Value
+Add Class Member: Failed to add class member : Component D4 18 Zener

@@ -1,0 +1,31 @@
+Change Footprint: Cannot match pads with new footprint in component :D10 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D11 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D12 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D13 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D14 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D15 Footprint:LEDC3216X120N
+Change Component Designator: OldDesignator=K2 NewDesignator=K3
+Change Component Designator: OldDesignator=K3 NewDesignator=K5
+Add component: Footprint Not Found minimelf
+Add component: Footprint Not Found RELAY_2071508-1
+Add component: Footprint Not Found RELAY_2071508-1
+Add component: Footprint Not Found RELAY_2071508-1
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin K2-1
+Add Pin To Net: Unknown Pin: Pin K2-2
+Add Pin To Net: Unknown Pin: Pin K2-3
+Add Pin To Net: Unknown Pin: Pin K2-4
+Add Pin To Net: Unknown Pin: Pin K4-1
+Add Pin To Net: Unknown Pin: Pin K4-2
+Add Pin To Net: Unknown Pin: Pin K4-3
+Add Pin To Net: Unknown Pin: Pin K4-4
+Add Pin To Net: Unknown Pin: Pin K6-1
+Add Pin To Net: Unknown Pin: Pin K6-2
+Add Pin To Net: Unknown Pin: Pin K6-3
+Add Pin To Net: Unknown Pin: Pin K6-4
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Class Member: Failed to add class member : Component D4 18 Zener
+Add Class Member: Failed to add class member : Component K4 2071508-1
+Added Member To Class: ClassName=tach key h-relay2 Member=Component K5 1-1721081-2
+Add Class Member: Failed to add class member : Component K6 2071508-1

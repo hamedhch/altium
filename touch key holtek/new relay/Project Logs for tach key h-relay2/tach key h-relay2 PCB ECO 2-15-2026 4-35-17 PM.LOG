@@ -1,0 +1,46 @@
+Change Component Footprint: Designator=K1 Old Footprint=RELAY_2071508-1 New Footprint=TE_1-1721081-2
+Change Component Footprint: Designator=K2 Old Footprint=RELAY_2071508-1 New Footprint=TE_1-1721081-2
+Change Component Footprint: Designator=K3 Old Footprint=RELAY_2071508-1 New Footprint=TE_1-1721081-2
+Change Footprint: Cannot match pads with new footprint in component :D10 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D11 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D12 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D13 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D14 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D15 Footprint:LEDC3216X120N
+Change Component Comment : Designator=K1 Old Comment=2071508-1 New Comment=1-1721081-2
+Change Component Comment : Designator=K2 Old Comment=2071508-1 New Comment=1-1721081-2
+Change Component Comment : Designator=K3 Old Comment=2071508-1 New Comment=1-1721081-2
+Change component parameters: Designator = "K1" ("K1"); Footprint = "RELAY_2071508-1"; UniqueID = "\DZFNBTEQ" ("\DZFNBTEQ")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1-1721081-2/TE+Connectivity+Potter+%2526+Brumfield+Relays/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1-1721081-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1-1721081-2/TE+Connectivity+Potter+%2526+Brumfield+Relays/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "K2" ("K2"); Footprint = "RELAY_2071508-1"; UniqueID = "\OCMTCWNJ" ("\OCMTCWNJ")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1-1721081-2/TE+Connectivity+Potter+%2526+Brumfield+Relays/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1-1721081-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1-1721081-2/TE+Connectivity+Potter+%2526+Brumfield+Relays/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "K3" ("K3"); Footprint = "RELAY_2071508-1"; UniqueID = "\WDFDCSWQ" ("\WDFDCSWQ")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/1-1721081-2/TE+Connectivity+Potter+%2526+Brumfield+Relays/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "1-1721081-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/1-1721081-2/TE+Connectivity+Potter+%2526+Brumfield+Relays/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add component: Footprint Not Found minimelf
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin U3-4
+Change Class Name : Old Net Name=tach key h New Net Name=tach key h-relay2
+Add Class Member: Failed to add class member : Component D4 18 Zener
+Added Member To Class: ClassName=tach key h-relay2 Member=Component R2 10K
+Added Member To Class: ClassName=tach key h-relay2 Member=Component R3 10K
+Added Member To Class: ClassName=tach key h-relay2 Member=Component R4 10K
+Added Member To Class: ClassName=tach key h-relay2 Member=Component R5 10K
+Added Member To Class: ClassName=tach key h-relay2 Member=Component R7 10K
+Change Room Name: Old Name=tach key h New Name=tach key h-relay2
+Change Room Scope: Old Scope=InComponentClass('tach key h') New Scope=InComponentClass('tach key h-relay2')
