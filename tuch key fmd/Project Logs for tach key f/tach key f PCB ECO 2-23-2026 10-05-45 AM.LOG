@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=o3 Pin=P2-1
+Removed Pin From Net: NetName=o2 Pin=P2-3
+Removed Pin From Net: NetName=o1 Pin=P2-5
+Removed Pin From Net: NetName=o23 Pin=R2-1
+Removed Pin From Net: NetName=o3 Pin=R2-2
+Removed Pin From Net: NetName=o22 Pin=R5-1
+Removed Pin From Net: NetName=o2 Pin=R5-2
+Removed Pin From Net: NetName=o21 Pin=R7-1
+Removed Pin From Net: NetName=o1 Pin=R7-2
+Removed Pin From Net: NetName=o2 Pin=U2-5
+Removed Pin From Net: NetName=o3 Pin=U2-6
+Removed Pin From Net: NetName=o1 Pin=U2-7
+Change Footprint: Cannot match pads with new footprint in component :D10 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D11 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D14 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D15 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D19 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D20 Footprint:LEDC3216X120N
+Add component: Footprint Not Found minimelf
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D8-2
+Add Pin To Net: Unknown Pin: Pin D12-1
+Add Pin To Net: Unknown Pin: Pin D12-2
+Add Pin To Net: Unknown Pin: Pin D13-1
+Add Pin To Net: Unknown Pin: Pin D13-2
+Add Pin To Net: Unknown Pin: Pin D17-1
+Add Pin To Net: Unknown Pin: Pin D18-2
+Add Pin To Net: Unknown Pin: Pin D21-1
+Add Pin To Net: Unknown Pin: Pin D22-2
+Added Pin To Net: NetName=o33 Pin=P2-1
+Added Pin To Net: NetName=o33 Pin=R2-1
+Added Pin To Net: NetName=o33 Pin=R2-2
+Added Pin To Net: NetName=o33 Pin=U2-6
+Add Pin To Net: Unknown Pin: Pin U7-4
+Added Pin To Net: NetName=o31 Pin=P2-5
+Added Pin To Net: NetName=o31 Pin=R7-1
+Added Pin To Net: NetName=o31 Pin=R7-2
+Added Pin To Net: NetName=o31 Pin=U2-7
+Added Net: Name=o31
+Added Pin To Net: NetName=o32 Pin=P2-3
+Added Pin To Net: NetName=o32 Pin=R5-1
+Added Pin To Net: NetName=o32 Pin=R5-2
+Added Pin To Net: NetName=o32 Pin=U2-5
+Added Net: Name=o32
+Added Pin To Net: NetName=o34 Pin=R3-1
+Added Net: Name=o34
+Added Member To Class: ClassName=tach key f Member=Component C6 =Value
+Added Member To Class: ClassName=tach key f Member=Component C7 =Value
+Added Member To Class: ClassName=tach key f Member=Component C8 =Value
+Added Member To Class: ClassName=tach key f Member=Component C10 =Value
+Add Class Member: Failed to add class member : Component D4 18 Zener
+Added Member To Class: ClassName=tach key f Member=Component D7 MODEL
+Added Member To Class: ClassName=tach key f Member=Component D8 MODEL
+Added Member To Class: ClassName=tach key f Member=Component D9 D Tunnel1
+Added Member To Class: ClassName=tach key f Member=Component D11 MODEL
+Added Member To Class: ClassName=tach key f Member=Component D12 MODEL
+Added Member To Class: ClassName=tach key f Member=Component D13 MODEL
+Added Member To Class: ClassName=tach key f Member=Component P1 Header 3X2
+Added Member To Class: ClassName=tach key f Member=Component P2 Header 3X2
+Added Member To Class: ClassName=tach key f Member=Component P3 Header 3X2
+Added Member To Class: ClassName=tach key f Member=Component R1 10K
+Added Member To Class: ClassName=tach key f Member=Component R2 10K
+Added Member To Class: ClassName=tach key f Member=Component R3 10K
+Added Member To Class: ClassName=tach key f Member=Component R5 10K
+Added Member To Class: ClassName=tach key f Member=Component R7 10K
+Added Member To Class: ClassName=tach key f Member=Component R8 10K
+Added Member To Class: ClassName=tach key f Member=Component R10 10K
+Added Member To Class: ClassName=tach key f Member=Component R12 10K
+Added Member To Class: ClassName=tach key f Member=Component R13 10K
+Added Member To Class: ClassName=tach key f Member=Component R15 10K
+Added Member To Class: ClassName=tach key f Member=Component U1 ATtiny15L-1SC
+Added Member To Class: ClassName=tach key f Member=Component U2 ATtiny15L-1SC
+Added Member To Class: ClassName=tach key f Member=Component U5 ATtiny15L-1SC

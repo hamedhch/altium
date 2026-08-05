@@ -1,0 +1,32 @@
+Change Component Footprint: Designator=D7 Old Footprint=LEDC3216X120N New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=D8 Old Footprint=LEDC3216X120N New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=D12 Old Footprint=LEDC3216X120N New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=D13 Old Footprint=LEDC3216X120N New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=D17 Old Footprint=LEDC3216X120N New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=D18 Old Footprint=LEDC3216X120N New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=D22 Old Footprint=LEDC3216X120N New Footprint=RES 1206 (3216X08L)
+Change Footprint: Cannot match pads with new footprint in component :D10 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D11 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D14 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D15 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D19 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D20 Footprint:LEDC3216X120N
+Add component: Footprint Not Found minimelf
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Added Pin To Net: NetName=NetD7_1 Pin=D7-1
+Added Pin To Net: NetName=o34 Pin=D7-2
+Added Pin To Net: NetName=o34 Pin=D8-1
+Added Pin To Net: NetName=GND Pin=D8-2
+Added Pin To Net: NetName=NetD12_1 Pin=D12-1
+Added Pin To Net: NetName=o33 Pin=D12-2
+Added Pin To Net: NetName=o33 Pin=D13-1
+Added Pin To Net: NetName=GND Pin=D13-2
+Added Pin To Net: NetName=NetD17_1 Pin=D17-1
+Added Pin To Net: NetName=o32 Pin=D17-2
+Added Pin To Net: NetName=o32 Pin=D18-1
+Added Pin To Net: NetName=GND Pin=D18-2
+Added Pin To Net: NetName=o31 Pin=D22-1
+Added Pin To Net: NetName=GND Pin=D22-2
+Add Pin To Net: Unknown Pin: Pin U7-4
+Add Class Member: Failed to add class member : Component D4 18 Zener
