@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=faz Pin=T1-2
+Removed Pin From Net: NetName=of4 Pin=T1-3
+Removed Pin From Net: NetName=of3 Pin=T1-4
+Removed Pin From Net: NetName=of2 Pin=T1-5
+Removed Pin From Net: NetName=of1 Pin=T1-6
+Change Footprint: Cannot match pads with new footprint in component :D10 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D11 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D14 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D15 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D19 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D20 Footprint:LEDC3216X120N
+Change Component Footprint: Designator=D7 Old Footprint=RES 0805 (2012X06L) New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=D12 Old Footprint=RES 0805 (2012X06L) New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=D13 Old Footprint=RES 0805 (2012X06L) New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=D17 Old Footprint=RES 0805 (2012X06L) New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=D18 Old Footprint=RES 0805 (2012X06L) New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=D21 Old Footprint=RES 0805 (2012X06L) New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=D22 Old Footprint=RES 0805 (2012X06L) New Footprint=RES 1206 (3216X08L)
+Add component: Footprint Not Found minimelf
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Added Pin To Net: NetName=of4 Pin=T1-2
+Added Pin To Net: NetName=of3 Pin=T1-3
+Added Pin To Net: NetName=of2 Pin=T1-4
+Added Pin To Net: NetName=of1 Pin=T1-5
+Added Pin To Net: NetName=faz Pin=T1-6
+Add Pin To Net: Unknown Pin: Pin U7-4
+Add Class Member: Failed to add class member : Component D4 18 Zener

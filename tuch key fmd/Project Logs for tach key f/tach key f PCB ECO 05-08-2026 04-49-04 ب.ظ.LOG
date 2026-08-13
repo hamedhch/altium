@@ -1,0 +1,18 @@
+Change Component Footprint: Designator=D7 Old Footprint=RES 1206 (3216X08L) New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D10 Old Footprint=RES 1206 (3216X08L) New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D11 Old Footprint=RES 1206 (3216X08L) New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D12 Old Footprint=RES 1206 (3216X08L) New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D13 Old Footprint=RES 1206 (3216X08L) New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D14 Old Footprint=RES 1206 (3216X08L) New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D15 Old Footprint=RES 1206 (3216X08L) New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D17 Old Footprint=RES 1206 (3216X08L) New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D18 Old Footprint=RES 1206 (3216X08L) New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D19 Old Footprint=RES 1206 (3216X08L) New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D20 Old Footprint=RES 1206 (3216X08L) New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D21 Old Footprint=RES 1206 (3216X08L) New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D22 Old Footprint=RES 1206 (3216X08L) New Footprint=RES 0805 (2012X06L)
+Add component: Footprint Not Found minimelf
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin U7-4
+Add Class Member: Failed to add class member : Component D4 18 Zener
