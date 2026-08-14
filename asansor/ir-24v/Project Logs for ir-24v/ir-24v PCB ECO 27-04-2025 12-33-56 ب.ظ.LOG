@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=vcc Pin=R8-2
+Added Member To Class: ClassName=ir-24v Member=Component Q4 QNPN
+Added Member To Class: ClassName=ir-24v Member=Component R5 10K

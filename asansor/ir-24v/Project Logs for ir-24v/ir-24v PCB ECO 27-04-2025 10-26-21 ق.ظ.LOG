@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=vdd Pin=Q1-3
+Added Component: Designator=C3(CAP 1206)
+Added Component: Designator=C4(ELEC-CAP-RAD10-20)
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=vcc Pin=C4-2
+Added Pin To Net: NetName=GND Pin=Q1-3
+Added Member To Class: ClassName=ir-24v Member=Component C3 =Value
+Added Member To Class: ClassName=ir-24v Member=Component C4 =Value
+Added Member To Class: ClassName=ir-24v Member=Component D4 LED2

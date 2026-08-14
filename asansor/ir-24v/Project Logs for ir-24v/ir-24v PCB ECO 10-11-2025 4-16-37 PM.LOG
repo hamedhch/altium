@@ -1,0 +1,12 @@
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Add component: Footprint Not Found CAP 1206
+Add component: Footprint Not Found ELEC-CAP-RAD10-20
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Added Pin To Net: NetName=key Pin=R8-1
+Added Pin To Net: NetName=vdd-a Pin=R8-2
+Add Class Member: Failed to add class member : Component C3 =Value
+Add Class Member: Failed to add class member : Component C4 =Value
+Added Member To Class: ClassName=ir-24v Member=Component R10 10K
