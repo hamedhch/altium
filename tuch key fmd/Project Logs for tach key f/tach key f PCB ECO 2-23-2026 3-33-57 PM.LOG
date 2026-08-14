@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=data Pin=U2-2
+Removed Pin From Net: NetName=RF Pin=U2-4
+Removed Pin From Net: NetName=data Pin=U5-1
+Change Footprint: Cannot match pads with new footprint in component :D10 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D11 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D14 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D15 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D19 Footprint:LEDC3216X120N
+Change Footprint: Cannot match pads with new footprint in component :D20 Footprint:LEDC3216X120N
+Add component: Footprint Not Found minimelf
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin U7-4
+Added Pin To Net: NetName=data2 Pin=U2-2
+Added Pin To Net: NetName=data2 Pin=U5-1
+Added Net: Name=data2
+Added Pin To Net: NetName=RF2 Pin=U2-4
+Added Net: Name=RF2
+Add Class Member: Failed to add class member : Component D4 18 Zener

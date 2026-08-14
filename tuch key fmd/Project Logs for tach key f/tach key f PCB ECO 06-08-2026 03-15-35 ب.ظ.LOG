@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetP3_3 Pin=R8-2
+Removed Pin From Net: NetName=NetP3_1 Pin=R9-2
+Removed Pin From Net: NetName=NetP3_5 Pin=R10-2
+Removed Pin From Net: NetName=NetP3_2 Pin=R12-2
+Add component: Footprint Not Found minimelf
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Added Pin To Net: NetName=NetP3_5 Pin=R8-2
+Added Pin To Net: NetName=NetP3_3 Pin=R9-2
+Added Pin To Net: NetName=NetP3_2 Pin=R10-2
+Added Pin To Net: NetName=NetP3_1 Pin=R12-2
+Add Pin To Net: Unknown Pin: Pin U7-4
+Add Class Member: Failed to add class member : Component D4 18 Zener

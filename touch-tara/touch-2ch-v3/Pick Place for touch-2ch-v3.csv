@@ -1,0 +1,53 @@
+Altium Designer Pick and Place Locations
+D:\hamed\project\altium\touch-tara\touch-2ch-v3\Pick Place for touch-2ch-v3.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       14/07/26
+Time:       10:03
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation","Description","Ref-X(mm)","Ref-Y(mm)","Pad-X(mm)","Pad-Y(mm)"
+"R18","200k","TopLayer","RES_1206_(3216X08L)","3.7875","2.6895","0","Resistor","3.7875","2.6895","2.3905","2.6895"
+"R17","200k","TopLayer","RES_1206_(3216X08L)","3.7875","4.7215","0","Resistor","3.7875","4.7215","2.3905","4.7215"
+"D17","LED2835","TopLayer","3.2X1.6X1.1","33.1360","37.0730","225","Typical RED, GREEN, YELLOW, AMBER GaAs LED","33.0200","36.9570","34.0199","37.9569"
+"D16","LED2835","TopLayer","3.2X1.6X1.1","56.1230","36.3330","135","Typical RED, GREEN, YELLOW, AMBER GaAs LED","56.0070","36.4490","57.0069","35.4492"
+"D15","LED2835","TopLayer","3.2X1.6X1.1","55.7640","3.3130","45","Typical RED, GREEN, YELLOW, AMBER GaAs LED","55.8800","3.4290","54.8802","2.4292"
+"D14","LED2835","TopLayer","3.2X1.6X1.1","32.3062","3.6348","315","Typical RED, GREEN, YELLOW, AMBER GaAs LED","32.5120","3.4290","31.4224","4.5187"
+"D13","LED2835","TopLayer","3.2X1.6X1.1","62.2488","36.2927","225","Typical RED, GREEN, YELLOW, AMBER GaAs LED","62.1329","36.1768","63.1327","37.1766"
+"D12","LED2835","TopLayer","3.2X1.6X1.1","86.8570","35.5710","135","Typical RED, GREEN, YELLOW, AMBER GaAs LED","86.7410","35.6870","87.7409","34.6872"
+"D11","LED2835","TopLayer","3.2X1.6X1.1","86.3549","3.9319","45","Typical RED, GREEN, YELLOW, AMBER GaAs LED","86.4709","4.0479","85.4710","3.0480"
+"D10","LED2835","TopLayer","3.2X1.6X1.1","62.1140","4.4340","315","Typical RED, GREEN, YELLOW, AMBER GaAs LED","62.2300","4.3180","61.2302","5.3179"
+"Q2","Triac","TopLayer","SOT89N","11.0490","22.4000","180","Silicon Bidirectional Triode Thyristor","10.9000","22.3760","12.7000","20.8760"
+"3.6k","10K","TopLayer","RES_2010_(5026X08L)","74.4210","4.1910","180","Resistor","74.4220","4.1910","76.1990","4.1910"
+"3.6k","10K","TopLayer","RES_2010_(5026X08L)","74.2940","35.9410","0","Resistor","74.2950","35.9410","72.5160","35.9410"
+"D7","LED2","TopLayer","3.2X1.6X1.1","63.0330","8.8490","135","Typical RED, GREEN, YELLOW, AMBER GaAs LED","63.0965","8.7855","63.9855","7.8965"
+"D6","LED2","TopLayer","3.2X1.6X1.1","85.7885","9.2075","225","Typical RED, GREEN, YELLOW, AMBER GaAs LED","85.7250","9.2710","86.7410","10.1600"
+"D5","LED2","TopLayer","3.2X1.6X1.1","85.6615","31.0515","315","Typical RED, GREEN, YELLOW, AMBER GaAs LED","85.7250","30.9880","84.7090","32.0040"
+"D4","LED2","TopLayer","3.2X1.6X1.1","62.7790","31.2010","45","Typical RED, GREEN, YELLOW, AMBER GaAs LED","62.8425","31.2645","61.8265","30.2485"
+"P1","Plug","TopLayer","PIN1","44.3005","19.9615","90","Plug","44.3005","19.9615","44.3005","19.9615"
+"3.6k","10K","TopLayer","RES_2010_(5026X08L)","43.9420","35.9410","0","Resistor","43.9420","35.9410","41.7170","35.9410"
+"3.6k","10K","TopLayer","RES_2010_(5026X08L)","44.0690","3.9370","180","Resistor","44.0690","3.9370","46.2940","3.9370"
+"3.6k","10K","TopLayer","RES_2010_(5026X08L)","11.5345","3.7055","180","Resistor","11.5345","3.7055","13.7595","3.7055"
+"D1","LED2","TopLayer","3.2X1.6X1.1","33.2105","31.3055","45","Typical RED, GREEN, YELLOW, AMBER GaAs LED","33.2740","31.2420","32.2580","30.3530"
+"D3","LED2","TopLayer","3.2X1.6X1.1","55.4130","31.3915","315","Typical RED, GREEN, YELLOW, AMBER GaAs LED","55.3495","31.2645","54.4605","32.4075"
+"3.6k","10K","TopLayer","RES_2010_(5026X08L)","17.7800","35.9410","0","Resistor","17.7800","35.9410","15.5550","35.9410"
+"R15","1M","TopLayer","RES_1206_(3216X08L)","17.5035","14.5005","0","Resistor","17.5035","14.5005","16.1065","14.5005"
+"Q1","Triac","TopLayer","SOT89N","11.0185","28.4720","180","Silicon Bidirectional Triode Thyristor","10.9220","28.4480","12.7220","26.9480"
+"R2","5.6k","TopLayer","RES_1206_(3216X08L)","17.3980","29.6135","180","Resistor","17.5035","29.6135","18.9435","29.6135"
+"R10","5.6k","TopLayer","RES_1206_(3216X08L)","17.4400","20.3425","180","Resistor","17.5035","20.3425","19.0275","20.3425"
+"U2","MB6S","TopLayer","SOIC245P670X270-4N","11.4300","9.7790","180","Bridge Rectifier Single Phase Standard 600V Surface Mount 4-SOIC","11.4300","9.7790","14.3300","8.5540"
+"U1","ATtiny15L-1SC","TopLayer","8S2_N","24.3615","19.7075","270","8-Bit AVR Microcontroller with 1K Byte of Flash Memory","24.3615","19.7075","26.2665","23.1075"
+"3.6k","10K","TopLayer","RES_2010_(5026X08L)","24.4885","35.9753","0","Resistor","24.4885","35.9753","22.2635","35.9753"
+"3.6k","10K","TopLayer","RES_2010_(5026X08L)","18.0115","3.7055","180","Resistor","18.0115","3.7055","20.2365","3.7055"
+"3.6k","10K","TopLayer","RES_2010_(5026X08L)","24.6155","3.7055","180","Resistor","24.6155","3.7055","26.8405","3.7055"
+"3.6k","10K","TopLayer","RES_2010_(5026X08L)","11.3030","35.9410","0","Resistor","11.3030","35.9410","9.0780","35.9410"
+"R3","5.6k","TopLayer","RES_1206_(3216X08L)","17.4615","25.1685","180","Resistor","17.5035","25.1685","19.0705","25.1685"
+"C1","z5v","TopLayer","CAP_1206","18.0115","9.9285","90","Capacitor","18.0115","9.9285","18.0115","8.1505"
+"Q3","Triac","TopLayer","SOT89N","10.9855","16.2800","180","Silicon Bidirectional Triode Thyristor","10.9000","16.2800","12.7000","14.7800"
+"D2","47uf","TopLayer","C1206","24.2345","11.5935","270","Default Diode","24.2345","11.8335","24.2345","13.1835"
+"D9","LED2","TopLayer","3.2X1.6X1.1","33.3150","8.5950","135","Typical RED, GREEN, YELLOW, AMBER GaAs LED","33.2515","8.6585","34.2675","7.6425"
+"D8","LED2","TopLayer","3.2X1.6X1.1","55.2860","8.7220","225","Typical RED, GREEN, YELLOW, AMBER GaAs LED","55.3495","8.7855","56.2385","9.6745"
