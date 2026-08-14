@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=C5 Old Footprint=ELEC-CAP-RAD10-20 New Footprint=TANTAL-CAP-Size D
+Change Component Designator: OldDesignator= NewDesignator=J3
+Change Component Designator: OldDesignator= NewDesignator=JP2
+Added Member To Class: ClassName=touch-24-v5 Member=Component JP2 Jumper Selector

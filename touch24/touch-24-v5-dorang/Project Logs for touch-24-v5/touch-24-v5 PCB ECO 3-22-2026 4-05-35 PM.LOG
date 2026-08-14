@@ -1,0 +1,24 @@
+Change Component Footprint: Designator=D5 Old Footprint=3.2X1.6X1.1 New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D6 Old Footprint=3.2X1.6X1.1 New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D7 Old Footprint=3.2X1.6X1.1 New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D8 Old Footprint=3.2X1.6X1.1 New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D9 Old Footprint=3.2X1.6X1.1 New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D10 Old Footprint=3.2X1.6X1.1 New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D11 Old Footprint=3.2X1.6X1.1 New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D12 Old Footprint=3.2X1.6X1.1 New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D13 Old Footprint=3.2X1.6X1.1 New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D14 Old Footprint=3.2X1.6X1.1 New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D15 Old Footprint=3.2X1.6X1.1 New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D16 Old Footprint=3.2X1.6X1.1 New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D17 Old Footprint=3.2X1.6X1.1 New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D18 Old Footprint=3.2X1.6X1.1 New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D19 Old Footprint=3.2X1.6X1.1 New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D23 Old Footprint=3.2X1.6X1.1 New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D24 Old Footprint=3.2X1.6X1.1 New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D25 Old Footprint=3.2X1.6X1.1 New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D26 Old Footprint=3.2X1.6X1.1 New Footprint=RES 0805 (2012X06L)
+Change Component Footprint: Designator=D27 Old Footprint=3.2X1.6X1.1 New Footprint=RES 0805 (2012X06L)
+Added Member To Class: ClassName=touch-24-v5 Member=Component D16 LED2
+Added Member To Class: ClassName=touch-24-v5 Member=Component D17 LED2
+Added Member To Class: ClassName=touch-24-v5 Member=Component D18 LED2
+Added Member To Class: ClassName=touch-24-v5 Member=Component D19 LED2

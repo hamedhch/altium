@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=L1 Pin=-2
+Removed Member From Class: ClassName=touch-24-v5 Member=
+Change Component Designator: OldDesignator= NewDesignator=JP2
+Change Component Designator: OldDesignator=JP6 NewDesignator=JP3
+Added Component: Designator=J3(HEADER 3X2)
+Added Pin To Net: NetName=L1 Pin=J3-1
+Added Pin To Net: NetName=L1 Pin=J3-3
+Added Pin To Net: NetName=L1 Pin=J3-5
+Change Net Name : Old Net Name=NetJP5_2 New Net Name=NetJP2_2
+Change Net Name : Old Net Name=NetJP5_3 New Net Name=NetJP2_3
+Added Pin To Net: NetName=NetJ3_2 Pin=J3-2
+Added Pin To Net: NetName=NetJ3_2 Pin=R10-1
+Added Net: Name=NetJ3_2
+Added Pin To Net: NetName=NetJ3_4 Pin=J3-4
+Added Pin To Net: NetName=NetJ3_4 Pin=R11-1
+Added Net: Name=NetJ3_4
+Added Pin To Net: NetName=NetJ3_6 Pin=J3-6
+Added Pin To Net: NetName=NetJ3_6 Pin=R12-1
+Added Net: Name=NetJ3_6
+Added Member To Class: ClassName=touch-24-v5 Member=Component J3 Header3X2
+Added Member To Class: ClassName=touch-24-v5 Member=Component JP2 Jumper Selector

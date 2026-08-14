@@ -1,0 +1,26 @@
+Added Pin To Net: NetName=vdd Pin=D5-1
+Added Pin To Net: NetName=vdd Pin=D10-1
+Added Pin To Net: NetName=vdd Pin=D15-1
+Added Pin To Net: NetName=vdd Pin=D20-1
+Added Pin To Net: NetName=vdd Pin=D25-1
+Added Pin To Net: NetName=vdd Pin=D33-1
+Added Member To Class: ClassName=touch-24-v5 Member=Component D4 D Tunnel1
+Added Member To Class: ClassName=touch-24-v5 Member=Component D5 LED2
+Added Member To Class: ClassName=touch-24-v5 Member=Component D6 LED2
+Added Member To Class: ClassName=touch-24-v5 Member=Component D7 LED2
+Added Member To Class: ClassName=touch-24-v5 Member=Component D8 LED2
+Added Member To Class: ClassName=touch-24-v5 Member=Component D9 LED2
+Added Member To Class: ClassName=touch-24-v5 Member=Component D10 LED2
+Added Member To Class: ClassName=touch-24-v5 Member=Component D11 LED2
+Added Member To Class: ClassName=touch-24-v5 Member=Component D12 LED2
+Added Member To Class: ClassName=touch-24-v5 Member=Component D13 LED2
+Added Member To Class: ClassName=touch-24-v5 Member=Component D14 LED2
+Added Member To Class: ClassName=touch-24-v5 Member=Component D15 LED2
+Added Member To Class: ClassName=touch-24-v5 Member=Component D16 LED2
+Added Member To Class: ClassName=touch-24-v5 Member=Component D17 LED2
+Added Member To Class: ClassName=touch-24-v5 Member=Component D19 LED2
+Added Member To Class: ClassName=touch-24-v5 Member=Component D21 LED2
+Added Member To Class: ClassName=touch-24-v5 Member=Component D22 LED2
+Added Member To Class: ClassName=touch-24-v5 Member=Component D23 LED2
+Added Member To Class: ClassName=touch-24-v5 Member=Component D25 LED2
+Added Member To Class: ClassName=touch-24-v5 Member=Component D28 LED2

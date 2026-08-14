@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=NetU2_2 Pin=U3-1
+Removed Pin From Net: NetName=NetU2_1 Pin=U3-2
+Change Component Designator: OldDesignator= NewDesignator=J4
+Added Pin To Net: NetName=NetU2_1 Pin=U3-1
+Added Pin To Net: NetName=NetU2_2 Pin=U3-2

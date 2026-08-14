@@ -1,0 +1,12 @@
+Change Component DesignItemId : Designator=J4 Old DesignItemId=Header 2X2 New DesignItemId=Header 3X2H
+Change Component Footprint: Designator=J4 Old Footprint=HDR2X2 New Footprint=HDR2X3H
+Change Component Footprint: Designator=C4 Old Footprint=TANTAL-CAP-Size D New Footprint=ELEC-CAP-RAD10-20
+Change Component Comment : Designator=J4 Old Comment=Header 2X2 New Comment=Header 3X2H
+Change Component Designator: OldDesignator=J4 NewDesignator=J3
+Change Component Designator: OldDesignator=J5 NewDesignator=J4
+Change Component Description : Designator=J3 Old Description=Header, 2-Pin, Dual row New Description=Header, 3-Pin, Dual row, Right Angle
+Added Pin To Net: NetName=NetJ4_1 Pin=J3-5
+Change Net Name : Old Net Name=NetJ4_1 New Net Name=NetJ3_1
+Change Class Name : Old Net Name=touch-24-v2 New Net Name=touch-24-v3
+Added Member To Class: ClassName=touch-24-v3 Member=Component J3 Header 3X2H
+Added Member To Class: ClassName=touch-24-v3 Member=Component JP3 Jumper Selector

@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=R17-1
+Removed Pin From Net: NetName=NetD1_2 Pin=R20-1
+Added Pin To Net: NetName=NetD1_2 Pin=D3-1
+Added Pin To Net: NetName=NetD8_2 Pin=D9-1
+Added Pin To Net: NetName=NetD8_2 Pin=D9-2
+Added Pin To Net: NetName=NetD1_1 Pin=R17-1
+Added Pin To Net: NetName=NetD1_1 Pin=R17-2
+Added Pin To Net: NetName=NetD1_1 Pin=R20-1
+Added Pin To Net: NetName=NetD1_1 Pin=R20-2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R14-1
+Added Pin To Net: NetName=NetR7_1 Pin=R18-2
+Added Pin To Net: NetName=NetR7_1 Pin=R21-2
+Added Net: Name=NetR7_1
+Added Member To Class: ClassName=touch-2ch-v4 Member=Component R11 10K
+Added Member To Class: ClassName=touch-2ch-v4 Member=Component R14 10K
+Added Member To Class: ClassName=touch-2ch-v4 Member=Component R15 10K
+Added Member To Class: ClassName=touch-2ch-v4 Member=Component R16 10K

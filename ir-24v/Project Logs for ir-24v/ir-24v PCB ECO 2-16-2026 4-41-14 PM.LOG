@@ -1,7 +1,0 @@
-Removed Pin From Net: NetName=vcc Pin=Q6-2
-Removed Pin From Net: NetName=out Pin=R9-1
-Removed Member From Class: ClassName=ir-24v Member=Q6
-Removed Member From Class: ClassName=ir-24v Member=Q7
-Removed Member From Class: ClassName=ir-24v Member=R8
-Removed Member From Class: ClassName=ir-24v Member=R9
-Removed Member From Class: ClassName=ir-24v Member=R10

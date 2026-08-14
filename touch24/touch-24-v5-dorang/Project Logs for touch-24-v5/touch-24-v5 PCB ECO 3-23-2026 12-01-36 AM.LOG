@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=out Pin=U1-1
+Removed Pin From Net: NetName=touch Pin=U1-2
+Removed Pin From Net: NetName=out Pin=U1-3
+Removed Pin From Net: NetName=NetC4_2 Pin=U1-5
+Removed Pin From Net: NetName=vcc Pin=U1-6
+Added Pin To Net: NetName=touch Pin=U1-3
+Added Pin To Net: NetName=NetC4_2 Pin=U1-6
+Added Member To Class: ClassName=touch-24-v5 Member=Component C4 =Value
+Added Member To Class: ClassName=touch-24-v5 Member=Component C5 =Value

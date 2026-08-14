@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=NetD4_2 Pin=R12-1
+Removed Pin From Net: NetName=NetD6_2 Pin=R13-1
+Change Component Footprint: Designator=R4 Old Footprint=RES 2010 (5026X08L) New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=R5 Old Footprint=RES 2010 (5026X08L) New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=R6 Old Footprint=RES 2010 (5026X08L) New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=R7 Old Footprint=RES 2010 (5026X08L) New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=R8 Old Footprint=RES 2010 (5026X08L) New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=R9 Old Footprint=RES 2010 (5026X08L) New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=R11 Old Footprint=RES 2010 (5026X08L) New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=R12 Old Footprint=RES 2010 (5026X08L) New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=R13 Old Footprint=RES 2010 (5026X08L) New Footprint=RES 1206 (3216X08L)
+Change Component Footprint: Designator=R14 Old Footprint=RES 2010 (5026X08L) New Footprint=RES 1206 (3216X08L)
+Change Component Designator: OldDesignator=R11 NewDesignator=R20
+Change Component Designator: OldDesignator=R14 NewDesignator=R21
+Change Component Designator: OldDesignator=R15 NewDesignator=R19
+Change Component Designator: OldDesignator=R16 NewDesignator=R22
+Added Component: Designator=R1(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R18(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD4_2 Pin=D5-1
+Added Pin To Net: NetName=NetD6_2 Pin=D7-1
+Added Pin To Net: NetName=o1 Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R1-2
+Added Pin To Net: NetName=VDD Pin=R11-1
+Added Pin To Net: NetName=NetR4_2 Pin=R11-2
+Added Pin To Net: NetName=NetR4_2 Pin=R12-1
+Added Pin To Net: NetName=NetR5_2 Pin=R12-2
+Added Pin To Net: NetName=NetR5_2 Pin=R13-1
+Added Pin To Net: NetName=NetD1_1 Pin=R13-2
+Added Pin To Net: NetName=NetD9_2 Pin=R14-1
+Added Pin To Net: NetName=NetR7_2 Pin=R14-2
+Added Pin To Net: NetName=NetR7_2 Pin=R15-1
+Added Pin To Net: NetName=NetR8_2 Pin=R15-2
+Added Pin To Net: NetName=NetR8_2 Pin=R16-1
+Added Pin To Net: NetName=vcc Pin=R16-2
+Added Pin To Net: NetName=NetD1_2 Pin=R17-1
+Added Pin To Net: NetName=NetD3_1 Pin=R17-2
+Added Pin To Net: NetName=NetD8_2 Pin=R18-1
+Added Pin To Net: NetName=NetD9_1 Pin=R18-2
+Change Class Name : Old Net Name=touch-2ch-v3 New Net Name=touch-2ch-v4
+Added Member To Class: ClassName=touch-2ch-v4 Member=Component R1 10K
+Added Member To Class: ClassName=touch-2ch-v4 Member=Component R17 10K
+Added Member To Class: ClassName=touch-2ch-v4 Member=Component R18 10K
+Added Member To Class: ClassName=touch-2ch-v4 Member=Component R19 10K
+Added Member To Class: ClassName=touch-2ch-v4 Member=Component R20 10K
+Added Member To Class: ClassName=touch-2ch-v4 Member=Component R21 10K
+Added Member To Class: ClassName=touch-2ch-v4 Member=Component R22 10K
+Change Room Name: Old Name=touch-2ch-v3 New Name=touch-2ch-v4
+Change Room Scope: Old Scope=InComponentClass('touch-2ch-v3') New Scope=InComponentClass('touch-2ch-v4')
+Added Rule: Name=Schematic Supply Nets

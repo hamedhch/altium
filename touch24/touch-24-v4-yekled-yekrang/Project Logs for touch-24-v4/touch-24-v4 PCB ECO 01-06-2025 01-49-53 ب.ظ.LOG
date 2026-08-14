@@ -1,0 +1,49 @@
+Change Component Designator: OldDesignator= NewDesignator=JP2
+Change Component Designator: OldDesignator= NewDesignator=JP3
+Change Component Designator: OldDesignator=D5 NewDesignator=D16
+Change Component Designator: OldDesignator=D6 NewDesignator=D17
+Change Component Designator: OldDesignator=D7 NewDesignator=D18
+Change Component Designator: OldDesignator=D8 NewDesignator=D19
+Change Component Designator: OldDesignator=JP-Buzzer NewDesignator=JP1
+Add component: Footprint Not Found RES 0805 (2012X06L)
+Change Net Name : Old Net Name=NetD5_1 New Net Name=NetD16_1
+Change Net Name : Old Net Name=NetD5_2 New Net Name=NetD16_2
+Change Net Name : Old Net Name=NetD6_2 New Net Name=NetD17_2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=D6-1
+Added Net: Name=NetD5_2
+Added Pin To Net: NetName=NetD6_2 Pin=D6-2
+Added Pin To Net: NetName=NetD6_2 Pin=D7-1
+Added Net: Name=NetD6_2
+Added Pin To Net: NetName=NetD7_2 Pin=D7-2
+Added Pin To Net: NetName=NetD7_2 Pin=D8-1
+Added Net: Name=NetD7_2
+Added Pin To Net: NetName=NetD8_2 Pin=D8-2
+Added Pin To Net: NetName=NetD8_2 Pin=D9-1
+Added Net: Name=NetD8_2
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD10_2 Pin=D11-1
+Added Net: Name=NetD10_2
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD11_2 Pin=D12-1
+Added Net: Name=NetD11_2
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
+Added Pin To Net: NetName=NetD12_2 Pin=D13-1
+Added Net: Name=NetD12_2
+Added Pin To Net: NetName=NetD13_2 Pin=D13-2
+Added Pin To Net: NetName=NetD13_2 Pin=D14-1
+Added Net: Name=NetD13_2
+Added Member To Class: ClassName=touch-24-v4 Member=Component D9 LED2
+Added Member To Class: ClassName=touch-24-v4 Member=Component D10 LED2
+Added Member To Class: ClassName=touch-24-v4 Member=Component D11 LED2
+Added Member To Class: ClassName=touch-24-v4 Member=Component D12 LED2
+Added Member To Class: ClassName=touch-24-v4 Member=Component D13 LED2
+Added Member To Class: ClassName=touch-24-v4 Member=Component D14 LED2
+Add Class Member: Failed to add class member : Component D15 MODEL
+Added Member To Class: ClassName=touch-24-v4 Member=Component D16 D Tunnel1
+Added Member To Class: ClassName=touch-24-v4 Member=Component D17 D Tunnel1
+Added Member To Class: ClassName=touch-24-v4 Member=Component D18 D Tunnel1
+Added Member To Class: ClassName=touch-24-v4 Member=Component D19 D Tunnel1
+Added Member To Class: ClassName=touch-24-v4 Member=Component JP1 Jumper
+Added Member To Class: ClassName=touch-24-v4 Member=Component JP2 Jumper Selector
+Added Member To Class: ClassName=touch-24-v4 Member=Component JP3 Jumper Selector

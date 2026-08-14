@@ -1,0 +1,33 @@
+Change Component Designator: OldDesignator=JP2 NewDesignator=JP4
+Change Component Designator: OldDesignator=JP3 NewDesignator=JP5
+Change Component Designator: OldDesignator=R10 NewDesignator=R12
+Change Component Designator: OldDesignator=R11 NewDesignator=R13
+Change Component Designator: OldDesignator=R12 NewDesignator=R14
+Change Component Designator: OldDesignator=R13 NewDesignator=R15
+Change Component Designator: OldDesignator=R14 NewDesignator=R16
+Added Component: Designator=JP2(Header 2X1)
+Added Component: Designator=JP3(Header 2X1)
+Added Component: Designator=R10(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=R11(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=L1 Pin=JP2-2
+Added Pin To Net: NetName=L1 Pin=JP3-2
+Added Pin To Net: NetName=L11 Pin=R10-2
+Added Pin To Net: NetName=L12 Pin=R11-2
+Change Net Name : Old Net Name=NetJP2_2 New Net Name=NetJP4_2
+Change Net Name : Old Net Name=NetJP2_3 New Net Name=NetJP4_3
+Added Pin To Net: NetName=NetJP2_1 Pin=JP2-1
+Added Pin To Net: NetName=NetJP2_1 Pin=R10-1
+Added Net: Name=NetJP2_1
+Added Pin To Net: NetName=NetJP3_1 Pin=JP3-1
+Added Pin To Net: NetName=NetJP3_1 Pin=R11-1
+Added Net: Name=NetJP3_1
+Added Member To Class: ClassName=touch-24-v5 Member=Component JP4 Jumper Selector
+Added Member To Class: ClassName=touch-24-v5 Member=Component JP5 Jumper Selector
+Added Member To Class: ClassName=touch-24-v5 Member=Component R15 10K
+Added Member To Class: ClassName=touch-24-v5 Member=Component R16 10K

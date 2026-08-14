@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=NetR9_2 Pin=U2-1
+Removed Pin From Net: NetName=led IN Pin=U2-2
+Added Pin To Net: NetName=NetR9_2 Pin=U2-3
+Added Pin To Net: NetName=led IN Pin=U2-4
+Added Pin To Net: NetName=NetU2_1 Pin=U2-1
+Added Pin To Net: NetName=NetU2_1 Pin=U3-2
+Added Net: Name=NetU2_1
+Added Pin To Net: NetName=NetU2_2 Pin=U2-2
+Added Pin To Net: NetName=NetU2_2 Pin=U3-1
+Added Net: Name=NetU2_2
+Added Member To Class: ClassName=touch-24-v6-serang Member=Component U2 MB6S
+Added Member To Class: ClassName=touch-24-v6-serang Member=Component U3 PC817
+Added Member To Class: ClassName=touch-24-v6-serang Member=Component U4 LM1117MP-3.3

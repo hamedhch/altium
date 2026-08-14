@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=U1-7
+Removed Pin From Net: NetName=vcc Pin=U1-8
+Change Component Designator: OldDesignator= NewDesignator=JP2
+Change Component Designator: OldDesignator= NewDesignator=JP3
+Change Component Designator: OldDesignator=JP-Buzzer NewDesignator=JP1
+Added Pin To Net: NetName=vcc Pin=U1-7
+Added Pin To Net: NetName=GND Pin=U1-8
+Added Member To Class: ClassName=touch-24-v5 Member=Component JP1 Jumper
+Added Member To Class: ClassName=touch-24-v5 Member=Component JP2 Jumper
+Added Member To Class: ClassName=touch-24-v5 Member=Component JP3 Jumper

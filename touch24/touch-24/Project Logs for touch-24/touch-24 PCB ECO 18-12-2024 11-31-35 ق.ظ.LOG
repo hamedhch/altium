@@ -1,0 +1,8 @@
+Added Component: Designator=C2(ELEC-CAP-RAD15-30)
+Added Component: Designator=C3(ELEC-CAP-RAD10-20)
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=vcc Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=vdd Pin=C3-2
+Added Member To Class: ClassName=touch-24 Member=Component C2 =Value
+Added Member To Class: ClassName=touch-24 Member=Component C3 =Value

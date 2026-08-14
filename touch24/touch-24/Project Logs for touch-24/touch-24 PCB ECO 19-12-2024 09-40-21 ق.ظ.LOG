@@ -1,0 +1,19 @@
+Change Component Footprint: Designator=R8 Old Footprint=RES 0805 (2012X06L) New Footprint=RES 1206 (3216X08L)
+Added Pin To Net: NetName=bizer Pin=U1-1
+Added Pin To Net: NetName=out Pin=U1-2
+Added Pin To Net: NetName=touch Pin=U1-4
+Added Net: Name=touch
+Added Member To Class: ClassName=touch-24 Member=Component C2 =Value
+Added Member To Class: ClassName=touch-24 Member=Component C3 =Value
+Added Member To Class: ClassName=touch-24 Member=Component D1 D Tunnel1
+Added Member To Class: ClassName=touch-24 Member=Component D6 LED2
+Added Member To Class: ClassName=touch-24 Member=Component D8 LED2
+Added Member To Class: ClassName=touch-24 Member=Component D10 LED2
+Added Member To Class: ClassName=touch-24 Member=Component D11 LED2
+Added Member To Class: ClassName=touch-24 Member=Component Q7 QNPN
+Added Member To Class: ClassName=touch-24 Member=Component Q8 QNPN
+Added Member To Class: ClassName=touch-24 Member=Component R8 10K
+Added Member To Class: ClassName=touch-24 Member=Component R9 10K
+Added Member To Class: ClassName=touch-24 Member=Component R10 10K
+Added Member To Class: ClassName=touch-24 Member=Component R11 10K
+Added Member To Class: ClassName=touch-24 Member=Component R13 10K

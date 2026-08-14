@@ -1,0 +1,62 @@
+Change Component Designator: OldDesignator=D4 NewDesignator=D2
+Change Component Designator: OldDesignator=D5 NewDesignator=D3
+Change Component Designator: OldDesignator=D6 NewDesignator=D4
+Change Component Designator: OldDesignator=D7 NewDesignator=D5
+Change Component Designator: OldDesignator=D8 NewDesignator=D6
+Change Component Designator: OldDesignator=D9 NewDesignator=D7
+Change Component Designator: OldDesignator=D10 NewDesignator=D8
+Change Component Designator: OldDesignator=D11 NewDesignator=D9
+Change Component Designator: OldDesignator=D12 NewDesignator=D10
+Change Component Designator: OldDesignator=D13 NewDesignator=D11
+Change Component Designator: OldDesignator=D14 NewDesignator=D12
+Change Component Designator: OldDesignator=D15 NewDesignator=D13
+Change Component Designator: OldDesignator=D16 NewDesignator=D14
+Added Component: Designator=R8(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Component: Designator=U2(DIP4)
+Added Component: Designator=U3(DIP4)
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=vcc Pin=C1-2
+Added Pin To Net: NetName=vdd Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-6
+Added Pin To Net: NetName=GND Pin=U2-3
+Added Pin To Net: NetName=led Pin=U2-4
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=led Pin=U3-4
+Change Net Name : Old Net Name=NetD4_1 New Net Name=NetD2_1
+Change Net Name : Old Net Name=NetD5_2 New Net Name=NetD3_2
+Change Net Name : Old Net Name=NetD6_2 New Net Name=NetD4_2
+Change Net Name : Old Net Name=NetD7_2 New Net Name=NetD5_2
+Change Net Name : Old Net Name=NetD8_2 New Net Name=NetD6_2
+Change Net Name : Old Net Name=NetD9_2 New Net Name=NetD7_2
+Change Net Name : Old Net Name=NetD10_2 New Net Name=NetD8_2
+Change Net Name : Old Net Name=NetD11_2 New Net Name=NetD9_2
+Change Net Name : Old Net Name=NetD12_2 New Net Name=NetD10_2
+Change Net Name : Old Net Name=NetD13_1 New Net Name=NetD11_1
+Change Net Name : Old Net Name=NetD13_2 New Net Name=NetD11_2
+Change Net Name : Old Net Name=NetD14_2 New Net Name=NetD12_2
+Added Pin To Net: NetName=led IN Pin=J2-2
+Added Pin To Net: NetName=led IN Pin=U2-2
+Added Pin To Net: NetName=led IN Pin=U3-1
+Added Net: Name=led IN
+Added Pin To Net: NetName=NetJ1_4 Pin=J1-4
+Added Pin To Net: NetName=NetJ1_4 Pin=R8-1
+Added Net: Name=NetJ1_4
+Added Pin To Net: NetName=NetR8_2 Pin=R8-2
+Added Pin To Net: NetName=NetR8_2 Pin=U2-1
+Added Pin To Net: NetName=NetR8_2 Pin=U3-2
+Added Net: Name=NetR8_2
+Added Member To Class: ClassName=touch-24 Member=Component D2 D Tunnel1
+Added Member To Class: ClassName=touch-24 Member=Component D3 LED2
+Added Member To Class: ClassName=touch-24 Member=Component D4 LED2
+Added Member To Class: ClassName=touch-24 Member=Component D5 LED2
+Added Member To Class: ClassName=touch-24 Member=Component D6 LED2
+Added Member To Class: ClassName=touch-24 Member=Component J1 Header3X2
+Added Member To Class: ClassName=touch-24 Member=Component Q9 QNPN
+Added Member To Class: ClassName=touch-24 Member=Component R8 10K
+Added Member To Class: ClassName=touch-24 Member=Component R9 10K
+Added Member To Class: ClassName=touch-24 Member=Component R12 10K
+Added Member To Class: ClassName=touch-24 Member=Component U2 PC817
+Added Member To Class: ClassName=touch-24 Member=Component U3 PC817

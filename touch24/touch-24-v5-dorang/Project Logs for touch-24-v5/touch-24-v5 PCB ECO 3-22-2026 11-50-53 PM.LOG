@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=bizer Pin=U1-1
+Removed Pin From Net: NetName=out Pin=U1-2
+Removed Pin From Net: NetName=touch Pin=U1-4
+Added Pin To Net: NetName=out Pin=U1-1
+Added Pin To Net: NetName=touch Pin=U1-2
+Added Pin To Net: NetName=bizer Pin=U1-4

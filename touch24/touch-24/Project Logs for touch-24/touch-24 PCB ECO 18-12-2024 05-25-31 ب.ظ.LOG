@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=vcc Pin=U3-2
+Removed Pin From Net: NetName=vcc Pin=U3-2
+Removed Pin From Net: NetName=NetD2_2 Pin=U3-3
+Added Pin To Net: NetName=NetD2_2 Pin=U3-2
+Added Pin To Net: NetName=NetD2_2 Pin=U3-2
+Added Pin To Net: NetName=vcc Pin=U3-3
+Added Member To Class: ClassName=touch-24 Member=Component C2 =Value
+Added Member To Class: ClassName=touch-24 Member=Component D2 D Tunnel1
+Added Member To Class: ClassName=touch-24 Member=Component D3 D Tunnel1
+Added Member To Class: ClassName=touch-24 Member=Component D4 D Tunnel1
+Added Member To Class: ClassName=touch-24 Member=Component D5 LED2
+Added Member To Class: ClassName=touch-24 Member=Component D7 LED2
+Added Member To Class: ClassName=touch-24 Member=Component D8 LED2
+Added Member To Class: ClassName=touch-24 Member=Component D9 LED2
+Added Member To Class: ClassName=touch-24 Member=Component D10 LED2
+Added Member To Class: ClassName=touch-24 Member=Component D12 LED2
+Added Member To Class: ClassName=touch-24 Member=Component U3 LM1117MP-3.3

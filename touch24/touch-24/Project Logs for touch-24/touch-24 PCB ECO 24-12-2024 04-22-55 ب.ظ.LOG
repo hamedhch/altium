@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=led Pin=R11-1
+Change Component Footprint: Designator=R8 Old Footprint=RES 0805 (2012X06L) New Footprint=RES 1206 (3216X08L)
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Added Component: Designator=R10(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=led Pin=Q9-1
+Added Pin To Net: NetName=led Pin=R10-1
+Added Pin To Net: NetName=vdd Pin=R10-2
+Added Member To Class: ClassName=touch-24 Member=Component C2 =Value
+Added Member To Class: ClassName=touch-24 Member=Component C3 =Value
+Added Member To Class: ClassName=touch-24 Member=Component D1 D Tunnel1
+Added Member To Class: ClassName=touch-24 Member=Component D6 LED2
+Added Member To Class: ClassName=touch-24 Member=Component D8 LED2
+Added Member To Class: ClassName=touch-24 Member=Component D10 LED2
+Added Member To Class: ClassName=touch-24 Member=Component D11 LED2
+Added Member To Class: ClassName=touch-24 Member=Component Q7 QNPN
+Added Member To Class: ClassName=touch-24 Member=Component Q8 QNPN
+Added Member To Class: ClassName=touch-24 Member=Component R8 10K
+Added Member To Class: ClassName=touch-24 Member=Component R9 10K
+Added Member To Class: ClassName=touch-24 Member=Component R10 10K
+Added Member To Class: ClassName=touch-24 Member=Component R11 10K
+Added Member To Class: ClassName=touch-24 Member=Component R13 10K
