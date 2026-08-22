@@ -1,0 +1,10 @@
+Add component: Footprint Not Found minimelf
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Added Pin To Net: NetName=o41 Pin=R12-1
+Add Pin To Net: Unknown Pin: Pin U7-4
+Added Member To Class: ClassName=tach key H-4key Member=Component C8 =Value
+Add Class Member: Failed to add class member : Component D4 18 Zener
+Added Member To Class: ClassName=tach key H-4key Member=Component R22 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R23 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R24 10K

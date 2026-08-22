@@ -1,0 +1,18 @@
+Added Component: Designator=C7(CAP 1206)
+Add component: Footprint Not Found minimelf
+Added Pin To Net: NetName=biz2 Pin=Buzzer2-1
+Added Pin To Net: NetName=GND Pin=Buzzer2-2
+Added Pin To Net: NetName=NetC7_1 Pin=C7-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin U7-4
+Added Member To Class: ClassName=tach key H-4key Member=Component Buzzer2 Buzzer
+Added Member To Class: ClassName=tach key H-4key Member=Component C7 =Value
+Added Member To Class: ClassName=tach key H-4key Member=Component C10 =Value
+Added Member To Class: ClassName=tach key H-4key Member=Component C11 =Value
+Add Class Member: Failed to add class member : Component D4 18 Zener
+Added Member To Class: ClassName=tach key H-4key Member=Component R3 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R6 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R8 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R11 10K

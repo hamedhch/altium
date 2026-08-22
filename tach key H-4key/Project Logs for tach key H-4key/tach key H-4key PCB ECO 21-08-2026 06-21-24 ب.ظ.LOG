@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=GND Pin=C10-2
+Removed Member From Class: ClassName=tach key H-4key Member=C12
+Change Component Designator: OldDesignator=C11 NewDesignator=C10
+Change Component Designator: OldDesignator=C12 NewDesignator=C11
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R1
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R10
+Added Component: Designator=Buzzer2(BUZZER)
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component: Footprint Not Found minimelf
+Added Pin To Net: NetName=GND Pin=Buzzer1-2
+Added Pin To Net: NetName=GND Pin=Buzzer2-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin U7-4
+Added Pin To Net: NetName=biz1 Pin=Buzzer1-1
+Added Pin To Net: NetName=biz1 Pin=U5-2
+Added Net: Name=biz1
+Added Pin To Net: NetName=biz2 Pin=Buzzer2-1
+Added Net: Name=biz2
+Added Member To Class: ClassName=tach key H-4key Member=Component Buzzer1 Buzzer
+Added Member To Class: ClassName=tach key H-4key Member=Component Buzzer2 Buzzer
+Add Class Member: Failed to add class member : Component D4 18 Zener
