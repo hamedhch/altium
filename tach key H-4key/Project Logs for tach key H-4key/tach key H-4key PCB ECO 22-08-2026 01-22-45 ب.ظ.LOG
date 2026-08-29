@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=biz2 Pin=Buzzer2-1
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R6
+Change Component Designator: OldDesignator=R6 NewDesignator=R7
+Change Component Designator: OldDesignator=R7 NewDesignator=R8
+Change Component Designator: OldDesignator=R8 NewDesignator=R9
+Change Component Designator: OldDesignator=R9 NewDesignator=R10
+Change Component Designator: OldDesignator=R10 NewDesignator=R11
+Change Component Designator: OldDesignator=R11 NewDesignator=R12
+Change Component Designator: OldDesignator=R12 NewDesignator=R13
+Change Component Designator: OldDesignator=R13 NewDesignator=R14
+Change Component Designator: OldDesignator=R14 NewDesignator=R15
+Change Component Designator: OldDesignator=R15 NewDesignator=R16
+Change Component Designator: OldDesignator=R16 NewDesignator=R17
+Change Component Designator: OldDesignator=R17 NewDesignator=R18
+Change Component Designator: OldDesignator=R18 NewDesignator=R19
+Change Component Designator: OldDesignator=R19 NewDesignator=R20
+Change Component Designator: OldDesignator=R20 NewDesignator=R21
+Change Component Designator: OldDesignator=R21 NewDesignator=R22
+Change Component Designator: OldDesignator=R22 NewDesignator=R23
+Change Component Designator: OldDesignator=R23 NewDesignator=R24
+Change Component Designator: OldDesignator=R24 NewDesignator=R25
+Change Component Designator: OldDesignator=R25 NewDesignator=R26
+Add component: Footprint Not Found minimelf
+Added Component: Designator=R1(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Added Pin To Net: NetName=biz2 Pin=R1-2
+Add Pin To Net: Unknown Pin: Pin U7-4
+Added Pin To Net: NetName=NetBuzzer2_1 Pin=Buzzer2-1
+Added Pin To Net: NetName=NetBuzzer2_1 Pin=R1-1
+Added Net: Name=NetBuzzer2_1
+Add Class Member: Failed to add class member : Component D4 18 Zener
+Added Member To Class: ClassName=tach key H-4key Member=Component R26 10K
+Change Simulation Model (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Change Simulation Model (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
