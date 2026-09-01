@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=o3 Pin=P1-1
+Removed Pin From Net: NetName=o2 Pin=P1-3
+Removed Pin From Net: NetName=o1 Pin=P1-5
+Added Component: Designator=Buzzer1(BUZZER)
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Added Component: Designator=Buzzer2(BUZZER)
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component: Footprint Not Found minimelf
+Added Component: Designator=R1(RES 1206 (3216X08L))
+Add component (AddParameter): Name = "Power"; Value = "1/4 W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=biz1 Pin=Buzzer1-1
+Added Pin To Net: NetName=GND Pin=Buzzer1-2
+Added Pin To Net: NetName=NetBuzzer2_1 Pin=Buzzer2-1
+Added Pin To Net: NetName=GND Pin=Buzzer2-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Added Pin To Net: NetName=o3 Pin=P1-3
+Added Pin To Net: NetName=o2 Pin=P1-5
+Added Pin To Net: NetName=o1 Pin=P1-6
+Added Pin To Net: NetName=NetBuzzer2_1 Pin=R1-1
+Added Pin To Net: NetName=biz2 Pin=R1-2
+Add Pin To Net: Unknown Pin: Pin U7-4
+Added Member To Class: ClassName=tach key H-4key Member=Component Buzzer1 Buzzer
+Added Member To Class: ClassName=tach key H-4key Member=Component Buzzer2 Buzzer
+Add Class Member: Failed to add class member : Component D4 18 Zener
+Added Member To Class: ClassName=tach key H-4key Member=Component R1 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R2 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R3 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R5 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R6 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R8 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R10 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R12 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R13 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R15 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R16 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R18 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R21 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R22 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R23 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R25 10K

@@ -1,0 +1,27 @@
+Added Component: Designator=Buzzer1(BUZZER)
+Add component (AddParameter): Name = "ComponentLinkURL"; Value = "www.picpars.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Designer"; Value = "Seyed Mohsen Ghasemain"; VariantName = "[No Variations]"
+Add component: Footprint Not Found minimelf
+Added Pin To Net: NetName=biz1 Pin=Buzzer1-1
+Added Pin To Net: NetName=GND Pin=Buzzer1-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin U7-4
+Added Member To Class: ClassName=tach key H-4key Member=Component Buzzer1 Buzzer
+Add Class Member: Failed to add class member : Component D4 18 Zener
+Added Member To Class: ClassName=tach key H-4key Member=Component R1 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R2 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R3 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R5 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R6 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R8 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R10 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R12 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R13 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R15 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R16 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R18 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R21 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R22 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R23 10K
+Added Member To Class: ClassName=tach key H-4key Member=Component R25 10K
